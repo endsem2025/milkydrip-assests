@@ -1,0 +1,802 @@
+[
+  {
+    "id": "7525825445954",
+    "title": "Have You Seen Him Shred",
+    "image": "https://teefury.com/cdn/shop/files/133831-collection-swe-wom-off-color-whi_300x.jpg",
+    "price": 51,
+    "rating": 4.0,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7525824266306",
+    "title": "Plant The Future",
+    "image": "https://teefury.com/cdn/shop/files/133833-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 21,
+    "rating": 4.5,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7525822758978",
+    "title": "Caffeine And Mental Instability",
+    "image": "https://teefury.com/cdn/shop/files/133834-collection-swe-wom-off-color-whi_300x.jpg",
+    "price": 46,
+    "rating": 1.8,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7525821218882",
+    "title": "Cowabunga Couch Party",
+    "image": "https://teefury.com/cdn/shop/files/133835-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 48,
+    "rating": 4.3,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7525819744322",
+    "title": "Ghost Autumn",
+    "image": "https://teefury.com/cdn/shop/files/133836-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 41,
+    "rating": 1.7,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7525502746690",
+    "title": "Gen X Fest",
+    "image": "https://teefury.com/cdn/shop/files/133604-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 20,
+    "rating": 4.0,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7525492785218",
+    "title": "FantaztiCar",
+    "image": "https://teefury.com/cdn/shop/files/133608-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 50,
+    "rating": 1.2,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7525838553154",
+    "title": "Zakum Coffee Emblem",
+    "image": "https://teefury.com/cdn/shop/files/133825-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 36,
+    "rating": 1.1,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7525836914754",
+    "title": "Ramen-tic Soul",
+    "image": "https://teefury.com/cdn/shop/files/133826-collection-swe-wom-off-color-red_300x.jpg",
+    "price": 34,
+    "rating": 1.4,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7525833998402",
+    "title": "Crit Or Fumble",
+    "image": "https://teefury.com/cdn/shop/files/133827-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 49,
+    "rating": 2.8,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7525830197314",
+    "title": "Overthinking World Champion",
+    "image": "https://teefury.com/cdn/shop/files/133828-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 49,
+    "rating": 4.8,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7525828493378",
+    "title": "Mad Tea Cup",
+    "image": "https://teefury.com/cdn/shop/files/133829-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 53,
+    "rating": 4.2,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7525827379266",
+    "title": "My Cozy Place",
+    "image": "https://teefury.com/cdn/shop/files/133830-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 20,
+    "rating": 1.2,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7525518540866",
+    "title": "Vikings And Dragons",
+    "image": "https://teefury.com/cdn/shop/files/133600-collection-swe-wom-off-color-red_300x.jpg",
+    "price": 39,
+    "rating": 1.1,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7525497241666",
+    "title": "Do The Pew",
+    "image": "https://teefury.com/cdn/shop/files/133606-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 49,
+    "rating": 2.3,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7525847105602",
+    "title": "Tend To Your Growth",
+    "image": "https://teefury.com/cdn/shop/files/133819-collection-swe-wom-off-color-whi_300x.jpg",
+    "price": 48,
+    "rating": 4.7,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7525845762114",
+    "title": "Cyber Menace",
+    "image": "https://teefury.com/cdn/shop/files/133820-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 24,
+    "rating": 5.0,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7525844648002",
+    "title": "We Are Humans",
+    "image": "https://teefury.com/cdn/shop/files/133821-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 40,
+    "rating": 3.5,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7525842780226",
+    "title": "Strong Trooper",
+    "image": "https://teefury.com/cdn/shop/files/133822-collection-swe-wom-off-color-red_300x.jpg",
+    "price": 46,
+    "rating": 1.6,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7525841567810",
+    "title": "Count Of Darkness",
+    "image": "https://teefury.com/cdn/shop/files/133823-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 27,
+    "rating": 3.5,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7525840027714",
+    "title": "Sakamoto Convenience Store",
+    "image": "https://teefury.com/cdn/shop/files/133824-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 36,
+    "rating": 1.5,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7525515231298",
+    "title": "Raider Of The Lost Mushroom",
+    "image": "https://teefury.com/cdn/shop/files/133601-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 57,
+    "rating": 3.8,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7525509693506",
+    "title": "Retro Voyage",
+    "image": "https://teefury.com/cdn/shop/files/133603-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 49,
+    "rating": 1.1,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7522932621378",
+    "title": "Beach Mode",
+    "image": "https://teefury.com/cdn/shop/files/133426-collection-swe-wom-off-color-whi_300x.jpg",
+    "price": 57,
+    "rating": 2.9,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7522919940162",
+    "title": "Lead Expedition",
+    "image": "https://teefury.com/cdn/shop/files/133427-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 22,
+    "rating": 1.5,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7522917056578",
+    "title": "Ohana Familia",
+    "image": "https://teefury.com/cdn/shop/files/133428-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 37,
+    "rating": 1.1,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7522913288258",
+    "title": "Justice Days",
+    "image": "https://teefury.com/cdn/shop/files/133429-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 22,
+    "rating": 4.8,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7522911813698",
+    "title": "Rock Paper Salute",
+    "image": "https://teefury.com/cdn/shop/files/133430-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 43,
+    "rating": 3.0,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7522906832962",
+    "title": "Gargoyle Metal",
+    "image": "https://teefury.com/cdn/shop/files/133431-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 28,
+    "rating": 4.6,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7522904211522",
+    "title": "Nocturnal Warrior Gargoyles",
+    "image": "https://teefury.com/cdn/shop/files/133432-collection-swe-wom-off-color-red_300x.jpg",
+    "price": 44,
+    "rating": 3.0,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7522902048834",
+    "title": "I Love Doing Nothing",
+    "image": "https://teefury.com/cdn/shop/files/133434-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 44,
+    "rating": 1.5,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7522900410434",
+    "title": "Trash To Treasure",
+    "image": "https://teefury.com/cdn/shop/files/133433-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 38,
+    "rating": 3.1,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7522899427394",
+    "title": "Capsule Specs",
+    "image": "https://teefury.com/cdn/shop/files/133435-collection-swe-wom-off-color-whi_300x.jpg",
+    "price": 45,
+    "rating": 4.1,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7521198899266",
+    "title": "Strange Mysteries",
+    "image": "https://teefury.com/cdn/shop/files/133451-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 23,
+    "rating": 2.7,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7525494194242",
+    "title": "Supertrooper",
+    "image": "https://teefury.com/cdn/shop/files/133607-collection-swe-wom-off-color-red_300x.jpg",
+    "price": 27,
+    "rating": 4.4,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7525486067778",
+    "title": "Rock On Thing",
+    "image": "https://teefury.com/cdn/shop/files/133609-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 21,
+    "rating": 3.0,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7522988064834",
+    "title": "Anxiety Studies University",
+    "image": "https://teefury.com/cdn/shop/files/133416-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 36,
+    "rating": 3.4,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7522969419842",
+    "title": "Space Pizza Delivery",
+    "image": "https://teefury.com/cdn/shop/files/133417-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 50,
+    "rating": 3.0,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7522960670786",
+    "title": "Rainy Day Tiger Boy",
+    "image": "https://teefury.com/cdn/shop/files/133418-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 45,
+    "rating": 4.2,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7522957361218",
+    "title": "Fight Movie Idiots",
+    "image": "https://teefury.com/cdn/shop/files/133419-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 42,
+    "rating": 3.5,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7522955526210",
+    "title": "Days Of The Week",
+    "image": "https://teefury.com/cdn/shop/files/133420-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 27,
+    "rating": 1.1,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7522953035842",
+    "title": "Goodbye Ozzy",
+    "image": "https://teefury.com/cdn/shop/files/133421-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 37,
+    "rating": 2.4,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7522951168066",
+    "title": "Water Breathing Sumi-E",
+    "image": "https://teefury.com/cdn/shop/files/133422-collection-swe-wom-off-color-whi_300x.jpg",
+    "price": 27,
+    "rating": 3.1,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7522949201986",
+    "title": "Water Breathing Hashira Sumi-E",
+    "image": "https://teefury.com/cdn/shop/files/133423-collection-swe-wom-off-color-whi_300x.jpg",
+    "price": 34,
+    "rating": 1.3,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7522947235906",
+    "title": "Red Hot Stay Chill Peppers",
+    "image": "https://teefury.com/cdn/shop/files/133424-collection-swe-wom-off-color-whi_300x.jpg",
+    "price": 44,
+    "rating": 3.3,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7521198374978",
+    "title": "Living People Are Overrated",
+    "image": "https://teefury.com/cdn/shop/files/133450-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 60,
+    "rating": 3.5,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7525522145346",
+    "title": "Goblin King Under The Snow",
+    "image": "https://teefury.com/cdn/shop/files/133599-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 54,
+    "rating": 4.1,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7525513166914",
+    "title": "Derpy’s Love Ritual",
+    "image": "https://teefury.com/cdn/shop/files/133602-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 59,
+    "rating": 4.7,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523013197890",
+    "title": "Dead Inside But Still Aesthetic",
+    "image": "https://teefury.com/cdn/shop/files/133404-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 37,
+    "rating": 3.5,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523011067970",
+    "title": "Gargantua",
+    "image": "https://teefury.com/cdn/shop/files/133405-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 55,
+    "rating": 3.3,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523009003586",
+    "title": "Tantalus Theater Troupe Emblem",
+    "image": "https://teefury.com/cdn/shop/files/133406-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 48,
+    "rating": 3.2,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523006152770",
+    "title": "Prince Of Dark Roast",
+    "image": "https://teefury.com/cdn/shop/files/133407-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 40,
+    "rating": 1.7,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523004743746",
+    "title": "An Emotional Support Dragon",
+    "image": "https://teefury.com/cdn/shop/files/133408-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 20,
+    "rating": 2.1,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523003400258",
+    "title": "Nine Lives Non-Given",
+    "image": "https://teefury.com/cdn/shop/files/133409-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 25,
+    "rating": 1.3,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523001466946",
+    "title": "Rumi Demon Hunter",
+    "image": "https://teefury.com/cdn/shop/files/133410-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 25,
+    "rating": 1.7,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523000057922",
+    "title": "Dragons Live Here",
+    "image": "https://teefury.com/cdn/shop/files/133411-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 29,
+    "rating": 4.3,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7522997829698",
+    "title": "Artsy Mage",
+    "image": "https://teefury.com/cdn/shop/files/133412-collection-swe-wom-off-color-whi_300x.jpg",
+    "price": 46,
+    "rating": 3.7,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7522995568706",
+    "title": "Four Faces",
+    "image": "https://teefury.com/cdn/shop/files/133413-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 31,
+    "rating": 4.1,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7522992816194",
+    "title": "Santa Rosa Sluggers",
+    "image": "https://teefury.com/cdn/shop/files/133414-collection-swe-wom-off-color-red_300x.jpg",
+    "price": 36,
+    "rating": 4.0,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7522990063682",
+    "title": "Eat More Vegetables",
+    "image": "https://teefury.com/cdn/shop/files/133415-collection-swe-wom-off-color-whi_300x.jpg",
+    "price": 41,
+    "rating": 1.6,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7521198637122",
+    "title": "Back Stab Boys",
+    "image": "https://teefury.com/cdn/shop/files/133449-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 24,
+    "rating": 1.5,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7521175142466",
+    "title": "Friends With My Demons",
+    "image": "https://teefury.com/cdn/shop/files/133347-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 59,
+    "rating": 4.0,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7521172062274",
+    "title": "Real Devil Before My Coffee",
+    "image": "https://teefury.com/cdn/shop/files/133349-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 29,
+    "rating": 4.6,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523039674434",
+    "title": "I Love You So Matcha",
+    "image": "https://teefury.com/cdn/shop/files/133392-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 55,
+    "rating": 2.1,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523037675586",
+    "title": "Thirsty Thursday",
+    "image": "https://teefury.com/cdn/shop/files/133393-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 42,
+    "rating": 3.1,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523035349058",
+    "title": "Rebel Heart",
+    "image": "https://teefury.com/cdn/shop/files/133394-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 26,
+    "rating": 4.4,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523033514050",
+    "title": "Proto Dome Robo Coffee Crest",
+    "image": "https://teefury.com/cdn/shop/files/133395-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 35,
+    "rating": 4.0,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523030499394",
+    "title": "Painting Of The Half-Demon",
+    "image": "https://teefury.com/cdn/shop/files/133396-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 28,
+    "rating": 3.8,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523028893762",
+    "title": "Rebel Alliance University",
+    "image": "https://teefury.com/cdn/shop/files/133397-collection-swe-wom-off-color-red_300x.jpg",
+    "price": 59,
+    "rating": 4.9,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523026993218",
+    "title": "Get In Schooler",
+    "image": "https://teefury.com/cdn/shop/files/133398-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 52,
+    "rating": 2.8,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523024666690",
+    "title": "Spooky Cat Night",
+    "image": "https://teefury.com/cdn/shop/files/133399-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 53,
+    "rating": 1.1,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523022504002",
+    "title": "Everything Is Awful",
+    "image": "https://teefury.com/cdn/shop/files/133400-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 52,
+    "rating": 2.2,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523020701762",
+    "title": "Paint It Wednesday",
+    "image": "https://teefury.com/cdn/shop/files/133401-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 42,
+    "rating": 1.6,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523018309698",
+    "title": "We Have Coffee",
+    "image": "https://teefury.com/cdn/shop/files/133402-collection-swe-wom-off-color-whi_300x.jpg",
+    "price": 52,
+    "rating": 2.1,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523015458882",
+    "title": "Dressed For My Own Funeral",
+    "image": "https://teefury.com/cdn/shop/files/133403-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 42,
+    "rating": 3.7,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7521208008770",
+    "title": "Welcome You Home",
+    "image": "https://teefury.com/cdn/shop/files/133448-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 27,
+    "rating": 1.6,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7521183039554",
+    "title": "Hunny Star",
+    "image": "https://teefury.com/cdn/shop/files/133344-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 23,
+    "rating": 1.7,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7521177075778",
+    "title": "Dresser Un Dragon",
+    "image": "https://teefury.com/cdn/shop/files/133346-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 50,
+    "rating": 3.4,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523066642498",
+    "title": "I Demand Your Attention",
+    "image": "https://teefury.com/cdn/shop/files/133380-collection-swe-wom-off-color-pur_300x.jpg",
+    "price": 55,
+    "rating": 1.3,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523064479810",
+    "title": "Return To Bed Human",
+    "image": "https://teefury.com/cdn/shop/files/133381-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 55,
+    "rating": 1.8,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523062317122",
+    "title": "Healing From Literally Nothing",
+    "image": "https://teefury.com/cdn/shop/files/133382-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 56,
+    "rating": 2.3,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523060514882",
+    "title": "At Least My Plants Are Alive",
+    "image": "https://teefury.com/cdn/shop/files/133383-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 51,
+    "rating": 3.7,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523058745410",
+    "title": "Fluffy Overload",
+    "image": "https://teefury.com/cdn/shop/files/133384-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 52,
+    "rating": 2.0,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523056975938",
+    "title": "Get In Losers We Are Stealing Candy",
+    "image": "https://teefury.com/cdn/shop/files/133385-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 34,
+    "rating": 3.1,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523054846018",
+    "title": "Spooky Gallop",
+    "image": "https://teefury.com/cdn/shop/files/133386-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 47,
+    "rating": 4.8,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523051929666",
+    "title": "Lets Roll Dino",
+    "image": "https://teefury.com/cdn/shop/files/133387-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 24,
+    "rating": 1.5,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523049766978",
+    "title": "Dinonauts",
+    "image": "https://teefury.com/cdn/shop/files/133388-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 60,
+    "rating": 1.3,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523043541058",
+    "title": "Fantastic Youth",
+    "image": "https://teefury.com/cdn/shop/files/133390-collection-swe-wom-off-color-whi_300x.jpg",
+    "price": 52,
+    "rating": 4.8,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523041148994",
+    "title": "Platypus Prime",
+    "image": "https://teefury.com/cdn/shop/files/133391-collection-swe-wom-off-color-whi_300x.jpg",
+    "price": 59,
+    "rating": 1.8,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7521209778242",
+    "title": "Jason The Death Guy",
+    "image": "https://teefury.com/cdn/shop/files/133447-collection-swe-wom-off-color-whi_300x.jpg",
+    "price": 48,
+    "rating": 3.3,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7521170489410",
+    "title": "Visit Amity Island",
+    "image": "https://teefury.com/cdn/shop/files/133350-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 57,
+    "rating": 1.9,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7521167179842",
+    "title": "VHS Barker",
+    "image": "https://teefury.com/cdn/shop/files/133351-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 35,
+    "rating": 2.3,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523100688450",
+    "title": "Frank The Fool",
+    "image": "https://teefury.com/cdn/shop/files/133368-collection-swe-wom-off-color-whi_300x.jpg",
+    "price": 60,
+    "rating": 2.8,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523098918978",
+    "title": "Anti Social",
+    "image": "https://teefury.com/cdn/shop/files/133369-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 40,
+    "rating": 4.0,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523097346114",
+    "title": "Rip Ozzy",
+    "image": "https://teefury.com/cdn/shop/files/133370-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 28,
+    "rating": 1.1,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523095412802",
+    "title": "Derpy And Bird",
+    "image": "https://teefury.com/cdn/shop/files/133371-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 35,
+    "rating": 4.8,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523093545026",
+    "title": "Tadpole Family",
+    "image": "https://teefury.com/cdn/shop/files/133372-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 56,
+    "rating": 2.6,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523086598210",
+    "title": "The Wizard Frog",
+    "image": "https://teefury.com/cdn/shop/files/133373-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 25,
+    "rating": 2.1,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523083780162",
+    "title": "Fantastic Science With Mr. Fantastic",
+    "image": "https://teefury.com/cdn/shop/files/133374-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 27,
+    "rating": 1.4,
+    "category": "womens-off-shoulder-sweatshirts"
+  },
+  {
+    "id": "7523081748546",
+    "title": "Wander Inside The Maze",
+    "image": "https://teefury.com/cdn/shop/files/133375-collection-swe-wom-off-color-blk_300x.jpg",
+    "price": 52,
+    "rating": 1.9,
+    "category": "womens-off-shoulder-sweatshirts"
+  }
+]

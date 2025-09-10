@@ -1,0 +1,802 @@
+[
+  {
+    "id": "7525847072834",
+    "title": "Tend To Your Growth",
+    "image": "https://teefury.com/cdn/shop/files/133819-collection-swe-uni-cre-color-whi_300x.jpg",
+    "price": 46,
+    "rating": 1.1,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7525845729346",
+    "title": "Cyber Menace",
+    "image": "https://teefury.com/cdn/shop/files/133820-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 37,
+    "rating": 3.6,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7525844582466",
+    "title": "We Are Humans",
+    "image": "https://teefury.com/cdn/shop/files/133821-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 44,
+    "rating": 4.8,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7525842747458",
+    "title": "Strong Trooper",
+    "image": "https://teefury.com/cdn/shop/files/133822-collection-swe-uni-cre-color-cha_300x.jpg",
+    "price": 48,
+    "rating": 2.5,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7525841535042",
+    "title": "Count Of Darkness",
+    "image": "https://teefury.com/cdn/shop/files/133823-collection-swe-uni-cre-color-nav_300x.jpg",
+    "price": 37,
+    "rating": 3.0,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7525839994946",
+    "title": "Sakamoto Convenience Store",
+    "image": "https://teefury.com/cdn/shop/files/133824-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 26,
+    "rating": 4.8,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7525838520386",
+    "title": "Zakum Coffee Emblem",
+    "image": "https://teefury.com/cdn/shop/files/133825-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 60,
+    "rating": 4.5,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7525836881986",
+    "title": "Ramen-tic Soul",
+    "image": "https://teefury.com/cdn/shop/files/133826-collection-swe-uni-cre-color-red_300x.jpg",
+    "price": 26,
+    "rating": 2.3,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7525832720450",
+    "title": "Crit Or Fumble",
+    "image": "https://teefury.com/cdn/shop/files/133827-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 33,
+    "rating": 3.9,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7525830131778",
+    "title": "Overthinking World Champion",
+    "image": "https://teefury.com/cdn/shop/files/133828-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 32,
+    "rating": 3.1,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7525828460610",
+    "title": "Mad Tea Cup",
+    "image": "https://teefury.com/cdn/shop/files/133829-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 49,
+    "rating": 2.5,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7525826658370",
+    "title": "My Cozy Place",
+    "image": "https://teefury.com/cdn/shop/files/133830-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 28,
+    "rating": 3.8,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7525825413186",
+    "title": "Have You Seen Him Shred",
+    "image": "https://teefury.com/cdn/shop/files/133831-collection-swe-uni-cre-color-whi_300x.jpg",
+    "price": 38,
+    "rating": 3.7,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7525824233538",
+    "title": "Plant The Future",
+    "image": "https://teefury.com/cdn/shop/files/133833-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 44,
+    "rating": 1.7,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7525822726210",
+    "title": "Caffeine And Mental Instability",
+    "image": "https://teefury.com/cdn/shop/files/133834-collection-swe-uni-cre-color-whi_300x.jpg",
+    "price": 23,
+    "rating": 3.7,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7525821251650",
+    "title": "Cowabunga Couch Party",
+    "image": "https://teefury.com/cdn/shop/files/133835-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 58,
+    "rating": 3.9,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7525819711554",
+    "title": "Ghost Autumn",
+    "image": "https://teefury.com/cdn/shop/files/133836-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 36,
+    "rating": 2.6,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7525522112578",
+    "title": "Goblin King Under The Snow",
+    "image": "https://teefury.com/cdn/shop/files/133599-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 29,
+    "rating": 3.7,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7525518475330",
+    "title": "Vikings And Dragons",
+    "image": "https://teefury.com/cdn/shop/files/133600-collection-swe-uni-cre-color-red_300x.jpg",
+    "price": 25,
+    "rating": 2.5,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7525515198530",
+    "title": "Raider Of The Lost Mushroom",
+    "image": "https://teefury.com/cdn/shop/files/133601-collection-swe-uni-cre-color-cha_300x.jpg",
+    "price": 23,
+    "rating": 1.1,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7525513134146",
+    "title": "Derpy’s Love Ritual",
+    "image": "https://teefury.com/cdn/shop/files/133602-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 46,
+    "rating": 1.4,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7525509660738",
+    "title": "Retro Voyage",
+    "image": "https://teefury.com/cdn/shop/files/133603-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 33,
+    "rating": 4.4,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7525502713922",
+    "title": "Gen X Fest",
+    "image": "https://teefury.com/cdn/shop/files/133604-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 39,
+    "rating": 2.7,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7525497143362",
+    "title": "Do The Pew",
+    "image": "https://teefury.com/cdn/shop/files/133606-collection-swe-uni-cre-color-gre_300x.jpg",
+    "price": 23,
+    "rating": 4.4,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7525494161474",
+    "title": "Supertrooper",
+    "image": "https://teefury.com/cdn/shop/files/133607-collection-swe-uni-cre-color-roy_300x.jpg",
+    "price": 59,
+    "rating": 1.7,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7525492752450",
+    "title": "FantaztiCar",
+    "image": "https://teefury.com/cdn/shop/files/133608-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 55,
+    "rating": 3.3,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7525485117506",
+    "title": "Rock On Thing",
+    "image": "https://teefury.com/cdn/shop/files/133609-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 25,
+    "rating": 3.2,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7524400398402",
+    "title": "Owl Be Watching You",
+    "image": "https://teefury.com/cdn/shop/files/133359-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 42,
+    "rating": 3.1,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7524398727234",
+    "title": "Cute Halloween Cat On Pumpkin",
+    "image": "https://teefury.com/cdn/shop/files/133356-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 30,
+    "rating": 2.2,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7524396957762",
+    "title": "McFly Garage",
+    "image": "https://teefury.com/cdn/shop/files/133360-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 33,
+    "rating": 4.2,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7524396499010",
+    "title": "Deep Abyss",
+    "image": "https://teefury.com/cdn/shop/files/133358-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 60,
+    "rating": 3.0,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7524396040258",
+    "title": "Cute Ghost With Leaf Umbrella",
+    "image": "https://teefury.com/cdn/shop/files/133357-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 49,
+    "rating": 2.2,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523781738562",
+    "title": "The Prince Of Darkness Tribute Tour",
+    "image": "https://teefury.com/cdn/shop/files/133361-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 44,
+    "rating": 3.3,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523780034626",
+    "title": "Beagle Records",
+    "image": "https://teefury.com/cdn/shop/files/133363-collection-swe-uni-cre-color-nav_300x.jpg",
+    "price": 25,
+    "rating": 2.7,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523777806402",
+    "title": "Banana Mayhem",
+    "image": "https://teefury.com/cdn/shop/files/133364-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 40,
+    "rating": 1.0,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523777019970",
+    "title": "Derpy Tarot Card",
+    "image": "https://teefury.com/cdn/shop/files/133362-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 34,
+    "rating": 3.0,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523107733570",
+    "title": "Alfred Under The Rain",
+    "image": "https://teefury.com/cdn/shop/files/133365-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 34,
+    "rating": 1.5,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523105046594",
+    "title": "Howdy Cowdy",
+    "image": "https://teefury.com/cdn/shop/files/133366-collection-swe-uni-cre-color-whi_300x.jpg",
+    "price": 50,
+    "rating": 4.3,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523102294082",
+    "title": "Mistah Devil",
+    "image": "https://teefury.com/cdn/shop/files/133367-collection-swe-uni-cre-color-red_300x.jpg",
+    "price": 57,
+    "rating": 2.6,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523100655682",
+    "title": "Frank The Fool",
+    "image": "https://teefury.com/cdn/shop/files/133368-collection-swe-uni-cre-color-whi_300x.jpg",
+    "price": 32,
+    "rating": 3.6,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523098886210",
+    "title": "Anti Social",
+    "image": "https://teefury.com/cdn/shop/files/133369-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 36,
+    "rating": 4.3,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523097313346",
+    "title": "Rip Ozzy",
+    "image": "https://teefury.com/cdn/shop/files/133370-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 51,
+    "rating": 2.7,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523095216194",
+    "title": "Derpy And Bird",
+    "image": "https://teefury.com/cdn/shop/files/133371-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 25,
+    "rating": 3.8,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523093512258",
+    "title": "Tadpole Family",
+    "image": "https://teefury.com/cdn/shop/files/133372-collection-swe-uni-cre-color-nav_300x.jpg",
+    "price": 22,
+    "rating": 3.2,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523086565442",
+    "title": "The Wizard Frog",
+    "image": "https://teefury.com/cdn/shop/files/133373-collection-swe-uni-cre-color-cha_300x.jpg",
+    "price": 44,
+    "rating": 1.7,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523083747394",
+    "title": "Fantastic Science With Mr. Fantastic",
+    "image": "https://teefury.com/cdn/shop/files/133374-collection-swe-uni-cre-color-roy_300x.jpg",
+    "price": 54,
+    "rating": 4.7,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523081715778",
+    "title": "Wander Inside The Maze",
+    "image": "https://teefury.com/cdn/shop/files/133375-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 39,
+    "rating": 3.2,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523079651394",
+    "title": "Courage To Protect The Land",
+    "image": "https://teefury.com/cdn/shop/files/133376-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 57,
+    "rating": 2.9,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523075489858",
+    "title": "I Choose To Train",
+    "image": "https://teefury.com/cdn/shop/files/133377-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 28,
+    "rating": 3.1,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523070869570",
+    "title": "Bankruptcy Blues",
+    "image": "https://teefury.com/cdn/shop/files/133378-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 29,
+    "rating": 3.9,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523069132866",
+    "title": "I Can Drive You Insane",
+    "image": "https://teefury.com/cdn/shop/files/133379-collection-swe-uni-cre-color-whi_300x.jpg",
+    "price": 59,
+    "rating": 4.1,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523066413122",
+    "title": "I Demand Your Attention",
+    "image": "https://teefury.com/cdn/shop/files/133380-collection-swe-uni-cre-color-cha_300x.jpg",
+    "price": 49,
+    "rating": 2.3,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523064447042",
+    "title": "Return To Bed Human",
+    "image": "https://teefury.com/cdn/shop/files/133381-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 50,
+    "rating": 4.8,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523062284354",
+    "title": "Healing From Literally Nothing",
+    "image": "https://teefury.com/cdn/shop/files/133382-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 35,
+    "rating": 3.7,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523060449346",
+    "title": "At Least My Plants Are Alive",
+    "image": "https://teefury.com/cdn/shop/files/133383-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 26,
+    "rating": 4.3,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523058712642",
+    "title": "Fluffy Overload",
+    "image": "https://teefury.com/cdn/shop/files/133384-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 49,
+    "rating": 2.2,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523056943170",
+    "title": "Get In Losers We Are Stealing Candy",
+    "image": "https://teefury.com/cdn/shop/files/133385-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 57,
+    "rating": 3.2,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523054878786",
+    "title": "Spooky Gallop",
+    "image": "https://teefury.com/cdn/shop/files/133386-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 33,
+    "rating": 4.7,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523051896898",
+    "title": "Lets Roll Dino",
+    "image": "https://teefury.com/cdn/shop/files/133387-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 25,
+    "rating": 4.3,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523049570370",
+    "title": "Dinonauts",
+    "image": "https://teefury.com/cdn/shop/files/133388-collection-swe-uni-cre-color-nav_300x.jpg",
+    "price": 35,
+    "rating": 3.4,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523047571522",
+    "title": "Studio Derpy",
+    "image": "https://teefury.com/cdn/shop/files/133389-collection-swe-uni-cre-color-cha_300x.jpg",
+    "price": 34,
+    "rating": 3.1,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523043344450",
+    "title": "Fantastic Youth",
+    "image": "https://teefury.com/cdn/shop/files/133390-collection-swe-uni-cre-color-whi_300x.jpg",
+    "price": 42,
+    "rating": 5.0,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523041116226",
+    "title": "Platypus Prime",
+    "image": "https://teefury.com/cdn/shop/files/133391-collection-swe-uni-cre-color-whi_300x.jpg",
+    "price": 26,
+    "rating": 4.2,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523039641666",
+    "title": "I Love You So Matcha",
+    "image": "https://teefury.com/cdn/shop/files/133392-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 32,
+    "rating": 3.0,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523037610050",
+    "title": "Thirsty Thursday",
+    "image": "https://teefury.com/cdn/shop/files/133393-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 25,
+    "rating": 3.1,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523035316290",
+    "title": "Rebel Heart",
+    "image": "https://teefury.com/cdn/shop/files/133394-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 24,
+    "rating": 3.8,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523033219138",
+    "title": "Proto Dome Robo Coffee Crest",
+    "image": "https://teefury.com/cdn/shop/files/133395-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 24,
+    "rating": 1.7,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523030237250",
+    "title": "Painting Of The Half-Demon",
+    "image": "https://teefury.com/cdn/shop/files/133396-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 20,
+    "rating": 3.8,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523028860994",
+    "title": "Rebel Alliance University",
+    "image": "https://teefury.com/cdn/shop/files/133397-collection-swe-uni-cre-color-cha_300x.jpg",
+    "price": 27,
+    "rating": 3.3,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523026698306",
+    "title": "Get In Schooler",
+    "image": "https://teefury.com/cdn/shop/files/133398-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 58,
+    "rating": 1.3,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523024470082",
+    "title": "Spooky Cat Night",
+    "image": "https://teefury.com/cdn/shop/files/133399-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 41,
+    "rating": 3.8,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523022471234",
+    "title": "Everything Is Awful",
+    "image": "https://teefury.com/cdn/shop/files/133400-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 29,
+    "rating": 2.9,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523020668994",
+    "title": "Paint It Wednesday",
+    "image": "https://teefury.com/cdn/shop/files/133401-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 37,
+    "rating": 1.2,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523018113090",
+    "title": "We Have Coffee",
+    "image": "https://teefury.com/cdn/shop/files/133402-collection-swe-uni-cre-color-whi_300x.jpg",
+    "price": 27,
+    "rating": 4.0,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523015393346",
+    "title": "Dressed For My Own Funeral",
+    "image": "https://teefury.com/cdn/shop/files/133403-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 35,
+    "rating": 1.0,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523013165122",
+    "title": "Dead Inside But Still Aesthetic",
+    "image": "https://teefury.com/cdn/shop/files/133404-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 27,
+    "rating": 1.9,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523010871362",
+    "title": "Gargantua",
+    "image": "https://teefury.com/cdn/shop/files/133405-collection-swe-uni-cre-color-nav_300x.jpg",
+    "price": 31,
+    "rating": 4.6,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523008970818",
+    "title": "Tantalus Theater Troupe Emblem",
+    "image": "https://teefury.com/cdn/shop/files/133406-collection-swe-uni-cre-color-nav_300x.jpg",
+    "price": 59,
+    "rating": 4.6,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523006120002",
+    "title": "Prince Of Dark Roast",
+    "image": "https://teefury.com/cdn/shop/files/133407-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 21,
+    "rating": 1.6,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523004710978",
+    "title": "An Emotional Support Dragon",
+    "image": "https://teefury.com/cdn/shop/files/133408-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 54,
+    "rating": 4.6,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523003367490",
+    "title": "Nine Lives Non-Given",
+    "image": "https://teefury.com/cdn/shop/files/133409-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 59,
+    "rating": 1.6,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523001434178",
+    "title": "Rumi Demon Hunter",
+    "image": "https://teefury.com/cdn/shop/files/133410-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 32,
+    "rating": 2.1,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7523000025154",
+    "title": "Dragons Live Here",
+    "image": "https://teefury.com/cdn/shop/files/133411-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 20,
+    "rating": 4.6,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7522997796930",
+    "title": "Artsy Mage",
+    "image": "https://teefury.com/cdn/shop/files/133412-collection-swe-uni-cre-color-whi_300x.jpg",
+    "price": 21,
+    "rating": 2.8,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7522995339330",
+    "title": "Four Faces",
+    "image": "https://teefury.com/cdn/shop/files/133413-collection-swe-uni-cre-color-nav_300x.jpg",
+    "price": 50,
+    "rating": 3.2,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7522992750658",
+    "title": "Santa Rosa Sluggers",
+    "image": "https://teefury.com/cdn/shop/files/133414-collection-swe-uni-cre-color-red_300x.jpg",
+    "price": 49,
+    "rating": 2.2,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7522990030914",
+    "title": "Eat More Vegetables",
+    "image": "https://teefury.com/cdn/shop/files/133415-collection-swe-uni-cre-color-cha_300x.jpg",
+    "price": 52,
+    "rating": 4.3,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7522988032066",
+    "title": "Anxiety Studies University",
+    "image": "https://teefury.com/cdn/shop/files/133416-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 45,
+    "rating": 2.9,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7522969321538",
+    "title": "Space Pizza Delivery",
+    "image": "https://teefury.com/cdn/shop/files/133417-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 29,
+    "rating": 1.9,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7522960474178",
+    "title": "Rainy Day Tiger Boy",
+    "image": "https://teefury.com/cdn/shop/files/133418-collection-swe-uni-cre-color-nav_300x.jpg",
+    "price": 30,
+    "rating": 3.6,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7522957328450",
+    "title": "Fight Movie Idiots",
+    "image": "https://teefury.com/cdn/shop/files/133419-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 25,
+    "rating": 4.1,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7522955493442",
+    "title": "Days Of The Week",
+    "image": "https://teefury.com/cdn/shop/files/133420-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 39,
+    "rating": 4.5,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7522953003074",
+    "title": "Goodbye Ozzy",
+    "image": "https://teefury.com/cdn/shop/files/133421-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 57,
+    "rating": 2.8,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7522951135298",
+    "title": "Water Breathing Sumi-E",
+    "image": "https://teefury.com/cdn/shop/files/133422-collection-swe-uni-cre-color-whi_300x.jpg",
+    "price": 25,
+    "rating": 2.7,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7522949169218",
+    "title": "Water Breathing Hashira Sumi-E",
+    "image": "https://teefury.com/cdn/shop/files/133423-collection-swe-uni-cre-color-whi_300x.jpg",
+    "price": 60,
+    "rating": 4.7,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7522947203138",
+    "title": "Red Hot Stay Chill Peppers",
+    "image": "https://teefury.com/cdn/shop/files/133424-collection-swe-uni-cre-color-blu_300x.jpg",
+    "price": 54,
+    "rating": 4.9,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7522941534274",
+    "title": "Into The Bushes Dad",
+    "image": "https://teefury.com/cdn/shop/files/133425-collection-swe-uni-cre-color-gre_300x.jpg",
+    "price": 22,
+    "rating": 3.0,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7522932555842",
+    "title": "Beach Mode",
+    "image": "https://teefury.com/cdn/shop/files/133426-collection-swe-uni-cre-color-whi_300x.jpg",
+    "price": 46,
+    "rating": 4.1,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7522919743554",
+    "title": "Lead Expedition",
+    "image": "https://teefury.com/cdn/shop/files/133427-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 27,
+    "rating": 4.9,
+    "category": "crew-neck-sweatshirts"
+  },
+  {
+    "id": "7522917023810",
+    "title": "Ohana Familia",
+    "image": "https://teefury.com/cdn/shop/files/133428-collection-swe-uni-cre-color-blk_300x.jpg",
+    "price": 36,
+    "rating": 2.8,
+    "category": "crew-neck-sweatshirts"
+  }
+]

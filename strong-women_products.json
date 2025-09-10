@@ -1,0 +1,794 @@
+[
+  {
+    "id": "7478838100034",
+    "title": "Super Samus Hunter",
+    "image": "https://teefury.com/cdn/shop/files/130433-art-file-color-cha_93b8f97b-78f6-4e27-9a0d-c7fff8958d2c_300x.jpg",
+    "price": 40,
+    "rating": 4.7,
+    "category": "strong-women"
+  },
+  {
+    "id": "7472783556674",
+    "title": "Space Slam",
+    "image": "https://teefury.com/cdn/shop/files/129865-art-file-color-blk_8be18b4d-5dd7-455a-ae0e-a91aece82786_300x.jpg",
+    "price": 41,
+    "rating": 1.2,
+    "category": "strong-women"
+  },
+  {
+    "id": "7470216118338",
+    "title": "Larva Swarm",
+    "image": "https://teefury.com/cdn/shop/files/129678-art-file-color-blk_c063cd12-27af-43c6-b330-1b8d55fb2bf8_300x.jpg",
+    "price": 52,
+    "rating": 3.0,
+    "category": "strong-women"
+  },
+  {
+    "id": "7468433768514",
+    "title": "Take These",
+    "image": "https://teefury.com/cdn/shop/files/129535-art-file-color-blk_d1aff5fc-1879-4a99-b26e-7ef37b1967c5_300x.jpg",
+    "price": 34,
+    "rating": 3.3,
+    "category": "strong-women"
+  },
+  {
+    "id": "7465806004290",
+    "title": "Galactic Huntress Galaxy",
+    "image": "https://teefury.com/cdn/shop/files/129422-art-file-color-blk_5de7ea1c-7962-402a-80b6-8c5b70be6f56_300x.jpg",
+    "price": 60,
+    "rating": 3.9,
+    "category": "strong-women"
+  },
+  {
+    "id": "7461779112002",
+    "title": "Matryoshka Mom",
+    "image": "https://teefury.com/cdn/shop/files/129165-art-file-color-blk_2306eb34-8cf7-4c09-9f53-f12e5dbeb0b5_300x.jpg",
+    "price": 32,
+    "rating": 2.4,
+    "category": "strong-women"
+  },
+  {
+    "id": "7461524734018",
+    "title": "Bounty Huntress Sumi-e",
+    "image": "https://teefury.com/cdn/shop/files/129228-art-file-color-whi_a39791ae-ee1a-4e07-8a6d-c4c4fe17a827_300x.jpg",
+    "price": 59,
+    "rating": 1.5,
+    "category": "strong-women"
+  },
+  {
+    "id": "7458390835266",
+    "title": "Neon Hipster Samus",
+    "image": "https://teefury.com/cdn/shop/files/128846-art-file-color-nav_39951009-6219-4604-919b-bde948d1f0a9_300x.jpg",
+    "price": 52,
+    "rating": 1.2,
+    "category": "strong-women"
+  },
+  {
+    "id": "7445791703106",
+    "title": "Samus No More",
+    "image": "https://teefury.com/cdn/shop/files/128053-art-file-color-blk_a44d5a65-bc5b-4845-b9ea-878bf76df93e_300x.jpg",
+    "price": 50,
+    "rating": 1.1,
+    "category": "strong-women"
+  },
+  {
+    "id": "7442306793538",
+    "title": "Succulent Plants",
+    "image": "https://teefury.com/cdn/shop/files/127694-art-file-color-blk_673bb9e9-2fcf-4d1e-9f5b-b16115391454_300x.jpg",
+    "price": 30,
+    "rating": 2.8,
+    "category": "strong-women"
+  },
+  {
+    "id": "7442228936770",
+    "title": "One Target At A Time",
+    "image": "https://teefury.com/cdn/shop/files/127739-art-file-color-blk_22cbde83-cfa8-47be-abe7-f3db7672788f_300x.jpg",
+    "price": 46,
+    "rating": 2.0,
+    "category": "strong-women"
+  },
+  {
+    "id": "7438609580098",
+    "title": "New Hunt",
+    "image": "https://teefury.com/cdn/shop/files/127415-art-file-color-whi_ddea4db4-b77b-4058-8ef5-eed68a348107_300x.jpg",
+    "price": 45,
+    "rating": 1.9,
+    "category": "strong-women"
+  },
+  {
+    "id": "7403761827906",
+    "title": "The Metroids",
+    "image": "https://teefury.com/cdn/shop/files/125870-art-file-color-blk_f5d73c05-ae7e-4169-b177-e295c90f8ec4_300x.jpg",
+    "price": 27,
+    "rating": 1.0,
+    "category": "strong-women"
+  },
+  {
+    "id": "7392557203522",
+    "title": "Samus And Metroid",
+    "image": "https://teefury.com/cdn/shop/files/125309-art-file-color-nav_0ef52c46-60ef-459f-b2e8-74eb176b05b4_300x.jpg",
+    "price": 36,
+    "rating": 4.0,
+    "category": "strong-women"
+  },
+  {
+    "id": "7382066135106",
+    "title": "Petrify The Patriarchy",
+    "image": "https://teefury.com/cdn/shop/files/124531-art-file-color-blk_3f9af3de-9427-47f4-b1bc-8f9bcef8ce1d_300x.jpg",
+    "price": 30,
+    "rating": 1.4,
+    "category": "strong-women"
+  },
+  {
+    "id": "7356846309442",
+    "title": "Ghost Or Spider",
+    "image": "https://teefury.com/cdn/shop/files/122914-art-file-color-blk_a4ab572d-a4fd-40c0-87ac-c804f2c19597_300x.jpg",
+    "price": 34,
+    "rating": 4.5,
+    "category": "strong-women"
+  },
+  {
+    "id": "7353220464706",
+    "title": "Bad Girls Club",
+    "image": "https://teefury.com/cdn/shop/files/122676-art-file-color-blk_b439875d-e0a7-49df-9a21-01cadc84dea1_300x.jpg",
+    "price": 31,
+    "rating": 2.0,
+    "category": "strong-women"
+  },
+  {
+    "id": "7341500039234",
+    "title": "Pulp Girl",
+    "image": "https://teefury.com/cdn/shop/files/122094-art-file-color-blk_d3a04c28-6d86-470f-82ea-c55aaec33212_300x.jpg",
+    "price": 34,
+    "rating": 4.6,
+    "category": "strong-women"
+  },
+  {
+    "id": "7331223011394",
+    "title": "Mission Zebes",
+    "image": "https://teefury.com/cdn/shop/files/121693-art-file-color-blk_d7d3bdac-d3ff-470d-90ab-8dee0dc87447_300x.jpg",
+    "price": 25,
+    "rating": 1.1,
+    "category": "strong-women"
+  },
+  {
+    "id": "7327341838402",
+    "title": "One Trip Club",
+    "image": "https://teefury.com/cdn/shop/files/121537-art-file-color-blk_28d8ff93-336c-44f7-9650-340fe78e2029_300x.jpg",
+    "price": 23,
+    "rating": 2.0,
+    "category": "strong-women"
+  },
+  {
+    "id": "7165512187970",
+    "title": "Mother And Child",
+    "image": "https://teefury.com/cdn/shop/files/111570-art-file-color-blk_0eac3602-e0c8-4a14-9509-43eea903ab32_300x.jpg",
+    "price": 45,
+    "rating": 1.0,
+    "category": "strong-women"
+  },
+  {
+    "id": "7131222278210",
+    "title": "Red Kitsune Samurai",
+    "image": "https://teefury.com/cdn/shop/files/111101-art-file-color-blk_9908feb1-a85e-4ad6-a9ec-c0aaa6640d67_300x.jpg",
+    "price": 53,
+    "rating": 4.3,
+    "category": "strong-women"
+  },
+  {
+    "id": "6958674444354",
+    "title": "Galactic Autumn",
+    "image": "https://teefury.com/cdn/shop/files/104343-art-file-color-blk_a163a1b2-b09e-4d6a-af31-b607e7514edd_300x.jpg",
+    "price": 40,
+    "rating": 1.5,
+    "category": "strong-women"
+  },
+  {
+    "id": "6938070810690",
+    "title": "Bounty Hunter From Space",
+    "image": "https://teefury.com/cdn/shop/files/101540-art-file-color-blk_9568f612-d2fc-4992-9f78-95564743d063_300x.jpg",
+    "price": 57,
+    "rating": 3.2,
+    "category": "strong-women"
+  },
+  {
+    "id": "6935212621890",
+    "title": "Behind Every Strong Woman",
+    "image": "https://teefury.com/cdn/shop/products/101364-art-file-color-crm_e3b44e5c-6134-420f-85a1-e803c203adb9_300x.jpg",
+    "price": 53,
+    "rating": 1.2,
+    "category": "strong-women"
+  },
+  {
+    "id": "6933865529410",
+    "title": "Spider Doll Verse",
+    "image": "https://teefury.com/cdn/shop/products/101214-art-file-color-blk_0ada58e5-d4bc-40a7-9a84-f5a015d45cdb_300x.jpg",
+    "price": 33,
+    "rating": 4.7,
+    "category": "strong-women"
+  },
+  {
+    "id": "6933707423810",
+    "title": "Another Hero",
+    "image": "https://teefury.com/cdn/shop/products/101182-art-file-color-blk_130003a8-8e15-4a37-a567-15b6a89cc564_300x.jpg",
+    "price": 34,
+    "rating": 3.9,
+    "category": "strong-women"
+  },
+  {
+    "id": "6926036009026",
+    "title": "Genius Woman",
+    "image": "https://teefury.com/cdn/shop/products/100853-art-file-color-nav_db8402fd-aed3-4e85-bb14-12367c157973_300x.jpg",
+    "price": 38,
+    "rating": 3.4,
+    "category": "strong-women"
+  },
+  {
+    "id": "6923511136322",
+    "title": "Usagi Urban Samurai",
+    "image": "https://teefury.com/cdn/shop/products/100709-art-file-color-blk_300x.jpg",
+    "price": 39,
+    "rating": 1.5,
+    "category": "strong-women"
+  },
+  {
+    "id": "6917783355458",
+    "title": "The Sailor Scouts",
+    "image": "https://teefury.com/cdn/shop/products/100519-art-file-color-blk_300x.jpg",
+    "price": 51,
+    "rating": 2.0,
+    "category": "strong-women"
+  },
+  {
+    "id": "6915963781186",
+    "title": "Barbarian Doll",
+    "image": "https://teefury.com/cdn/shop/products/100387-art-file-color-nav_300x.jpg",
+    "price": 30,
+    "rating": 3.4,
+    "category": "strong-women"
+  },
+  {
+    "id": "6910059413570",
+    "title": "The Witch Of Glyphs",
+    "image": "https://teefury.com/cdn/shop/products/100184-art-file-color-nav_300x.jpg",
+    "price": 20,
+    "rating": 2.4,
+    "category": "strong-women"
+  },
+  {
+    "id": "6910019207234",
+    "title": "Witch Of The Sea",
+    "image": "https://teefury.com/cdn/shop/products/100161-art-file-color-blk_5dddb1ae-4592-4d78-9e47-9f4a0723dafe_300x.jpg",
+    "price": 23,
+    "rating": 5.0,
+    "category": "strong-women"
+  },
+  {
+    "id": "6908967190594",
+    "title": "Love Hashira",
+    "image": "https://teefury.com/cdn/shop/products/60248-art-file-color-crm_300x.jpg",
+    "price": 49,
+    "rating": 2.0,
+    "category": "strong-women"
+  },
+  {
+    "id": "6908871606338",
+    "title": "The Evil Queen",
+    "image": "https://teefury.com/cdn/shop/products/60191-art-file-color-blu_300x.jpg",
+    "price": 36,
+    "rating": 4.2,
+    "category": "strong-women"
+  },
+  {
+    "id": "6908868689986",
+    "title": "Mermaids Rock",
+    "image": "https://teefury.com/cdn/shop/products/60189-art-file-color-tur_ad479493-4248-4ba7-8846-32e59133f5a1_300x.jpg",
+    "price": 32,
+    "rating": 1.8,
+    "category": "strong-women"
+  },
+  {
+    "id": "6906657833026",
+    "title": "Duel Between Ladies",
+    "image": "https://teefury.com/cdn/shop/products/60143-art-file-color-blk_300x.jpg",
+    "price": 51,
+    "rating": 2.1,
+    "category": "strong-women"
+  },
+  {
+    "id": "6906645807170",
+    "title": "Mistress Of All Evil",
+    "image": "https://teefury.com/cdn/shop/products/60136-art-file-color-blk_6382d37f-19f5-448e-8366-d4a8a3fadb58_300x.jpg",
+    "price": 37,
+    "rating": 3.3,
+    "category": "strong-women"
+  },
+  {
+    "id": "6906611138626",
+    "title": "Cold As Ice",
+    "image": "https://teefury.com/cdn/shop/products/60116-art-file-color-tur_2fe69520-ac1e-4d1f-a7b9-142b15e00e79_300x.jpg",
+    "price": 38,
+    "rating": 4.0,
+    "category": "strong-women"
+  },
+  {
+    "id": "6906609434690",
+    "title": "Curfew Sucks",
+    "image": "https://teefury.com/cdn/shop/products/60115-art-file-color-blk_ba6da6a7-3643-4cec-b2df-e9f0974b3f48_300x.jpg",
+    "price": 27,
+    "rating": 4.7,
+    "category": "strong-women"
+  },
+  {
+    "id": "6906596229186",
+    "title": "Nezuko Slayers Gym",
+    "image": "https://teefury.com/cdn/shop/products/60107-art-file-color-blk_6bc66273-cc2b-479c-a314-c09479d2a701_300x.jpg",
+    "price": 36,
+    "rating": 1.2,
+    "category": "strong-women"
+  },
+  {
+    "id": "6905273974850",
+    "title": "Mortal Neon",
+    "image": "https://teefury.com/cdn/shop/products/60071-art-file-color-blk_38feacd2-f599-4390-868a-47349f69fb41_300x.jpg",
+    "price": 27,
+    "rating": 1.9,
+    "category": "strong-women"
+  },
+  {
+    "id": "6905268666434",
+    "title": "The Empress Tarot",
+    "image": "https://teefury.com/cdn/shop/products/60068-art-file-color-blk_891a316f-7679-42ea-b44c-71756bc08752_300x.jpg",
+    "price": 38,
+    "rating": 3.1,
+    "category": "strong-women"
+  },
+  {
+    "id": "6905256443970",
+    "title": "Believe In Fairies",
+    "image": "https://teefury.com/cdn/shop/products/60061-art-file-color-gre_4fd215c4-6853-4c91-9927-132b3025bf36_300x.jpg",
+    "price": 60,
+    "rating": 1.2,
+    "category": "strong-women"
+  },
+  {
+    "id": "6902349365314",
+    "title": "Dragon Haku",
+    "image": "https://teefury.com/cdn/shop/products/59926-art-file-color-whi_300x.jpg",
+    "price": 36,
+    "rating": 1.4,
+    "category": "strong-women"
+  },
+  {
+    "id": "6899764625474",
+    "title": "Evil Doll Yokai",
+    "image": "https://teefury.com/cdn/shop/products/59793-art-file-color-crm_300x.jpg",
+    "price": 46,
+    "rating": 1.4,
+    "category": "strong-women"
+  },
+  {
+    "id": "6898281283650",
+    "title": "Waxing Moon",
+    "image": "https://teefury.com/cdn/shop/products/59854-art-file-color-whi_f0d116a3-2b79-4097-99f8-5d9eeb2b1c13_300x.jpg",
+    "price": 27,
+    "rating": 1.3,
+    "category": "strong-women"
+  },
+  {
+    "id": "6898261524546",
+    "title": "IPC Hollywood",
+    "image": "https://teefury.com/cdn/shop/products/59842-art-file-color-blk_300x.jpg",
+    "price": 39,
+    "rating": 2.5,
+    "category": "strong-women"
+  },
+  {
+    "id": "6898256281666",
+    "title": "Music Is My Survival Tool",
+    "image": "https://teefury.com/cdn/shop/products/59839-art-file-color-blk_300x.jpg",
+    "price": 28,
+    "rating": 1.0,
+    "category": "strong-women"
+  },
+  {
+    "id": "6896369336386",
+    "title": "Autumn Wednesday",
+    "image": "https://teefury.com/cdn/shop/products/59704-art-file-color-blk_a16b7048-4f05-471d-95f2-16a35549754b_300x.jpg",
+    "price": 30,
+    "rating": 1.8,
+    "category": "strong-women"
+  },
+  {
+    "id": "6896367599682",
+    "title": "The Princess",
+    "image": "https://teefury.com/cdn/shop/products/59703-art-file-color-blk_4e977069-1004-4db8-8796-b0dfcf70d7a7_300x.jpg",
+    "price": 34,
+    "rating": 4.0,
+    "category": "strong-women"
+  },
+  {
+    "id": "6895978905666",
+    "title": "Battle Android Under The Sun",
+    "image": "https://teefury.com/cdn/shop/products/59714-art-file-color-whi_9fb830bf-3c75-4d4b-a8af-48a580d7d64d_300x.jpg",
+    "price": 50,
+    "rating": 3.1,
+    "category": "strong-women"
+  },
+  {
+    "id": "6891818680386",
+    "title": "Jinkies!",
+    "image": "https://teefury.com/cdn/shop/products/59681-art-file-color-blk_eacfee69-ec5e-4e91-b90e-227451731616_300x.jpg",
+    "price": 28,
+    "rating": 4.9,
+    "category": "strong-women"
+  },
+  {
+    "id": "6891791876162",
+    "title": "Cyberpunk Vaporwave",
+    "image": "https://teefury.com/cdn/shop/products/59666-art-file-color-pur_300x.jpg",
+    "price": 46,
+    "rating": 2.7,
+    "category": "strong-women"
+  },
+  {
+    "id": "6891763564610",
+    "title": "My Team My Squad",
+    "image": "https://teefury.com/cdn/shop/products/59650-art-file-color-nav_300x.jpg",
+    "price": 23,
+    "rating": 2.0,
+    "category": "strong-women"
+  },
+  {
+    "id": "6891740659778",
+    "title": "Books Because Murder Is Wrong",
+    "image": "https://teefury.com/cdn/shop/products/59637-art-file-color-blk_300x.jpg",
+    "price": 30,
+    "rating": 2.6,
+    "category": "strong-women"
+  },
+  {
+    "id": "6889963192386",
+    "title": "Moon And Mercury",
+    "image": "https://teefury.com/cdn/shop/products/57767-art-file-color-blk_40e61756-0e05-4936-8ab3-3822247d6b05_300x.jpg",
+    "price": 45,
+    "rating": 4.9,
+    "category": "strong-women"
+  },
+  {
+    "id": "6889903226946",
+    "title": "Stay Gold",
+    "image": "https://teefury.com/cdn/shop/products/57400-art-file-color-blk_8a6ae498-64e2-48da-8f98-90396e3cff30_300x.jpg",
+    "price": 38,
+    "rating": 4.9,
+    "category": "strong-women"
+  },
+  {
+    "id": "6889425141826",
+    "title": "Sailor Scout Neon",
+    "image": "https://teefury.com/cdn/shop/products/59590-art-file-color-blk_eb296287-7986-4c87-853f-c785b2185175_300x.jpg",
+    "price": 35,
+    "rating": 4.3,
+    "category": "strong-women"
+  },
+  {
+    "id": "6886404063298",
+    "title": "A Little Dead Inside",
+    "image": "https://teefury.com/cdn/shop/products/59460-art-file-color-pur_300x.jpg",
+    "price": 29,
+    "rating": 2.4,
+    "category": "strong-women"
+  },
+  {
+    "id": "6886384894018",
+    "title": "Ramen Yokai Girl",
+    "image": "https://teefury.com/cdn/shop/products/59449-art-file-color-whi_ae8c2bc5-225d-4dcf-a6b3-a1be4ea0626e_300x.jpg",
+    "price": 51,
+    "rating": 2.9,
+    "category": "strong-women"
+  },
+  {
+    "id": "6885901926466",
+    "title": "The Moon Tarot",
+    "image": "https://teefury.com/cdn/shop/products/59421-art-file-color-blk_982d6a67-60e3-4a31-b8c6-e28e35a474a1_300x.jpg",
+    "price": 21,
+    "rating": 5.0,
+    "category": "strong-women"
+  },
+  {
+    "id": "6883255353410",
+    "title": "Tomie",
+    "image": "https://teefury.com/cdn/shop/products/59369-art-file-color-blk_c88a984d-24f8-44e7-ac51-090852dfc45b_300x.jpg",
+    "price": 31,
+    "rating": 2.5,
+    "category": "strong-women"
+  },
+  {
+    "id": "6883247030338",
+    "title": "Blood Girl",
+    "image": "https://teefury.com/cdn/shop/products/59365-art-file-color-blk_6152c833-98f6-49db-9b0d-8784d8ccbe8c_300x.jpg",
+    "price": 33,
+    "rating": 2.7,
+    "category": "strong-women"
+  },
+  {
+    "id": "6883179790402",
+    "title": "Life According To Reagan",
+    "image": "https://teefury.com/cdn/shop/products/59333-art-file-color-nav_b15ca207-1f6d-4c69-b9f1-fe4702eed2ef_300x.jpg",
+    "price": 45,
+    "rating": 2.0,
+    "category": "strong-women"
+  },
+  {
+    "id": "6881356480578",
+    "title": "Wednesday's Lament",
+    "image": "https://teefury.com/cdn/shop/products/59298-art-file-color-blk_41215fca-c061-4857-aeb8-e5bc5c649d37_300x.jpg",
+    "price": 52,
+    "rating": 1.0,
+    "category": "strong-women"
+  },
+  {
+    "id": "6881330397250",
+    "title": "The Earth Bender",
+    "image": "https://teefury.com/cdn/shop/products/59283-art-file-color-blk_300x.jpg",
+    "price": 37,
+    "rating": 2.6,
+    "category": "strong-women"
+  },
+  {
+    "id": "6881276887106",
+    "title": "Half Dead",
+    "image": "https://teefury.com/cdn/shop/products/59255-art-file-color-blk_b87da3fe-2717-4802-85bd-fb4394c2490c_300x.jpg",
+    "price": 48,
+    "rating": 2.1,
+    "category": "strong-women"
+  },
+  {
+    "id": "6880813580354",
+    "title": "The Water Bender",
+    "image": "https://teefury.com/cdn/shop/products/59238-art-file-color-blk_c6127ead-38fe-4ff4-b634-11e753294d84_300x.jpg",
+    "price": 28,
+    "rating": 1.1,
+    "category": "strong-women"
+  },
+  {
+    "id": "6878662033474",
+    "title": "Legend Of The Ragdoll Queen",
+    "image": "https://teefury.com/cdn/shop/products/59127-art-file-color-pur_300x.jpg",
+    "price": 36,
+    "rating": 2.9,
+    "category": "strong-women"
+  },
+  {
+    "id": "6874597130306",
+    "title": "Greetings From Nevermore",
+    "image": "https://teefury.com/cdn/shop/products/59053-art-file-color-blk_17c291b1-6f25-4b36-9682-18fed42ae35b_300x.jpg",
+    "price": 35,
+    "rating": 4.7,
+    "category": "strong-women"
+  },
+  {
+    "id": "6874591821890",
+    "title": "Yorha Unit 2b",
+    "image": "https://teefury.com/cdn/shop/products/59050-art-file-color-cha_cff10f89-54ca-41de-81d7-6cc1b53d9b36_300x.jpg",
+    "price": 41,
+    "rating": 3.3,
+    "category": "strong-women"
+  },
+  {
+    "id": "6874588315714",
+    "title": "Control Devil",
+    "image": "https://teefury.com/cdn/shop/products/59048-art-file-color-crm_300x.jpg",
+    "price": 59,
+    "rating": 4.1,
+    "category": "strong-women"
+  },
+  {
+    "id": "6874517635138",
+    "title": "Sailor Group",
+    "image": "https://teefury.com/cdn/shop/products/59008-art-file-color-nav_769d0217-75d9-4102-900a-ade132b97583_300x.jpg",
+    "price": 60,
+    "rating": 4.2,
+    "category": "strong-women"
+  },
+  {
+    "id": "6874509213762",
+    "title": "Wednutsday",
+    "image": "https://teefury.com/cdn/shop/products/59003-art-file-color-blk_38c5a732-8b9a-4a70-97b2-0cd27d56294a_300x.jpg",
+    "price": 52,
+    "rating": 3.1,
+    "category": "strong-women"
+  },
+  {
+    "id": "6872652251202",
+    "title": "Freya Dragon Knight",
+    "image": "https://teefury.com/cdn/shop/products/58987-art-file-color-nav_300x.jpg",
+    "price": 36,
+    "rating": 1.5,
+    "category": "strong-women"
+  },
+  {
+    "id": "6872647172162",
+    "title": "Black Is My Happy Color",
+    "image": "https://teefury.com/cdn/shop/products/58984-art-file-color-blk_300x.jpg",
+    "price": 30,
+    "rating": 1.9,
+    "category": "strong-women"
+  },
+  {
+    "id": "6872617189442",
+    "title": "Bye Bye Ridley",
+    "image": "https://teefury.com/cdn/shop/products/58967-art-file-color-blk_300x.jpg",
+    "price": 30,
+    "rating": 1.9,
+    "category": "strong-women"
+  },
+  {
+    "id": "6872549032002",
+    "title": "As If We Have A Choice",
+    "image": "https://teefury.com/cdn/shop/products/58948-art-file-color-blk_4adc530f-79fc-492b-afea-be5f3a88118b_300x.jpg",
+    "price": 37,
+    "rating": 2.9,
+    "category": "strong-women"
+  },
+  {
+    "id": "6872547098690",
+    "title": "Quad Over Ice",
+    "image": "https://teefury.com/cdn/shop/products/58947-art-file-color-blk_0342bc7c-ceda-4519-89fb-a9807faed0fe_300x.jpg",
+    "price": 48,
+    "rating": 4.9,
+    "category": "strong-women"
+  },
+  {
+    "id": "6872535531586",
+    "title": "Kiki And Jiji",
+    "image": "https://teefury.com/cdn/shop/products/58941-art-file-color-pur_62b779d6-1dff-4a83-a87b-bf5ca3b8b928_300x.jpg",
+    "price": 20,
+    "rating": 2.5,
+    "category": "strong-women"
+  },
+  {
+    "id": "6867093127234",
+    "title": "Undead Princesses",
+    "image": "https://teefury.com/cdn/shop/products/58875-art-file-color-blk_23633b7f-f47a-4d22-9bdc-283dc75b30ae_300x.jpg",
+    "price": 21,
+    "rating": 3.2,
+    "category": "strong-women"
+  },
+  {
+    "id": "6866687197250",
+    "title": "Do You Always Wear Black?",
+    "image": "https://teefury.com/cdn/shop/products/58845-art-file-color-blk_546cfe1d-b033-4695-93b0-0423675ddbc6_300x.jpg",
+    "price": 52,
+    "rating": 1.4,
+    "category": "strong-women"
+  },
+  {
+    "id": "6866602721346",
+    "title": "Best Roomie Ever",
+    "image": "https://teefury.com/cdn/shop/products/58799-art-file-color-blk_300x.jpg",
+    "price": 23,
+    "rating": 1.4,
+    "category": "strong-women"
+  },
+  {
+    "id": "6866597150786",
+    "title": "Dance Like Nobody's Watching",
+    "image": "https://teefury.com/cdn/shop/products/58796-art-file-color-blk_300x.jpg",
+    "price": 36,
+    "rating": 4.4,
+    "category": "strong-women"
+  },
+  {
+    "id": "6866568052802",
+    "title": "Goodbye 13th",
+    "image": "https://teefury.com/cdn/shop/products/58780-art-file-color-nav_300x.jpg",
+    "price": 58,
+    "rating": 3.4,
+    "category": "strong-women"
+  },
+  {
+    "id": "6866553798722",
+    "title": "Telepathic Personality",
+    "image": "https://teefury.com/cdn/shop/products/58772-art-file-color-pur_300x.jpg",
+    "price": 52,
+    "rating": 1.3,
+    "category": "strong-women"
+  },
+  {
+    "id": "6866528043074",
+    "title": "Ellen And Xeno",
+    "image": "https://teefury.com/cdn/shop/products/58757-art-file-color-blk_f860256e-ca50-4190-9014-d1eac22d22e5_300x.jpg",
+    "price": 32,
+    "rating": 2.4,
+    "category": "strong-women"
+  },
+  {
+    "id": "6866526175298",
+    "title": "Button Moon",
+    "image": "https://teefury.com/cdn/shop/products/58756-art-file-color-blk_51084db0-727a-4754-9020-346c260afde0_300x.jpg",
+    "price": 57,
+    "rating": 4.4,
+    "category": "strong-women"
+  },
+  {
+    "id": "6866513330242",
+    "title": "Spooky Symphony",
+    "image": "https://teefury.com/cdn/shop/products/58749-art-file-color-blk_309be022-2f6a-4ed9-81d3-397da4afb6fc_300x.jpg",
+    "price": 49,
+    "rating": 2.3,
+    "category": "strong-women"
+  },
+  {
+    "id": "6863491727426",
+    "title": "Goo Goo Muck",
+    "image": "https://teefury.com/cdn/shop/products/58743-art-file-color-blk_300x.jpg",
+    "price": 24,
+    "rating": 1.1,
+    "category": "strong-women"
+  },
+  {
+    "id": "6863461777474",
+    "title": "Knowledge Is Power",
+    "image": "https://teefury.com/cdn/shop/products/58732-art-file-color-cha_09a09bb1-c2ef-448f-983f-57ba855e5031_300x.jpg",
+    "price": 22,
+    "rating": 4.8,
+    "category": "strong-women"
+  },
+  {
+    "id": "6863436021826",
+    "title": "Wednesday's Window",
+    "image": "https://teefury.com/cdn/shop/products/58722-art-file-color-blk_300x.jpg",
+    "price": 46,
+    "rating": 4.5,
+    "category": "strong-women"
+  },
+  {
+    "id": "6863327428674",
+    "title": "The Black Lady",
+    "image": "https://teefury.com/cdn/shop/products/58681-art-file-color-blk_300x.jpg",
+    "price": 36,
+    "rating": 4.8,
+    "category": "strong-women"
+  },
+  {
+    "id": "6863295840322",
+    "title": "Pluto Storm",
+    "image": "https://teefury.com/cdn/shop/products/58665-art-file-color-blk_300x.jpg",
+    "price": 30,
+    "rating": 1.4,
+    "category": "strong-women"
+  },
+  {
+    "id": "6863290007618",
+    "title": "Musha-e Makima",
+    "image": "https://teefury.com/cdn/shop/products/58662-art-file-color-whi_300x.jpg",
+    "price": 51,
+    "rating": 1.2,
+    "category": "strong-women"
+  },
+  {
+    "id": "6863262253122",
+    "title": "A Spooky Girl",
+    "image": "https://teefury.com/cdn/shop/products/58646-art-file-color-blk_8a11a786-d1a7-4771-929c-cd2fc3787a7e_300x.jpg",
+    "price": 37,
+    "rating": 1.2,
+    "category": "strong-women"
+  },
+  {
+    "id": "6860811698242",
+    "title": "Freaky Dance",
+    "image": "https://teefury.com/cdn/shop/products/58622-art-file-color-hgr_300x.jpg",
+    "price": 27,
+    "rating": 3.0,
+    "category": "strong-women"
+  },
+  {
+    "id": "6860807372866",
+    "title": "Only On Days That End In Y",
+    "image": "https://teefury.com/cdn/shop/products/58620-art-file-color-blk_300x.jpg",
+    "price": 54,
+    "rating": 3.4,
+    "category": "strong-women"
+  }
+]

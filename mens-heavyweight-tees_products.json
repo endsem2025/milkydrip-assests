@@ -1,0 +1,778 @@
+[
+  {
+    "id": "4525439811650",
+    "title": "The Massacre Machine",
+    "image": "https://teefury.com/cdn/shop/products/14441-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 52,
+    "rating": 4.3,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4508521922626",
+    "title": "Breath of Water",
+    "image": "https://teefury.com/cdn/shop/products/50261-collection-tee-men-hvy-color-nav_300x.jpg",
+    "price": 33,
+    "rating": 2.7,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4508554985538",
+    "title": "Cookiegawa Wave",
+    "image": "https://teefury.com/cdn/shop/products/50014-collection-tee-men-hvy-color-nav_300x.jpg",
+    "price": 60,
+    "rating": 3.7,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4621455917122",
+    "title": "Khorne Flakes",
+    "image": "https://teefury.com/cdn/shop/products/50768-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 51,
+    "rating": 3.2,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4536202362946",
+    "title": "Starry Remake",
+    "image": "https://teefury.com/cdn/shop/products/50214-collection-tee-men-hvy-color-nav_300x.jpg",
+    "price": 48,
+    "rating": 4.2,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4525481754690",
+    "title": "With Antlers",
+    "image": "https://teefury.com/cdn/shop/products/11327-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 37,
+    "rating": 3.9,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4510141251650",
+    "title": "GHOOOUL-AID",
+    "image": "https://teefury.com/cdn/shop/products/27081-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 26,
+    "rating": 3.4,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4525440761922",
+    "title": "The Neighbor's Attack",
+    "image": "https://teefury.com/cdn/shop/products/14460-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 46,
+    "rating": 2.7,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4510104322114",
+    "title": "Donkey Thing",
+    "image": "https://teefury.com/cdn/shop/products/30255-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 52,
+    "rating": 4.3,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "6603026104386",
+    "title": "Ghost Stories",
+    "image": "https://teefury.com/cdn/shop/products/52994-collection-tee-men-hvy-color-blk_3df156b3-d33c-4bdf-b862-2533cedbcb0b_300x.jpg",
+    "price": 60,
+    "rating": 1.9,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "7031435952194",
+    "title": "Raised On Hose Water And Neglect",
+    "image": "https://teefury.com/cdn/shop/files/107913-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 57,
+    "rating": 4.0,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "6863318089794",
+    "title": "Galactic Empire In Japan",
+    "image": "https://teefury.com/cdn/shop/products/58677-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 25,
+    "rating": 4.0,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4536199905346",
+    "title": "King Kaiju Ukiyo-E",
+    "image": "https://teefury.com/cdn/shop/products/50254-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 30,
+    "rating": 2.2,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4691679313986",
+    "title": "There and Back Again",
+    "image": "https://teefury.com/cdn/shop/products/14678-collection-tee-men-hvy-color-hgr_300x.jpg",
+    "price": 21,
+    "rating": 3.0,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4513512063042",
+    "title": "I Don't Want To Live On This Planet Anymore",
+    "image": "https://teefury.com/cdn/shop/products/25045-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 60,
+    "rating": 4.9,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4520164196418",
+    "title": "Peace Was Never an Option",
+    "image": "https://teefury.com/cdn/shop/products/35045-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 56,
+    "rating": 4.4,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4513487585346",
+    "title": "Gotta Assimilate 'Em All",
+    "image": "https://teefury.com/cdn/shop/products/27227-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 47,
+    "rating": 3.0,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "6598905856066",
+    "title": "You Can Certainly Try",
+    "image": "https://teefury.com/cdn/shop/products/52940-collection-tee-men-hvy-color-blk_61a60e8e-e74b-4d06-afef-ad4398ecc88c_300x.jpg",
+    "price": 31,
+    "rating": 2.6,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "6605707116610",
+    "title": "Ronin Saiyan",
+    "image": "https://teefury.com/cdn/shop/products/53060-collection-tee-men-hvy-color-gre_300x.jpg",
+    "price": 43,
+    "rating": 5.0,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4525461536834",
+    "title": "Two Dragons",
+    "image": "https://teefury.com/cdn/shop/products/14975-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 23,
+    "rating": 3.6,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4521482747970",
+    "title": "Stray Dog Strut",
+    "image": "https://teefury.com/cdn/shop/products/15743-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 34,
+    "rating": 4.6,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4691626033218",
+    "title": "Let's Summon Demons",
+    "image": "https://teefury.com/cdn/shop/products/22121-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 23,
+    "rating": 4.5,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4578646917186",
+    "title": "Cast Fireball",
+    "image": "https://teefury.com/cdn/shop/products/50557-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 35,
+    "rating": 4.6,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4508566028354",
+    "title": "Dancing Forces",
+    "image": "https://teefury.com/cdn/shop/products/30030-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 35,
+    "rating": 1.0,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4510101602370",
+    "title": "Diagram of Everything",
+    "image": "https://teefury.com/cdn/shop/products/30192-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 55,
+    "rating": 1.6,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4745249488962",
+    "title": "Gives Me XP",
+    "image": "https://teefury.com/cdn/shop/products/51636-collection-tee-men-hvy-color-crm_a43b5571-a3d5-496a-adee-8961566a711c_300x.jpg",
+    "price": 51,
+    "rating": 4.0,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "7388689596482",
+    "title": "Sarcasm And Tech Support",
+    "image": "https://teefury.com/cdn/shop/files/124936-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 31,
+    "rating": 2.7,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "6626080194626",
+    "title": "Nostromo Corporation",
+    "image": "https://teefury.com/cdn/shop/products/53337-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 58,
+    "rating": 3.5,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4525470220354",
+    "title": "Walking Castle",
+    "image": "https://teefury.com/cdn/shop/products/11023-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 32,
+    "rating": 4.2,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4520149844034",
+    "title": "Obey Cthulhu",
+    "image": "https://teefury.com/cdn/shop/products/19007-collection-tee-men-hvy-color-red_300x.jpg",
+    "price": 47,
+    "rating": 1.3,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4525474807874",
+    "title": "Welcome to The Party, Pal",
+    "image": "https://teefury.com/cdn/shop/products/11156-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 38,
+    "rating": 1.2,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "6618144538690",
+    "title": "Pirate Ramen",
+    "image": "https://teefury.com/cdn/shop/products/53219-collection-tee-men-hvy-color-roy_300x.jpg",
+    "price": 27,
+    "rating": 4.2,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4520137687106",
+    "title": "Neon Boldly",
+    "image": "https://teefury.com/cdn/shop/products/20050-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 20,
+    "rating": 4.5,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4510110154818",
+    "title": "Dungeons & Cats",
+    "image": "https://teefury.com/cdn/shop/products/30373-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 25,
+    "rating": 4.2,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4510146854978",
+    "title": "Good Day to Sail",
+    "image": "https://teefury.com/cdn/shop/products/50074-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 37,
+    "rating": 2.5,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4633791529026",
+    "title": "Laszlo Bat",
+    "image": "https://teefury.com/cdn/shop/products/50789-collection-tee-men-hvy-color-nav_c0fc0f3d-73bb-4e0a-8ec8-5fcd4898af3a_300x.jpg",
+    "price": 21,
+    "rating": 1.3,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4513491025986",
+    "title": "Groovy and Doomy",
+    "image": "https://teefury.com/cdn/shop/products/27300-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 32,
+    "rating": 3.2,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4691640156226",
+    "title": "Nu Mecha Ink",
+    "image": "https://teefury.com/cdn/shop/products/20235-collection-tee-men-hvy-color-whi_300x.jpg",
+    "price": 51,
+    "rating": 1.7,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "6911968837698",
+    "title": "The Psychedelic Mayhem",
+    "image": "https://teefury.com/cdn/shop/products/100218-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 33,
+    "rating": 2.2,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4525471334466",
+    "title": "Watch How I Soar",
+    "image": "https://teefury.com/cdn/shop/products/11048-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 48,
+    "rating": 1.3,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4510148132930",
+    "title": "Got Tea?",
+    "image": "https://teefury.com/cdn/shop/products/50042-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 49,
+    "rating": 2.6,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "6715673608258",
+    "title": "Spirited Ink",
+    "image": "https://teefury.com/cdn/shop/products/15556-collection-tee-men-hvy-color-hgr_300x.jpg",
+    "price": 20,
+    "rating": 3.1,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4743581466690",
+    "title": "Kitten Role Play",
+    "image": "https://teefury.com/cdn/shop/products/51598-collection-tee-men-hvy-color-blk_00060bd8-3dbb-44df-bcde-5844be604f72_300x.jpg",
+    "price": 28,
+    "rating": 1.2,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4521462825026",
+    "title": "See You Space Cowboy",
+    "image": "https://teefury.com/cdn/shop/products/15160-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 22,
+    "rating": 2.1,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4510143479874",
+    "title": "GIRthulhu",
+    "image": "https://teefury.com/cdn/shop/products/27119-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 34,
+    "rating": 2.0,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4508517236802",
+    "title": "Blood and Ice Cream",
+    "image": "https://teefury.com/cdn/shop/products/32225-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 26,
+    "rating": 4.9,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "7131090944066",
+    "title": "Only You Can Prevent Book Burnings",
+    "image": "https://teefury.com/cdn/shop/files/111170-collection-tee-men-hvy-color-whi_300x.jpg",
+    "price": 24,
+    "rating": 4.5,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4525448822850",
+    "title": "There Is No Princess",
+    "image": "https://teefury.com/cdn/shop/products/14680-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 38,
+    "rating": 4.6,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "6732494372930",
+    "title": "Retro Smugglers",
+    "image": "https://teefury.com/cdn/shop/products/55283-collection-tee-men-hvy-color-blk_511e6f85-174c-4b7e-a279-1f42ca12f95d_300x.jpg",
+    "price": 45,
+    "rating": 2.5,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4691656605762",
+    "title": "Sell Your Soul",
+    "image": "https://teefury.com/cdn/shop/products/15171-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 22,
+    "rating": 4.4,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4672725352514",
+    "title": "Bulbathulhu",
+    "image": "https://teefury.com/cdn/shop/products/51083-collection-tee-men-hvy-color-roy_300x.jpg",
+    "price": 41,
+    "rating": 1.2,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4521501655106",
+    "title": "The Humanoid Typhoon",
+    "image": "https://teefury.com/cdn/shop/products/14359-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 28,
+    "rating": 1.4,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4521500246082",
+    "title": "The Ghibli Bunch",
+    "image": "https://teefury.com/cdn/shop/products/35052-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 47,
+    "rating": 2.7,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4521459843138",
+    "title": "Sauron's Dark Ale",
+    "image": "https://teefury.com/cdn/shop/products/15082-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 40,
+    "rating": 3.2,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4507710259266",
+    "title": "Amazing Ninja Dude",
+    "image": "https://teefury.com/cdn/shop/products/33215-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 48,
+    "rating": 1.1,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "6763033395266",
+    "title": "Hellfire Club",
+    "image": "https://teefury.com/cdn/shop/products/56071-collection-tee-men-hvy-color-whi_6c59febb-5941-4179-abca-ea4982770cee_300x.jpg",
+    "price": 36,
+    "rating": 3.1,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4521487302722",
+    "title": "Surrounded By Assholes",
+    "image": "https://teefury.com/cdn/shop/products/15882-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 55,
+    "rating": 4.1,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "7037028794434",
+    "title": "Like Tears In Rain",
+    "image": "https://teefury.com/cdn/shop/files/108176-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 35,
+    "rating": 1.6,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "6695843758146",
+    "title": "The Benderorian Poster",
+    "image": "https://teefury.com/cdn/shop/products/54469-collection-tee-men-hvy-color-nav_300x.jpg",
+    "price": 20,
+    "rating": 1.4,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4508511010882",
+    "title": "Be Excellent to Each Other",
+    "image": "https://teefury.com/cdn/shop/products/32094-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 48,
+    "rating": 3.1,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4723227623490",
+    "title": "Heroes",
+    "image": "https://teefury.com/cdn/shop/products/51480-collection-tee-men-hvy-color-nav_799f170a-e52b-4f1f-bb99-dd39fa730eb4_300x.jpg",
+    "price": 36,
+    "rating": 2.9,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4574247452738",
+    "title": "Pirate Hunter",
+    "image": "https://teefury.com/cdn/shop/products/collection-tee-men-hvy-color-crm_8de7e21e-3f18-4d3a-851e-f80290c76ffc_300x.jpg",
+    "price": 37,
+    "rating": 1.2,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "6863269724226",
+    "title": "Marshmallow Man In Japan",
+    "image": "https://teefury.com/cdn/shop/products/58650-collection-tee-men-hvy-color-blk_1e0f6e25-5bbb-466a-8a1d-23831574f15d_300x.jpg",
+    "price": 24,
+    "rating": 4.2,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4510141415490",
+    "title": "Ghost Busted",
+    "image": "https://teefury.com/cdn/shop/products/27084-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 33,
+    "rating": 1.2,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4521500409922",
+    "title": "The Good Shirt",
+    "image": "https://teefury.com/cdn/shop/products/50103-collection-tee-men-hvy-color-pur_300x.jpg",
+    "price": 51,
+    "rating": 2.6,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "6594851897410",
+    "title": "Could Have Been An Email",
+    "image": "https://teefury.com/cdn/shop/products/52893-collection-tee-men-hvy-color-blk_4882b71b-890f-4852-aa15-0b9a6e61e719_300x.jpg",
+    "price": 33,
+    "rating": 4.3,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4564066074690",
+    "title": "Quarantine Festival",
+    "image": "https://teefury.com/cdn/shop/products/50536-collection-tee-men-hvy-color-crm_300x.jpg",
+    "price": 28,
+    "rating": 1.1,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "6769409425474",
+    "title": "Hellfire",
+    "image": "https://teefury.com/cdn/shop/products/56372-collection-tee-men-hvy-color-whi_300x.jpg",
+    "price": 32,
+    "rating": 2.5,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "6565417222210",
+    "title": "Sister Ink",
+    "image": "https://teefury.com/cdn/shop/products/52541-collection-tee-men-hvy-color-whi_300x.jpg",
+    "price": 41,
+    "rating": 4.4,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4691671253058",
+    "title": "The Devil's Music",
+    "image": "https://teefury.com/cdn/shop/products/14240-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 28,
+    "rating": 4.5,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "7181062045762",
+    "title": "Red Shirt Blue Shirt",
+    "image": "https://teefury.com/cdn/shop/files/112308-collection-tee-men-hvy-color-blu_300x.jpg",
+    "price": 54,
+    "rating": 2.6,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "7097931137090",
+    "title": "From The 1900s",
+    "image": "https://teefury.com/cdn/shop/files/110724-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 36,
+    "rating": 3.6,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "7036286894146",
+    "title": "Spirit World Detectives",
+    "image": "https://teefury.com/cdn/shop/files/108146-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 59,
+    "rating": 1.9,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "6860761727042",
+    "title": "Dragonzord In Japan",
+    "image": "https://teefury.com/cdn/shop/products/58606-collection-tee-men-hvy-color-cha_300x.jpg",
+    "price": 37,
+    "rating": 3.3,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "7245213139010",
+    "title": "Rated Gen X",
+    "image": "https://teefury.com/cdn/shop/files/113381-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 36,
+    "rating": 4.3,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "6878559469634",
+    "title": "Emotional Support Animal",
+    "image": "https://teefury.com/cdn/shop/products/59077-collection-tee-men-hvy-color-blk_804bb911-bb56-49c9-872e-5c0a19232071_300x.jpg",
+    "price": 56,
+    "rating": 3.5,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "7027525976130",
+    "title": "Big Shy Sale",
+    "image": "https://teefury.com/cdn/shop/files/107736-collection-tee-men-hvy-color-whi_300x.jpg",
+    "price": 55,
+    "rating": 2.9,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "6909515006018",
+    "title": "Axolotl Wonders",
+    "image": "https://teefury.com/cdn/shop/products/60185-collection-tee-men-hvy-color-blk_b35ffe12-8b9b-43c9-9d4a-0071d8402e28_300x.jpg",
+    "price": 44,
+    "rating": 2.9,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4692781039682",
+    "title": "LV-426",
+    "image": "https://teefury.com/cdn/shop/products/17274-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 44,
+    "rating": 2.4,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4525475790914",
+    "title": "What a Time to Be Alive",
+    "image": "https://teefury.com/cdn/shop/products/11170-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 53,
+    "rating": 4.7,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4525467828290",
+    "title": "Vintage Sailor Scout",
+    "image": "https://teefury.com/cdn/shop/products/12056-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 56,
+    "rating": 1.8,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4508535652418",
+    "title": "Caverns & Rabbits",
+    "image": "https://teefury.com/cdn/shop/products/31111-collection-tee-men-hvy-color-roy_300x.jpg",
+    "price": 54,
+    "rating": 1.2,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4507705573442",
+    "title": "Actually In My Thirties",
+    "image": "https://teefury.com/cdn/shop/products/33105-collection-tee-men-hvy-color-gre_300x.jpg",
+    "price": 47,
+    "rating": 3.0,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "6928800284738",
+    "title": "Not Zelda",
+    "image": "https://teefury.com/cdn/shop/products/100968-collection-tee-men-hvy-color-cha_16c84c2b-0255-4120-b6f9-5d158e1e7926_300x.jpg",
+    "price": 32,
+    "rating": 4.1,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4525457506370",
+    "title": "Tree Of Life",
+    "image": "https://teefury.com/cdn/shop/products/14887-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 30,
+    "rating": 3.2,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4513503608898",
+    "title": "Hokusai Gojira",
+    "image": "https://teefury.com/cdn/shop/products/26231-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 27,
+    "rating": 4.0,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "7047691370562",
+    "title": "Iron Vader",
+    "image": "https://teefury.com/cdn/shop/files/108691-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 45,
+    "rating": 3.1,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "6969338691650",
+    "title": "The Hoth Base",
+    "image": "https://teefury.com/cdn/shop/files/105946-collection-tee-men-hvy-color-whi_300x.jpg",
+    "price": 47,
+    "rating": 2.8,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "6605702103106",
+    "title": "Doctor Snoop",
+    "image": "https://teefury.com/cdn/shop/products/53055-collection-tee-men-hvy-color-nav_d2aaff10-6439-4c09-bfe6-1dd51bc1f239_300x.jpg",
+    "price": 60,
+    "rating": 3.4,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "6552388042818",
+    "title": "Neon Moon",
+    "image": "https://teefury.com/cdn/shop/products/52316-collection-tee-men-hvy-color-blk_c6b48986-2d91-4ce0-bdc5-a2f172b12fb1_300x.jpg",
+    "price": 50,
+    "rating": 2.3,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4589151453250",
+    "title": "Samurai Chillhop",
+    "image": "https://teefury.com/cdn/shop/products/50619-collection-tee-men-hvy-color-cha_300x.jpg",
+    "price": 56,
+    "rating": 2.8,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4552377532482",
+    "title": "World's Best Big Daddy",
+    "image": "https://teefury.com/cdn/shop/products/collection-tee-men-hvy-color-blk_43e88275-40f6-45eb-aadb-2016c4d64d31_300x.jpg",
+    "price": 52,
+    "rating": 3.3,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4521502212162",
+    "title": "The Jasmine Dragon",
+    "image": "https://teefury.com/cdn/shop/products/14378-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 36,
+    "rating": 1.1,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4521454927938",
+    "title": "Robot Problems",
+    "image": "https://teefury.com/cdn/shop/products/50185-collection-tee-men-hvy-color-nav_300x.jpg",
+    "price": 39,
+    "rating": 3.2,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "6618177470530",
+    "title": "Ecto-1 Sumi-E",
+    "image": "https://teefury.com/cdn/shop/products/53248-collection-tee-men-hvy-color-whi_300x.jpg",
+    "price": 53,
+    "rating": 4.1,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4521479340098",
+    "title": "Starry Flight",
+    "image": "https://teefury.com/cdn/shop/products/15637-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 53,
+    "rating": 2.7,
+    "category": "mens-heavyweight-tees"
+  },
+  {
+    "id": "4513489453122",
+    "title": "Green Dragon Lager",
+    "image": "https://teefury.com/cdn/shop/products/27277-collection-tee-men-hvy-color-blk_300x.jpg",
+    "price": 25,
+    "rating": 4.4,
+    "category": "mens-heavyweight-tees"
+  }
+]

@@ -1,0 +1,794 @@
+[
+  {
+    "id": "4333017563202",
+    "title": "Gotta Assimilate 'Em All",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_1a92d79c-dde7-4652-b8ad-933c86b3d81a_300x.jpg",
+    "price": 54,
+    "rating": 3.8,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4331912265794",
+    "title": "I Don't Want To Live On This Planet Anymore",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_89f26f76-3012-4898-9f78-0a8cecd597be_300x.jpg",
+    "price": 52,
+    "rating": 1.7,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4305128783938",
+    "title": "Nu Mecha Ink",
+    "image": "https://teefury.com/cdn/shop/products/20235-art-file-color-whi_49459d1e-5592-429c-8a40-5a30a7f23e61_300x.jpg",
+    "price": 55,
+    "rating": 3.2,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4344655020098",
+    "title": "Starry Trek",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_3918d892-971c-4901-9408-deeba3562654_300x.jpg",
+    "price": 33,
+    "rating": 4.2,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "6605702070338",
+    "title": "Doctor Snoop",
+    "image": "https://teefury.com/cdn/shop/products/53055-art-file-color-nav_3c35ecaf-c73d-4166-9154-15339fa2f1eb_300x.jpg",
+    "price": 55,
+    "rating": 2.8,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "7181061914690",
+    "title": "Red Shirt Blue Shirt",
+    "image": "https://teefury.com/cdn/shop/files/112308-art-file-color-blu_d4ce78e0-9ca6-4fb8-9ef6-be69b34f32ad_300x.jpg",
+    "price": 30,
+    "rating": 1.3,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4464168075330",
+    "title": "Robot Problems",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-nav_529bb500-73ee-4707-9e2d-82bc44ee491d_300x.jpg",
+    "price": 41,
+    "rating": 3.8,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "6695843725378",
+    "title": "The Benderorian Poster",
+    "image": "https://teefury.com/cdn/shop/products/54469-art-file-color-nav_c858da47-170f-4d95-aa2c-15a0f8e5ecee_300x.jpg",
+    "price": 59,
+    "rating": 4.3,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4304996597826",
+    "title": "Neon Boldly",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_c467cb74-74b6-4e22-8092-2e2361a65a84_300x.jpg",
+    "price": 33,
+    "rating": 4.3,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4321016184898",
+    "title": "Watch How I Soar",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_c565a2e8-e997-48dc-80f2-717ad8e19e5d_300x.jpg",
+    "price": 27,
+    "rating": 1.2,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4321134608450",
+    "title": "Who's Space",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_65bfc5a5-8a7a-4a70-b227-7dc044057786_300x.jpg",
+    "price": 58,
+    "rating": 4.8,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "6810570096706",
+    "title": "This Land",
+    "image": "https://teefury.com/cdn/shop/products/57195-art-file-color-blk_218f841f-09a7-4fb2-9bd0-574bc6ad14cf_300x.jpg",
+    "price": 51,
+    "rating": 2.1,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "6915473113154",
+    "title": "Somewhere In Space",
+    "image": "https://teefury.com/cdn/shop/products/100448-art-file-color-blk_429968ec-3359-460e-9cf1-05e56fe9c9d7_300x.jpg",
+    "price": 37,
+    "rating": 2.4,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "6743060512834",
+    "title": "Lone Ronin And Cub",
+    "image": "https://teefury.com/cdn/shop/products/55666-art-file-color-gre_4d630edb-985f-4b81-b68e-e17bb629aebd_300x.jpg",
+    "price": 57,
+    "rating": 4.7,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4350208704578",
+    "title": "Time Travel Schematic",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_7ffc3d0f-6210-43e1-bc7f-aaed9d50114c_300x.jpg",
+    "price": 29,
+    "rating": 3.6,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4325845631042",
+    "title": "Mega Trek",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_39db9400-4fd1-4bdc-965d-d6fd37c6a890_300x.jpg",
+    "price": 30,
+    "rating": 1.3,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4344649416770",
+    "title": "Starry Flight",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_eafec312-3635-4e26-b031-a13e1fcebf66_300x.jpg",
+    "price": 53,
+    "rating": 4.5,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4344561172546",
+    "title": "Space Pioneers",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_945e1706-9fef-4aa7-aa14-64e20bfc2b5f_300x.jpg",
+    "price": 31,
+    "rating": 4.6,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4735768363074",
+    "title": "Decorate",
+    "image": "https://teefury.com/cdn/shop/products/51558-art-file-color-gre_e9bfdc4a-07af-4bc7-8a3c-3a703d915686_300x.jpg",
+    "price": 31,
+    "rating": 3.4,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4350221025346",
+    "title": "To Boldly Go",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_e550147e-0008-4fc9-81af-a431619adcc4_300x.jpg",
+    "price": 30,
+    "rating": 2.5,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4321121566786",
+    "title": "Who Is Who",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_cc52a86a-6b33-4de5-a8ff-fd31823164c8_300x.jpg",
+    "price": 46,
+    "rating": 1.1,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "7445199355970",
+    "title": "The Work Is Mysterious And Important",
+    "image": "https://teefury.com/cdn/shop/files/127942-art-file-color-blk_96eb747c-e80c-4708-83f1-c53a08225d1b_300x.jpg",
+    "price": 32,
+    "rating": 3.7,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "6728606613570",
+    "title": "Gundam",
+    "image": "https://teefury.com/cdn/shop/products/55145-art-file-color-crm_300x.jpg",
+    "price": 39,
+    "rating": 2.3,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4344640667714",
+    "title": "Stardate 1966",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_f8c6d71b-3e80-4591-9f9a-187fa72c66ae_300x.jpg",
+    "price": 26,
+    "rating": 2.7,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "6866531975234",
+    "title": "First Gundam Series",
+    "image": "https://teefury.com/cdn/shop/products/58760-art-file-color-blk_e1647b21-6042-434a-be07-104108af9640_300x.jpg",
+    "price": 56,
+    "rating": 3.0,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4478159192130",
+    "title": "Let's Go on An Adventure",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_c17620d5-e3d7-4dc9-ac10-8639b33c3c3a_300x.jpg",
+    "price": 47,
+    "rating": 4.2,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "6732494405698",
+    "title": "Retro Smugglers",
+    "image": "https://teefury.com/cdn/shop/products/55283-art-file-color-blk_adc44bb3-9885-4bab-8820-3d405dd2f464_300x.jpg",
+    "price": 31,
+    "rating": 3.2,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4332037079106",
+    "title": "I'm Still Free",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_3c7abe7d-f658-46c0-932f-fa14c24821f5_300x.jpg",
+    "price": 38,
+    "rating": 2.9,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "6795435638850",
+    "title": "Neon Boldly V2",
+    "image": "https://teefury.com/cdn/shop/products/56983-art-file-color-nav_300x.jpg",
+    "price": 39,
+    "rating": 2.1,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4340078379074",
+    "title": "13th Doctor",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-nav_a94111cb-7005-49df-b776-946bab275ed5_300x.jpg",
+    "price": 32,
+    "rating": 4.5,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "6645992095810",
+    "title": "Tea. Earl Grey. Hot.",
+    "image": "https://teefury.com/cdn/shop/products/53550-art-file-color-hgr_6fdc475c-c372-4a0a-9388-294ab30f515e_300x.jpg",
+    "price": 59,
+    "rating": 4.2,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4616121352258",
+    "title": "I'm Number One",
+    "image": "https://teefury.com/cdn/shop/products/50727-art-file-color-blu_42bcc19a-e2f4-43f8-b8db-fd9ac305fc27_300x.jpg",
+    "price": 35,
+    "rating": 4.4,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4316818505794",
+    "title": "Kitten Who",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_2e77c6fa-5e07-4565-9c6a-e5695b6989d2_300x.jpg",
+    "price": 44,
+    "rating": 3.6,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4325231525954",
+    "title": "Future Supper",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_c6190a2e-a04c-4a67-b876-0b4199f35320_300x.jpg",
+    "price": 59,
+    "rating": 1.1,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "6983086866498",
+    "title": "To Boldly Gogh",
+    "image": "https://teefury.com/cdn/shop/files/106517-art-file-color-blk_276681b4-070e-44ff-aceb-a666450b8a53_300x.jpg",
+    "price": 35,
+    "rating": 2.8,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "6963523682370",
+    "title": "The Master And Apprentice",
+    "image": "https://teefury.com/cdn/shop/files/104833-art-file-color-blk_ac27d0e5-938c-41db-b1f8-930d66d8f590_300x.jpg",
+    "price": 33,
+    "rating": 2.4,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "6775747280962",
+    "title": "The Shiniest Space Ship V2",
+    "image": "https://teefury.com/cdn/shop/products/56488-art-file-color-blk_2887ee57-a1d9-41c9-a82a-fb8d4b84334a_300x.jpg",
+    "price": 42,
+    "rating": 2.8,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4334939603010",
+    "title": "Highly Addictive",
+    "image": "https://teefury.com/cdn/shop/products/26199-art-file-color-blk_007942de-9ab5-45a5-8c7c-ee2b3cad33b1_300x.jpg",
+    "price": 27,
+    "rating": 3.3,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "7331145089090",
+    "title": "Academy Of Science And Logic",
+    "image": "https://teefury.com/cdn/shop/files/121637-art-file-color-nav_00f6c5fa-72cc-4b14-bea1-fda20590bc3b_300x.jpg",
+    "price": 36,
+    "rating": 1.1,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "6719485116482",
+    "title": "RX-78-2 Gundam In Japan",
+    "image": "https://teefury.com/cdn/shop/products/54930-art-file-color-whi_17c2ab00-6ad6-4b0d-8f97-38d0708845dd_300x.jpg",
+    "price": 58,
+    "rating": 4.5,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "7023944859714",
+    "title": "Rainbow Tardis",
+    "image": "https://teefury.com/cdn/shop/files/107603-art-file-color-nav_b6028cdd-a02a-4dd0-9b71-539eb9665d7e_300x.jpg",
+    "price": 37,
+    "rating": 2.8,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "6769409359938",
+    "title": "Hellfire",
+    "image": "https://teefury.com/cdn/shop/products/56372-art-file-color-whi_300x.jpg",
+    "price": 24,
+    "rating": 3.8,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4340108689474",
+    "title": "50 Years of the Doctor",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-tur_9b4ad487-4745-4d0a-a1e4-e87f4f0d026b_300x.jpg",
+    "price": 23,
+    "rating": 1.3,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4350125801538",
+    "title": "The Smuggler's Map",
+    "image": "https://teefury.com/cdn/shop/products/14586-art-file-color-hgr_f6de08cf-0d17-4496-b12b-bac82c90cd08_300x.jpg",
+    "price": 59,
+    "rating": 4.1,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4651518394434",
+    "title": "Bender Earth",
+    "image": "https://teefury.com/cdn/shop/products/50919-art-file-color-roy_fdd69e0c-b568-4484-b721-a07c3f907043_300x.jpg",
+    "price": 36,
+    "rating": 2.2,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4335773024322",
+    "title": "Classroom 3-E",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-cha_9f3df1dd-6dd2-4ce3-bbef-454578f7b135_300x.jpg",
+    "price": 49,
+    "rating": 1.1,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4328264892482",
+    "title": "Janeway's Premium Blend",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-roy_0624eaf0-95e4-447a-93ff-a7d7be652b7e_300x.jpg",
+    "price": 29,
+    "rating": 4.2,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "7453317890114",
+    "title": "Serenity Firefly Junker",
+    "image": "https://teefury.com/cdn/shop/files/128477-art-file-color-blk_0775e5f4-081a-4f2d-8dc5-0c3b3fc2863e_300x.jpg",
+    "price": 52,
+    "rating": 4.9,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "7023941353538",
+    "title": "Shiny Heroes",
+    "image": "https://teefury.com/cdn/shop/files/107605-art-file-color-blk_138be06e-6f9f-42aa-8f3b-767f61816ae2_300x.jpg",
+    "price": 41,
+    "rating": 3.4,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "6557263822914",
+    "title": "The Tardis in Japan",
+    "image": "https://teefury.com/cdn/shop/products/52426-art-file-color-gre_d00db2ba-f94a-4619-b268-55d885cb0a98_300x.jpg",
+    "price": 43,
+    "rating": 1.7,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4349030989890",
+    "title": "Aliens",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_ec89bef0-8b8d-4c28-8d88-8f5b1d60be41_300x.jpg",
+    "price": 47,
+    "rating": 3.8,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "6925654720578",
+    "title": "The Only Way",
+    "image": "https://teefury.com/cdn/shop/products/100880-art-file-color-red_300x.jpg",
+    "price": 34,
+    "rating": 1.4,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "6769859133506",
+    "title": "Eddie and Dustin",
+    "image": "https://teefury.com/cdn/shop/products/56392-art-file-color-roy_04a5239c-ed23-4829-8138-fa6ddf7963b4_300x.jpg",
+    "price": 24,
+    "rating": 2.8,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "6552386633794",
+    "title": "Space Trek",
+    "image": "https://teefury.com/cdn/shop/products/52315-art-file-color-blk_ba182649-6149-4549-92fa-a4c774413dec_300x.jpg",
+    "price": 26,
+    "rating": 2.0,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4349914054722",
+    "title": "The Day of the Doctor",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-nav_0be89db2-0038-4c36-80f2-dc0aa24752a7_300x.jpg",
+    "price": 43,
+    "rating": 3.9,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "7037036331074",
+    "title": "Super Hunter",
+    "image": "https://teefury.com/cdn/shop/files/108173-art-file-color-blk_1bbca7d9-bf2a-40bf-af6e-af10d475d87d_300x.jpg",
+    "price": 42,
+    "rating": 3.6,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "6772918026306",
+    "title": "Master Of Hellfire",
+    "image": "https://teefury.com/cdn/shop/products/56455-art-file-color-blk_300x.jpg",
+    "price": 41,
+    "rating": 3.0,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4330141941826",
+    "title": "Dammit Gym",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_acc8e080-9ad3-444c-acd0-50cdb771b28e_300x.jpg",
+    "price": 29,
+    "rating": 4.9,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4344331960386",
+    "title": "Scattered Through Time and Space",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_921a4b6d-e31b-4909-ab1a-81dea34146f5_300x.jpg",
+    "price": 47,
+    "rating": 2.9,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "6923401429058",
+    "title": "Seven Mandalorians",
+    "image": "https://teefury.com/cdn/shop/products/100778-art-file-color-whi_300x.jpg",
+    "price": 26,
+    "rating": 2.5,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4328070119490",
+    "title": "Red Shirt Running Club",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-red_676e2cee-91cd-4d25-abf6-9f0981d78021_300x.jpg",
+    "price": 40,
+    "rating": 3.8,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4321015103554",
+    "title": "Washburne Flight Academy",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-dch_68d34b79-87e0-4b2f-b05a-4d79bb2e88e4_300x.jpg",
+    "price": 28,
+    "rating": 2.9,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4330304045122",
+    "title": "Don't Blink. Don't Even Blink.",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_198789c2-2af2-46e0-b072-b75e28543575_300x.jpg",
+    "price": 34,
+    "rating": 4.1,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "7062239248450",
+    "title": "Save The Earth And Kill All Humans",
+    "image": "https://teefury.com/cdn/shop/files/109333-art-file-color-blk_d585f479-453a-4637-aa5e-8fe409ebdfaf_300x.jpg",
+    "price": 39,
+    "rating": 4.8,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "6955010162754",
+    "title": "Mandalore National Park",
+    "image": "https://teefury.com/cdn/shop/files/103887-art-file-color-blk_e791d1aa-5728-4982-80e0-eb0d9976ea8b_300x.jpg",
+    "price": 57,
+    "rating": 4.4,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4340073463874",
+    "title": "100 Cups of Coffee",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_6bb5ea1c-ab1a-4821-a2ab-331affcc0b38_300x.jpg",
+    "price": 25,
+    "rating": 4.2,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4348939272258",
+    "title": "A Charlie Who Christmas",
+    "image": "https://teefury.com/cdn/shop/products/33007-art-file-color-blu_255207cf-f4bb-4461-8e19-34cebf91c36f_300x.jpg",
+    "price": 45,
+    "rating": 3.6,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4773036458050",
+    "title": "Cyberdrunk",
+    "image": "https://teefury.com/cdn/shop/products/51942-art-file-color-pur_300x.jpg",
+    "price": 25,
+    "rating": 4.9,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4633810665538",
+    "title": "Science Bleep",
+    "image": "https://teefury.com/cdn/shop/products/50815-art-file-color-roy_300x.jpg",
+    "price": 28,
+    "rating": 2.6,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4514453127234",
+    "title": "Self Isolate!",
+    "image": "https://teefury.com/cdn/shop/products/50354-art-file-color-cha_300x.jpg",
+    "price": 45,
+    "rating": 2.2,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4316756115522",
+    "title": "Kaylee's Spacecraft Repair",
+    "image": "https://teefury.com/cdn/shop/products/23092-art-file-color-blk_44ff0a5b-c043-4c85-ba8c-0eace0896861_300x.jpg",
+    "price": 58,
+    "rating": 3.7,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4321182941250",
+    "title": "With A Little Help",
+    "image": "https://teefury.com/cdn/shop/products/11326-art-file-color-cha_00537f04-f905-43be-97f0-92b9c03ce7fb_300x.jpg",
+    "price": 56,
+    "rating": 3.3,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "7306139795522",
+    "title": "Cowboy From Mars",
+    "image": "https://teefury.com/cdn/shop/files/119832-art-file-color-blk_ca4c4f29-de4d-41e4-bdf0-2c5f4c37cfdd_300x.jpg",
+    "price": 37,
+    "rating": 1.1,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "6913228046402",
+    "title": "The Doctor's Return",
+    "image": "https://teefury.com/cdn/shop/products/100339-art-file-color-nav_36bd8350-31df-49bb-ae2c-e329aa5386af_300x.jpg",
+    "price": 57,
+    "rating": 4.5,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4498074206274",
+    "title": "Voyages In Space",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-nav_6722dfef-dca6-4aa3-878e-2cf844db4659_300x.jpg",
+    "price": 27,
+    "rating": 2.0,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4346985709634",
+    "title": "Gift Long and Prosper",
+    "image": "https://teefury.com/cdn/shop/products/27108-art-file-color-blk_ecd2574f-7658-4263-b259-79af75110548_300x.jpg",
+    "price": 20,
+    "rating": 1.1,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4332061065282",
+    "title": "In Space and Time",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_a31ab04a-4179-404a-8ac8-1abdefe63ad2_300x.jpg",
+    "price": 59,
+    "rating": 1.1,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4595004768322",
+    "title": "There's No Place Like Home",
+    "image": "https://teefury.com/cdn/shop/products/14690-art-file-color-blk_300x.jpg",
+    "price": 58,
+    "rating": 2.8,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4594983338050",
+    "title": "Star T-Rex",
+    "image": "https://teefury.com/cdn/shop/products/15623-art-file-color-roy_300x.jpg",
+    "price": 27,
+    "rating": 2.9,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "7431456358466",
+    "title": "Serenity Firefly Class",
+    "image": "https://teefury.com/cdn/shop/files/126476-art-file-color-blk_f6311650-8baf-4fa4-876f-58c2974c951a_300x.jpg",
+    "price": 44,
+    "rating": 4.3,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "7049917399106",
+    "title": "Live And Prosper",
+    "image": "https://teefury.com/cdn/shop/files/108821-art-file-color-blk_86d20315-145e-42db-afc3-a3e10310e864_300x.jpg",
+    "price": 37,
+    "rating": 3.6,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "6848170655810",
+    "title": "The Santalorian",
+    "image": "https://teefury.com/cdn/shop/products/58249-art-file-color-gre_300x.jpg",
+    "price": 24,
+    "rating": 4.8,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "6730321952834",
+    "title": "Vintage Explorers",
+    "image": "https://teefury.com/cdn/shop/products/55263-art-file-color-nav_87b74b3a-704b-4c2e-937d-592ea963bbf8_300x.jpg",
+    "price": 57,
+    "rating": 4.1,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4661364359234",
+    "title": "Under My Umbrella",
+    "image": "https://teefury.com/cdn/shop/products/50979-art-file-color-blk_ccff85b1-8869-4a58-90b6-b6e56f1dd9e0_300x.jpg",
+    "price": 37,
+    "rating": 1.1,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4638385963074",
+    "title": "Drink Bros",
+    "image": "https://teefury.com/cdn/shop/products/50846-art-file-color-cha_300x.jpg",
+    "price": 59,
+    "rating": 2.8,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4335560753218",
+    "title": "Captain's Choice",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-cha_80d25d4c-cc2a-4342-9240-713c4a5a3164_300x.jpg",
+    "price": 45,
+    "rating": 1.8,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4335560523842",
+    "title": "Captain Tight Pants Delivery",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_30b0716c-19ff-40dc-9323-d85d2d7bec4c_300x.jpg",
+    "price": 45,
+    "rating": 2.0,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4305045127234",
+    "title": "Newtype Generation",
+    "image": "https://teefury.com/cdn/shop/products/20104-art-file-color-cha_df473b81-02f2-49e0-bcc1-59cae2e347ef_300x.jpg",
+    "price": 40,
+    "rating": 3.7,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "7382012428354",
+    "title": "Tis The Way",
+    "image": "https://teefury.com/cdn/shop/files/124443-art-file-color-blk_5f602e96-2918-44a1-b487-45b7cdc0668e_300x.jpg",
+    "price": 21,
+    "rating": 3.8,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "6917701107778",
+    "title": "Beskar Dad",
+    "image": "https://teefury.com/cdn/shop/products/100494-art-file-color-blk_300x.jpg",
+    "price": 26,
+    "rating": 2.7,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4321159512130",
+    "title": "Will The Wise",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-nav_1a694acc-8744-4653-8eaa-89a3126651c6_300x.jpg",
+    "price": 37,
+    "rating": 1.9,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "7245248659522",
+    "title": "Enterprise Science Department",
+    "image": "https://teefury.com/cdn/shop/files/113431-art-file-color-whi_284a69a4-2048-402d-8cca-a4db2aeb4456_300x.jpg",
+    "price": 25,
+    "rating": 2.9,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4316804448322",
+    "title": "King Steve",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_066ee96f-ce1b-42d5-8c45-3d0de24153d3_300x.jpg",
+    "price": 36,
+    "rating": 4.8,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4595008340034",
+    "title": "Time Fiction",
+    "image": "https://teefury.com/cdn/shop/products/14748-art-file-color-blk_300x.jpg",
+    "price": 55,
+    "rating": 4.5,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4349773807682",
+    "title": "T4RD1S",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_2ed4a938-80ce-4ce6-8004-a76ff604b729_300x.jpg",
+    "price": 38,
+    "rating": 3.2,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "4344752537666",
+    "title": "Stranger Peanuts",
+    "image": "https://teefury.com/cdn/shop/products/15736-art-file-color-hgr_c63e77b0-ad5e-4057-88ea-6c13257f2e85_300x.jpg",
+    "price": 40,
+    "rating": 2.6,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "7442166972482",
+    "title": "Big Damn Retro Heroes",
+    "image": "https://teefury.com/cdn/shop/files/127662-art-file-color-blk_8743ad1b-99d6-453a-8ee9-f55c9ad9a5af_300x.jpg",
+    "price": 30,
+    "rating": 3.4,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "6908922855490",
+    "title": "Spaces High",
+    "image": "https://teefury.com/cdn/shop/products/60221-art-file-color-blk_2332f71a-84b8-4688-be4a-7f735fb49d77_300x.jpg",
+    "price": 35,
+    "rating": 2.9,
+    "category": "tv-shows-scifi"
+  },
+  {
+    "id": "6775745871938",
+    "title": "Eddie's Lament",
+    "image": "https://teefury.com/cdn/shop/products/56487-art-file-color-blk_71921e9f-d9dc-45a7-b735-fa6186519fcf_300x.jpg",
+    "price": 27,
+    "rating": 3.0,
+    "category": "tv-shows-scifi"
+  }
+]

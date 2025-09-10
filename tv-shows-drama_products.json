@@ -1,0 +1,794 @@
+[
+  {
+    "id": "4331912265794",
+    "title": "I Don't Want To Live On This Planet Anymore",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_89f26f76-3012-4898-9f78-0a8cecd597be_300x.jpg",
+    "price": 29,
+    "rating": 3.3,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4464168075330",
+    "title": "Robot Problems",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-nav_529bb500-73ee-4707-9e2d-82bc44ee491d_300x.jpg",
+    "price": 39,
+    "rating": 4.2,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "6695843725378",
+    "title": "The Benderorian Poster",
+    "image": "https://teefury.com/cdn/shop/products/54469-art-file-color-nav_c858da47-170f-4d95-aa2c-15a0f8e5ecee_300x.jpg",
+    "price": 37,
+    "rating": 1.9,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4321016184898",
+    "title": "Watch How I Soar",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_c565a2e8-e997-48dc-80f2-717ad8e19e5d_300x.jpg",
+    "price": 59,
+    "rating": 1.5,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "6810570096706",
+    "title": "This Land",
+    "image": "https://teefury.com/cdn/shop/products/57195-art-file-color-blk_218f841f-09a7-4fb2-9bd0-574bc6ad14cf_300x.jpg",
+    "price": 54,
+    "rating": 2.1,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "6915473113154",
+    "title": "Somewhere In Space",
+    "image": "https://teefury.com/cdn/shop/products/100448-art-file-color-blk_429968ec-3359-460e-9cf1-05e56fe9c9d7_300x.jpg",
+    "price": 20,
+    "rating": 3.4,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "6743060512834",
+    "title": "Lone Ronin And Cub",
+    "image": "https://teefury.com/cdn/shop/products/55666-art-file-color-gre_4d630edb-985f-4b81-b68e-e17bb629aebd_300x.jpg",
+    "price": 59,
+    "rating": 2.9,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4344649416770",
+    "title": "Starry Flight",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_eafec312-3635-4e26-b031-a13e1fcebf66_300x.jpg",
+    "price": 47,
+    "rating": 4.0,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4344561172546",
+    "title": "Space Pioneers",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_945e1706-9fef-4aa7-aa14-64e20bfc2b5f_300x.jpg",
+    "price": 45,
+    "rating": 2.3,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "6732494405698",
+    "title": "Retro Smugglers",
+    "image": "https://teefury.com/cdn/shop/products/55283-art-file-color-blk_adc44bb3-9885-4bab-8820-3d405dd2f464_300x.jpg",
+    "price": 55,
+    "rating": 1.8,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4332037079106",
+    "title": "I'm Still Free",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_3c7abe7d-f658-46c0-932f-fa14c24821f5_300x.jpg",
+    "price": 29,
+    "rating": 3.4,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4325231525954",
+    "title": "Future Supper",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_c6190a2e-a04c-4a67-b876-0b4199f35320_300x.jpg",
+    "price": 50,
+    "rating": 3.2,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "6775747280962",
+    "title": "The Shiniest Space Ship V2",
+    "image": "https://teefury.com/cdn/shop/products/56488-art-file-color-blk_2887ee57-a1d9-41c9-a82a-fb8d4b84334a_300x.jpg",
+    "price": 46,
+    "rating": 3.3,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4334939603010",
+    "title": "Highly Addictive",
+    "image": "https://teefury.com/cdn/shop/products/26199-art-file-color-blk_007942de-9ab5-45a5-8c7c-ee2b3cad33b1_300x.jpg",
+    "price": 45,
+    "rating": 1.9,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4564054245442",
+    "title": "Joel and Ellie",
+    "image": "https://teefury.com/cdn/shop/products/50523-art-file-color-whi_b1fe397a-0e52-446e-b702-8df165fb839b_300x.jpg",
+    "price": 26,
+    "rating": 3.8,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4350125801538",
+    "title": "The Smuggler's Map",
+    "image": "https://teefury.com/cdn/shop/products/14586-art-file-color-hgr_f6de08cf-0d17-4496-b12b-bac82c90cd08_300x.jpg",
+    "price": 34,
+    "rating": 2.3,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4651518394434",
+    "title": "Bender Earth",
+    "image": "https://teefury.com/cdn/shop/products/50919-art-file-color-roy_fdd69e0c-b568-4484-b721-a07c3f907043_300x.jpg",
+    "price": 60,
+    "rating": 4.4,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "7453317890114",
+    "title": "Serenity Firefly Junker",
+    "image": "https://teefury.com/cdn/shop/files/128477-art-file-color-blk_0775e5f4-081a-4f2d-8dc5-0c3b3fc2863e_300x.jpg",
+    "price": 37,
+    "rating": 1.8,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "7023941353538",
+    "title": "Shiny Heroes",
+    "image": "https://teefury.com/cdn/shop/files/107605-art-file-color-blk_138be06e-6f9f-42aa-8f3b-767f61816ae2_300x.jpg",
+    "price": 54,
+    "rating": 1.9,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4349030989890",
+    "title": "Aliens",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_ec89bef0-8b8d-4c28-8d88-8f5b1d60be41_300x.jpg",
+    "price": 26,
+    "rating": 3.9,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "6925654720578",
+    "title": "The Only Way",
+    "image": "https://teefury.com/cdn/shop/products/100880-art-file-color-red_300x.jpg",
+    "price": 40,
+    "rating": 4.1,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "6909981196354",
+    "title": "Fungi Explosion Runaway",
+    "image": "https://teefury.com/cdn/shop/products/100147-art-file-color-crm_300x.jpg",
+    "price": 60,
+    "rating": 3.9,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4601440305218",
+    "title": "The Last Sunset",
+    "image": "https://teefury.com/cdn/shop/products/50657-art-file-color-blk_300x.jpg",
+    "price": 21,
+    "rating": 3.6,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "7037036331074",
+    "title": "Super Hunter",
+    "image": "https://teefury.com/cdn/shop/files/108173-art-file-color-blk_1bbca7d9-bf2a-40bf-af6e-af10d475d87d_300x.jpg",
+    "price": 53,
+    "rating": 4.5,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "6923401429058",
+    "title": "Seven Mandalorians",
+    "image": "https://teefury.com/cdn/shop/products/100778-art-file-color-whi_300x.jpg",
+    "price": 35,
+    "rating": 1.9,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4321015103554",
+    "title": "Washburne Flight Academy",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-dch_68d34b79-87e0-4b2f-b05a-4d79bb2e88e4_300x.jpg",
+    "price": 24,
+    "rating": 3.2,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "7062239248450",
+    "title": "Save The Earth And Kill All Humans",
+    "image": "https://teefury.com/cdn/shop/files/109333-art-file-color-blk_d585f479-453a-4637-aa5e-8fe409ebdfaf_300x.jpg",
+    "price": 40,
+    "rating": 2.1,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "6955010162754",
+    "title": "Mandalore National Park",
+    "image": "https://teefury.com/cdn/shop/files/103887-art-file-color-blk_e791d1aa-5728-4982-80e0-eb0d9976ea8b_300x.jpg",
+    "price": 31,
+    "rating": 3.1,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4340073463874",
+    "title": "100 Cups of Coffee",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_6bb5ea1c-ab1a-4821-a2ab-331affcc0b38_300x.jpg",
+    "price": 27,
+    "rating": 4.9,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "6881347698754",
+    "title": "Joel And Ellie Woodblock",
+    "image": "https://teefury.com/cdn/shop/products/59293-art-file-color-blk_89ecec3e-980f-4324-ab1f-541793deeaa1_300x.jpg",
+    "price": 25,
+    "rating": 2.1,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4773036458050",
+    "title": "Cyberdrunk",
+    "image": "https://teefury.com/cdn/shop/products/51942-art-file-color-pur_300x.jpg",
+    "price": 40,
+    "rating": 3.2,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4316756115522",
+    "title": "Kaylee's Spacecraft Repair",
+    "image": "https://teefury.com/cdn/shop/products/23092-art-file-color-blk_44ff0a5b-c043-4c85-ba8c-0eace0896861_300x.jpg",
+    "price": 32,
+    "rating": 4.2,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "7431456358466",
+    "title": "Serenity Firefly Class",
+    "image": "https://teefury.com/cdn/shop/files/126476-art-file-color-blk_f6311650-8baf-4fa4-876f-58c2974c951a_300x.jpg",
+    "price": 36,
+    "rating": 2.7,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "6848170655810",
+    "title": "The Santalorian",
+    "image": "https://teefury.com/cdn/shop/products/58249-art-file-color-gre_300x.jpg",
+    "price": 36,
+    "rating": 1.6,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4661364359234",
+    "title": "Under My Umbrella",
+    "image": "https://teefury.com/cdn/shop/products/50979-art-file-color-blk_ccff85b1-8869-4a58-90b6-b6e56f1dd9e0_300x.jpg",
+    "price": 22,
+    "rating": 1.8,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4638385963074",
+    "title": "Drink Bros",
+    "image": "https://teefury.com/cdn/shop/products/50846-art-file-color-cha_300x.jpg",
+    "price": 55,
+    "rating": 1.3,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4335560523842",
+    "title": "Captain Tight Pants Delivery",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_30b0716c-19ff-40dc-9323-d85d2d7bec4c_300x.jpg",
+    "price": 49,
+    "rating": 2.8,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "7382012428354",
+    "title": "Tis The Way",
+    "image": "https://teefury.com/cdn/shop/files/124443-art-file-color-blk_5f602e96-2918-44a1-b487-45b7cdc0668e_300x.jpg",
+    "price": 54,
+    "rating": 2.7,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "6917701107778",
+    "title": "Beskar Dad",
+    "image": "https://teefury.com/cdn/shop/products/100494-art-file-color-blk_300x.jpg",
+    "price": 22,
+    "rating": 3.9,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4338918719554",
+    "title": "Black Lodge Coffee Company",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_f7bca4ae-6838-40d8-ad43-cb3a5ff06b7a_300x.jpg",
+    "price": 35,
+    "rating": 4.3,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "7442166972482",
+    "title": "Big Damn Retro Heroes",
+    "image": "https://teefury.com/cdn/shop/files/127662-art-file-color-blk_8743ad1b-99d6-453a-8ee9-f55c9ad9a5af_300x.jpg",
+    "price": 21,
+    "rating": 1.0,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "6908922855490",
+    "title": "Spaces High",
+    "image": "https://teefury.com/cdn/shop/products/60221-art-file-color-blk_2332f71a-84b8-4688-be4a-7f735fb49d77_300x.jpg",
+    "price": 46,
+    "rating": 2.9,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "7322379780162",
+    "title": "Extreme Ecology",
+    "image": "https://teefury.com/cdn/shop/files/120992-art-file-color-blk_91f89a18-20cc-4742-9f75-e8c725e2c633_300x.jpg",
+    "price": 37,
+    "rating": 3.7,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "7131085406274",
+    "title": "Hazbin Club",
+    "image": "https://teefury.com/cdn/shop/files/111173-art-file-color-blk_b069e627-f059-46bd-aae6-6bd5b2bcf97c_300x.jpg",
+    "price": 43,
+    "rating": 3.8,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4344423710786",
+    "title": "Sick Sad Fiction",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_74adddc0-067e-403d-92de-a895a83daeea_300x.jpg",
+    "price": 32,
+    "rating": 4.0,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "7181074464834",
+    "title": "Browncoat Beagle",
+    "image": "https://teefury.com/cdn/shop/files/112305-art-file-color-whi_6ffb6f18-45a0-4597-a3ce-3538e57c47a4_300x.jpg",
+    "price": 27,
+    "rating": 4.3,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4344810668098",
+    "title": "Sunnydale Blood Drive",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-red_9ddaedaf-2f31-4a19-b84d-8c27053fd1d8_300x.jpg",
+    "price": 29,
+    "rating": 3.7,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4328334229570",
+    "title": "Just Keep Flying",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_f26e3d82-c1f9-4d94-8c5f-97902299fa8b_300x.jpg",
+    "price": 44,
+    "rating": 1.1,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "7356810985538",
+    "title": "The Way Ale",
+    "image": "https://teefury.com/cdn/shop/files/122827-art-file-color-blk_74af8e68-246d-4eac-aac0-7a7bbb35d513_300x.jpg",
+    "price": 33,
+    "rating": 3.3,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4520301330498",
+    "title": "An Ordinary Diner",
+    "image": "https://teefury.com/cdn/shop/products/50377-art-file-color-blk_0dcaff5b-48cb-4cd5-8ec3-5011cb0a3f81_300x.jpg",
+    "price": 49,
+    "rating": 1.4,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4350138024002",
+    "title": "The Sunnydale Club",
+    "image": "https://teefury.com/cdn/shop/products/14612-art-file-color-blk_4ce31337-30eb-4c09-905e-95745536b469_300x.jpg",
+    "price": 38,
+    "rating": 3.2,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4323008217154",
+    "title": "U Academy",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_ae2ee85b-d72a-473d-ba9a-4bff0c436aff_300x.jpg",
+    "price": 38,
+    "rating": 4.5,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4304957571138",
+    "title": "Nebeermind",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-tur_a867ce4f-ddbc-4313-a82b-cf8bacc0eaa5_300x.jpg",
+    "price": 44,
+    "rating": 2.3,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "7245226639426",
+    "title": "Radio Demon Entertainment",
+    "image": "https://teefury.com/cdn/shop/files/113374-art-file-color-blk_6d7f45c1-c837-40c7-ad03-807bbfd19e3b_300x.jpg",
+    "price": 33,
+    "rating": 4.5,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4706727329858",
+    "title": "I Am A Leaf On The Wind",
+    "image": "https://teefury.com/cdn/shop/products/51363-art-file-color-cha_4d630bb0-d845-4841-8d6b-a5360fd040fb_300x.jpg",
+    "price": 27,
+    "rating": 2.5,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "7461462704194",
+    "title": "Grant Me The Serenity",
+    "image": "https://teefury.com/cdn/shop/files/128934-art-file-color-blk_adb11a09-1437-43e5-96c2-2c8d1262ddcb_300x.jpg",
+    "price": 20,
+    "rating": 3.2,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "7449838190658",
+    "title": "Best Mentor Mage Frieren",
+    "image": "https://teefury.com/cdn/shop/files/128313-art-file-color-blk_1f699083-1a94-4602-addc-f13715a517e7_300x.jpg",
+    "price": 58,
+    "rating": 2.5,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "6951911489602",
+    "title": "Which Is The Way",
+    "image": "https://teefury.com/cdn/shop/files/102839-art-file-color-hgr_f250d562-d7c5-4e11-85fe-15b1260a3fdc_300x.jpg",
+    "price": 28,
+    "rating": 2.0,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "6587624947778",
+    "title": "Mulder Believes",
+    "image": "https://teefury.com/cdn/shop/products/52798-art-file-color-blk_c2b00f90-1034-430b-a7ac-a2b1c8c3cd11_300x.jpg",
+    "price": 28,
+    "rating": 4.3,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4348956835906",
+    "title": "A Leaf on the Sumi-e",
+    "image": "https://teefury.com/cdn/shop/products/33039-art-file-color-whi_58523ac8-b81c-4fbc-8a97-d69a1893db40_300x.jpg",
+    "price": 48,
+    "rating": 3.1,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4321297039426",
+    "title": "Vale Frycem",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_ee409ab6-817f-460f-a9cb-b979db6513cb_300x.jpg",
+    "price": 37,
+    "rating": 3.4,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "7356808757314",
+    "title": "Hunter Pilsner",
+    "image": "https://teefury.com/cdn/shop/files/122829-art-file-color-whi_dc50c2f3-dc4f-46ed-8c2a-28dee25c2cdd_300x.jpg",
+    "price": 21,
+    "rating": 1.8,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "7314315903042",
+    "title": "Shiny Beer",
+    "image": "https://teefury.com/cdn/shop/files/120383-art-file-color-blk_378c725f-bb31-4ecd-ad13-663ea38bdb93_300x.jpg",
+    "price": 50,
+    "rating": 4.6,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "6750031282242",
+    "title": "I Love Boba Tea",
+    "image": "https://teefury.com/cdn/shop/products/55846-art-file-color-nav_0330e56a-e347-408d-8717-f0c894b41a11_300x.jpg",
+    "price": 43,
+    "rating": 1.3,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4633791758402",
+    "title": "United Pirates and Smugglers",
+    "image": "https://teefury.com/cdn/shop/products/50790-art-file-color-dch_58fa411c-d1ff-4691-84c8-aee04641390a_300x.jpg",
+    "price": 35,
+    "rating": 3.1,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4340096761922",
+    "title": "8 Bit Betrayal",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_ca1035fa-5d8e-4e2e-b6fc-0ad952c110c5_300x.jpg",
+    "price": 33,
+    "rating": 2.2,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "7381993717826",
+    "title": "Ray Of Sarcastic Sunshine",
+    "image": "https://teefury.com/cdn/shop/files/124454-art-file-color-blk_7a6f2e1a-a056-43b4-8235-35f06d1355dc_300x.jpg",
+    "price": 31,
+    "rating": 2.0,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "7002001604674",
+    "title": "Christmas Meditation",
+    "image": "https://teefury.com/cdn/shop/files/106783-art-file-color-blk_b989c760-5771-4eae-b0e8-790ad9f52e9c_300x.jpg",
+    "price": 25,
+    "rating": 3.7,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "6953598615618",
+    "title": "Firefly Of The Rising Sun",
+    "image": "https://teefury.com/cdn/shop/files/103737-art-file-color-whi_4ca2b800-59f0-4749-9a1a-c0cf33703ea9_300x.jpg",
+    "price": 39,
+    "rating": 2.1,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "6906702463042",
+    "title": "Scientists",
+    "image": "https://teefury.com/cdn/shop/products/60169-art-file-color-blk_300x.jpg",
+    "price": 56,
+    "rating": 1.3,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "6547603030082",
+    "title": "Bite My Shiny Metal Ale",
+    "image": "https://teefury.com/cdn/shop/products/52290-art-file-color-nav_300x.jpg",
+    "price": 33,
+    "rating": 1.3,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4319388958786",
+    "title": "Panucci's Pizza",
+    "image": "https://teefury.com/cdn/shop/products/18026-art-file-color-whi_1b50ec12-add1-4f44-8ed7-d01e1b0133eb_300x.jpg",
+    "price": 52,
+    "rating": 3.1,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "7277385547842",
+    "title": "The Sinners",
+    "image": "https://teefury.com/cdn/shop/files/117190-art-file-color-blk_2f22d20f-4435-47e6-b9c7-9a124a3c5c54_300x.jpg",
+    "price": 57,
+    "rating": 4.4,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "7042715844674",
+    "title": "Shiny Night",
+    "image": "https://teefury.com/cdn/shop/files/108446-art-file-color-blk_b1911266-c477-4be8-a278-b0fe007980bd_300x.jpg",
+    "price": 46,
+    "rating": 4.4,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "6889375334466",
+    "title": "Music With Strawberries",
+    "image": "https://teefury.com/cdn/shop/products/59562-art-file-color-cha_26ab922a-d628-46a7-83b8-b6cbc18539b4_300x.jpg",
+    "price": 44,
+    "rating": 3.8,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4349902749762",
+    "title": "The Cobra Code",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_8984cffb-86f5-4cf6-9280-c547b6084a49_300x.jpg",
+    "price": 35,
+    "rating": 4.7,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "6866584535106",
+    "title": "Lawyer Boy",
+    "image": "https://teefury.com/cdn/shop/products/58789-art-file-color-nav_300x.jpg",
+    "price": 55,
+    "rating": 3.8,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "6795398348866",
+    "title": "Enjoy Slurm",
+    "image": "https://teefury.com/cdn/shop/products/56962-art-file-color-roy_7a83ee61-acff-4b61-958c-9767fca07e1e_300x.jpg",
+    "price": 43,
+    "rating": 2.0,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "6568473854018",
+    "title": "Invincible",
+    "image": "https://teefury.com/cdn/shop/products/52518-art-file-color-blk_a1fb55eb-facd-4313-8435-5a29e53d382c_300x.jpg",
+    "price": 22,
+    "rating": 3.9,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4338875007042",
+    "title": "Bending Unit 22",
+    "image": "https://teefury.com/cdn/shop/products/32138-art-file-color-whi_5613e9e3-43a2-49e1-a774-99142c278c34_300x.jpg",
+    "price": 58,
+    "rating": 1.4,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4332075188290",
+    "title": "Infected Youth",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_d8436832-742b-4d32-a8c9-28bc9d30142c_300x.jpg",
+    "price": 41,
+    "rating": 1.4,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "7483824406594",
+    "title": "The Way To The Mountains",
+    "image": "https://teefury.com/cdn/shop/files/130913-art-file-color-blk_09629b83-2b0d-4d0f-a8bc-f1edfd3b4619_300x.jpg",
+    "price": 54,
+    "rating": 2.0,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "6983070548034",
+    "title": "Vintage Leaf",
+    "image": "https://teefury.com/cdn/shop/files/106526-art-file-color-blk_39b3b524-a8cb-4257-ab1d-a9f638127e65_300x.jpg",
+    "price": 54,
+    "rating": 4.6,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "6930111660098",
+    "title": "Attack Of Paz Vizsla",
+    "image": "https://teefury.com/cdn/shop/products/101104-art-file-color-blk_300x.jpg",
+    "price": 29,
+    "rating": 2.5,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "6906640498754",
+    "title": "The Beaglorian",
+    "image": "https://teefury.com/cdn/shop/products/60133-art-file-color-crm_300x.jpg",
+    "price": 35,
+    "rating": 3.1,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "6565399953474",
+    "title": "Omniman",
+    "image": "https://teefury.com/cdn/shop/products/52517-art-file-color-red_300x.jpg",
+    "price": 60,
+    "rating": 3.2,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4702212227138",
+    "title": "Vote for Glory",
+    "image": "https://teefury.com/cdn/shop/products/51315-art-file-color-nav_708ad9b9-cbc9-4a00-9fe7-945e884cc2cc_300x.jpg",
+    "price": 45,
+    "rating": 2.5,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "6944338706498",
+    "title": "Mariolorian",
+    "image": "https://teefury.com/cdn/shop/files/102427-art-file-color-tur_052f1b03-7712-4a93-905d-a2b833f7574d_300x.jpg",
+    "price": 50,
+    "rating": 3.6,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4321140408386",
+    "title": "Why Not Zoidberg 3016",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-nav_e06eab1a-c597-45ef-833f-fd48cb9734d0_300x.jpg",
+    "price": 29,
+    "rating": 1.5,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4344813256770",
+    "title": "Sunnydale Slayers Club",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_e9b91fb5-9a75-4826-8bdf-3380db597dde_300x.jpg",
+    "price": 54,
+    "rating": 2.9,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4319284527170",
+    "title": "You Can't Take the Sky",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_b1198216-23f1-431a-96df-88d2ed0b7e7e_300x.jpg",
+    "price": 21,
+    "rating": 2.0,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4304474243138",
+    "title": "Orvillorama",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_000f2c85-4c4f-45da-8d40-b65d383f88be_300x.jpg",
+    "price": 31,
+    "rating": 3.1,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "7245218938946",
+    "title": "The Verse Trail",
+    "image": "https://teefury.com/cdn/shop/files/113378-art-file-color-blk_a2cbd14a-7d4e-4186-9157-f733fb87d5eb_300x.jpg",
+    "price": 27,
+    "rating": 5.0,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "6732605325378",
+    "title": "The Mandalorian Way",
+    "image": "https://teefury.com/cdn/shop/products/55359-art-file-color-nav_300x.jpg",
+    "price": 47,
+    "rating": 4.9,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "7215175204930",
+    "title": "The Last Great Mage",
+    "image": "https://teefury.com/cdn/shop/files/112819-art-file-color-blk_53d68228-55b2-4b2c-bec4-2ff72aee4b95_300x.jpg",
+    "price": 51,
+    "rating": 2.3,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "6587986247746",
+    "title": "Can't Take the Sky",
+    "image": "https://teefury.com/cdn/shop/products/52797-art-file-color-whi_6951d136-7143-4e64-a15b-3fb6afef768c_300x.jpg",
+    "price": 41,
+    "rating": 3.9,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "4349873946690",
+    "title": "The Blueprint",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-cha_a0383cd7-56c7-47bd-8e4d-547dd26dc151_300x.jpg",
+    "price": 42,
+    "rating": 1.3,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "7215107473474",
+    "title": "Hazbin Coffee",
+    "image": "https://teefury.com/cdn/shop/files/112743-art-file-color-blk_1c238d78-b346-4222-84d6-21745b88f5f5_300x.jpg",
+    "price": 52,
+    "rating": 1.3,
+    "category": "tv-shows-drama"
+  },
+  {
+    "id": "6955028119618",
+    "title": "Rock Is The Way",
+    "image": "https://teefury.com/cdn/shop/files/103876-art-file-color-blk_21123b54-8083-4df0-9a39-4bd0c8c8cd7e_300x.jpg",
+    "price": 46,
+    "rating": 3.7,
+    "category": "tv-shows-drama"
+  }
+]

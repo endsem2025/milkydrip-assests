@@ -1,0 +1,786 @@
+[
+  {
+    "id": "4330149806146",
+    "title": "Dancing Forces",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_ebbb002e-3f85-4467-8604-7625a87df7dd_300x.jpg",
+    "price": 40,
+    "rating": 4.2,
+    "category": "animation"
+  },
+  {
+    "id": "4305108140098",
+    "title": "Noodle Swim",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-nav_9d95159a-ac7c-43a8-b581-bec5c1b8462b_300x.jpg",
+    "price": 49,
+    "rating": 4.3,
+    "category": "animation"
+  },
+  {
+    "id": "4316716236866",
+    "title": "KARP",
+    "image": "https://teefury.com/cdn/shop/products/23047-art-file-color-whi_78820fa6-7d91-495a-9403-64379f67b354_300x.jpg",
+    "price": 38,
+    "rating": 4.5,
+    "category": "animation"
+  },
+  {
+    "id": "6963529941058",
+    "title": "Legend Of Bluey",
+    "image": "https://teefury.com/cdn/shop/files/104830-art-file-color-gre_ff617608-c4f0-4b20-9b4f-b4141769cd69_300x.jpg",
+    "price": 42,
+    "rating": 4.7,
+    "category": "animation"
+  },
+  {
+    "id": "4346997375042",
+    "title": "GIRthulhu",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-nav_1983d23a-ae56-401c-a203-dd3bbea9f45d_300x.jpg",
+    "price": 54,
+    "rating": 4.4,
+    "category": "animation"
+  },
+  {
+    "id": "4409760776258",
+    "title": "Visit Castlevania",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_2c42e3aa-b696-4fc9-a9c6-04f17cbfba58_300x.jpg",
+    "price": 52,
+    "rating": 4.5,
+    "category": "animation"
+  },
+  {
+    "id": "6947002351682",
+    "title": "Ramen No Face",
+    "image": "https://teefury.com/cdn/shop/files/102787-art-file-color-blk_8fa0ff88-7ff1-4c65-a2e2-e6b912bacc07_300x.jpg",
+    "price": 23,
+    "rating": 3.9,
+    "category": "animation"
+  },
+  {
+    "id": "6923389009986",
+    "title": "The Multiverse",
+    "image": "https://teefury.com/cdn/shop/products/100771-art-file-color-blk_300x.jpg",
+    "price": 59,
+    "rating": 4.1,
+    "category": "animation"
+  },
+  {
+    "id": "6930119000130",
+    "title": "Bluey 182",
+    "image": "https://teefury.com/cdn/shop/products/101108-art-file-color-whi_680752ed-df81-4938-b1fc-df9054979b7d_300x.jpg",
+    "price": 48,
+    "rating": 1.3,
+    "category": "animation"
+  },
+  {
+    "id": "4672725319746",
+    "title": "Bulbathulhu",
+    "image": "https://teefury.com/cdn/shop/products/51083-art-file-color-roy_300x.jpg",
+    "price": 46,
+    "rating": 3.6,
+    "category": "animation"
+  },
+  {
+    "id": "4782274510914",
+    "title": "Bearphomet",
+    "image": "https://teefury.com/cdn/shop/products/52006-art-file-color-blk_8a3f883c-13d6-44d1-b4e4-b5e3b892b7d0_300x.jpg",
+    "price": 26,
+    "rating": 4.2,
+    "category": "animation"
+  },
+  {
+    "id": "4498081185858",
+    "title": "Sky Castle Ukiyo-E",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_7091ce5b-f1d0-4e56-954d-e2b2d6219f52_300x.jpg",
+    "price": 53,
+    "rating": 3.9,
+    "category": "animation"
+  },
+  {
+    "id": "6929005772866",
+    "title": "Spiderverse",
+    "image": "https://teefury.com/cdn/shop/products/100922-art-file-color-blk_62381bfb-91e2-4f04-a708-1b5de868f089_300x.jpg",
+    "price": 37,
+    "rating": 4.8,
+    "category": "animation"
+  },
+  {
+    "id": "4763790934082",
+    "title": "Chihiro Spirit",
+    "image": "https://teefury.com/cdn/shop/products/51828-art-file-color-blk_0e4dee1c-98f5-4452-aa32-d444a4272993_300x.jpg",
+    "price": 57,
+    "rating": 1.7,
+    "category": "animation"
+  },
+  {
+    "id": "6955067539522",
+    "title": "Taking A Nap In Japan",
+    "image": "https://teefury.com/cdn/shop/files/103945-art-file-color-blk_2101d1b8-9268-4f36-b9b1-73909b1869af_300x.jpg",
+    "price": 48,
+    "rating": 1.4,
+    "category": "animation"
+  },
+  {
+    "id": "4344659640386",
+    "title": "Starterkyus",
+    "image": "https://teefury.com/cdn/shop/products/15651-art-file-color-hgr_8146cba0-c307-40b8-ac70-a31ce7a314c5_300x.jpg",
+    "price": 48,
+    "rating": 4.1,
+    "category": "animation"
+  },
+  {
+    "id": "6989040812098",
+    "title": "Grannies Crossing",
+    "image": "https://teefury.com/cdn/shop/files/106623-art-file-color-tur_4ddde4cb-ab48-4f9c-9827-45f53d70d476_300x.jpg",
+    "price": 56,
+    "rating": 2.8,
+    "category": "animation"
+  },
+  {
+    "id": "6928808280130",
+    "title": "The Spider Bunch",
+    "image": "https://teefury.com/cdn/shop/products/100971-art-file-color-blk_9ae42768-42c3-4359-8e0b-1fee83c2ef3a_300x.jpg",
+    "price": 42,
+    "rating": 3.9,
+    "category": "animation"
+  },
+  {
+    "id": "6677345075266",
+    "title": "4th Gen",
+    "image": "https://teefury.com/cdn/shop/products/53927-art-file-color-blu_5b4c36ee-278a-4521-b9e4-2ac9a50183eb_300x.jpg",
+    "price": 20,
+    "rating": 2.5,
+    "category": "animation"
+  },
+  {
+    "id": "4508746809410",
+    "title": "TP For Apocalypse",
+    "image": "https://teefury.com/cdn/shop/products/50295-art-file-color-nav_7361280e-f134-47c2-af7f-b7a8992efe7b_300x.jpg",
+    "price": 26,
+    "rating": 4.6,
+    "category": "animation"
+  },
+  {
+    "id": "6544321052738",
+    "title": "Top Bun",
+    "image": "https://teefury.com/cdn/shop/products/52227-art-file-color-nav_1625c575-2425-4605-9084-9669cef794b7_300x.jpg",
+    "price": 28,
+    "rating": 4.5,
+    "category": "animation"
+  },
+  {
+    "id": "7365693800514",
+    "title": "Family Of Dogtors",
+    "image": "https://teefury.com/cdn/shop/files/123421-art-file-color-roy_7b398e0d-e0e4-4b7f-9fbc-b43fe5b9fdbe_300x.jpg",
+    "price": 52,
+    "rating": 3.9,
+    "category": "animation"
+  },
+  {
+    "id": "6965737095234",
+    "title": "T.P.",
+    "image": "https://teefury.com/cdn/shop/files/105558-art-file-color-blk_1db09548-f75b-4dfa-819d-bc94da69920a_300x.jpg",
+    "price": 21,
+    "rating": 4.7,
+    "category": "animation"
+  },
+  {
+    "id": "4702204362818",
+    "title": "Sootball",
+    "image": "https://teefury.com/cdn/shop/products/51307-art-file-color-pur_b1a8441a-57e2-4e03-a285-548785424a27_300x.jpg",
+    "price": 58,
+    "rating": 4.3,
+    "category": "animation"
+  },
+  {
+    "id": "4349780754498",
+    "title": "Take Over the World",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_370acb20-2abd-4088-ad12-cd85a5ca5b33_300x.jpg",
+    "price": 23,
+    "rating": 3.4,
+    "category": "animation"
+  },
+  {
+    "id": "6957501055042",
+    "title": "Snoopknot",
+    "image": "https://teefury.com/cdn/shop/files/104167-art-file-color-blk_e240eb24-09af-40fe-8cfc-0e01e5f550f8_300x.jpg",
+    "price": 58,
+    "rating": 3.7,
+    "category": "animation"
+  },
+  {
+    "id": "4478159192130",
+    "title": "Let's Go on An Adventure",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_c17620d5-e3d7-4dc9-ac10-8639b33c3c3a_300x.jpg",
+    "price": 45,
+    "rating": 3.4,
+    "category": "animation"
+  },
+  {
+    "id": "7010786574402",
+    "title": "Beagle Samurai In Japan",
+    "image": "https://teefury.com/cdn/shop/files/107047-art-file-color-blk_3ad6150a-3d07-4ac8-a543-32c04b77257d_300x.jpg",
+    "price": 38,
+    "rating": 2.6,
+    "category": "animation"
+  },
+  {
+    "id": "4334944976962",
+    "title": "Hime",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_fe73d815-109e-4bdb-848d-a50fc4db6542_300x.jpg",
+    "price": 23,
+    "rating": 2.3,
+    "category": "animation"
+  },
+  {
+    "id": "4344612323394",
+    "title": "Spoon!",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-roy_4198c45b-f5d1-4224-b318-4b6af82a0501_300x.jpg",
+    "price": 58,
+    "rating": 4.2,
+    "category": "animation"
+  },
+  {
+    "id": "4344975327298",
+    "title": "Sweet Victory",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-red_5f92d39e-72b1-404f-970a-f7b97d536882_300x.jpg",
+    "price": 30,
+    "rating": 1.1,
+    "category": "animation"
+  },
+  {
+    "id": "6544345628738",
+    "title": "Mermaid Man",
+    "image": "https://teefury.com/cdn/shop/products/52255-art-file-color-tur_300x.jpg",
+    "price": 33,
+    "rating": 1.4,
+    "category": "animation"
+  },
+  {
+    "id": "7042691498050",
+    "title": "Everything's Fine On The Steamboat",
+    "image": "https://teefury.com/cdn/shop/files/108455-art-file-color-blk_3881d371-368e-4a86-94b1-c593382d2b89_300x.jpg",
+    "price": 39,
+    "rating": 1.4,
+    "category": "animation"
+  },
+  {
+    "id": "6958660550722",
+    "title": "I'm Fully Booked",
+    "image": "https://teefury.com/cdn/shop/files/104351-art-file-color-cha_898660a2-b64c-41d7-99fd-ba9c3a6ebb98_300x.jpg",
+    "price": 24,
+    "rating": 3.5,
+    "category": "animation"
+  },
+  {
+    "id": "4330276552770",
+    "title": "Do It",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_48805292-7896-4638-83bd-c0d04ba548e8_300x.jpg",
+    "price": 51,
+    "rating": 1.6,
+    "category": "animation"
+  },
+  {
+    "id": "4350148771906",
+    "title": "The Vampire's Killer",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_b33c8222-d127-4e83-9b2d-cf4d54b59534_300x.jpg",
+    "price": 52,
+    "rating": 2.7,
+    "category": "animation"
+  },
+  {
+    "id": "4323161768002",
+    "title": "Fantastic Fox Friends",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_059665a1-7135-4dcb-9f89-0fca02e93860_300x.jpg",
+    "price": 55,
+    "rating": 2.3,
+    "category": "animation"
+  },
+  {
+    "id": "4344672583746",
+    "title": "Stealing Time Again",
+    "image": "https://teefury.com/cdn/shop/products/15670-art-file-color-blk_4faf46c9-c69b-4d99-b4fa-d7061e534bfc_300x.jpg",
+    "price": 38,
+    "rating": 2.6,
+    "category": "animation"
+  },
+  {
+    "id": "7007581601858",
+    "title": "Deer God",
+    "image": "https://teefury.com/cdn/shop/files/107032-art-file-color-whi_bae56392-3f79-41aa-9d56-7468c85c7eae_300x.jpg",
+    "price": 46,
+    "rating": 1.1,
+    "category": "animation"
+  },
+  {
+    "id": "6953600614466",
+    "title": "Uniscream",
+    "image": "https://teefury.com/cdn/shop/files/103736-art-file-color-blk_f64f1df7-0272-42c6-9971-09daee19b580_300x.jpg",
+    "price": 34,
+    "rating": 4.2,
+    "category": "animation"
+  },
+  {
+    "id": "6946816131138",
+    "title": "Dance Mode",
+    "image": "https://teefury.com/cdn/shop/files/102605-art-file-color-nav_71e659e5-2df8-4702-8c9e-035a4af5b820_300x.jpg",
+    "price": 39,
+    "rating": 2.2,
+    "category": "animation"
+  },
+  {
+    "id": "4745254797378",
+    "title": "Book Eater",
+    "image": "https://teefury.com/cdn/shop/products/51646-art-file-color-cha_24fabdfa-893e-40c2-a18f-d6b07ffb8966_300x.jpg",
+    "price": 42,
+    "rating": 4.1,
+    "category": "animation"
+  },
+  {
+    "id": "4338901155906",
+    "title": "Bill",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_4fbaa486-13a7-4645-829e-af636367e891_300x.jpg",
+    "price": 31,
+    "rating": 3.0,
+    "category": "animation"
+  },
+  {
+    "id": "7023968682050",
+    "title": "The Beagles",
+    "image": "https://teefury.com/cdn/shop/files/107595-art-file-color-nav_c7301675-d541-4e42-af43-29a0b8861807_300x.jpg",
+    "price": 46,
+    "rating": 1.9,
+    "category": "animation"
+  },
+  {
+    "id": "6928826171458",
+    "title": "Granny Game",
+    "image": "https://teefury.com/cdn/shop/products/100977-art-file-color-blu_2b436cdd-c1cc-4ea9-92c1-d3d609ed7166_300x.jpg",
+    "price": 33,
+    "rating": 2.7,
+    "category": "animation"
+  },
+  {
+    "id": "4328397799490",
+    "title": "Elemental Charms",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-nav_78f251fd-1fec-44a8-af65-734754d51725_300x.jpg",
+    "price": 35,
+    "rating": 2.5,
+    "category": "animation"
+  },
+  {
+    "id": "7049933094978",
+    "title": "Ghibli Cuties",
+    "image": "https://teefury.com/cdn/shop/files/108814-art-file-color-whi_1539dbc5-0885-4739-bce4-512d0ab1b507_300x.jpg",
+    "price": 42,
+    "rating": 2.9,
+    "category": "animation"
+  },
+  {
+    "id": "6944343294018",
+    "title": "Why Should I Care",
+    "image": "https://teefury.com/cdn/shop/files/102425-art-file-color-nav_28b12e1a-2fbd-4ae4-b181-f18d893e7605_300x.jpg",
+    "price": 43,
+    "rating": 1.2,
+    "category": "animation"
+  },
+  {
+    "id": "4478152736834",
+    "title": "Wolf Princess Ukiyo-E",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_9b8b9627-442f-4daa-b41b-f624b33a7ac5_300x.jpg",
+    "price": 60,
+    "rating": 2.2,
+    "category": "animation"
+  },
+  {
+    "id": "4332983222338",
+    "title": "Goldfish Ramen",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-tur_881157c3-fea7-4fdd-a8c7-f54b356cfa28_300x.jpg",
+    "price": 50,
+    "rating": 1.4,
+    "category": "animation"
+  },
+  {
+    "id": "4326037520450",
+    "title": "My Giant Friend",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-cha_0c6c3782-1dcf-4245-8e7c-637ba8789746_300x.jpg",
+    "price": 59,
+    "rating": 4.7,
+    "category": "animation"
+  },
+  {
+    "id": "6933867233346",
+    "title": "Punk Is Not Dead",
+    "image": "https://teefury.com/cdn/shop/products/101215-art-file-color-blk_1bbf4364-baea-4c2a-a63d-2b2a815c71d3_300x.jpg",
+    "price": 50,
+    "rating": 3.8,
+    "category": "animation"
+  },
+  {
+    "id": "6557256843330",
+    "title": "Saturday Mornings Rocked!",
+    "image": "https://teefury.com/cdn/shop/products/52416-art-file-color-crm_d04d7dde-419a-421e-8ad7-06cc0af93c68_300x.jpg",
+    "price": 26,
+    "rating": 3.4,
+    "category": "animation"
+  },
+  {
+    "id": "6913231781954",
+    "title": "I Hate All Of You Folks",
+    "image": "https://teefury.com/cdn/shop/products/100341-art-file-color-blk_ef6e63e2-5f8a-4f2a-ae1c-ea17e6751956_300x.jpg",
+    "price": 31,
+    "rating": 4.4,
+    "category": "animation"
+  },
+  {
+    "id": "6820461215810",
+    "title": "Evil Dead Before Christmas",
+    "image": "https://teefury.com/cdn/shop/products/57408-art-file-color-blk_300x.jpg",
+    "price": 34,
+    "rating": 3.1,
+    "category": "animation"
+  },
+  {
+    "id": "6921396584514",
+    "title": "Siblings Life",
+    "image": "https://teefury.com/cdn/shop/products/100681-art-file-color-blk_3876851e-a613-43b3-96b0-95adc85979c5_300x.jpg",
+    "price": 37,
+    "rating": 2.7,
+    "category": "animation"
+  },
+  {
+    "id": "4514454372418",
+    "title": "Crazy Tom",
+    "image": "https://teefury.com/cdn/shop/products/50356-art-file-color-nav_300x.jpg",
+    "price": 33,
+    "rating": 4.4,
+    "category": "animation"
+  },
+  {
+    "id": "6939199438914",
+    "title": "Best Dad Ever",
+    "image": "https://teefury.com/cdn/shop/files/101567-art-file-color-tur_151fcb8a-d180-429a-a586-816f28c72915_300x.jpg",
+    "price": 37,
+    "rating": 2.5,
+    "category": "animation"
+  },
+  {
+    "id": "4330245193794",
+    "title": "Devil's Castle",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_ce8584e0-8bc8-4e2b-9031-5b1f95bc205b_300x.jpg",
+    "price": 36,
+    "rating": 1.2,
+    "category": "animation"
+  },
+  {
+    "id": "4350022647874",
+    "title": "The Last",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_99bf8f6a-eaad-4cb9-9796-828e221ee624_300x.jpg",
+    "price": 30,
+    "rating": 3.2,
+    "category": "animation"
+  },
+  {
+    "id": "4782292697154",
+    "title": "Coast to Coast",
+    "image": "https://teefury.com/cdn/shop/products/52032-art-file-color-crm_7d3a56b7-0d44-4ba2-86e2-5b47d0f503fa_300x.jpg",
+    "price": 33,
+    "rating": 4.8,
+    "category": "animation"
+  },
+  {
+    "id": "7356823830594",
+    "title": "My Cartoon Romance",
+    "image": "https://teefury.com/cdn/shop/files/122816-art-file-color-blk_ae536f46-57cb-4000-b5cd-d5036aa80ef8_300x.jpg",
+    "price": 34,
+    "rating": 3.4,
+    "category": "animation"
+  },
+  {
+    "id": "6670591361090",
+    "title": "The Moon Ghibli",
+    "image": "https://teefury.com/cdn/shop/products/53910-art-file-color-blk_300x.jpg",
+    "price": 48,
+    "rating": 1.8,
+    "category": "animation"
+  },
+  {
+    "id": "4344660262978",
+    "title": "Starters",
+    "image": "https://teefury.com/cdn/shop/products/15652-art-file-color-hgr_3d8fc46a-89cc-42d2-8404-c9834be3244e_300x.jpg",
+    "price": 39,
+    "rating": 2.7,
+    "category": "animation"
+  },
+  {
+    "id": "7245250854978",
+    "title": "Born In The 1900s",
+    "image": "https://teefury.com/cdn/shop/files/113430-art-file-color-crm_04da09a5-6ecd-4485-96ac-242bf382bab9_300x.jpg",
+    "price": 46,
+    "rating": 4.0,
+    "category": "animation"
+  },
+  {
+    "id": "6760556396610",
+    "title": "Fantastic Alien Creature",
+    "image": "https://teefury.com/cdn/shop/products/56069-art-file-color-blk_300x.jpg",
+    "price": 31,
+    "rating": 3.4,
+    "category": "animation"
+  },
+  {
+    "id": "4633810665538",
+    "title": "Science Bleep",
+    "image": "https://teefury.com/cdn/shop/products/50815-art-file-color-roy_300x.jpg",
+    "price": 38,
+    "rating": 2.8,
+    "category": "animation"
+  },
+  {
+    "id": "4350162370626",
+    "title": "The Witch's Familiar",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_ad0759e8-9e63-4b0f-82b9-92283393095b_300x.jpg",
+    "price": 33,
+    "rating": 1.6,
+    "category": "animation"
+  },
+  {
+    "id": "7306139795522",
+    "title": "Cowboy From Mars",
+    "image": "https://teefury.com/cdn/shop/files/119832-art-file-color-blk_ca4c4f29-de4d-41e4-bdf0-2c5f4c37cfdd_300x.jpg",
+    "price": 36,
+    "rating": 1.1,
+    "category": "animation"
+  },
+  {
+    "id": "6983090798658",
+    "title": "Owl Matata",
+    "image": "https://teefury.com/cdn/shop/files/106515-art-file-color-blk_a5b24980-ae0a-4f70-8663-446da2de7c55_300x.jpg",
+    "price": 29,
+    "rating": 4.5,
+    "category": "animation"
+  },
+  {
+    "id": "6958667432002",
+    "title": "The Rebels",
+    "image": "https://teefury.com/cdn/shop/files/104347-art-file-color-blk_cfb20f21-9aa7-4e50-8c3d-bb05f46effab_300x.jpg",
+    "price": 29,
+    "rating": 2.5,
+    "category": "animation"
+  },
+  {
+    "id": "6836339703874",
+    "title": "Christmas Losers",
+    "image": "https://teefury.com/cdn/shop/products/57943-art-file-color-blk_dbf75695-c715-473f-a518-53894a06fda3_300x.jpg",
+    "price": 40,
+    "rating": 2.2,
+    "category": "animation"
+  },
+  {
+    "id": "6739142508610",
+    "title": "Nightmare In Moonlight",
+    "image": "https://teefury.com/cdn/shop/products/55537-art-file-color-blk_300x.jpg",
+    "price": 25,
+    "rating": 3.1,
+    "category": "animation"
+  },
+  {
+    "id": "6710435872834",
+    "title": "Burger Boys",
+    "image": "https://teefury.com/cdn/shop/products/54696-art-file-color-whi_728fc10f-6cd4-4cfc-9a08-0a5ec83d0f9e_300x.jpg",
+    "price": 31,
+    "rating": 4.3,
+    "category": "animation"
+  },
+  {
+    "id": "4323198304322",
+    "title": "Fiery Thanksgiving",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_b24715b4-b7be-47ca-b0b6-b78d7f45561b_300x.jpg",
+    "price": 20,
+    "rating": 1.5,
+    "category": "animation"
+  },
+  {
+    "id": "7049917399106",
+    "title": "Live And Prosper",
+    "image": "https://teefury.com/cdn/shop/files/108821-art-file-color-blk_86d20315-145e-42db-afc3-a3e10310e864_300x.jpg",
+    "price": 30,
+    "rating": 3.7,
+    "category": "animation"
+  },
+  {
+    "id": "6940610330690",
+    "title": "I Am Vintage",
+    "image": "https://teefury.com/cdn/shop/files/102070-art-file-color-blk_070cacd9-722f-4aa5-9bb1-955a94f1917d_300x.jpg",
+    "price": 51,
+    "rating": 4.0,
+    "category": "animation"
+  },
+  {
+    "id": "4325876170818",
+    "title": "Metalvania",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_39777d4a-100b-4c37-9ad2-6f070e073ecd_300x.jpg",
+    "price": 55,
+    "rating": 2.5,
+    "category": "animation"
+  },
+  {
+    "id": "7215090040898",
+    "title": "My Star",
+    "image": "https://teefury.com/cdn/shop/files/112750-art-file-color-blk_c3431dfb-c148-457d-9a24-021217603a5e_300x.jpg",
+    "price": 24,
+    "rating": 1.7,
+    "category": "animation"
+  },
+  {
+    "id": "7047715029058",
+    "title": "Eras Of The Beagle",
+    "image": "https://teefury.com/cdn/shop/files/108683-art-file-color-crm_d7708916-5604-402a-941e-58a59cca4ee9_300x.jpg",
+    "price": 27,
+    "rating": 3.1,
+    "category": "animation"
+  },
+  {
+    "id": "6973821812802",
+    "title": "Live Laugh Toaster Bath",
+    "image": "https://teefury.com/cdn/shop/files/106165-art-file-color-nav_d80f2570-0aac-44d2-81e9-dbf0b2355849_300x.jpg",
+    "price": 40,
+    "rating": 4.8,
+    "category": "animation"
+  },
+  {
+    "id": "7384523145282",
+    "title": "Maybe It Just Needs Love",
+    "image": "https://teefury.com/cdn/shop/files/124693-art-file-color-nav_da628a48-4cf2-4d32-a60b-5fad72869500_300x.jpg",
+    "price": 53,
+    "rating": 2.3,
+    "category": "animation"
+  },
+  {
+    "id": "4339025870914",
+    "title": "Bulb-O-Lantern",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_e8bfa581-26e8-48b5-b73b-23e1518d92e6_300x.jpg",
+    "price": 39,
+    "rating": 3.2,
+    "category": "animation"
+  },
+  {
+    "id": "4350139433026",
+    "title": "The Sushi Star",
+    "image": "https://teefury.com/cdn/shop/products/14614-art-file-color-hgr_ed78f201-3cbf-4976-b7bc-b7c3c834e37d_300x.jpg",
+    "price": 56,
+    "rating": 2.4,
+    "category": "animation"
+  },
+  {
+    "id": "4349906059330",
+    "title": "The Cookie Muncher",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_54b8c4f0-2003-4adb-9f10-797eee6e8902_300x.jpg",
+    "price": 30,
+    "rating": 1.8,
+    "category": "animation"
+  },
+  {
+    "id": "4321141653570",
+    "title": "Why So Curious?",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-pur_7d3eff53-f558-4c7f-994b-bcbb950b245e_300x.jpg",
+    "price": 33,
+    "rating": 3.7,
+    "category": "animation"
+  },
+  {
+    "id": "7493717459010",
+    "title": "Starry Train",
+    "image": "https://teefury.com/cdn/shop/files/131243-art-file-color-blk_960b7d2a-3cee-4b6a-9845-78ee0695adc0_300x.jpg",
+    "price": 52,
+    "rating": 4.0,
+    "category": "animation"
+  },
+  {
+    "id": "7083158405186",
+    "title": "Dungeons And Mysteries",
+    "image": "https://teefury.com/cdn/shop/files/110226-art-file-color-blk_f6600c31-74ad-49ce-89cc-634a914e7547_300x.jpg",
+    "price": 33,
+    "rating": 2.2,
+    "category": "animation"
+  },
+  {
+    "id": "6942183260226",
+    "title": "Love Robot Moon",
+    "image": "https://teefury.com/cdn/shop/files/102121-art-file-color-blk_6a49bb7f-5472-402f-943d-6c83523db490_300x.jpg",
+    "price": 46,
+    "rating": 4.5,
+    "category": "animation"
+  },
+  {
+    "id": "6779541553218",
+    "title": "The Witch Tarot",
+    "image": "https://teefury.com/cdn/shop/products/56576-art-file-color-blk_de91489a-d19f-40d7-857d-d1b1b3af780e_300x.jpg",
+    "price": 40,
+    "rating": 1.9,
+    "category": "animation"
+  },
+  {
+    "id": "4344423710786",
+    "title": "Sick Sad Fiction",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_74adddc0-067e-403d-92de-a895a83daeea_300x.jpg",
+    "price": 33,
+    "rating": 1.0,
+    "category": "animation"
+  },
+  {
+    "id": "6951922106434",
+    "title": "Emotional Support Animals",
+    "image": "https://teefury.com/cdn/shop/files/102833-art-file-color-nav_d40da65f-e6c5-4ed8-8729-b565b48e6963_300x.jpg",
+    "price": 47,
+    "rating": 2.0,
+    "category": "animation"
+  },
+  {
+    "id": "6921398386754",
+    "title": "The Hunny Pot",
+    "image": "https://teefury.com/cdn/shop/products/100682-art-file-color-hgr_300x.jpg",
+    "price": 36,
+    "rating": 1.9,
+    "category": "animation"
+  },
+  {
+    "id": "4760852889666",
+    "title": "Nurse 182",
+    "image": "https://teefury.com/cdn/shop/products/51797-art-file-color-blk_461f1482-bca1-4a4e-a48a-3d2a187bc45b_300x.jpg",
+    "price": 51,
+    "rating": 3.0,
+    "category": "animation"
+  },
+  {
+    "id": "4363376001090",
+    "title": "Noot Noot",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-nav_b3e69476-d8e2-42f6-88c8-5585b45419fc_300x.jpg",
+    "price": 44,
+    "rating": 3.3,
+    "category": "animation"
+  },
+  {
+    "id": "4338864390210",
+    "title": "Beer Chemistry",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_1f015eda-88c9-4da3-a32b-048587bb2fd6_300x.jpg",
+    "price": 36,
+    "rating": 2.9,
+    "category": "animation"
+  },
+  {
+    "id": "4338641010754",
+    "title": "Let It Snu!",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-cha_fd61791a-b5f5-49b4-8fa0-6d0fd9a5fd1b_300x.jpg",
+    "price": 50,
+    "rating": 2.6,
+    "category": "animation"
+  },
+  {
+    "id": "6547595460674",
+    "title": "Witched Cat",
+    "image": "https://teefury.com/cdn/shop/products/52280-art-file-color-blk_1fce5317-22de-486d-a61d-eccf5a0abce1_300x.jpg",
+    "price": 56,
+    "rating": 4.1,
+    "category": "animation"
+  }
+]

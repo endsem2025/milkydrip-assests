@@ -1,0 +1,802 @@
+[
+  {
+    "id": "7438636154946",
+    "title": "Beagle RPG Adventure",
+    "image": "https://teefury.com/cdn/shop/files/127329-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 32,
+    "rating": 2.5,
+    "category": "mugs"
+  },
+  {
+    "id": "7381994537026",
+    "title": "I Refuse To Tolerate Lactose",
+    "image": "https://teefury.com/cdn/shop/files/124452-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 21,
+    "rating": 1.9,
+    "category": "mugs"
+  },
+  {
+    "id": "7522993111106",
+    "title": "Santa Rosa Sluggers",
+    "image": "https://teefury.com/cdn/shop/files/133414-collection-drk-non-mug-color-crm_300x.jpg",
+    "price": 29,
+    "rating": 1.9,
+    "category": "mugs"
+  },
+  {
+    "id": "7515246657602",
+    "title": "Only Fangs",
+    "image": "https://teefury.com/cdn/shop/files/133034-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 52,
+    "rating": 3.7,
+    "category": "mugs"
+  },
+  {
+    "id": "7461479350338",
+    "title": "Starbug Coffee",
+    "image": "https://teefury.com/cdn/shop/files/128929-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 55,
+    "rating": 1.1,
+    "category": "mugs"
+  },
+  {
+    "id": "7446023929922",
+    "title": "I Drink Coffee To Protect You",
+    "image": "https://teefury.com/cdn/shop/files/127971-collection-drk-non-mug-color-crm_300x.jpg",
+    "price": 38,
+    "rating": 3.6,
+    "category": "mugs"
+  },
+  {
+    "id": "7438616690754",
+    "title": "That's What She Said",
+    "image": "https://teefury.com/cdn/shop/files/127338-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 59,
+    "rating": 2.8,
+    "category": "mugs"
+  },
+  {
+    "id": "7436519604290",
+    "title": "The Bears",
+    "image": "https://teefury.com/cdn/shop/files/127156-collection-drk-non-mug-color-crm_300x.jpg",
+    "price": 60,
+    "rating": 1.7,
+    "category": "mugs"
+  },
+  {
+    "id": "7434795810882",
+    "title": "Boastful",
+    "image": "https://teefury.com/cdn/shop/files/126929-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 35,
+    "rating": 1.6,
+    "category": "mugs"
+  },
+  {
+    "id": "7434833199170",
+    "title": "Two Carps",
+    "image": "https://teefury.com/cdn/shop/files/126894-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 55,
+    "rating": 4.5,
+    "category": "mugs"
+  },
+  {
+    "id": "7431443710018",
+    "title": "Crying Is A Free Action",
+    "image": "https://teefury.com/cdn/shop/files/126486-collection-drk-non-mug-color-nav_300x.jpg",
+    "price": 35,
+    "rating": 3.6,
+    "category": "mugs"
+  },
+  {
+    "id": "7429582749762",
+    "title": "In The Name Of Mercury",
+    "image": "https://teefury.com/cdn/shop/files/126400-collection-drk-non-mug-color-nav_300x.jpg",
+    "price": 41,
+    "rating": 4.9,
+    "category": "mugs"
+  },
+  {
+    "id": "7429579309122",
+    "title": "In The Name Of Jupiter",
+    "image": "https://teefury.com/cdn/shop/files/126402-collection-drk-non-mug-color-gre_300x.jpg",
+    "price": 44,
+    "rating": 3.9,
+    "category": "mugs"
+  },
+  {
+    "id": "7388691103810",
+    "title": "Sarcasm And Tech Support",
+    "image": "https://teefury.com/cdn/shop/files/124936-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 28,
+    "rating": 2.2,
+    "category": "mugs"
+  },
+  {
+    "id": "7378539872322",
+    "title": "Dear Santa I Can Explain",
+    "image": "https://teefury.com/cdn/shop/files/124225-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 44,
+    "rating": 4.9,
+    "category": "mugs"
+  },
+  {
+    "id": "7378386288706",
+    "title": "Enterprise Garage",
+    "image": "https://teefury.com/cdn/shop/files/124208-collection-drk-non-mug-color-whi_300x.jpg",
+    "price": 50,
+    "rating": 4.5,
+    "category": "mugs"
+  },
+  {
+    "id": "7368432549954",
+    "title": "No Mercy No Pity",
+    "image": "https://teefury.com/cdn/shop/files/123702-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 38,
+    "rating": 1.6,
+    "category": "mugs"
+  },
+  {
+    "id": "7368503099458",
+    "title": "Crows Before Bros",
+    "image": "https://teefury.com/cdn/shop/files/123741-collection-drk-non-mug-color-red_300x.jpg",
+    "price": 25,
+    "rating": 4.2,
+    "category": "mugs"
+  },
+  {
+    "id": "7368438120514",
+    "title": "Just Wanna Sleep All Day",
+    "image": "https://teefury.com/cdn/shop/files/123697-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 47,
+    "rating": 3.2,
+    "category": "mugs"
+  },
+  {
+    "id": "7368434778178",
+    "title": "Time Benders",
+    "image": "https://teefury.com/cdn/shop/files/123700-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 22,
+    "rating": 2.3,
+    "category": "mugs"
+  },
+  {
+    "id": "7365992644674",
+    "title": "The Guitar Wizard",
+    "image": "https://teefury.com/cdn/shop/files/123585-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 22,
+    "rating": 2.6,
+    "category": "mugs"
+  },
+  {
+    "id": "7365697962050",
+    "title": "Nostalgia Black Cat",
+    "image": "https://teefury.com/cdn/shop/files/123418-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 29,
+    "rating": 2.8,
+    "category": "mugs"
+  },
+  {
+    "id": "7365696847938",
+    "title": "Home Office Animal Support",
+    "image": "https://teefury.com/cdn/shop/files/123419-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 58,
+    "rating": 2.2,
+    "category": "mugs"
+  },
+  {
+    "id": "7365695701058",
+    "title": "Enjoy The Grind",
+    "image": "https://teefury.com/cdn/shop/files/123420-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 41,
+    "rating": 3.0,
+    "category": "mugs"
+  },
+  {
+    "id": "7365905875010",
+    "title": "Baby Pygmy Hippo",
+    "image": "https://teefury.com/cdn/shop/files/123467-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 45,
+    "rating": 3.8,
+    "category": "mugs"
+  },
+  {
+    "id": "7365902008386",
+    "title": "Pirate Hat",
+    "image": "https://teefury.com/cdn/shop/files/123470-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 33,
+    "rating": 2.7,
+    "category": "mugs"
+  },
+  {
+    "id": "7365932908610",
+    "title": "Scary Hippo",
+    "image": "https://teefury.com/cdn/shop/files/123445-collection-drk-non-mug-color-cha_300x.jpg",
+    "price": 58,
+    "rating": 4.6,
+    "category": "mugs"
+  },
+  {
+    "id": "7525825577026",
+    "title": "Have You Seen Him Shred",
+    "image": "https://teefury.com/cdn/shop/files/133831-collection-drk-non-mug-color-whi_300x.jpg",
+    "price": 58,
+    "rating": 1.4,
+    "category": "mugs"
+  },
+  {
+    "id": "7525824462914",
+    "title": "Plant The Future",
+    "image": "https://teefury.com/cdn/shop/files/133833-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 49,
+    "rating": 4.2,
+    "category": "mugs"
+  },
+  {
+    "id": "7525822890050",
+    "title": "Caffeine And Mental Instability",
+    "image": "https://teefury.com/cdn/shop/files/133834-collection-drk-non-mug-color-crm_300x.jpg",
+    "price": 51,
+    "rating": 2.8,
+    "category": "mugs"
+  },
+  {
+    "id": "7525821481026",
+    "title": "Cowabunga Couch Party",
+    "image": "https://teefury.com/cdn/shop/files/133835-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 48,
+    "rating": 1.7,
+    "category": "mugs"
+  },
+  {
+    "id": "7525819875394",
+    "title": "Ghost Autumn",
+    "image": "https://teefury.com/cdn/shop/files/133836-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 38,
+    "rating": 2.2,
+    "category": "mugs"
+  },
+  {
+    "id": "7525503631426",
+    "title": "Gen X Fest",
+    "image": "https://teefury.com/cdn/shop/files/133604-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 56,
+    "rating": 1.8,
+    "category": "mugs"
+  },
+  {
+    "id": "7525492981826",
+    "title": "FantaztiCar",
+    "image": "https://teefury.com/cdn/shop/files/133608-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 23,
+    "rating": 4.2,
+    "category": "mugs"
+  },
+  {
+    "id": "7525838848066",
+    "title": "Zakum Coffee Emblem",
+    "image": "https://teefury.com/cdn/shop/files/133825-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 52,
+    "rating": 2.2,
+    "category": "mugs"
+  },
+  {
+    "id": "7525837045826",
+    "title": "Ramen-tic Soul",
+    "image": "https://teefury.com/cdn/shop/files/133826-collection-drk-non-mug-color-red_300x.jpg",
+    "price": 20,
+    "rating": 2.1,
+    "category": "mugs"
+  },
+  {
+    "id": "7525834686530",
+    "title": "Crit Or Fumble",
+    "image": "https://teefury.com/cdn/shop/files/133827-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 42,
+    "rating": 1.3,
+    "category": "mugs"
+  },
+  {
+    "id": "7525830361154",
+    "title": "Overthinking World Champion",
+    "image": "https://teefury.com/cdn/shop/files/133828-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 52,
+    "rating": 4.6,
+    "category": "mugs"
+  },
+  {
+    "id": "7525828624450",
+    "title": "Mad Tea Cup",
+    "image": "https://teefury.com/cdn/shop/files/133829-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 55,
+    "rating": 4.4,
+    "category": "mugs"
+  },
+  {
+    "id": "7525827510338",
+    "title": "My Cozy Place",
+    "image": "https://teefury.com/cdn/shop/files/133830-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 52,
+    "rating": 1.5,
+    "category": "mugs"
+  },
+  {
+    "id": "7525518966850",
+    "title": "Vikings And Dragons",
+    "image": "https://teefury.com/cdn/shop/files/133600-collection-drk-non-mug-color-red_300x.jpg",
+    "price": 46,
+    "rating": 4.3,
+    "category": "mugs"
+  },
+  {
+    "id": "7525497503810",
+    "title": "Do The Pew",
+    "image": "https://teefury.com/cdn/shop/files/133606-collection-drk-non-mug-color-gre_300x.jpg",
+    "price": 54,
+    "rating": 3.6,
+    "category": "mugs"
+  },
+  {
+    "id": "7525847302210",
+    "title": "Tend To Your Growth",
+    "image": "https://teefury.com/cdn/shop/files/133819-collection-drk-non-mug-color-whi_300x.jpg",
+    "price": 58,
+    "rating": 1.2,
+    "category": "mugs"
+  },
+  {
+    "id": "7525845925954",
+    "title": "Cyber Menace",
+    "image": "https://teefury.com/cdn/shop/files/133820-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 29,
+    "rating": 2.9,
+    "category": "mugs"
+  },
+  {
+    "id": "7525844811842",
+    "title": "We Are Humans",
+    "image": "https://teefury.com/cdn/shop/files/133821-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 47,
+    "rating": 3.9,
+    "category": "mugs"
+  },
+  {
+    "id": "7525842911298",
+    "title": "Strong Trooper",
+    "image": "https://teefury.com/cdn/shop/files/133822-collection-drk-non-mug-color-cha_300x.jpg",
+    "price": 58,
+    "rating": 1.3,
+    "category": "mugs"
+  },
+  {
+    "id": "7525841698882",
+    "title": "Count Of Darkness",
+    "image": "https://teefury.com/cdn/shop/files/133823-collection-drk-non-mug-color-nav_300x.jpg",
+    "price": 26,
+    "rating": 3.8,
+    "category": "mugs"
+  },
+  {
+    "id": "7525840420930",
+    "title": "Sakamoto Convenience Store",
+    "image": "https://teefury.com/cdn/shop/files/133824-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 31,
+    "rating": 3.0,
+    "category": "mugs"
+  },
+  {
+    "id": "7525515362370",
+    "title": "Raider Of The Lost Mushroom",
+    "image": "https://teefury.com/cdn/shop/files/133601-collection-drk-non-mug-color-cha_300x.jpg",
+    "price": 23,
+    "rating": 1.5,
+    "category": "mugs"
+  },
+  {
+    "id": "7525509824578",
+    "title": "Retro Voyage",
+    "image": "https://teefury.com/cdn/shop/files/133603-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 34,
+    "rating": 4.4,
+    "category": "mugs"
+  },
+  {
+    "id": "7522935930946",
+    "title": "Beach Mode",
+    "image": "https://teefury.com/cdn/shop/files/133426-collection-drk-non-mug-color-tur_300x.jpg",
+    "price": 31,
+    "rating": 1.5,
+    "category": "mugs"
+  },
+  {
+    "id": "7522924101698",
+    "title": "Lead Expedition",
+    "image": "https://teefury.com/cdn/shop/files/133427-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 45,
+    "rating": 4.7,
+    "category": "mugs"
+  },
+  {
+    "id": "7522917679170",
+    "title": "Ohana Familia",
+    "image": "https://teefury.com/cdn/shop/files/133428-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 30,
+    "rating": 2.3,
+    "category": "mugs"
+  },
+  {
+    "id": "7522913419330",
+    "title": "Justice Days",
+    "image": "https://teefury.com/cdn/shop/files/133429-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 43,
+    "rating": 1.4,
+    "category": "mugs"
+  },
+  {
+    "id": "7522911944770",
+    "title": "Rock Paper Salute",
+    "image": "https://teefury.com/cdn/shop/files/133430-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 59,
+    "rating": 2.7,
+    "category": "mugs"
+  },
+  {
+    "id": "7522907127874",
+    "title": "Gargoyle Metal",
+    "image": "https://teefury.com/cdn/shop/files/133431-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 26,
+    "rating": 4.5,
+    "category": "mugs"
+  },
+  {
+    "id": "7522904342594",
+    "title": "Nocturnal Warrior Gargoyles",
+    "image": "https://teefury.com/cdn/shop/files/133432-collection-drk-non-mug-color-gre_300x.jpg",
+    "price": 38,
+    "rating": 2.2,
+    "category": "mugs"
+  },
+  {
+    "id": "7522901917762",
+    "title": "I Love Doing Nothing",
+    "image": "https://teefury.com/cdn/shop/files/133434-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 28,
+    "rating": 1.3,
+    "category": "mugs"
+  },
+  {
+    "id": "7522900082754",
+    "title": "Trash To Treasure",
+    "image": "https://teefury.com/cdn/shop/files/133433-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 60,
+    "rating": 1.9,
+    "category": "mugs"
+  },
+  {
+    "id": "7522900115522",
+    "title": "Capsule Specs",
+    "image": "https://teefury.com/cdn/shop/files/133435-collection-drk-non-mug-color-whi_300x.jpg",
+    "price": 55,
+    "rating": 3.5,
+    "category": "mugs"
+  },
+  {
+    "id": "7521198735426",
+    "title": "Strange Mysteries",
+    "image": "https://teefury.com/cdn/shop/files/133451-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 29,
+    "rating": 1.6,
+    "category": "mugs"
+  },
+  {
+    "id": "7525494915138",
+    "title": "Supertrooper",
+    "image": "https://teefury.com/cdn/shop/files/133607-collection-drk-non-mug-color-roy_300x.jpg",
+    "price": 47,
+    "rating": 4.0,
+    "category": "mugs"
+  },
+  {
+    "id": "7525485936706",
+    "title": "Rock On Thing",
+    "image": "https://teefury.com/cdn/shop/files/133609-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 26,
+    "rating": 2.3,
+    "category": "mugs"
+  },
+  {
+    "id": "7522988392514",
+    "title": "Anxiety Studies University",
+    "image": "https://teefury.com/cdn/shop/files/133416-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 23,
+    "rating": 2.6,
+    "category": "mugs"
+  },
+  {
+    "id": "7522978332738",
+    "title": "Space Pizza Delivery",
+    "image": "https://teefury.com/cdn/shop/files/133417-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 25,
+    "rating": 3.0,
+    "category": "mugs"
+  },
+  {
+    "id": "7522960801858",
+    "title": "Rainy Day Tiger Boy",
+    "image": "https://teefury.com/cdn/shop/files/133418-collection-drk-non-mug-color-nav_300x.jpg",
+    "price": 35,
+    "rating": 3.1,
+    "category": "mugs"
+  },
+  {
+    "id": "7522957721666",
+    "title": "Fight Movie Idiots",
+    "image": "https://teefury.com/cdn/shop/files/133419-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 25,
+    "rating": 1.7,
+    "category": "mugs"
+  },
+  {
+    "id": "7522955886658",
+    "title": "Days Of The Week",
+    "image": "https://teefury.com/cdn/shop/files/133420-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 29,
+    "rating": 4.2,
+    "category": "mugs"
+  },
+  {
+    "id": "7522953527362",
+    "title": "Goodbye Ozzy",
+    "image": "https://teefury.com/cdn/shop/files/133421-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 40,
+    "rating": 1.5,
+    "category": "mugs"
+  },
+  {
+    "id": "7522951299138",
+    "title": "Water Breathing Sumi-E",
+    "image": "https://teefury.com/cdn/shop/files/133422-collection-drk-non-mug-color-whi_300x.jpg",
+    "price": 30,
+    "rating": 4.8,
+    "category": "mugs"
+  },
+  {
+    "id": "7522949333058",
+    "title": "Water Breathing Hashira Sumi-E",
+    "image": "https://teefury.com/cdn/shop/files/133423-collection-drk-non-mug-color-whi_300x.jpg",
+    "price": 36,
+    "rating": 1.4,
+    "category": "mugs"
+  },
+  {
+    "id": "7522947399746",
+    "title": "Red Hot Stay Chill Peppers",
+    "image": "https://teefury.com/cdn/shop/files/133424-collection-drk-non-mug-color-blu_300x.jpg",
+    "price": 59,
+    "rating": 3.1,
+    "category": "mugs"
+  },
+  {
+    "id": "7522941632578",
+    "title": "Into The Bushes Dad",
+    "image": "https://teefury.com/cdn/shop/files/133425-collection-drk-non-mug-color-gre_300x.jpg",
+    "price": 24,
+    "rating": 3.2,
+    "category": "mugs"
+  },
+  {
+    "id": "7521201127490",
+    "title": "Living People Are Overrated",
+    "image": "https://teefury.com/cdn/shop/files/133450-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 39,
+    "rating": 2.3,
+    "category": "mugs"
+  },
+  {
+    "id": "7525522276418",
+    "title": "Goblin King Under The Snow",
+    "image": "https://teefury.com/cdn/shop/files/133599-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 34,
+    "rating": 1.5,
+    "category": "mugs"
+  },
+  {
+    "id": "7525513330754",
+    "title": "Derpy’s Love Ritual",
+    "image": "https://teefury.com/cdn/shop/files/133602-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 45,
+    "rating": 4.1,
+    "category": "mugs"
+  },
+  {
+    "id": "7523013525570",
+    "title": "Dead Inside But Still Aesthetic",
+    "image": "https://teefury.com/cdn/shop/files/133404-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 47,
+    "rating": 2.0,
+    "category": "mugs"
+  },
+  {
+    "id": "7523011461186",
+    "title": "Gargantua",
+    "image": "https://teefury.com/cdn/shop/files/133405-collection-drk-non-mug-color-nav_300x.jpg",
+    "price": 54,
+    "rating": 1.3,
+    "category": "mugs"
+  },
+  {
+    "id": "7523009134658",
+    "title": "Tantalus Theater Troupe Emblem",
+    "image": "https://teefury.com/cdn/shop/files/133406-collection-drk-non-mug-color-nav_300x.jpg",
+    "price": 46,
+    "rating": 1.3,
+    "category": "mugs"
+  },
+  {
+    "id": "7523006283842",
+    "title": "Prince Of Dark Roast",
+    "image": "https://teefury.com/cdn/shop/files/133407-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 28,
+    "rating": 1.1,
+    "category": "mugs"
+  },
+  {
+    "id": "7523005005890",
+    "title": "An Emotional Support Dragon",
+    "image": "https://teefury.com/cdn/shop/files/133408-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 52,
+    "rating": 2.0,
+    "category": "mugs"
+  },
+  {
+    "id": "7523003531330",
+    "title": "Nine Lives Non-Given",
+    "image": "https://teefury.com/cdn/shop/files/133409-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 21,
+    "rating": 3.4,
+    "category": "mugs"
+  },
+  {
+    "id": "7523001630786",
+    "title": "Rumi Demon Hunter",
+    "image": "https://teefury.com/cdn/shop/files/133410-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 55,
+    "rating": 2.4,
+    "category": "mugs"
+  },
+  {
+    "id": "7523000188994",
+    "title": "Dragons Live Here",
+    "image": "https://teefury.com/cdn/shop/files/133411-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 56,
+    "rating": 3.9,
+    "category": "mugs"
+  },
+  {
+    "id": "7522998124610",
+    "title": "Artsy Mage",
+    "image": "https://teefury.com/cdn/shop/files/133412-collection-drk-non-mug-color-whi_300x.jpg",
+    "price": 24,
+    "rating": 1.4,
+    "category": "mugs"
+  },
+  {
+    "id": "7522995863618",
+    "title": "Four Faces",
+    "image": "https://teefury.com/cdn/shop/files/133413-collection-drk-non-mug-color-nav_300x.jpg",
+    "price": 35,
+    "rating": 1.1,
+    "category": "mugs"
+  },
+  {
+    "id": "7522990456898",
+    "title": "Eat More Vegetables",
+    "image": "https://teefury.com/cdn/shop/files/133415-collection-drk-non-mug-color-crm_300x.jpg",
+    "price": 39,
+    "rating": 1.7,
+    "category": "mugs"
+  },
+  {
+    "id": "7521198604354",
+    "title": "Back Stab Boys",
+    "image": "https://teefury.com/cdn/shop/files/133449-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 25,
+    "rating": 3.0,
+    "category": "mugs"
+  },
+  {
+    "id": "7521175404610",
+    "title": "Friends With My Demons",
+    "image": "https://teefury.com/cdn/shop/files/133347-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 40,
+    "rating": 5.0,
+    "category": "mugs"
+  },
+  {
+    "id": "7521172258882",
+    "title": "Real Devil Before My Coffee",
+    "image": "https://teefury.com/cdn/shop/files/133349-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 49,
+    "rating": 3.2,
+    "category": "mugs"
+  },
+  {
+    "id": "7523039805506",
+    "title": "I Love You So Matcha",
+    "image": "https://teefury.com/cdn/shop/files/133392-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 31,
+    "rating": 1.1,
+    "category": "mugs"
+  },
+  {
+    "id": "7523037970498",
+    "title": "Thirsty Thursday",
+    "image": "https://teefury.com/cdn/shop/files/133393-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 58,
+    "rating": 2.4,
+    "category": "mugs"
+  },
+  {
+    "id": "7523035643970",
+    "title": "Rebel Heart",
+    "image": "https://teefury.com/cdn/shop/files/133394-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 26,
+    "rating": 2.4,
+    "category": "mugs"
+  },
+  {
+    "id": "7523033841730",
+    "title": "Proto Dome Robo Coffee Crest",
+    "image": "https://teefury.com/cdn/shop/files/133395-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 48,
+    "rating": 4.4,
+    "category": "mugs"
+  },
+  {
+    "id": "7523030663234",
+    "title": "Painting Of The Half-Demon",
+    "image": "https://teefury.com/cdn/shop/files/133396-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 28,
+    "rating": 3.6,
+    "category": "mugs"
+  },
+  {
+    "id": "7523029188674",
+    "title": "Rebel Alliance University",
+    "image": "https://teefury.com/cdn/shop/files/133397-collection-drk-non-mug-color-cha_300x.jpg",
+    "price": 44,
+    "rating": 4.5,
+    "category": "mugs"
+  },
+  {
+    "id": "7523027124290",
+    "title": "Get In Schooler",
+    "image": "https://teefury.com/cdn/shop/files/133398-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 22,
+    "rating": 1.6,
+    "category": "mugs"
+  },
+  {
+    "id": "7523024830530",
+    "title": "Spooky Cat Night",
+    "image": "https://teefury.com/cdn/shop/files/133399-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 58,
+    "rating": 2.9,
+    "category": "mugs"
+  },
+  {
+    "id": "7523022864450",
+    "title": "Everything Is Awful",
+    "image": "https://teefury.com/cdn/shop/files/133400-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 55,
+    "rating": 4.8,
+    "category": "mugs"
+  },
+  {
+    "id": "7523020996674",
+    "title": "Paint It Wednesday",
+    "image": "https://teefury.com/cdn/shop/files/133401-collection-drk-non-mug-color-blk_300x.jpg",
+    "price": 48,
+    "rating": 2.7,
+    "category": "mugs"
+  }
+]

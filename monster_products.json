@@ -1,0 +1,794 @@
+[
+  {
+    "id": "4621455786050",
+    "title": "Khorne Flakes",
+    "image": "https://teefury.com/cdn/shop/products/50768-art-file-color-blk_300x.jpg",
+    "price": 49,
+    "rating": 3.7,
+    "category": "monster"
+  },
+  {
+    "id": "4426361602114",
+    "title": "Wild Hunt Silhouette",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_27bd8287-b25d-46e2-9bbc-0402d3e95324_300x.jpg",
+    "price": 52,
+    "rating": 1.1,
+    "category": "monster"
+  },
+  {
+    "id": "6748817555522",
+    "title": "Don't Hate The Flayer",
+    "image": "https://teefury.com/cdn/shop/products/55729-art-file-color-blk_929c6eb9-7ad2-4810-8c8a-d96f11a3a0cc_300x.jpg",
+    "price": 55,
+    "rating": 2.9,
+    "category": "monster"
+  },
+  {
+    "id": "6860600508482",
+    "title": "Kap'n Krunch",
+    "image": "https://teefury.com/cdn/shop/products/58548-art-file-color-blk_795c24a1-3b06-4096-9fef-a39efba9189c_300x.jpg",
+    "price": 47,
+    "rating": 3.0,
+    "category": "monster"
+  },
+  {
+    "id": "4304384032834",
+    "title": "Obey Cthulhu",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-red_08a5fb27-e01d-4c5b-a911-5ea57ca32488_300x.jpg",
+    "price": 36,
+    "rating": 3.6,
+    "category": "monster"
+  },
+  {
+    "id": "4426360750146",
+    "title": "Toss a Coin",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-nav_52db0839-0b3e-4e24-8f34-1ce085eb1133_300x.jpg",
+    "price": 48,
+    "rating": 1.7,
+    "category": "monster"
+  },
+  {
+    "id": "4363346051138",
+    "title": "CTHULHU UKIYO-E",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-crm_2b13a158-d823-402a-8802-b47966653322_300x.jpg",
+    "price": 46,
+    "rating": 2.4,
+    "category": "monster"
+  },
+  {
+    "id": "6769272717378",
+    "title": "Monsters",
+    "image": "https://teefury.com/cdn/shop/products/56300-art-file-color-blk_12afe84e-1817-43a9-9a48-6e9c16e32289_300x.jpg",
+    "price": 37,
+    "rating": 4.8,
+    "category": "monster"
+  },
+  {
+    "id": "4321106165826",
+    "title": "Where the Wild Kaiju Are",
+    "image": "https://teefury.com/cdn/shop/products/11197-art-file-color-blk_a8a5fccc-d76b-4784-bb93-e6244ab416c4_300x.jpg",
+    "price": 38,
+    "rating": 2.3,
+    "category": "monster"
+  },
+  {
+    "id": "4490803216450",
+    "title": "Ancient Moth Ukiyo-E",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-nav_9d8e57b6-de80-4556-8669-1c635f9435b3_300x.jpg",
+    "price": 38,
+    "rating": 4.1,
+    "category": "monster"
+  },
+  {
+    "id": "4325910052930",
+    "title": "Miskatonic History Society",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_1cde4b10-54ee-473b-b77b-ea94fca91b8f_300x.jpg",
+    "price": 57,
+    "rating": 3.3,
+    "category": "monster"
+  },
+  {
+    "id": "6898188058690",
+    "title": "UltraBro",
+    "image": "https://teefury.com/cdn/shop/products/59800-art-file-color-blk_300x.jpg",
+    "price": 39,
+    "rating": 3.2,
+    "category": "monster"
+  },
+  {
+    "id": "4415294767170",
+    "title": "Wolf Medallion",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_46164f1a-fe1d-4269-a5dc-dcbb3076f3a9_300x.jpg",
+    "price": 56,
+    "rating": 4.3,
+    "category": "monster"
+  },
+  {
+    "id": "4335978938434",
+    "title": "Cthookie Monster",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_86824623-cf5c-483d-be96-016eca3236ed_300x.jpg",
+    "price": 29,
+    "rating": 2.3,
+    "category": "monster"
+  },
+  {
+    "id": "6952441839682",
+    "title": "Black Lagoon Swim Club",
+    "image": "https://teefury.com/cdn/shop/files/103421-art-file-color-blk_fc279b2b-f536-43f4-b4d8-bd9018a35799_300x.jpg",
+    "price": 39,
+    "rating": 4.4,
+    "category": "monster"
+  },
+  {
+    "id": "4350003576898",
+    "title": "The Hunter of Rivia",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_2ea822b8-cda0-4e6b-aa81-ebc7a11a9a08_300x.jpg",
+    "price": 24,
+    "rating": 3.8,
+    "category": "monster"
+  },
+  {
+    "id": "6937907920962",
+    "title": "Kaiju Battle Player",
+    "image": "https://teefury.com/cdn/shop/files/101440-art-file-color-nav_8d4ec001-6ec2-47cf-9004-916a3a5057bb_300x.jpg",
+    "price": 47,
+    "rating": 2.1,
+    "category": "monster"
+  },
+  {
+    "id": "6547600212034",
+    "title": "Saxsquatch",
+    "image": "https://teefury.com/cdn/shop/products/52286-art-file-color-dch_300x.jpg",
+    "price": 26,
+    "rating": 1.7,
+    "category": "monster"
+  },
+  {
+    "id": "4697494388802",
+    "title": "Despite Everything",
+    "image": "https://teefury.com/cdn/shop/products/51278-art-file-color-nav_300x.jpg",
+    "price": 48,
+    "rating": 4.7,
+    "category": "monster"
+  },
+  {
+    "id": "7314330255426",
+    "title": "Cthulhu For President",
+    "image": "https://teefury.com/cdn/shop/files/120375-art-file-color-blk_f8f25cfd-4033-43db-959b-a7a8c2f35c36_300x.jpg",
+    "price": 24,
+    "rating": 1.2,
+    "category": "monster"
+  },
+  {
+    "id": "6863299543106",
+    "title": "Ragnar's Ice Krispies",
+    "image": "https://teefury.com/cdn/shop/products/58667-art-file-color-blk_300x.jpg",
+    "price": 48,
+    "rating": 1.6,
+    "category": "monster"
+  },
+  {
+    "id": "7481517736002",
+    "title": "The Universal Era",
+    "image": "https://teefury.com/cdn/shop/files/130577-art-file-color-blk_791774f0-b168-4917-bd3c-b61468610d24_300x.jpg",
+    "price": 36,
+    "rating": 3.4,
+    "category": "monster"
+  },
+  {
+    "id": "6909506256962",
+    "title": "Fighting Cthulhus",
+    "image": "https://teefury.com/cdn/shop/products/60181-art-file-color-blk_7c7fccd3-3aa5-466e-861c-d44ddc1c6f27_300x.jpg",
+    "price": 25,
+    "rating": 3.9,
+    "category": "monster"
+  },
+  {
+    "id": "4433210474562",
+    "title": "Grungewolf",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-nav_7d8b76bf-26da-40bd-91bb-8834d29a9dfb_300x.jpg",
+    "price": 32,
+    "rating": 2.2,
+    "category": "monster"
+  },
+  {
+    "id": "4540222079042",
+    "title": "2077",
+    "image": "https://teefury.com/cdn/shop/products/50459-art-file-color-blk_300x.jpg",
+    "price": 21,
+    "rating": 2.3,
+    "category": "monster"
+  },
+  {
+    "id": "4350082646082",
+    "title": "The Old God of R'lyeh",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_887373c7-ae4c-48ff-8f06-6fdecfc652e1_300x.jpg",
+    "price": 33,
+    "rating": 2.1,
+    "category": "monster"
+  },
+  {
+    "id": "4702224089154",
+    "title": "Demon Role Play",
+    "image": "https://teefury.com/cdn/shop/products/51326-art-file-color-nav_300x.jpg",
+    "price": 27,
+    "rating": 3.8,
+    "category": "monster"
+  },
+  {
+    "id": "4363342413890",
+    "title": "Call of Christmas",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_984577d0-d184-4a29-9d2e-4348db8b8c0d_300x.jpg",
+    "price": 39,
+    "rating": 3.5,
+    "category": "monster"
+  },
+  {
+    "id": "6685005480002",
+    "title": "Black The Tako Sushi",
+    "image": "https://teefury.com/cdn/shop/products/54211-art-file-color-nav_300x.jpg",
+    "price": 28,
+    "rating": 3.2,
+    "category": "monster"
+  },
+  {
+    "id": "7478819029058",
+    "title": "The Monsters BW",
+    "image": "https://teefury.com/cdn/shop/files/130342-art-file-color-blk_5a0ffdec-a0a7-4573-a250-ce10c259a22a_300x.jpg",
+    "price": 21,
+    "rating": 1.3,
+    "category": "monster"
+  },
+  {
+    "id": "4564061552706",
+    "title": "Starry Kaer Morhen",
+    "image": "https://teefury.com/cdn/shop/products/50531-art-file-color-nav_620d15a3-f319-4ecb-a65a-6bf7a90433cc_300x.jpg",
+    "price": 57,
+    "rating": 1.5,
+    "category": "monster"
+  },
+  {
+    "id": "4321116651586",
+    "title": "White Wolf vs The Griffin",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_17d2218f-2d52-478e-991e-5f815ba81591_300x.jpg",
+    "price": 27,
+    "rating": 4.1,
+    "category": "monster"
+  },
+  {
+    "id": "6915985440834",
+    "title": "Cutethulhu Loves",
+    "image": "https://teefury.com/cdn/shop/products/100399-art-file-color-blk_8fe182f7-8d68-4f09-83f0-79358747a9b0_300x.jpg",
+    "price": 25,
+    "rating": 2.7,
+    "category": "monster"
+  },
+  {
+    "id": "7327294586946",
+    "title": "Emotional Support Cthulhu",
+    "image": "https://teefury.com/cdn/shop/files/121425-art-file-color-blk_0c7a4b73-f573-4876-9ab5-31f7553b05a9_300x.jpg",
+    "price": 40,
+    "rating": 3.9,
+    "category": "monster"
+  },
+  {
+    "id": "4335611248706",
+    "title": "Cathulhu",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_aab091b5-fb87-40eb-93e3-edb42292b83a_300x.jpg",
+    "price": 23,
+    "rating": 3.1,
+    "category": "monster"
+  },
+  {
+    "id": "7449734152258",
+    "title": "Visit Perfection",
+    "image": "https://teefury.com/cdn/shop/files/128166-art-file-color-red_0845682e-d60a-43f2-ba3f-bbf08ccb483f_300x.jpg",
+    "price": 35,
+    "rating": 1.3,
+    "category": "monster"
+  },
+  {
+    "id": "7165349789762",
+    "title": "Cthulhu On Peanuts House",
+    "image": "https://teefury.com/cdn/shop/files/111539-art-file-color-blk_013c9502-9d07-4cea-9791-710d63b5b2bd_300x.jpg",
+    "price": 60,
+    "rating": 1.9,
+    "category": "monster"
+  },
+  {
+    "id": "6595595829314",
+    "title": "Black Lagoon Vibes",
+    "image": "https://teefury.com/cdn/shop/products/52911-art-file-color-tur_300x.jpg",
+    "price": 36,
+    "rating": 1.7,
+    "category": "monster"
+  },
+  {
+    "id": "6613270954050",
+    "title": "Witcher NES Blackbox",
+    "image": "https://teefury.com/cdn/shop/products/53169-art-file-color-blk_300x.jpg",
+    "price": 26,
+    "rating": 4.7,
+    "category": "monster"
+  },
+  {
+    "id": "6905258082370",
+    "title": "Eyes Of Underdark",
+    "image": "https://teefury.com/cdn/shop/products/60062-art-file-color-blk_300x.jpg",
+    "price": 54,
+    "rating": 1.1,
+    "category": "monster"
+  },
+  {
+    "id": "6544333996098",
+    "title": "Cult of Cthulhu",
+    "image": "https://teefury.com/cdn/shop/products/52242-art-file-color-blk_585d4ec4-c01c-4c7f-b8f7-43cec38e9abf_300x.jpg",
+    "price": 25,
+    "rating": 4.8,
+    "category": "monster"
+  },
+  {
+    "id": "4328076378178",
+    "title": "Refuse Tyranny, Obey Cthulhu",
+    "image": "https://teefury.com/cdn/shop/products/16113-art-file-color-cha_ab4cabc9-b163-4029-b902-373605b1ae29_300x.jpg",
+    "price": 27,
+    "rating": 2.7,
+    "category": "monster"
+  },
+  {
+    "id": "7083017994306",
+    "title": "RPG Trust Issues",
+    "image": "https://teefury.com/cdn/shop/files/110214-art-file-color-blk_f2a812eb-e09c-4649-a562-3e2e6b5b0927_300x.jpg",
+    "price": 53,
+    "rating": 4.3,
+    "category": "monster"
+  },
+  {
+    "id": "4350327390274",
+    "title": "Two Routes",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_57fd1abd-1f7e-409c-8b22-487e7a5bf18f_300x.jpg",
+    "price": 57,
+    "rating": 2.2,
+    "category": "monster"
+  },
+  {
+    "id": "4321429160002",
+    "title": "Wild Hunter",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_687ca717-b6f9-43c6-80ff-72dc5a403dd2_300x.jpg",
+    "price": 37,
+    "rating": 3.8,
+    "category": "monster"
+  },
+  {
+    "id": "4305055219778",
+    "title": "Night Terror",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_2309f251-0ae8-475e-bbc9-f3dcae6f6d59_300x.jpg",
+    "price": 32,
+    "rating": 2.7,
+    "category": "monster"
+  },
+  {
+    "id": "6905104662594",
+    "title": "Cold Ones LoveCraft Beer",
+    "image": "https://teefury.com/cdn/shop/products/60019-art-file-color-blk_300x.jpg",
+    "price": 57,
+    "rating": 1.9,
+    "category": "monster"
+  },
+  {
+    "id": "4350161780802",
+    "title": "The Witcher Sumi-e",
+    "image": "https://teefury.com/cdn/shop/products/14667-art-file-color-hgr_382a929f-ecee-40cc-a7f6-f21389104c11_300x.jpg",
+    "price": 49,
+    "rating": 4.1,
+    "category": "monster"
+  },
+  {
+    "id": "6752933314626",
+    "title": "Sans Lazy Bones",
+    "image": "https://teefury.com/cdn/shop/products/55865-art-file-color-nav_300x.jpg",
+    "price": 29,
+    "rating": 3.7,
+    "category": "monster"
+  },
+  {
+    "id": "6860757434434",
+    "title": "Great Old One In Japan",
+    "image": "https://teefury.com/cdn/shop/products/58605-art-file-color-blk_300x.jpg",
+    "price": 29,
+    "rating": 1.5,
+    "category": "monster"
+  },
+  {
+    "id": "4603466055746",
+    "title": "Call of Snoophulhu",
+    "image": "https://teefury.com/cdn/shop/products/17062-art-file-color-roy_300x.jpg",
+    "price": 35,
+    "rating": 2.8,
+    "category": "monster"
+  },
+  {
+    "id": "4321295433794",
+    "title": "Val & Earl's Work for Hire",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-cha_665e720b-64c4-4d46-bdf8-d99ec9fabe1a_300x.jpg",
+    "price": 37,
+    "rating": 1.2,
+    "category": "monster"
+  },
+  {
+    "id": "7493751996482",
+    "title": "Van Ghoulhu",
+    "image": "https://teefury.com/cdn/shop/files/131231-art-file-color-blk_afde2fff-913f-49bd-b984-4f9e83b06a7c_300x.jpg",
+    "price": 56,
+    "rating": 2.6,
+    "category": "monster"
+  },
+  {
+    "id": "7131081867330",
+    "title": "Dogzilla",
+    "image": "https://teefury.com/cdn/shop/files/111175-art-file-color-blk_90e9519b-000b-49ce-b731-bdc072bd1635_300x.jpg",
+    "price": 23,
+    "rating": 4.7,
+    "category": "monster"
+  },
+  {
+    "id": "7097929203778",
+    "title": "Friendly Monsters Club",
+    "image": "https://teefury.com/cdn/shop/files/110725-art-file-color-blk_8e7a3477-886c-43d7-a36a-e281d0298b45_300x.jpg",
+    "price": 34,
+    "rating": 1.4,
+    "category": "monster"
+  },
+  {
+    "id": "6910101782594",
+    "title": "The Giant Cat Crab",
+    "image": "https://teefury.com/cdn/shop/products/100208-art-file-color-blk_300x.jpg",
+    "price": 60,
+    "rating": 4.5,
+    "category": "monster"
+  },
+  {
+    "id": "4330162126914",
+    "title": "Dark God Rises",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_0fd482d2-e401-4e3a-8101-96f18c84ba76_300x.jpg",
+    "price": 27,
+    "rating": 3.9,
+    "category": "monster"
+  },
+  {
+    "id": "4325911167042",
+    "title": "Miskatonic University",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_baca4323-b13a-40de-9866-0213ae5a9505_300x.jpg",
+    "price": 47,
+    "rating": 3.4,
+    "category": "monster"
+  },
+  {
+    "id": "7033941098562",
+    "title": "Great Old One Sumi-e",
+    "image": "https://teefury.com/cdn/shop/files/108051-art-file-color-whi_d0abfd3f-9fd8-4b90-9b40-5f27ce9ef00a_300x.jpg",
+    "price": 33,
+    "rating": 2.1,
+    "category": "monster"
+  },
+  {
+    "id": "6680992022594",
+    "title": "Flaying The Mind",
+    "image": "https://teefury.com/cdn/shop/products/54104-art-file-color-blk_300x.jpg",
+    "price": 24,
+    "rating": 3.8,
+    "category": "monster"
+  },
+  {
+    "id": "7511480205378",
+    "title": "Cthulhu Coffee Co",
+    "image": "https://teefury.com/cdn/shop/files/132730-art-file-color-crm_5b446f6c-9541-4b35-8055-ad44ceaefa9a_300x.jpg",
+    "price": 35,
+    "rating": 4.7,
+    "category": "monster"
+  },
+  {
+    "id": "7461505695810",
+    "title": "RPG Mimic Meal",
+    "image": "https://teefury.com/cdn/shop/files/129235-art-file-color-blk_00032a7a-7964-4e3f-b982-fcf45117617d_300x.jpg",
+    "price": 20,
+    "rating": 1.6,
+    "category": "monster"
+  },
+  {
+    "id": "7434713956418",
+    "title": "Highly Dangerous When Hungry",
+    "image": "https://teefury.com/cdn/shop/files/126880-art-file-color-blk_f8adee23-0e02-4bd7-985d-2245980d20bd_300x.jpg",
+    "price": 22,
+    "rating": 4.1,
+    "category": "monster"
+  },
+  {
+    "id": "7344764158018",
+    "title": "Creatures From The Deep",
+    "image": "https://teefury.com/cdn/shop/files/122255-art-file-color-blk_b97ce942-346e-49dd-bb24-f452dc82f59c_300x.jpg",
+    "price": 38,
+    "rating": 4.1,
+    "category": "monster"
+  },
+  {
+    "id": "7458322088002",
+    "title": "Grateful Undead",
+    "image": "https://teefury.com/cdn/shop/files/128744-art-file-color-blk_44a525f4-59e7-4368-addc-33c30db3fbae_300x.jpg",
+    "price": 42,
+    "rating": 1.9,
+    "category": "monster"
+  },
+  {
+    "id": "7434816258114",
+    "title": "Great Cthulhu In Japan Woodblock",
+    "image": "https://teefury.com/cdn/shop/files/126909-art-file-color-blk_871f8c4d-c3b5-4350-be74-d1975f3372f0_300x.jpg",
+    "price": 38,
+    "rating": 3.7,
+    "category": "monster"
+  },
+  {
+    "id": "7374056816706",
+    "title": "Vote Cthulhu Destruction",
+    "image": "https://teefury.com/cdn/shop/files/123968-art-file-color-blk_b37f3177-1c3b-4e27-964b-9c125faa7ddf_300x.jpg",
+    "price": 43,
+    "rating": 1.3,
+    "category": "monster"
+  },
+  {
+    "id": "6667217010754",
+    "title": "Creature's Meltdown",
+    "image": "https://teefury.com/cdn/shop/products/53845-art-file-color-blk_12f574d9-b0ad-4ce1-b65d-e3f28b7a7efa_300x.jpg",
+    "price": 55,
+    "rating": 3.5,
+    "category": "monster"
+  },
+  {
+    "id": "4326046695490",
+    "title": "My Little Demo-Dog",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_01ff3b7f-8e47-43dc-a434-8ac7f987efab_300x.jpg",
+    "price": 57,
+    "rating": 1.8,
+    "category": "monster"
+  },
+  {
+    "id": "7434722213954",
+    "title": "The Entity Tarot",
+    "image": "https://teefury.com/cdn/shop/files/126873-art-file-color-blk_7dd30d11-1a9b-4d56-83e9-5af8337dcc99_300x.jpg",
+    "price": 29,
+    "rating": 4.6,
+    "category": "monster"
+  },
+  {
+    "id": "7050014261314",
+    "title": "Mosasaurus Fossils",
+    "image": "https://teefury.com/cdn/shop/files/108875-art-file-color-blk_f29863d6-7685-4669-8e9a-ebc582d2fb6a_300x.jpg",
+    "price": 29,
+    "rating": 1.4,
+    "category": "monster"
+  },
+  {
+    "id": "6965857779778",
+    "title": "The Monster Trio",
+    "image": "https://teefury.com/cdn/shop/files/105625-art-file-color-blk_60b7194e-97d8-48a5-9ae1-e093141255d1_300x.jpg",
+    "price": 29,
+    "rating": 4.7,
+    "category": "monster"
+  },
+  {
+    "id": "6953591373890",
+    "title": "Pirate Beholder",
+    "image": "https://teefury.com/cdn/shop/files/103741-art-file-color-blk_14d49095-cc51-4dad-8e18-3434c2ad0a68_300x.jpg",
+    "price": 44,
+    "rating": 2.5,
+    "category": "monster"
+  },
+  {
+    "id": "6825008889922",
+    "title": "Tremor",
+    "image": "https://teefury.com/cdn/shop/products/57563-art-file-color-nav_82dfe50f-397f-40f0-ba4d-58ef1f47bf15_300x.jpg",
+    "price": 56,
+    "rating": 3.0,
+    "category": "monster"
+  },
+  {
+    "id": "6910082547778",
+    "title": "Cthulhu Says Hi",
+    "image": "https://teefury.com/cdn/shop/products/100197-art-file-color-blk_300x.jpg",
+    "price": 37,
+    "rating": 3.8,
+    "category": "monster"
+  },
+  {
+    "id": "6832997007426",
+    "title": "Demon Dice",
+    "image": "https://teefury.com/cdn/shop/products/57825-art-file-color-nav_52c52314-6b5e-4817-a543-5f4c1e897716_300x.jpg",
+    "price": 54,
+    "rating": 1.0,
+    "category": "monster"
+  },
+  {
+    "id": "6670575009858",
+    "title": "Merry Squatchmas",
+    "image": "https://teefury.com/cdn/shop/products/53900-art-file-color-blk_300x.jpg",
+    "price": 23,
+    "rating": 2.4,
+    "category": "monster"
+  },
+  {
+    "id": "6626057814082",
+    "title": "The Calls Of Cthulhu",
+    "image": "https://teefury.com/cdn/shop/products/53315-art-file-color-blk_be85f72f-2f7f-485e-80b0-41cbe72a5361_300x.jpg",
+    "price": 52,
+    "rating": 3.6,
+    "category": "monster"
+  },
+  {
+    "id": "4363355095106",
+    "title": "Harryhausen Fiend Club",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_d6c8700c-cff3-47e7-86f3-39fc679564e2_300x.jpg",
+    "price": 58,
+    "rating": 2.1,
+    "category": "monster"
+  },
+  {
+    "id": "4350004887618",
+    "title": "The Idol",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_e7e7a8f9-2ce1-48a8-b8db-3bc326cbe5f9_300x.jpg",
+    "price": 52,
+    "rating": 4.2,
+    "category": "monster"
+  },
+  {
+    "id": "4339006046274",
+    "title": "Broccozilla",
+    "image": "https://teefury.com/cdn/shop/products/32338-art-file-color-whi_7bc563cc-64cd-48e9-b508-1ec938854bf4_300x.jpg",
+    "price": 56,
+    "rating": 2.1,
+    "category": "monster"
+  },
+  {
+    "id": "4335992504386",
+    "title": "Cthulhu's Church",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_9e85e72b-06c0-48ce-8307-fbf28282bc69_300x.jpg",
+    "price": 52,
+    "rating": 3.9,
+    "category": "monster"
+  },
+  {
+    "id": "7453317267522",
+    "title": "Beware Ogre",
+    "image": "https://teefury.com/cdn/shop/files/128478-art-file-color-gre_b2b894f5-7fae-4be5-96e2-bd0a8ce79621_300x.jpg",
+    "price": 31,
+    "rating": 4.9,
+    "category": "monster"
+  },
+  {
+    "id": "7344772317250",
+    "title": "Frankenvader",
+    "image": "https://teefury.com/cdn/shop/files/122247-art-file-color-blk_053ae051-e1c1-4136-9409-c04089a4b52e_300x.jpg",
+    "price": 29,
+    "rating": 1.9,
+    "category": "monster"
+  },
+  {
+    "id": "7083102797890",
+    "title": "Raccoon City",
+    "image": "https://teefury.com/cdn/shop/files/110168-art-file-color-blk_204675e6-5882-434b-8fd8-56ed1cf1d76d_300x.jpg",
+    "price": 24,
+    "rating": 3.4,
+    "category": "monster"
+  },
+  {
+    "id": "7024159457346",
+    "title": "Tromaville Avengers",
+    "image": "https://teefury.com/cdn/shop/files/107518-art-file-color-blk_47a914b3-9c69-4d12-89ad-6ec7bf74e0e6_300x.jpg",
+    "price": 38,
+    "rating": 1.1,
+    "category": "monster"
+  },
+  {
+    "id": "6955035721794",
+    "title": "Digital Monsters",
+    "image": "https://teefury.com/cdn/shop/files/103963-art-file-color-roy_66a3d515-e79e-4b12-91d0-61a606158ed7_300x.jpg",
+    "price": 30,
+    "rating": 2.4,
+    "category": "monster"
+  },
+  {
+    "id": "6952335507522",
+    "title": "Skull Island Survivors Club",
+    "image": "https://teefury.com/cdn/shop/files/103482-art-file-color-blk_79e40528-3f54-46be-9a80-a8a57befbab5_300x.jpg",
+    "price": 43,
+    "rating": 4.7,
+    "category": "monster"
+  },
+  {
+    "id": "6912051281986",
+    "title": "Cthulhumurai",
+    "image": "https://teefury.com/cdn/shop/products/100264-art-file-color-nav_300x.jpg",
+    "price": 52,
+    "rating": 1.7,
+    "category": "monster"
+  },
+  {
+    "id": "6844200681538",
+    "title": "A Lovecraft Christmas",
+    "image": "https://teefury.com/cdn/shop/products/58069-art-file-color-blk_49838f3d-f6d4-411e-9848-21f220c17fd8_300x.jpg",
+    "price": 39,
+    "rating": 3.3,
+    "category": "monster"
+  },
+  {
+    "id": "6760488828994",
+    "title": "Creature's Tiki Lounge",
+    "image": "https://teefury.com/cdn/shop/products/56025-art-file-color-blk_300x.jpg",
+    "price": 55,
+    "rating": 1.2,
+    "category": "monster"
+  },
+  {
+    "id": "6730209820738",
+    "title": "The Call of Cathulhu",
+    "image": "https://teefury.com/cdn/shop/products/55225-art-file-color-blk_300x.jpg",
+    "price": 56,
+    "rating": 3.5,
+    "category": "monster"
+  },
+  {
+    "id": "6705904549954",
+    "title": "Forest Monster",
+    "image": "https://teefury.com/cdn/shop/products/54619-art-file-color-crm_300x.jpg",
+    "price": 23,
+    "rating": 1.6,
+    "category": "monster"
+  },
+  {
+    "id": "4633798443074",
+    "title": "Metal Monster",
+    "image": "https://teefury.com/cdn/shop/products/50797-art-file-color-blk_f13350c7-6790-40b5-b56a-dadbf8353588_300x.jpg",
+    "price": 21,
+    "rating": 2.3,
+    "category": "monster"
+  },
+  {
+    "id": "4363346411586",
+    "title": "Cthuluau-Moonlight Variant",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_12e35410-022b-4db2-b556-cba3c6c782d1_300x.jpg",
+    "price": 28,
+    "rating": 4.8,
+    "category": "monster"
+  },
+  {
+    "id": "4335901376578",
+    "title": "Cosmic Symbology",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_c38cef36-f387-4378-aeda-87836c1026e9_300x.jpg",
+    "price": 57,
+    "rating": 1.5,
+    "category": "monster"
+  },
+  {
+    "id": "7461767249986",
+    "title": "Anything Lamp",
+    "image": "https://teefury.com/cdn/shop/files/129167-art-file-color-blk_0be00ced-09eb-47d7-a2da-c97308c11523_300x.jpg",
+    "price": 47,
+    "rating": 2.5,
+    "category": "monster"
+  },
+  {
+    "id": "7338353524802",
+    "title": "Welcome To The Perfection",
+    "image": "https://teefury.com/cdn/shop/files/121904-art-file-color-blk_c1a13502-2f24-4f92-8717-4b1061016dc1_300x.jpg",
+    "price": 52,
+    "rating": 4.6,
+    "category": "monster"
+  },
+  {
+    "id": "7327465013314",
+    "title": "Miskatonic Metaphysics Dept",
+    "image": "https://teefury.com/cdn/shop/files/121473-art-file-color-blk_a9b297d7-2d3e-4e77-9322-f3cc5c04eed0_300x.jpg",
+    "price": 30,
+    "rating": 1.7,
+    "category": "monster"
+  }
+]

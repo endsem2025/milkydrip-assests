@@ -1,0 +1,42 @@
+[
+  {
+    "id": "6577405263938",
+    "title": "Tee Bird Classic Pocket",
+    "image": "https://teefury.com/cdn/shop/products/52638-collection-tee-men-bas-color-whi_300x.jpg",
+    "price": 29,
+    "rating": 4.2,
+    "category": "teefury-branded"
+  },
+  {
+    "id": "6577341268034",
+    "title": "Fury Pocket",
+    "image": "https://teefury.com/cdn/shop/products/52641-collection-tee-men-bas-color-blk_300x.jpg",
+    "price": 35,
+    "rating": 4.5,
+    "category": "teefury-branded"
+  },
+  {
+    "id": "6577339105346",
+    "title": "Fury Classic Pocket",
+    "image": "https://teefury.com/cdn/shop/products/52640-collection-tee-men-bas-color-whi_300x.jpg",
+    "price": 25,
+    "rating": 1.5,
+    "category": "teefury-branded"
+  },
+  {
+    "id": "6577332682818",
+    "title": "Fury",
+    "image": "https://teefury.com/cdn/shop/products/52637-collection-tee-men-bas-color-blk_300x.jpg",
+    "price": 34,
+    "rating": 4.5,
+    "category": "teefury-branded"
+  },
+  {
+    "id": "6577332650050",
+    "title": "Fury Classic",
+    "image": "https://teefury.com/cdn/shop/products/52636-collection-tee-men-bas-color-whi_300x.jpg",
+    "price": 20,
+    "rating": 1.0,
+    "category": "teefury-branded"
+  }
+]

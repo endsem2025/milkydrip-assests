@@ -1,0 +1,650 @@
+[
+  {
+    "id": "4340071432258",
+    "title": "1 Punch!",
+    "image": "https://teefury.com/cdn/shop/products/collection-tee-wom-fit-color-red_94d30b7c-da02-4ad7-8832-a65f987e6623_300x.jpg",
+    "price": 56,
+    "rating": 1.6,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "6933717909570",
+    "title": "1-800-SCREAM",
+    "image": "https://teefury.com/cdn/shop/products/101188-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 26,
+    "rating": 4.6,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "4340073660482",
+    "title": "100 Cups of Coffee",
+    "image": "https://teefury.com/cdn/shop/products/collection-tee-wom-fit-color-blk_20785bd6-44a0-413b-8a75-068aa257e8a0_300x.jpg",
+    "price": 47,
+    "rating": 4.2,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7461445042242",
+    "title": "100% Sigma",
+    "image": "https://teefury.com/cdn/shop/files/129258-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 33,
+    "rating": 4.6,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "4340076576834",
+    "title": "1000 Needles",
+    "image": "https://teefury.com/cdn/shop/products/collection-tee-wom-fit-color-blk_12cda403-d47d-4266-83d2-3647507cb603_300x.jpg",
+    "price": 56,
+    "rating": 3.7,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "4770195177538",
+    "title": "1000 Needless Worries",
+    "image": "https://teefury.com/cdn/shop/products/51886-collection-tee-wom-fit-color-tur_300x.jpg",
+    "price": 35,
+    "rating": 2.3,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "6775773003842",
+    "title": "117 Emblem",
+    "image": "https://teefury.com/cdn/shop/products/56505-collection-tee-wom-fit-color-nav_300x.jpg",
+    "price": 51,
+    "rating": 2.6,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "6675576619074",
+    "title": "117 Helmet Mosaic",
+    "image": "https://teefury.com/cdn/shop/products/53969-collection-tee-wom-fit-color-nav_300x.jpg",
+    "price": 57,
+    "rating": 2.0,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "6705897373762",
+    "title": "117 Tattoo",
+    "image": "https://teefury.com/cdn/shop/products/54617-collection-tee-wom-fit-color-roy_300x.jpg",
+    "price": 25,
+    "rating": 3.7,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "6680988975170",
+    "title": "12 Days Of Catmas",
+    "image": "https://teefury.com/cdn/shop/products/54102-collection-tee-wom-fit-color-red_300x.jpg",
+    "price": 55,
+    "rating": 2.9,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "6860589105218",
+    "title": "12th Time Storm",
+    "image": "https://teefury.com/cdn/shop/products/58542-collection-tee-wom-fit-color-nav_300x.jpg",
+    "price": 36,
+    "rating": 2.2,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7311800074306",
+    "title": "13 Bits",
+    "image": "https://teefury.com/cdn/shop/files/120291-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 27,
+    "rating": 1.1,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "4340078641218",
+    "title": "13th Doctor",
+    "image": "https://teefury.com/cdn/shop/products/collection-tee-wom-fit-color-nav_b54a36ed-526b-4ef6-a23d-3164733c5fd0_300x.jpg",
+    "price": 24,
+    "rating": 1.8,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "4340080017474",
+    "title": "150 Million Ki",
+    "image": "https://teefury.com/cdn/shop/products/collection-tee-wom-fit-color-blk_2c12c8f7-364e-4d81-8789-a0da2d5715f4_300x.jpg",
+    "price": 58,
+    "rating": 4.6,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7010801778754",
+    "title": "1610 Miles",
+    "image": "https://teefury.com/cdn/shop/files/107042-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 43,
+    "rating": 2.3,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "4340064911426",
+    "title": "1701",
+    "image": "https://teefury.com/cdn/shop/products/collection-tee-wom-fit-color-blk_934d7126-7d5a-4d26-8750-16e250dd5452_300x.jpg",
+    "price": 45,
+    "rating": 4.3,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "4340065927234",
+    "title": "1757",
+    "image": "https://teefury.com/cdn/shop/products/34003-collection-tee-wom-fit-color-crm_300x.jpg",
+    "price": 44,
+    "rating": 2.1,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7338259775554",
+    "title": "1900s Edition",
+    "image": "https://teefury.com/cdn/shop/files/121833-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 43,
+    "rating": 3.4,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7511610490946",
+    "title": "1980s Rebel",
+    "image": "https://teefury.com/cdn/shop/files/132788-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 40,
+    "rating": 3.9,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "4340066943042",
+    "title": "1992",
+    "image": "https://teefury.com/cdn/shop/products/34005-collection-tee-wom-fit-color-whi_300x.jpg",
+    "price": 60,
+    "rating": 4.4,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "4601442762818",
+    "title": "1998 Survivors",
+    "image": "https://teefury.com/cdn/shop/products/50661-collection-tee-wom-fit-color-nav_300x.jpg",
+    "price": 52,
+    "rating": 3.7,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "6660125982786",
+    "title": "1st Division Captain",
+    "image": "https://teefury.com/cdn/shop/products/53753-collection-tee-wom-fit-color-nav_300x.jpg",
+    "price": 29,
+    "rating": 4.3,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7389091168322",
+    "title": "2 Deers In Love",
+    "image": "https://teefury.com/cdn/shop/files/125001-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 46,
+    "rating": 4.0,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7031441489986",
+    "title": "2024 Is Gonna Be Lit",
+    "image": "https://teefury.com/cdn/shop/files/107910-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 22,
+    "rating": 4.9,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7033953321026",
+    "title": "2024 Lucky Dragon",
+    "image": "https://teefury.com/cdn/shop/files/108044-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 43,
+    "rating": 4.6,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7397310070850",
+    "title": "2025 Better Be Hisstoric",
+    "image": "https://teefury.com/cdn/shop/files/125534-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 38,
+    "rating": 1.4,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7257529057346",
+    "title": "2049",
+    "image": "https://teefury.com/cdn/shop/files/113570-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 31,
+    "rating": 2.6,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "4540222308418",
+    "title": "2077",
+    "image": "https://teefury.com/cdn/shop/products/50459-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 56,
+    "rating": 4.2,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "4340084998210",
+    "title": "2B Or Not 2B",
+    "image": "https://teefury.com/cdn/shop/products/34028-collection-tee-wom-fit-color-cha_300x.jpg",
+    "price": 44,
+    "rating": 2.0,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "4678915817538",
+    "title": "3 2 1",
+    "image": "https://teefury.com/cdn/shop/products/51137-collection-tee-wom-fit-color-nav_300x.jpg",
+    "price": 33,
+    "rating": 1.1,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "6593111294018",
+    "title": "3, 2, 1. Let's Jam!",
+    "image": "https://teefury.com/cdn/shop/products/52865-collection-tee-wom-fit-color-whi_300x.jpg",
+    "price": 45,
+    "rating": 4.6,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7306102702146",
+    "title": "3000s Comics",
+    "image": "https://teefury.com/cdn/shop/files/120164-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 52,
+    "rating": 3.2,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7431573733442",
+    "title": "365 Days Left To Sleep",
+    "image": "https://teefury.com/cdn/shop/files/126658-collection-tee-wom-fit-color-blu_300x.jpg",
+    "price": 43,
+    "rating": 2.2,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "6610433245250",
+    "title": "3D Hedgehog",
+    "image": "https://teefury.com/cdn/shop/products/53102-collection-tee-wom-fit-color-blk_87fc2584-f1ee-4875-91a3-ce8a1348bd0f_300x.jpg",
+    "price": 58,
+    "rating": 2.7,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7165324918850",
+    "title": "404 Decade Not Found",
+    "image": "https://teefury.com/cdn/shop/files/111548-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 37,
+    "rating": 1.6,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "4340063273026",
+    "title": "42",
+    "image": "https://teefury.com/cdn/shop/products/collection-tee-wom-fit-color-dch_b19eea41-4f64-47e3-9b6d-76b2f5936982_300x.jpg",
+    "price": 58,
+    "rating": 4.5,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "4340090339394",
+    "title": "4LB3RT",
+    "image": "https://teefury.com/cdn/shop/products/collection-tee-wom-fit-color-blk_7c27a429-6bba-47ac-800b-743202991242_300x.jpg",
+    "price": 37,
+    "rating": 4.3,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "6677345239106",
+    "title": "4th Gen",
+    "image": "https://teefury.com/cdn/shop/products/53927-collection-tee-wom-fit-color-blu_20065b17-0e0e-46ef-8d21-e56ea72869ff_300x.jpg",
+    "price": 28,
+    "rating": 3.5,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "4340091289666",
+    "title": "50 Shades Of Grayskull",
+    "image": "https://teefury.com/cdn/shop/products/34039-collection-tee-wom-fit-color-hgr_300x.jpg",
+    "price": 26,
+    "rating": 1.4,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "4340092108866",
+    "title": "50 Years of the Doctor",
+    "image": "https://teefury.com/cdn/shop/products/collection-tee-wom-fit-color-tur_d6c8665d-c626-4ed3-8a6f-7abba585713f_300x.jpg",
+    "price": 26,
+    "rating": 3.4,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "6555032846402",
+    "title": "6 Demon",
+    "image": "https://teefury.com/cdn/shop/products/52384-collection-tee-wom-fit-color-nav_300x.jpg",
+    "price": 26,
+    "rating": 1.8,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7243616387138",
+    "title": "70s VHS Horror Cult",
+    "image": "https://teefury.com/cdn/shop/files/113285-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 48,
+    "rating": 1.4,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7518567268418",
+    "title": "712 Racing",
+    "image": "https://teefury.com/cdn/shop/files/133202-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 45,
+    "rating": 3.2,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "4340099186754",
+    "title": "8 Bit Betrayal",
+    "image": "https://teefury.com/cdn/shop/products/collection-tee-wom-fit-color-blk_64d3728e-458e-439e-9995-8d4d6fd41e2c_300x.jpg",
+    "price": 23,
+    "rating": 4.2,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7470151139394",
+    "title": "8 Bit Dog",
+    "image": "https://teefury.com/cdn/shop/files/129706-collection-tee-wom-fit-color-whi_300x.jpg",
+    "price": 51,
+    "rating": 4.2,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "4340101087298",
+    "title": "80's BEST FRIENDS",
+    "image": "https://teefury.com/cdn/shop/products/collection-tee-wom-fit-color-blk_e2415dba-5b55-49ed-9da3-e56cfabd6050_300x.jpg",
+    "price": 43,
+    "rating": 4.0,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "4340102692930",
+    "title": "80's Education",
+    "image": "https://teefury.com/cdn/shop/products/collection-tee-wom-fit-color-blk_928fb886-9b0d-4f94-9767-09c54ecc4385_300x.jpg",
+    "price": 35,
+    "rating": 1.6,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "6605727989826",
+    "title": "80's Future",
+    "image": "https://teefury.com/cdn/shop/products/53081-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 53,
+    "rating": 2.0,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7374126776386",
+    "title": "80s Arcade",
+    "image": "https://teefury.com/cdn/shop/files/124023-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 30,
+    "rating": 4.6,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "6939188920386",
+    "title": "80s Gamer Room",
+    "image": "https://teefury.com/cdn/shop/files/101561-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 58,
+    "rating": 2.1,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7483937587266",
+    "title": "80s Nostalgia",
+    "image": "https://teefury.com/cdn/shop/files/130830-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 20,
+    "rating": 4.5,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7449855328322",
+    "title": "80s Rock",
+    "image": "https://teefury.com/cdn/shop/files/128302-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 37,
+    "rating": 4.1,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7245391495234",
+    "title": "80s VHS Horror Cult",
+    "image": "https://teefury.com/cdn/shop/files/113445-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 46,
+    "rating": 2.6,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7403642093634",
+    "title": "80s Walk",
+    "image": "https://teefury.com/cdn/shop/files/125884-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 56,
+    "rating": 4.5,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "6638013874242",
+    "title": "84 Buster",
+    "image": "https://teefury.com/cdn/shop/products/53469-collection-tee-wom-fit-color-nav_300x.jpg",
+    "price": 50,
+    "rating": 3.4,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7389058400322",
+    "title": "88 MPH",
+    "image": "https://teefury.com/cdn/shop/files/125018-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 24,
+    "rating": 2.0,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7458470789186",
+    "title": "88 MPH Back In Time",
+    "image": "https://teefury.com/cdn/shop/files/128802-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 44,
+    "rating": 1.3,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "6626042740802",
+    "title": "88MPH Time Travel Club",
+    "image": "https://teefury.com/cdn/shop/products/53301-collection-tee-wom-fit-color-blk_235f26df-82ed-44d2-8df9-4a0a4be6559c_300x.jpg",
+    "price": 37,
+    "rating": 1.3,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7403629641794",
+    "title": "8Bits Stained Glass",
+    "image": "https://teefury.com/cdn/shop/files/125887-collection-tee-wom-fit-color-nav_300x.jpg",
+    "price": 57,
+    "rating": 4.7,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "6678334111810",
+    "title": "90's Anime Neko",
+    "image": "https://teefury.com/cdn/shop/products/53979-collection-tee-wom-fit-color-roy_9b1fffc7-764a-4ead-bd55-9d5ef516afb4_300x.jpg",
+    "price": 27,
+    "rating": 3.7,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7010689024066",
+    "title": "90s Cat Child",
+    "image": "https://teefury.com/cdn/shop/files/107089-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 28,
+    "rating": 4.2,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7478970122306",
+    "title": "90s Cereal",
+    "image": "https://teefury.com/cdn/shop/files/130359-collection-tee-wom-fit-color-nav_300x.jpg",
+    "price": 47,
+    "rating": 1.2,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7515214970946",
+    "title": "90s Cute Cat",
+    "image": "https://teefury.com/cdn/shop/files/133047-collection-tee-wom-fit-color-blu_300x.jpg",
+    "price": 34,
+    "rating": 2.2,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "6939190657090",
+    "title": "90s Gamer Room",
+    "image": "https://teefury.com/cdn/shop/files/101562-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 53,
+    "rating": 3.1,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7453369827394",
+    "title": "90s High Tech",
+    "image": "https://teefury.com/cdn/shop/files/128542-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 41,
+    "rating": 2.2,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7245393494082",
+    "title": "90s VHS Horror Cult",
+    "image": "https://teefury.com/cdn/shop/files/113444-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 48,
+    "rating": 3.1,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7165448028226",
+    "title": "92 Mutants",
+    "image": "https://teefury.com/cdn/shop/files/111593-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 51,
+    "rating": 2.5,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "4363337334850",
+    "title": "99 Holiday Problems",
+    "image": "https://teefury.com/cdn/shop/products/collection-tee-wom-fit-color-red_17e68624-26af-4194-87a5-a4322ce3a313_300x.jpg",
+    "price": 52,
+    "rating": 4.2,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "6743020699714",
+    "title": "99 Lives",
+    "image": "https://teefury.com/cdn/shop/products/55640-collection-tee-wom-fit-color-roy_300x.jpg",
+    "price": 45,
+    "rating": 2.9,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "6964030603330",
+    "title": "A Bag Of Tricks",
+    "image": "https://teefury.com/cdn/shop/files/105476-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 53,
+    "rating": 5.0,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7470285389890",
+    "title": "A Beagle In Wonderland",
+    "image": "https://teefury.com/cdn/shop/files/129642-collection-tee-wom-fit-color-nav_300x.jpg",
+    "price": 30,
+    "rating": 2.3,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7402700636226",
+    "title": "A Bear Winter Day",
+    "image": "https://teefury.com/cdn/shop/files/125738-collection-tee-wom-fit-color-whi_300x.jpg",
+    "price": 40,
+    "rating": 4.6,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "6886413205570",
+    "title": "A Beer A Day",
+    "image": "https://teefury.com/cdn/shop/products/59465-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 44,
+    "rating": 3.4,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7327446401090",
+    "title": "A Beer Story",
+    "image": "https://teefury.com/cdn/shop/files/121483-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 45,
+    "rating": 3.5,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "7165500063810",
+    "title": "A Bit Greedy",
+    "image": "https://teefury.com/cdn/shop/files/111574-collection-tee-wom-fit-color-gre_300x.jpg",
+    "price": 37,
+    "rating": 4.1,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "6570065133634",
+    "title": "A Book A Day",
+    "image": "https://teefury.com/cdn/shop/products/52558-collection-tee-wom-fit-color-cha_300x.jpg",
+    "price": 56,
+    "rating": 4.5,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "6963948552258",
+    "title": "A Bowl Full Of Owls",
+    "image": "https://teefury.com/cdn/shop/files/105374-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 51,
+    "rating": 4.5,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "6958727168066",
+    "title": "A Box Full Of Pumpkins",
+    "image": "https://teefury.com/cdn/shop/files/104399-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 54,
+    "rating": 4.2,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "6964120911938",
+    "title": "A Boy And His Ghost Dog",
+    "image": "https://teefury.com/cdn/shop/files/105424-collection-tee-wom-fit-color-blk_300x.jpg",
+    "price": 46,
+    "rating": 2.9,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "4348938354754",
+    "title": "A Brand New Gaming Experience",
+    "image": "https://teefury.com/cdn/shop/products/collection-tee-wom-fit-color-red_fbb0fcb7-dec6-404b-b935-c353c9f49efd_300x.jpg",
+    "price": 37,
+    "rating": 4.6,
+    "category": "womens-fitted-tees"
+  },
+  {
+    "id": "6752924434498",
+    "title": "A Break From Reality",
+    "image": "https://teefury.com/cdn/shop/products/55859-collection-tee-wom-fit-color-blk_7f0e07f8-dca8-4eb5-94ca-ec554337c822_300x.jpg",
+    "price": 31,
+    "rating": 3.8,
+    "category": "womens-fitted-tees"
+  }
+]

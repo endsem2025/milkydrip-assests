@@ -1,0 +1,770 @@
+[
+  {
+    "id": "6751324373058",
+    "title": "Springtime Spirits",
+    "image": "https://teefury.com/cdn/shop/products/54063-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 46,
+    "rating": 4.8,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751319752770",
+    "title": "Heroes in a Half Shell",
+    "image": "https://teefury.com/cdn/shop/products/54047-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 42,
+    "rating": 4.7,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6827103912002",
+    "title": "Studio Love",
+    "image": "https://teefury.com/cdn/shop/products/57637-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 21,
+    "rating": 4.5,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751331221570",
+    "title": "Orange Leopards",
+    "image": "https://teefury.com/cdn/shop/products/55182-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 33,
+    "rating": 4.5,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751327715394",
+    "title": "I Love Gaming",
+    "image": "https://teefury.com/cdn/shop/products/54493-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 48,
+    "rating": 1.5,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751322144834",
+    "title": "Play the Roll",
+    "image": "https://teefury.com/cdn/shop/products/54055-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 36,
+    "rating": 4.1,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751318212674",
+    "title": "Geek Chic",
+    "image": "https://teefury.com/cdn/shop/products/54042-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 44,
+    "rating": 3.6,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6954022174786",
+    "title": "Muffins And Flamingos",
+    "image": "https://teefury.com/cdn/shop/files/103756-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 47,
+    "rating": 3.3,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6954021617730",
+    "title": "Poor Little Bug On The Wall",
+    "image": "https://teefury.com/cdn/shop/files/103757-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 35,
+    "rating": 1.9,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6954021290050",
+    "title": "Kawaii Cat Family",
+    "image": "https://teefury.com/cdn/shop/files/103758-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 51,
+    "rating": 4.7,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6954020372546",
+    "title": "Gojo Satoru Neko",
+    "image": "https://teefury.com/cdn/shop/files/103759-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 51,
+    "rating": 4.5,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6954018734146",
+    "title": "Pastel Alien",
+    "image": "https://teefury.com/cdn/shop/files/103760-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 26,
+    "rating": 2.3,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6954018799682",
+    "title": "Ramen Ramen Ramen",
+    "image": "https://teefury.com/cdn/shop/files/103762-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 38,
+    "rating": 2.6,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6935548985410",
+    "title": "Leopard Geckos",
+    "image": "https://teefury.com/cdn/shop/products/101314-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 59,
+    "rating": 2.2,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6935548526658",
+    "title": "Capybara Family",
+    "image": "https://teefury.com/cdn/shop/products/101313-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 42,
+    "rating": 1.4,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6935548002370",
+    "title": "Black Widow",
+    "image": "https://teefury.com/cdn/shop/products/101312-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 59,
+    "rating": 2.4,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6935547510850",
+    "title": "Nat 20",
+    "image": "https://teefury.com/cdn/shop/products/101311-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 49,
+    "rating": 3.3,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6935546986562",
+    "title": "Cute Penguins",
+    "image": "https://teefury.com/cdn/shop/products/101310-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 32,
+    "rating": 4.8,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6935545577538",
+    "title": "Mango Parrots",
+    "image": "https://teefury.com/cdn/shop/products/101309-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 23,
+    "rating": 2.1,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6935545446466",
+    "title": "Rain Frogs",
+    "image": "https://teefury.com/cdn/shop/products/101308-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 38,
+    "rating": 1.2,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6935545086018",
+    "title": "Chubby Unicorns",
+    "image": "https://teefury.com/cdn/shop/products/101307-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 22,
+    "rating": 2.2,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6911469813826",
+    "title": "Hogwarts Items",
+    "image": "https://teefury.com/cdn/shop/products/60312-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 57,
+    "rating": 3.9,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6911469420610",
+    "title": "Dice Roll",
+    "image": "https://teefury.com/cdn/shop/products/60311-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 52,
+    "rating": 1.9,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6911468961858",
+    "title": "Pochita X Pochita",
+    "image": "https://teefury.com/cdn/shop/products/60310-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 43,
+    "rating": 2.4,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6911468601410",
+    "title": "Sweet Pink Skull",
+    "image": "https://teefury.com/cdn/shop/products/60308-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 55,
+    "rating": 3.3,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6911468765250",
+    "title": "Golden Constellation Map",
+    "image": "https://teefury.com/cdn/shop/products/60309-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 60,
+    "rating": 4.1,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6827104960578",
+    "title": "Dead And Alive Cat",
+    "image": "https://teefury.com/cdn/shop/products/57639-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 26,
+    "rating": 1.3,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6827104370754",
+    "title": "Creepy Skulls And Bones",
+    "image": "https://teefury.com/cdn/shop/products/57638-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 58,
+    "rating": 4.9,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6827103223874",
+    "title": "Halloween Cat Heads",
+    "image": "https://teefury.com/cdn/shop/products/57636-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 44,
+    "rating": 1.7,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6827102109762",
+    "title": "Spooky Bat Dudes",
+    "image": "https://teefury.com/cdn/shop/products/57634-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 54,
+    "rating": 3.1,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6827102470210",
+    "title": "Spooky Witch Vibes",
+    "image": "https://teefury.com/cdn/shop/products/57635-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 58,
+    "rating": 3.5,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6819946004546",
+    "title": "Halloween Pumpkins",
+    "image": "https://teefury.com/cdn/shop/products/57390-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 46,
+    "rating": 4.4,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6819945513026",
+    "title": "Calaveras",
+    "image": "https://teefury.com/cdn/shop/products/57389-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 48,
+    "rating": 1.2,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6819944955970",
+    "title": "Spooky Pumpkin Dudes",
+    "image": "https://teefury.com/cdn/shop/products/57388-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 33,
+    "rating": 4.7,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6819944529986",
+    "title": "Spooky Dudes",
+    "image": "https://teefury.com/cdn/shop/products/57387-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 43,
+    "rating": 4.0,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6819944005698",
+    "title": "Autumn Pumpkins",
+    "image": "https://teefury.com/cdn/shop/products/57386-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 50,
+    "rating": 4.2,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6819943383106",
+    "title": "Sleeping Creatures",
+    "image": "https://teefury.com/cdn/shop/products/57385-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 51,
+    "rating": 3.2,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6819941679170",
+    "title": "Friday The 13th Paisley",
+    "image": "https://teefury.com/cdn/shop/products/57382-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 37,
+    "rating": 3.0,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6819942367298",
+    "title": "Screaming Paisley",
+    "image": "https://teefury.com/cdn/shop/products/57383-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 33,
+    "rating": 4.8,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6819940532290",
+    "title": "Bunny Love",
+    "image": "https://teefury.com/cdn/shop/products/57381-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 26,
+    "rating": 1.0,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6819940466754",
+    "title": "Lots Of Cats",
+    "image": "https://teefury.com/cdn/shop/products/57380-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 28,
+    "rating": 3.1,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6814668095554",
+    "title": "Thankful Nuts",
+    "image": "https://teefury.com/cdn/shop/products/57280-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 31,
+    "rating": 2.5,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6814667341890",
+    "title": "Peanuts Thanksgiving",
+    "image": "https://teefury.com/cdn/shop/products/57279-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 36,
+    "rating": 2.2,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6814668324930",
+    "title": "Turkey Time",
+    "image": "https://teefury.com/cdn/shop/products/57281-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 33,
+    "rating": 2.5,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6814667178050",
+    "title": "Autumn Feast",
+    "image": "https://teefury.com/cdn/shop/products/57277-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 49,
+    "rating": 1.4,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6814667276354",
+    "title": "Falling Neighbor",
+    "image": "https://teefury.com/cdn/shop/products/57278-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 59,
+    "rating": 2.3,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6804762525762",
+    "title": "Rest in Peace",
+    "image": "https://teefury.com/cdn/shop/products/57101-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 39,
+    "rating": 1.4,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6804762787906",
+    "title": "Something's Brewing",
+    "image": "https://teefury.com/cdn/shop/products/57102-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 55,
+    "rating": 2.5,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6804762230850",
+    "title": "Deadly",
+    "image": "https://teefury.com/cdn/shop/products/57100-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 34,
+    "rating": 2.1,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6804761968706",
+    "title": "Corgi Dog Lover",
+    "image": "https://teefury.com/cdn/shop/products/57098-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 26,
+    "rating": 2.8,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6804761641026",
+    "title": "Vintage Fossils",
+    "image": "https://teefury.com/cdn/shop/products/57099-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 27,
+    "rating": 1.1,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6804763082818",
+    "title": "Spooky Pumpkins",
+    "image": "https://teefury.com/cdn/shop/products/57103-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 47,
+    "rating": 2.2,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6804761444418",
+    "title": "Mermaids",
+    "image": "https://teefury.com/cdn/shop/products/57097-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 52,
+    "rating": 4.5,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751332565058",
+    "title": "It's Raining Cats And Dogs",
+    "image": "https://teefury.com/cdn/shop/products/55187-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 30,
+    "rating": 2.2,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751332302914",
+    "title": "Cats Diving In The Sea",
+    "image": "https://teefury.com/cdn/shop/products/55186-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 46,
+    "rating": 2.4,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751332040770",
+    "title": "Crazy Cartoon Emotions",
+    "image": "https://teefury.com/cdn/shop/products/55185-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 34,
+    "rating": 4.0,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751331778626",
+    "title": "Zombies",
+    "image": "https://teefury.com/cdn/shop/products/55184-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 26,
+    "rating": 4.0,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751331516482",
+    "title": "Corgi",
+    "image": "https://teefury.com/cdn/shop/products/55183-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 52,
+    "rating": 1.5,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751330893890",
+    "title": "Fast Food Cats In Space",
+    "image": "https://teefury.com/cdn/shop/products/55181-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 56,
+    "rating": 1.3,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751330631746",
+    "title": "Till Death",
+    "image": "https://teefury.com/cdn/shop/products/54549-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 37,
+    "rating": 4.9,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751330369602",
+    "title": "Sweetheart",
+    "image": "https://teefury.com/cdn/shop/products/54548-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 52,
+    "rating": 4.0,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751330074690",
+    "title": "Cat Heart Eyes",
+    "image": "https://teefury.com/cdn/shop/products/54547-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 49,
+    "rating": 1.5,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751329845314",
+    "title": "A Sweet Match",
+    "image": "https://teefury.com/cdn/shop/products/54546-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 56,
+    "rating": 2.2,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751329517634",
+    "title": "Bender On Repeat",
+    "image": "https://teefury.com/cdn/shop/products/54499-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 32,
+    "rating": 4.8,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751329255490",
+    "title": "Magical Items",
+    "image": "https://teefury.com/cdn/shop/products/54498-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 34,
+    "rating": 4.0,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751328600130",
+    "title": "Choose Your Magical Outfit",
+    "image": "https://teefury.com/cdn/shop/products/54496-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 52,
+    "rating": 2.5,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751328305218",
+    "title": "Everything Is Messed Up",
+    "image": "https://teefury.com/cdn/shop/products/54495-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 43,
+    "rating": 2.1,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751327977538",
+    "title": "Holy Grail",
+    "image": "https://teefury.com/cdn/shop/products/54494-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 54,
+    "rating": 1.1,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751327453250",
+    "title": "Dungeons And Patterns",
+    "image": "https://teefury.com/cdn/shop/products/54492-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 56,
+    "rating": 2.8,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751327125570",
+    "title": "What's Your Sign",
+    "image": "https://teefury.com/cdn/shop/products/54073-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 20,
+    "rating": 1.4,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751326601282",
+    "title": "Vintage Friend",
+    "image": "https://teefury.com/cdn/shop/products/54071-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 32,
+    "rating": 2.0,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751326306370",
+    "title": "Topographical",
+    "image": "https://teefury.com/cdn/shop/products/54070-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 28,
+    "rating": 3.7,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751325192258",
+    "title": "Sweet Tooth",
+    "image": "https://teefury.com/cdn/shop/products/54066-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 26,
+    "rating": 3.4,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751324897346",
+    "title": "Sugary Sweet",
+    "image": "https://teefury.com/cdn/shop/products/54065-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 42,
+    "rating": 2.7,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751324635202",
+    "title": "Succulents",
+    "image": "https://teefury.com/cdn/shop/products/54064-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 40,
+    "rating": 1.3,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751324078146",
+    "title": "Shutterbug",
+    "image": "https://teefury.com/cdn/shop/products/54062-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 57,
+    "rating": 3.0,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751323816002",
+    "title": "Shelled",
+    "image": "https://teefury.com/cdn/shop/products/54061-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 56,
+    "rating": 4.1,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751323226178",
+    "title": "Radicool",
+    "image": "https://teefury.com/cdn/shop/products/54059-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 49,
+    "rating": 4.7,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751322964034",
+    "title": "Pumpkin Patch",
+    "image": "https://teefury.com/cdn/shop/products/54058-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 47,
+    "rating": 1.9,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751322669122",
+    "title": "Prehistoric",
+    "image": "https://teefury.com/cdn/shop/products/54057-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 56,
+    "rating": 3.7,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751321784386",
+    "title": "Out of This World",
+    "image": "https://teefury.com/cdn/shop/products/54054-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 38,
+    "rating": 1.6,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751321489474",
+    "title": "Nuclear Family",
+    "image": "https://teefury.com/cdn/shop/products/54053-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 56,
+    "rating": 2.9,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751321096258",
+    "title": "Lunar Spells",
+    "image": "https://teefury.com/cdn/shop/products/54052-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 35,
+    "rating": 2.6,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751320834114",
+    "title": "Look Unto Your Future",
+    "image": "https://teefury.com/cdn/shop/products/54051-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 54,
+    "rating": 1.2,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751320014914",
+    "title": "I Love Questing",
+    "image": "https://teefury.com/cdn/shop/products/54048-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 39,
+    "rating": 1.2,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751319425090",
+    "title": "Heartstruck",
+    "image": "https://teefury.com/cdn/shop/products/54046-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 55,
+    "rating": 4.4,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751319097410",
+    "title": "Heartstrike",
+    "image": "https://teefury.com/cdn/shop/products/54045-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 41,
+    "rating": 1.2,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751318769730",
+    "title": "Heartbroken",
+    "image": "https://teefury.com/cdn/shop/products/54044-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 60,
+    "rating": 2.5,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751318474818",
+    "title": "Heartattack",
+    "image": "https://teefury.com/cdn/shop/products/54043-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 28,
+    "rating": 1.6,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751317917762",
+    "title": "For Science",
+    "image": "https://teefury.com/cdn/shop/products/54041-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 29,
+    "rating": 3.0,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751317295170",
+    "title": "Crystal Gems",
+    "image": "https://teefury.com/cdn/shop/products/54039-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 44,
+    "rating": 3.9,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751317131330",
+    "title": "Control Freak",
+    "image": "https://teefury.com/cdn/shop/products/54038-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 32,
+    "rating": 1.4,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751316836418",
+    "title": "Chatter Bones",
+    "image": "https://teefury.com/cdn/shop/products/54037-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 23,
+    "rating": 2.1,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751316574274",
+    "title": "Cats for Days",
+    "image": "https://teefury.com/cdn/shop/products/54036-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 52,
+    "rating": 4.4,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751316115522",
+    "title": "Brick Layer",
+    "image": "https://teefury.com/cdn/shop/products/54035-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 33,
+    "rating": 3.8,
+    "category": "all-over-print-duffle-bags"
+  },
+  {
+    "id": "6751315689538",
+    "title": "Book Nook",
+    "image": "https://teefury.com/cdn/shop/products/54034-collection-bag-non-adu-color-pat_300x.jpg",
+    "price": 60,
+    "rating": 4.2,
+    "category": "all-over-print-duffle-bags"
+  }
+]

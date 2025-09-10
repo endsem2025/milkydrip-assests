@@ -1,0 +1,290 @@
+[
+  {
+    "id": "6883255353410",
+    "title": "Tomie",
+    "image": "https://teefury.com/cdn/shop/products/59369-art-file-color-blk_c88a984d-24f8-44e7-ac51-090852dfc45b_300x.jpg",
+    "price": 46,
+    "rating": 3.3,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "4350058332226",
+    "title": "The Midnight Society",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_5254b924-4760-4e1d-ae5e-e57d9f683cd7_300x.jpg",
+    "price": 39,
+    "rating": 4.3,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "6555031142466",
+    "title": "Welcome To The Crypt",
+    "image": "https://teefury.com/cdn/shop/products/52382-art-file-color-blk_300x.jpg",
+    "price": 29,
+    "rating": 1.2,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "4344321212482",
+    "title": "Save Point 2",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_ef2d3292-aa80-45c9-b02e-4052cf9ee276_300x.jpg",
+    "price": 54,
+    "rating": 3.1,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "7368511062082",
+    "title": "Spiral",
+    "image": "https://teefury.com/cdn/shop/files/123733-art-file-color-blk_4cc7a9fd-03f9-4790-9006-0361b12118d9_300x.jpg",
+    "price": 43,
+    "rating": 4.9,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "7280871112770",
+    "title": "Hell Couple Animation",
+    "image": "https://teefury.com/cdn/shop/files/119216-art-file-color-blk_9dcb53cc-f67c-4ae0-89a3-6f1d9c462f90_300x.jpg",
+    "price": 46,
+    "rating": 3.6,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "6836471431234",
+    "title": "Survival Horror City",
+    "image": "https://teefury.com/cdn/shop/products/57997-art-file-color-blk_300x.jpg",
+    "price": 26,
+    "rating": 2.6,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "6621923246146",
+    "title": "Crypt Readers",
+    "image": "https://teefury.com/cdn/shop/products/53276-art-file-color-blk_300x.jpg",
+    "price": 51,
+    "rating": 4.0,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "6901980168258",
+    "title": "Leon Help",
+    "image": "https://teefury.com/cdn/shop/products/59875-art-file-color-blk_300x.jpg",
+    "price": 25,
+    "rating": 1.4,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "7384636358722",
+    "title": "Tomie JI",
+    "image": "https://teefury.com/cdn/shop/files/124753-art-file-color-blk_255a352e-78a4-40fc-8656-c986274ae55c_300x.jpg",
+    "price": 44,
+    "rating": 1.8,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "7083102797890",
+    "title": "Raccoon City",
+    "image": "https://teefury.com/cdn/shop/files/110168-art-file-color-blk_204675e6-5882-434b-8fd8-56ed1cf1d76d_300x.jpg",
+    "price": 40,
+    "rating": 2.3,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "7306192322626",
+    "title": "Spider Demon",
+    "image": "https://teefury.com/cdn/shop/files/119890-art-file-color-blk_8a4e53ea-18e8-4ea5-a80c-1aa4acba3ee4_300x.jpg",
+    "price": 46,
+    "rating": 2.7,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "6908938289218",
+    "title": "The Merchant",
+    "image": "https://teefury.com/cdn/shop/products/60230-art-file-color-whi_300x.jpg",
+    "price": 23,
+    "rating": 2.9,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "7280868524098",
+    "title": "Hell Boss Meme",
+    "image": "https://teefury.com/cdn/shop/files/119217-art-file-color-blk_48c39dd8-fbd0-4c1a-bd68-80223149390c_300x.jpg",
+    "price": 26,
+    "rating": 2.2,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "7205604196418",
+    "title": "Ganados Village",
+    "image": "https://teefury.com/cdn/shop/files/112564-art-file-color-blk_3afe8740-8029-424d-bd1b-f3e970f9eab1_300x.jpg",
+    "price": 29,
+    "rating": 2.3,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "7131225915458",
+    "title": "Turning Around Zombie",
+    "image": "https://teefury.com/cdn/shop/files/111099-art-file-color-nav_e34d30ad-d1d1-491f-95b8-f154ae0e4966_300x.jpg",
+    "price": 30,
+    "rating": 1.6,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "7098029408322",
+    "title": "Alastor Sunset",
+    "image": "https://teefury.com/cdn/shop/files/110683-art-file-color-blk_6c0eccf1-f06f-4c48-975e-3b2439ac2686_300x.jpg",
+    "price": 39,
+    "rating": 1.3,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "7434784505922",
+    "title": "Bsaa Redfield Fitness Emblem",
+    "image": "https://teefury.com/cdn/shop/files/126939-art-file-color-blk_0532070c-df1a-4399-a177-5021631b08a4_300x.jpg",
+    "price": 50,
+    "rating": 4.9,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "7356916760642",
+    "title": "Demon Owl",
+    "image": "https://teefury.com/cdn/shop/files/122985-art-file-color-blk_aa2a7d81-8eb3-4a45-9c3d-f5951c0c4c74_300x.jpg",
+    "price": 39,
+    "rating": 4.1,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "7280738467906",
+    "title": "The Demons",
+    "image": "https://teefury.com/cdn/shop/files/119269-art-file-color-blk_818f534e-3bf2-4e5c-8fff-b66a0ed89e52_300x.jpg",
+    "price": 33,
+    "rating": 1.3,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "7098031243330",
+    "title": "Blitzo Sunset",
+    "image": "https://teefury.com/cdn/shop/files/110682-art-file-color-blk_81c2a9ef-85ba-44ee-8152-f3dafbb3b3cc_300x.jpg",
+    "price": 28,
+    "rating": 3.1,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "6836364345410",
+    "title": "Midnight Society",
+    "image": "https://teefury.com/cdn/shop/products/57953-art-file-color-blk_300x.jpg",
+    "price": 44,
+    "rating": 5.0,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "6716561653826",
+    "title": "All Of Us Are Red",
+    "image": "https://teefury.com/cdn/shop/products/54891-art-file-color-blk_300x.jpg",
+    "price": 30,
+    "rating": 3.2,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "6613302607938",
+    "title": "The Pursuer",
+    "image": "https://teefury.com/cdn/shop/products/53196-art-file-color-blk_300x.jpg",
+    "price": 55,
+    "rating": 1.6,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "7436491456578",
+    "title": "Raccoon City 98",
+    "image": "https://teefury.com/cdn/shop/files/127167-art-file-color-blk_b0df9567-881a-47e3-820b-848aab346ca9_300x.jpg",
+    "price": 37,
+    "rating": 1.9,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "6807156916290",
+    "title": "Woke Up Like This",
+    "image": "https://teefury.com/cdn/shop/products/57114-art-file-color-blk_b8dec1cf-171d-41b3-a70b-afe3032f3883_300x.jpg",
+    "price": 26,
+    "rating": 2.2,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "7438672822338",
+    "title": "Are You Afraid Of The Bills",
+    "image": "https://teefury.com/cdn/shop/files/127383-art-file-color-blk_1f12561b-0ad8-4793-8831-2fe816047ee2_300x.jpg",
+    "price": 40,
+    "rating": 1.9,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "7365926289474",
+    "title": "Immersive Mental World Coffee Crest",
+    "image": "https://teefury.com/cdn/shop/files/123450-art-file-color-blk_82fe27d7-789b-4a12-870f-b1de8db90697_300x.jpg",
+    "price": 45,
+    "rating": 4.1,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "7353240420418",
+    "title": "Immersive Mental World Coffee",
+    "image": "https://teefury.com/cdn/shop/files/122746-art-file-color-whi_016c5fdf-0c57-455c-8f49-3d710e0f7755_300x.jpg",
+    "price": 58,
+    "rating": 1.8,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "7331154362434",
+    "title": "The Powerful BOW",
+    "image": "https://teefury.com/cdn/shop/files/121723-art-file-color-blk_1b847cfb-9102-435f-be91-1c00517923d1_300x.jpg",
+    "price": 36,
+    "rating": 4.8,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "7314385961026",
+    "title": "Spooky Towns",
+    "image": "https://teefury.com/cdn/shop/files/120343-art-file-color-blk_cad28a92-35d7-4a61-ad00-0f8c88dd49dd_300x.jpg",
+    "price": 23,
+    "rating": 1.5,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "7280725295170",
+    "title": "Don't Mind The Zombies",
+    "image": "https://teefury.com/cdn/shop/files/119273-art-file-color-blk_42eaa576-067a-4f00-8ae1-fd983cb3ac1f_300x.jpg",
+    "price": 60,
+    "rating": 1.4,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "7257812336706",
+    "title": "Stars Watcher",
+    "image": "https://teefury.com/cdn/shop/files/113684-art-file-color-blk_300x.jpg",
+    "price": 42,
+    "rating": 1.3,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "6953612542018",
+    "title": "Rescue Mission",
+    "image": "https://teefury.com/cdn/shop/files/103731-art-file-color-blk_65e93324-e7f8-4242-a051-47c2632d3996_300x.jpg",
+    "price": 50,
+    "rating": 2.5,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "6917731024962",
+    "title": "The Evil",
+    "image": "https://teefury.com/cdn/shop/products/100503-art-file-color-crm_300x.jpg",
+    "price": 29,
+    "rating": 1.2,
+    "category": "horror-tv-shows"
+  },
+  {
+    "id": "6848121831490",
+    "title": "Bio Organic Weapon",
+    "image": "https://teefury.com/cdn/shop/products/58226-art-file-color-blk_300x.jpg",
+    "price": 24,
+    "rating": 2.9,
+    "category": "horror-tv-shows"
+  }
+]

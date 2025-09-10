@@ -1,0 +1,786 @@
+[
+  {
+    "id": "6613866971202",
+    "title": "Elemental Charms",
+    "image": "https://teefury.com/cdn/shop/products/29063-collection-swe-you-pul-color-nav_300x.jpg",
+    "price": 51,
+    "rating": 3.5,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6969335414850",
+    "title": "Falcon Technical Specs",
+    "image": "https://teefury.com/cdn/shop/files/105948-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 55,
+    "rating": 1.2,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6963530596418",
+    "title": "Legend Of Bluey",
+    "image": "https://teefury.com/cdn/shop/files/104830-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 33,
+    "rating": 2.1,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "4747635982402",
+    "title": "The Massacre Machine",
+    "image": "https://teefury.com/cdn/shop/products/14441-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 25,
+    "rating": 1.0,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6930123358274",
+    "title": "Neighbor's Summer Camp",
+    "image": "https://teefury.com/cdn/shop/products/101110-collection-swe-you-pul-color-nav_300x.jpg",
+    "price": 30,
+    "rating": 4.5,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6686729044034",
+    "title": "Kind Christmas",
+    "image": "https://teefury.com/cdn/shop/products/54276-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 54,
+    "rating": 4.0,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6552395317314",
+    "title": "I Read to Escape Reality",
+    "image": "https://teefury.com/cdn/shop/products/52326-collection-swe-you-pul-color-nav_0e7fa1f3-beb4-45fd-af6b-455322750be6_300x.jpg",
+    "price": 32,
+    "rating": 1.5,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "4747865489474",
+    "title": "The Pretendus Charm",
+    "image": "https://teefury.com/cdn/shop/products/14521-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 54,
+    "rating": 3.8,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "4747407261762",
+    "title": "Starterkyus",
+    "image": "https://teefury.com/cdn/shop/products/15651-collection-swe-you-pul-color-hgr_300x.jpg",
+    "price": 43,
+    "rating": 2.4,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "4745117925442",
+    "title": "Old As The Sky, Old As The Moon",
+    "image": "https://teefury.com/cdn/shop/products/19049-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 31,
+    "rating": 3.9,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "4744144453698",
+    "title": "Krang Days",
+    "image": "https://teefury.com/cdn/shop/products/23213-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 44,
+    "rating": 2.0,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "4733558161474",
+    "title": "Dungeons & Doggos 2",
+    "image": "https://teefury.com/cdn/shop/products/50676-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 22,
+    "rating": 4.1,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "4733541875778",
+    "title": "Dino Basketball",
+    "image": "https://teefury.com/cdn/shop/products/30213-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 26,
+    "rating": 2.9,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "4727403872322",
+    "title": "Bumble's Shaved Ice",
+    "image": "https://teefury.com/cdn/shop/products/32374-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 53,
+    "rating": 1.9,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "7403550638146",
+    "title": "The Legend Of The Cat",
+    "image": "https://teefury.com/cdn/shop/files/125925-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 60,
+    "rating": 4.5,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6613974974530",
+    "title": "The Neighbor's Attack",
+    "image": "https://teefury.com/cdn/shop/products/14460-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 46,
+    "rating": 2.4,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "7378498486338",
+    "title": "Christmas Tree Dinosaurs",
+    "image": "https://teefury.com/cdn/shop/files/124263-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 27,
+    "rating": 4.9,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "7378384093250",
+    "title": "Save The Forest",
+    "image": "https://teefury.com/cdn/shop/files/124210-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 38,
+    "rating": 1.6,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "7374179696706",
+    "title": "Hello Gosling",
+    "image": "https://teefury.com/cdn/shop/files/123977-collection-swe-you-pul-color-nav_300x.jpg",
+    "price": 33,
+    "rating": 1.5,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "7374071595074",
+    "title": "Starry Wild Night",
+    "image": "https://teefury.com/cdn/shop/files/123956-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 60,
+    "rating": 3.3,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "7368439136322",
+    "title": "Ballad Of The Hero",
+    "image": "https://teefury.com/cdn/shop/files/123696-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 21,
+    "rating": 4.9,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "7350076801090",
+    "title": "Super Shadow 3",
+    "image": "https://teefury.com/cdn/shop/files/122493-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 55,
+    "rating": 3.3,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "7311757738050",
+    "title": "Green Dinosaur Island",
+    "image": "https://teefury.com/cdn/shop/files/120214-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 45,
+    "rating": 3.5,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "7068537290818",
+    "title": "Straw Hat Pirates Meet Godzilla",
+    "image": "https://teefury.com/cdn/shop/files/109467-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 53,
+    "rating": 2.1,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "7023957770306",
+    "title": "Arcade Climber Christmas",
+    "image": "https://teefury.com/cdn/shop/files/107599-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 29,
+    "rating": 4.5,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6983091454018",
+    "title": "Owl Matata",
+    "image": "https://teefury.com/cdn/shop/files/106515-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 33,
+    "rating": 1.1,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6934283911234",
+    "title": "Spider-Kitty 2099",
+    "image": "https://teefury.com/cdn/shop/products/101264-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 46,
+    "rating": 2.4,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6933704540226",
+    "title": "Til The End",
+    "image": "https://teefury.com/cdn/shop/products/101180-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 46,
+    "rating": 1.9,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6928801235010",
+    "title": "Not Zelda",
+    "image": "https://teefury.com/cdn/shop/products/100968-collection-swe-you-pul-color-nav_300x.jpg",
+    "price": 44,
+    "rating": 2.9,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6909985325122",
+    "title": "Camp Counselors",
+    "image": "https://teefury.com/cdn/shop/products/100148-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 51,
+    "rating": 4.3,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6909515595842",
+    "title": "Axolotl Wonders",
+    "image": "https://teefury.com/cdn/shop/products/60185-collection-swe-you-pul-color-blk_3ae53c1d-488a-4b6c-9c1b-2a15d2bb98a8_300x.jpg",
+    "price": 34,
+    "rating": 1.9,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6898278367298",
+    "title": "I Want Some Koalaty Sleep",
+    "image": "https://teefury.com/cdn/shop/products/59852-collection-swe-you-pul-color-whi_300x.jpg",
+    "price": 54,
+    "rating": 1.7,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6863436906562",
+    "title": "Wednesday's Window",
+    "image": "https://teefury.com/cdn/shop/products/58722-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 41,
+    "rating": 1.4,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6863309635650",
+    "title": "Vegeta The Prince",
+    "image": "https://teefury.com/cdn/shop/products/58672-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 33,
+    "rating": 2.3,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6856912437314",
+    "title": "Bla Bla Bla Christmas",
+    "image": "https://teefury.com/cdn/shop/products/58457-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 52,
+    "rating": 1.6,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6860549161026",
+    "title": "Thing And Wednesday",
+    "image": "https://teefury.com/cdn/shop/products/58521-collection-swe-you-pul-color-blk_c29b5e83-0a1d-4bdc-acf3-79a3591a188e_300x.jpg",
+    "price": 24,
+    "rating": 4.1,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6853712478274",
+    "title": "Sonic Squad Splash",
+    "image": "https://teefury.com/cdn/shop/products/58359-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 52,
+    "rating": 4.9,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6848145064002",
+    "title": "Nefarious Nebula",
+    "image": "https://teefury.com/cdn/shop/products/58236-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 33,
+    "rating": 4.9,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6848017006658",
+    "title": "Ginger Horror",
+    "image": "https://teefury.com/cdn/shop/products/58174-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 34,
+    "rating": 4.3,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6833052811330",
+    "title": "Experiment 626 Neon",
+    "image": "https://teefury.com/cdn/shop/products/57850-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 36,
+    "rating": 2.0,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6832979378242",
+    "title": "Horror Wonder",
+    "image": "https://teefury.com/cdn/shop/products/57816-collection-swe-you-pul-color-nav_300x.jpg",
+    "price": 32,
+    "rating": 3.6,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6829124386882",
+    "title": "Ghosts Time",
+    "image": "https://teefury.com/cdn/shop/products/57641-collection-swe-you-pul-color-nav_6cc6108e-4e55-49f7-9917-6a821369a542_300x.jpg",
+    "price": 33,
+    "rating": 4.8,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6807181459522",
+    "title": "Splatter Girl",
+    "image": "https://teefury.com/cdn/shop/products/57122-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 54,
+    "rating": 2.6,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6807130472514",
+    "title": "Too Rick For This Dimension",
+    "image": "https://teefury.com/cdn/shop/products/57104-collection-swe-you-pul-color-nav_854b90bc-82d4-47a6-868d-6f8a6a6b6474_300x.jpg",
+    "price": 41,
+    "rating": 3.9,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6795431149634",
+    "title": "Naruto Glitch",
+    "image": "https://teefury.com/cdn/shop/products/56980-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 40,
+    "rating": 1.3,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6801574363202",
+    "title": "Child Of Evil",
+    "image": "https://teefury.com/cdn/shop/products/57013-collection-swe-you-pul-color-blk_4494fc13-e536-4271-b261-f0f7edba6187_300x.jpg",
+    "price": 47,
+    "rating": 2.6,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6779681701954",
+    "title": "Dragon And God Of Forest",
+    "image": "https://teefury.com/cdn/shop/products/56671-collection-swe-you-pul-color-whi_300x.jpg",
+    "price": 40,
+    "rating": 1.5,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6772936867906",
+    "title": "The Ninja Way",
+    "image": "https://teefury.com/cdn/shop/products/56467-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 40,
+    "rating": 4.6,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6769381179458",
+    "title": "Gohan",
+    "image": "https://teefury.com/cdn/shop/products/56356-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 37,
+    "rating": 2.4,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6769327374402",
+    "title": "Samurai Extreme Power",
+    "image": "https://teefury.com/cdn/shop/products/56330-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 32,
+    "rating": 3.2,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6765208797250",
+    "title": "Love And Peanuts",
+    "image": "https://teefury.com/cdn/shop/products/56208-collection-swe-you-pul-color-roy_300x.jpg",
+    "price": 25,
+    "rating": 3.3,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6765198278722",
+    "title": "DND Fantasy",
+    "image": "https://teefury.com/cdn/shop/products/56201-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 60,
+    "rating": 2.5,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6765117833282",
+    "title": "Avatar State",
+    "image": "https://teefury.com/cdn/shop/products/56151-collection-swe-you-pul-color-blk_9f361c81-3c44-461b-b094-beb4ad0bec5a_300x.jpg",
+    "price": 39,
+    "rating": 4.8,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6760557051970",
+    "title": "Fantastic Alien Creature",
+    "image": "https://teefury.com/cdn/shop/products/56069-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 21,
+    "rating": 3.9,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6760516026434",
+    "title": "Junimo Forest Spirit",
+    "image": "https://teefury.com/cdn/shop/products/56042-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 37,
+    "rating": 1.3,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6743059595330",
+    "title": "Gravity Wars",
+    "image": "https://teefury.com/cdn/shop/products/55665-collection-swe-you-pul-color-nav_300x.jpg",
+    "price": 36,
+    "rating": 2.2,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6700815941698",
+    "title": "The Loyal House",
+    "image": "https://teefury.com/cdn/shop/products/54532-collection-swe-you-pul-color-hgr_300x.jpg",
+    "price": 24,
+    "rating": 1.9,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6705839472706",
+    "title": "Beauty Demon",
+    "image": "https://teefury.com/cdn/shop/products/54602-collection-swe-you-pul-color-whi_ffc18122-bb7b-44ea-8b4f-18a1f9f27d0e_300x.jpg",
+    "price": 40,
+    "rating": 1.7,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6684141584450",
+    "title": "Moogle Christmas",
+    "image": "https://teefury.com/cdn/shop/products/54161-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 28,
+    "rating": 3.0,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6684119433282",
+    "title": "Prime Sumi-E",
+    "image": "https://teefury.com/cdn/shop/products/54146-collection-swe-you-pul-color-whi_300x.jpg",
+    "price": 25,
+    "rating": 3.4,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6682914553922",
+    "title": "The Christmas Fight",
+    "image": "https://teefury.com/cdn/shop/products/54134-collection-swe-you-pul-color-blk_5c9a3511-afdf-4fb4-9676-54a7464034ec_300x.jpg",
+    "price": 26,
+    "rating": 4.2,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6678375989314",
+    "title": "Earthbender Landscape",
+    "image": "https://teefury.com/cdn/shop/products/54004-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 40,
+    "rating": 4.2,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6680948768834",
+    "title": "Merry Catmas",
+    "image": "https://teefury.com/cdn/shop/products/54076-collection-swe-you-pul-color-red_4e714d01-bb6b-4e5a-b2de-7ffabaff5610_300x.jpg",
+    "price": 25,
+    "rating": 3.6,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6675585138754",
+    "title": "The Magician Ghibli",
+    "image": "https://teefury.com/cdn/shop/products/53974-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 60,
+    "rating": 4.0,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6677352120386",
+    "title": "Time To Roll",
+    "image": "https://teefury.com/cdn/shop/products/53931-collection-swe-you-pul-color-nav_4f7c1a62-7271-4e7b-a07c-eff187aaed6d_300x.jpg",
+    "price": 30,
+    "rating": 4.1,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6660051697730",
+    "title": "Interdimensional Travelers",
+    "image": "https://teefury.com/cdn/shop/products/53707-collection-swe-you-pul-color-nav_11f62c46-bfe9-4103-aa58-47058f14aa52_300x.jpg",
+    "price": 43,
+    "rating": 3.2,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6655299518530",
+    "title": "Hallows In Moonlight",
+    "image": "https://teefury.com/cdn/shop/products/53651-collection-swe-you-pul-color-blk_1b3130cd-5b7b-4c46-9300-0c0dfc84cc60_300x.jpg",
+    "price": 47,
+    "rating": 4.9,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6642045845570",
+    "title": "The Armored Alchemist",
+    "image": "https://teefury.com/cdn/shop/products/53499-collection-swe-you-pul-color-blk_8637ff84-da95-4057-8eb3-e12274feb0e2_300x.jpg",
+    "price": 46,
+    "rating": 4.7,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6630712475714",
+    "title": "Metroid Dread",
+    "image": "https://teefury.com/cdn/shop/products/53367-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 37,
+    "rating": 1.8,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6613960294466",
+    "title": "Spirited Race",
+    "image": "https://teefury.com/cdn/shop/products/15558-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 53,
+    "rating": 2.9,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6613927264322",
+    "title": "Nature Circle",
+    "image": "https://teefury.com/cdn/shop/products/20015-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 44,
+    "rating": 4.9,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6613888041026",
+    "title": "Hey! It's Me!",
+    "image": "https://teefury.com/cdn/shop/products/26185-collection-swe-you-pul-color-nav_300x.jpg",
+    "price": 22,
+    "rating": 2.4,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6605698728002",
+    "title": "What Doesn't Kill You",
+    "image": "https://teefury.com/cdn/shop/products/53051-collection-swe-you-pul-color-blk_990d1c5b-b762-445a-b2ec-43bb1a0cd24c_300x.jpg",
+    "price": 27,
+    "rating": 3.0,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6598941966402",
+    "title": "Himiko",
+    "image": "https://teefury.com/cdn/shop/products/52954-collection-swe-you-pul-color-nav_300x.jpg",
+    "price": 27,
+    "rating": 2.4,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6595597303874",
+    "title": "Mania Team",
+    "image": "https://teefury.com/cdn/shop/products/52912-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 42,
+    "rating": 1.3,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6594853011522",
+    "title": "Could Have Been An Email",
+    "image": "https://teefury.com/cdn/shop/products/52893-collection-swe-you-pul-color-blk_58848b31-6c65-454b-bc72-16d15981b918_300x.jpg",
+    "price": 26,
+    "rating": 2.3,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6585292554306",
+    "title": "The Starry Cat Night",
+    "image": "https://teefury.com/cdn/shop/products/52775-collection-swe-you-pul-color-nav_300x.jpg",
+    "price": 23,
+    "rating": 3.8,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6574327234626",
+    "title": "Cat Quest",
+    "image": "https://teefury.com/cdn/shop/products/52594-collection-swe-you-pul-color-nav_f9a72580-8cde-486d-8e01-2cc960a6c00d_300x.jpg",
+    "price": 21,
+    "rating": 4.2,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6565417779266",
+    "title": "Sister Ink",
+    "image": "https://teefury.com/cdn/shop/products/52541-collection-swe-you-pul-color-whi_300x.jpg",
+    "price": 56,
+    "rating": 3.1,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6563158229058",
+    "title": "Reservoir Impostors",
+    "image": "https://teefury.com/cdn/shop/products/52459-collection-swe-you-pul-color-blk_0397f6eb-7c2a-41c0-be72-d060459d0d49_300x.jpg",
+    "price": 51,
+    "rating": 3.6,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6563156820034",
+    "title": "Ramen Neighbor",
+    "image": "https://teefury.com/cdn/shop/products/52457-collection-swe-you-pul-color-whi_a04c77fe-3d08-443c-8408-a6da474416ee_300x.jpg",
+    "price": 44,
+    "rating": 3.7,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6563155476546",
+    "title": "Colorful Pirate",
+    "image": "https://teefury.com/cdn/shop/products/52454-collection-swe-you-pul-color-blk_2e04feb4-ec41-47d0-a45b-c03519b33d8a_300x.jpg",
+    "price": 49,
+    "rating": 1.4,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6557256515650",
+    "title": "Break the Walls Down",
+    "image": "https://teefury.com/cdn/shop/products/52415-collection-swe-you-pul-color-blk_36a5f3ab-5e58-4dc0-a8ea-1a9d63fc2fb1_300x.jpg",
+    "price": 26,
+    "rating": 4.5,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6552406097986",
+    "title": "The Bonds",
+    "image": "https://teefury.com/cdn/shop/products/52341-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 57,
+    "rating": 3.5,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6555684077634",
+    "title": "Strongest Sorcerer",
+    "image": "https://teefury.com/cdn/shop/products/52362-collection-swe-you-pul-color-whi_769b9f4b-c524-40c4-853d-d02cc55f1923_300x.jpg",
+    "price": 33,
+    "rating": 4.8,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "6536657633346",
+    "title": "Slayers",
+    "image": "https://teefury.com/cdn/shop/products/52153-collection-swe-you-pul-color-nav_300x.jpg",
+    "price": 54,
+    "rating": 4.3,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "4784255860802",
+    "title": "House of the Brave",
+    "image": "https://teefury.com/cdn/shop/products/52040-collection-swe-you-pul-color-blk_f7950e37-84e1-41f5-9109-3540d85e0189_300x.jpg",
+    "price": 44,
+    "rating": 1.3,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "4758710288450",
+    "title": "Fast Trash Life",
+    "image": "https://teefury.com/cdn/shop/products/51781-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 60,
+    "rating": 1.7,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "4753257201730",
+    "title": "Cat Tree",
+    "image": "https://teefury.com/cdn/shop/products/51615-collection-swe-you-pul-color-gre_300x.jpg",
+    "price": 24,
+    "rating": 4.4,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "4750981595202",
+    "title": "Your New Best Friend",
+    "image": "https://teefury.com/cdn/shop/products/10120-collection-swe-you-pul-color-nav_300x.jpg",
+    "price": 34,
+    "rating": 1.1,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "4749526925378",
+    "title": "Viking Fury",
+    "image": "https://teefury.com/cdn/shop/products/12039-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 43,
+    "rating": 4.1,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "4749520764994",
+    "title": "University of Role-Playing",
+    "image": "https://teefury.com/cdn/shop/products/13063-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 41,
+    "rating": 3.1,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "4747900223554",
+    "title": "True Companions",
+    "image": "https://teefury.com/cdn/shop/products/14929-collection-swe-you-pul-color-pur_300x.jpg",
+    "price": 35,
+    "rating": 4.5,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "4747896651842",
+    "title": "Tree-Rex",
+    "image": "https://teefury.com/cdn/shop/products/14890-collection-swe-you-pul-color-red_300x.jpg",
+    "price": 41,
+    "rating": 1.9,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "4747435147330",
+    "title": "Team 7",
+    "image": "https://teefury.com/cdn/shop/products/51082-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 57,
+    "rating": 3.2,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "4747420532802",
+    "title": "Sunset Rex",
+    "image": "https://teefury.com/cdn/shop/products/50918-collection-swe-you-pul-color-blk_300x.jpg",
+    "price": 49,
+    "rating": 2.2,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "4747404312642",
+    "title": "Star T-Rex",
+    "image": "https://teefury.com/cdn/shop/products/15623-collection-swe-you-pul-color-roy_300x.jpg",
+    "price": 51,
+    "rating": 2.6,
+    "category": "youth-pullover-sweatshirts"
+  },
+  {
+    "id": "4747158847554",
+    "title": "Spicy Comfort Food",
+    "image": "https://teefury.com/cdn/shop/products/15518-collection-swe-you-pul-color-red_300x.jpg",
+    "price": 53,
+    "rating": 2.9,
+    "category": "youth-pullover-sweatshirts"
+  }
+]

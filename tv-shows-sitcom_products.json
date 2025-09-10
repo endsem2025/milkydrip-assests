@@ -1,0 +1,794 @@
+[
+  {
+    "id": "4331912265794",
+    "title": "I Don't Want To Live On This Planet Anymore",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_89f26f76-3012-4898-9f78-0a8cecd597be_300x.jpg",
+    "price": 50,
+    "rating": 3.8,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4464168075330",
+    "title": "Robot Problems",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-nav_529bb500-73ee-4707-9e2d-82bc44ee491d_300x.jpg",
+    "price": 50,
+    "rating": 1.5,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4332980699202",
+    "title": "Golden Queens",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_0c15bc34-8269-4c5c-b9ed-7941c26f721a_300x.jpg",
+    "price": 25,
+    "rating": 4.2,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "6695843725378",
+    "title": "The Benderorian Poster",
+    "image": "https://teefury.com/cdn/shop/products/54469-art-file-color-nav_c858da47-170f-4d95-aa2c-15a0f8e5ecee_300x.jpg",
+    "price": 47,
+    "rating": 1.5,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4426358620226",
+    "title": "Chili Spilly",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-cha_e078ced2-b7d1-4f56-87b7-82b799d260fe_300x.jpg",
+    "price": 50,
+    "rating": 5.0,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4344637194306",
+    "title": "Standard Nerds",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_fb5512e8-eef4-479b-b58d-6b930d115ce4_300x.jpg",
+    "price": 39,
+    "rating": 2.7,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "6544321052738",
+    "title": "Top Bun",
+    "image": "https://teefury.com/cdn/shop/products/52227-art-file-color-nav_1625c575-2425-4605-9084-9669cef794b7_300x.jpg",
+    "price": 43,
+    "rating": 1.6,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4478159192130",
+    "title": "Let's Go on An Adventure",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_c17620d5-e3d7-4dc9-ac10-8639b33c3c3a_300x.jpg",
+    "price": 29,
+    "rating": 4.6,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "7341407404098",
+    "title": "Pawnee Vintage Harvest Festival",
+    "image": "https://teefury.com/cdn/shop/files/122042-art-file-color-dch_bcc0f3b1-3389-4d6a-965d-a8a3ea46f1dc_300x.jpg",
+    "price": 42,
+    "rating": 3.4,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4325231525954",
+    "title": "Future Supper",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_c6190a2e-a04c-4a67-b876-0b4199f35320_300x.jpg",
+    "price": 30,
+    "rating": 3.7,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4334939603010",
+    "title": "Highly Addictive",
+    "image": "https://teefury.com/cdn/shop/products/26199-art-file-color-blk_007942de-9ab5-45a5-8c7c-ee2b3cad33b1_300x.jpg",
+    "price": 44,
+    "rating": 1.4,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "6642025168962",
+    "title": "Salem The Cat",
+    "image": "https://teefury.com/cdn/shop/products/53485-art-file-color-blk_83e4c523-424f-4ef0-a138-d2d3c5cc80fe_300x.jpg",
+    "price": 53,
+    "rating": 3.0,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4651518394434",
+    "title": "Bender Earth",
+    "image": "https://teefury.com/cdn/shop/products/50919-art-file-color-roy_fdd69e0c-b568-4484-b721-a07c3f907043_300x.jpg",
+    "price": 54,
+    "rating": 4.6,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "7062239248450",
+    "title": "Save The Earth And Kill All Humans",
+    "image": "https://teefury.com/cdn/shop/files/109333-art-file-color-blk_d585f479-453a-4637-aa5e-8fe409ebdfaf_300x.jpg",
+    "price": 25,
+    "rating": 1.5,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4340073463874",
+    "title": "100 Cups of Coffee",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_6bb5ea1c-ab1a-4821-a2ab-331affcc0b38_300x.jpg",
+    "price": 45,
+    "rating": 2.5,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4773036458050",
+    "title": "Cyberdrunk",
+    "image": "https://teefury.com/cdn/shop/products/51942-art-file-color-pur_300x.jpg",
+    "price": 48,
+    "rating": 4.6,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4633810665538",
+    "title": "Science Bleep",
+    "image": "https://teefury.com/cdn/shop/products/50815-art-file-color-roy_300x.jpg",
+    "price": 56,
+    "rating": 2.7,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4349980147778",
+    "title": "The Golden Ghouls",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_95d2e194-a46e-4b20-8b49-19c8778e0c9b_300x.jpg",
+    "price": 20,
+    "rating": 2.2,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4321306935362",
+    "title": "Vance Refrigeration",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-nav_3da96311-50d7-46e3-89e2-78dabb61e419_300x.jpg",
+    "price": 28,
+    "rating": 4.7,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "6710435872834",
+    "title": "Burger Boys",
+    "image": "https://teefury.com/cdn/shop/products/54696-art-file-color-whi_728fc10f-6cd4-4cfc-9a08-0a5ec83d0f9e_300x.jpg",
+    "price": 29,
+    "rating": 2.4,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4638385963074",
+    "title": "Drink Bros",
+    "image": "https://teefury.com/cdn/shop/products/50846-art-file-color-cha_300x.jpg",
+    "price": 59,
+    "rating": 1.4,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4328361099330",
+    "title": "Easy To Remember",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_c1241f31-8152-4189-8f71-da88212a133e_300x.jpg",
+    "price": 40,
+    "rating": 2.1,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "7322379780162",
+    "title": "Extreme Ecology",
+    "image": "https://teefury.com/cdn/shop/files/120992-art-file-color-blk_91f89a18-20cc-4742-9f75-e8c725e2c633_300x.jpg",
+    "price": 43,
+    "rating": 2.1,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4594998345794",
+    "title": "The Puppet Paradox",
+    "image": "https://teefury.com/cdn/shop/products/14530-art-file-color-blk_300x.jpg",
+    "price": 43,
+    "rating": 3.7,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "7322378043458",
+    "title": "You're Already Accepted",
+    "image": "https://teefury.com/cdn/shop/files/120993-art-file-color-whi_3ee20409-9224-4e7a-8a06-59e05236d37a_300x.jpg",
+    "price": 49,
+    "rating": 3.1,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "6570084630594",
+    "title": "Hardcore Parkour Club",
+    "image": "https://teefury.com/cdn/shop/products/52586-art-file-color-tur_cee1c8f8-c355-4a83-a01a-deb6099ce7de_300x.jpg",
+    "price": 42,
+    "rating": 4.7,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4338864390210",
+    "title": "Beer Chemistry",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_1f015eda-88c9-4da3-a32b-048587bb2fd6_300x.jpg",
+    "price": 55,
+    "rating": 1.4,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4338641010754",
+    "title": "Let It Snu!",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-cha_fd61791a-b5f5-49b4-8fa0-6d0fd9a5fd1b_300x.jpg",
+    "price": 37,
+    "rating": 2.6,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4321091420226",
+    "title": "What Are They Feeding You",
+    "image": "https://teefury.com/cdn/shop/products/11172-art-file-color-crm_f78d49ba-9c37-45fa-882d-0aeaae70f842_300x.jpg",
+    "price": 60,
+    "rating": 2.9,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4304957571138",
+    "title": "Nebeermind",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-tur_a867ce4f-ddbc-4313-a82b-cf8bacc0eaa5_300x.jpg",
+    "price": 55,
+    "rating": 1.4,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "6779610497090",
+    "title": "Melting Bart",
+    "image": "https://teefury.com/cdn/shop/products/56622-art-file-color-blk_44b4871e-9b39-4232-9e8e-255d70787805_300x.jpg",
+    "price": 48,
+    "rating": 4.7,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "7007594545218",
+    "title": "Happy Birthday Jesus",
+    "image": "https://teefury.com/cdn/shop/files/107028-art-file-color-blk_a6184278-6f79-4768-b318-df7e1499a806_300x.jpg",
+    "price": 58,
+    "rating": 1.4,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4321297039426",
+    "title": "Vale Frycem",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_ee409ab6-817f-460f-a9cb-b979db6513cb_300x.jpg",
+    "price": 59,
+    "rating": 4.7,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4332975784002",
+    "title": "Golden Days",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_94ba1d99-6bda-41e5-8fca-c0cd9cb266a4_300x.jpg",
+    "price": 58,
+    "rating": 3.6,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "7461477843010",
+    "title": "Starbug Coffee",
+    "image": "https://teefury.com/cdn/shop/files/128929-art-file-color-blk_e2e25529-ade6-4f17-a5b1-0d48ee20d132_300x.jpg",
+    "price": 39,
+    "rating": 1.0,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "7381993717826",
+    "title": "Ray Of Sarcastic Sunshine",
+    "image": "https://teefury.com/cdn/shop/files/124454-art-file-color-blk_7a6f2e1a-a056-43b4-8235-35f06d1355dc_300x.jpg",
+    "price": 51,
+    "rating": 4.1,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "6544320069698",
+    "title": "Prison Mike",
+    "image": "https://teefury.com/cdn/shop/products/52226-art-file-color-crm_0ff2c255-0f90-4019-85e7-32bca64d4094_300x.jpg",
+    "price": 20,
+    "rating": 4.9,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4513441644610",
+    "title": "OFFICE",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-crm_c0fb2ca5-c6f5-43b7-9438-1e751f303709_300x.jpg",
+    "price": 36,
+    "rating": 2.8,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "6906702463042",
+    "title": "Scientists",
+    "image": "https://teefury.com/cdn/shop/products/60169-art-file-color-blk_300x.jpg",
+    "price": 31,
+    "rating": 4.8,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "6547603030082",
+    "title": "Bite My Shiny Metal Ale",
+    "image": "https://teefury.com/cdn/shop/products/52290-art-file-color-nav_300x.jpg",
+    "price": 53,
+    "rating": 4.8,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4319388958786",
+    "title": "Panucci's Pizza",
+    "image": "https://teefury.com/cdn/shop/products/18026-art-file-color-whi_1b50ec12-add1-4f44-8ed7-d01e1b0133eb_300x.jpg",
+    "price": 43,
+    "rating": 4.1,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4552408629314",
+    "title": "Office Club",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-cha_cce1b15b-e723-4ae4-807f-79117be601b5_300x.jpg",
+    "price": 58,
+    "rating": 3.9,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4344524931138",
+    "title": "Solid Gold",
+    "image": "https://teefury.com/cdn/shop/products/15435-art-file-color-blk_4b72ea41-73a1-4f8e-9032-c01e4cedb9a5_300x.jpg",
+    "price": 58,
+    "rating": 1.5,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "6935205806146",
+    "title": "Spider-Bart Vs D'ohc Ock",
+    "image": "https://teefury.com/cdn/shop/products/101360-art-file-color-nav_300x.jpg",
+    "price": 58,
+    "rating": 3.4,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "6795398348866",
+    "title": "Enjoy Slurm",
+    "image": "https://teefury.com/cdn/shop/products/56962-art-file-color-roy_7a83ee61-acff-4b61-958c-9767fca07e1e_300x.jpg",
+    "price": 21,
+    "rating": 3.5,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "6540267061314",
+    "title": "Springfield Friends",
+    "image": "https://teefury.com/cdn/shop/products/52201-art-file-color-nav_467e4306-c682-438a-a84a-79b995f3c4b8_300x.jpg",
+    "price": 58,
+    "rating": 4.3,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4347015430210",
+    "title": "Golden Grams",
+    "image": "https://teefury.com/cdn/shop/products/27186-art-file-color-roy_c841229e-81a5-41f8-afb2-e371b7e94f24_300x.jpg",
+    "price": 25,
+    "rating": 2.8,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4344335597634",
+    "title": "Schrute Farms",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_a475842a-3dfc-4568-aee7-b81a19378f4c_300x.jpg",
+    "price": 22,
+    "rating": 1.7,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4338875007042",
+    "title": "Bending Unit 22",
+    "image": "https://teefury.com/cdn/shop/products/32138-art-file-color-whi_5613e9e3-43a2-49e1-a774-99142c278c34_300x.jpg",
+    "price": 52,
+    "rating": 1.4,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4305078353986",
+    "title": "No Butts, No Glory",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_8f76cf15-3227-45fc-a835-824d415af0ed_300x.jpg",
+    "price": 38,
+    "rating": 1.0,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "6942164811842",
+    "title": "Homer's Science",
+    "image": "https://teefury.com/cdn/shop/files/102131-art-file-color-blk_06081025-5133-42b6-892e-8bfb2442de79_300x.jpg",
+    "price": 47,
+    "rating": 3.4,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4702212227138",
+    "title": "Vote for Glory",
+    "image": "https://teefury.com/cdn/shop/products/51315-art-file-color-nav_708ad9b9-cbc9-4a00-9fe7-945e884cc2cc_300x.jpg",
+    "price": 36,
+    "rating": 4.7,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4321140408386",
+    "title": "Why Not Zoidberg 3016",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-nav_e06eab1a-c597-45ef-833f-fd48cb9734d0_300x.jpg",
+    "price": 41,
+    "rating": 4.3,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "6692162404418",
+    "title": "Another Beer",
+    "image": "https://teefury.com/cdn/shop/products/54357-art-file-color-nav_300x.jpg",
+    "price": 37,
+    "rating": 1.6,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4621456179266",
+    "title": "Tina",
+    "image": "https://teefury.com/cdn/shop/products/50769-art-file-color-roy_300x.jpg",
+    "price": 35,
+    "rating": 4.3,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4325795004482",
+    "title": "Maniac IT Department",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_c1ad0060-2011-428d-b47a-03cf08256e86_300x.jpg",
+    "price": 38,
+    "rating": 2.2,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4304474243138",
+    "title": "Orvillorama",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_000f2c85-4c4f-45da-8d40-b65d383f88be_300x.jpg",
+    "price": 37,
+    "rating": 2.6,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "7434712973378",
+    "title": "Never Drink Again",
+    "image": "https://teefury.com/cdn/shop/files/126881-art-file-color-blk_cc9aafe4-3fc7-43bc-bec8-6aafcefc71d0_300x.jpg",
+    "price": 25,
+    "rating": 4.2,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "6969333383234",
+    "title": "Princess Of Butts",
+    "image": "https://teefury.com/cdn/shop/files/105949-art-file-color-blk_e7ebaabb-c0d4-40ae-a943-230b83fb2838_300x.jpg",
+    "price": 56,
+    "rating": 2.3,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4412224831554",
+    "title": "Burger Mom",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-tur_5c7b76d3-46fe-4352-8d10-dfe208b37c30_300x.jpg",
+    "price": 36,
+    "rating": 3.0,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "7311770550338",
+    "title": "Sensei Assistant",
+    "image": "https://teefury.com/cdn/shop/files/120207-art-file-color-blk_4ceda492-d1f9-47e5-8a3f-aa5dbdeb1488_300x.jpg",
+    "price": 20,
+    "rating": 3.3,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "7047694417986",
+    "title": "Tina’s Valentine",
+    "image": "https://teefury.com/cdn/shop/files/108690-art-file-color-whi_636d9520-910e-43a1-9a01-142c85fd630c_300x.jpg",
+    "price": 44,
+    "rating": 1.2,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "6660051173442",
+    "title": "Interdimensional Travelers",
+    "image": "https://teefury.com/cdn/shop/products/53707-art-file-color-nav_980598da-b9cc-4a49-beaf-bbe51262f184_300x.jpg",
+    "price": 56,
+    "rating": 2.1,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4697481543746",
+    "title": "Golden Savages",
+    "image": "https://teefury.com/cdn/shop/products/51260-art-file-color-blk_24951853-8187-4a1e-9dde-5281f5c38226_300x.jpg",
+    "price": 43,
+    "rating": 2.1,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4344676089922",
+    "title": "Steamed Hams",
+    "image": "https://teefury.com/cdn/shop/products/15675-art-file-color-whi_76d70f91-d58a-4dbc-ab73-2df19901a022_300x.jpg",
+    "price": 46,
+    "rating": 2.5,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "6618151551042",
+    "title": "Kevin's Chili",
+    "image": "https://teefury.com/cdn/shop/products/53226-art-file-color-blk_08b373f1-a823-4ea3-b31d-ca6df16f5462_300x.jpg",
+    "price": 56,
+    "rating": 3.8,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "6603024793666",
+    "title": "Look Morty!",
+    "image": "https://teefury.com/cdn/shop/products/52992-art-file-color-whi_407a4958-34e6-462b-b2ec-6020b73dedf0_300x.jpg",
+    "price": 23,
+    "rating": 3.6,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "6536673820738",
+    "title": "Saint Pat Rick",
+    "image": "https://teefury.com/cdn/shop/products/52167-art-file-color-gre_300x.jpg",
+    "price": 47,
+    "rating": 2.8,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4784290529346",
+    "title": "The Boy Is Sus",
+    "image": "https://teefury.com/cdn/shop/products/52075-art-file-color-tur_300x.jpg",
+    "price": 50,
+    "rating": 3.3,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4723247087682",
+    "title": "Airing Grievances",
+    "image": "https://teefury.com/cdn/shop/products/51511-art-file-color-nav_300x.jpg",
+    "price": 30,
+    "rating": 4.1,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "7344775594050",
+    "title": "Bender Routine",
+    "image": "https://teefury.com/cdn/shop/files/122244-art-file-color-blk_7ea51c16-0ab5-415b-b56e-abefe7beeaa9_300x.jpg",
+    "price": 21,
+    "rating": 1.5,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "6758199263298",
+    "title": "Dad Of Thunder",
+    "image": "https://teefury.com/cdn/shop/products/56003-art-file-color-roy_629d3891-67f3-4907-9e1b-6abfb32e8295_300x.jpg",
+    "price": 33,
+    "rating": 4.0,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "6705818927170",
+    "title": "Dunder Mifflin Vs The world",
+    "image": "https://teefury.com/cdn/shop/products/54596-art-file-color-tur_04189a74-a408-4ae0-9f8f-c65f454427f0_300x.jpg",
+    "price": 60,
+    "rating": 2.9,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "6555029340226",
+    "title": "Spring Field",
+    "image": "https://teefury.com/cdn/shop/products/52380-art-file-color-gre_300x.jpg",
+    "price": 38,
+    "rating": 2.0,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4344618811458",
+    "title": "Springfield Moon",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_22a235bc-999d-4b3f-9a2c-ee195e2df1ef_300x.jpg",
+    "price": 47,
+    "rating": 2.5,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4319455346754",
+    "title": "Pickle Carnage",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_4d28f6ae-476c-4560-9cd5-bbef47f9fb8f_300x.jpg",
+    "price": 35,
+    "rating": 1.3,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "7449669369922",
+    "title": "Downward Spiral",
+    "image": "https://teefury.com/cdn/shop/files/128191-art-file-color-blk_31b9d1bd-3e01-4fea-be58-fe897d830f64_300x.jpg",
+    "price": 29,
+    "rating": 3.7,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "7445191360578",
+    "title": "Dunder Lumon Company",
+    "image": "https://teefury.com/cdn/shop/files/127948-art-file-color-blk_3c8d7272-593c-4979-9d56-659f3bcf685a_300x.jpg",
+    "price": 49,
+    "rating": 3.5,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "7097927336002",
+    "title": "Bite My Metal",
+    "image": "https://teefury.com/cdn/shop/files/110726-art-file-color-blk_b2f3d8ca-e778-473c-81db-56980a4be040_300x.jpg",
+    "price": 27,
+    "rating": 2.4,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "6769384587330",
+    "title": "Itchy Scratchy Scream",
+    "image": "https://teefury.com/cdn/shop/products/56358-art-file-color-blk_40d55a34-21eb-4c30-b8fe-3fbed8739210_300x.jpg",
+    "price": 30,
+    "rating": 1.9,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "6603025088578",
+    "title": "Rickman Returns",
+    "image": "https://teefury.com/cdn/shop/products/52993-art-file-color-blk_0460e551-5216-4a78-b0e5-577931580141_300x.jpg",
+    "price": 27,
+    "rating": 1.1,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4735768461378",
+    "title": "Bite my Merry XmASS",
+    "image": "https://teefury.com/cdn/shop/products/51559-art-file-color-red_2447eb26-27dd-418b-a2a0-a73e32dd7dfd_300x.jpg",
+    "price": 34,
+    "rating": 1.9,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4589041778754",
+    "title": "Greendale Community College",
+    "image": "https://teefury.com/cdn/shop/products/17182-art-file-color-nav_e05a77ac-e31a-4663-bd6a-e8579fc1c003_300x.jpg",
+    "price": 52,
+    "rating": 3.5,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4328157478978",
+    "title": "Roger's Place",
+    "image": "https://teefury.com/cdn/shop/products/16222-art-file-color-tur_04575f2c-5433-41a2-aa72-afbc2c19003b_300x.jpg",
+    "price": 21,
+    "rating": 3.8,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "6953593143362",
+    "title": "Futurhapsody",
+    "image": "https://teefury.com/cdn/shop/files/103740-art-file-color-nav_d94a0990-8dc8-493d-940f-3a2236b4fef3_300x.jpg",
+    "price": 37,
+    "rating": 3.7,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "6651740323906",
+    "title": "Okd'ohberfest",
+    "image": "https://teefury.com/cdn/shop/products/53636-art-file-color-gre_300x.jpg",
+    "price": 41,
+    "rating": 3.0,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "6603058249794",
+    "title": "Stapler Inside Jelly",
+    "image": "https://teefury.com/cdn/shop/products/53034-art-file-color-whi_82a65cb2-d80f-490f-ab80-4e3159a866f4_300x.jpg",
+    "price": 24,
+    "rating": 2.2,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4422399426626",
+    "title": "Terrors From Deep Space!",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_46bc450a-778e-480c-961b-9565ecd996f8_300x.jpg",
+    "price": 44,
+    "rating": 3.8,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4349055402050",
+    "title": "American Donuts",
+    "image": "https://teefury.com/cdn/shop/products/33221-art-file-color-blu_d3ad0487-85cb-4683-8723-7c9ac6654604_300x.jpg",
+    "price": 56,
+    "rating": 1.6,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4344657543234",
+    "title": "Starship",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_3e6260c2-ac5f-43a0-912e-8bae7ea0bc51_300x.jpg",
+    "price": 27,
+    "rating": 2.3,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4331896700994",
+    "title": "I Bring You Love",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_dda41c02-1273-4a43-9a25-9088efd68850_300x.jpg",
+    "price": 25,
+    "rating": 4.4,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4316867461186",
+    "title": "KWYJIBO",
+    "image": "https://teefury.com/cdn/shop/products/23224-art-file-color-blk_b26dfd5e-8bb4-4255-bf43-31d7c811fb67_300x.jpg",
+    "price": 60,
+    "rating": 2.2,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "7384544575554",
+    "title": "Old Bessie",
+    "image": "https://teefury.com/cdn/shop/files/124683-art-file-color-blk_5edbcde6-5c49-4610-8286-e88392ce360c_300x.jpg",
+    "price": 50,
+    "rating": 3.9,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "7314335498306",
+    "title": "Paper Michael",
+    "image": "https://teefury.com/cdn/shop/files/120372-art-file-color-blk_ecff6a48-eab1-4468-bd6a-2eb0a9392967_300x.jpg",
+    "price": 43,
+    "rating": 3.0,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "6769283924034",
+    "title": "Globex Corp",
+    "image": "https://teefury.com/cdn/shop/products/56307-art-file-color-nav_300x.jpg",
+    "price": 52,
+    "rating": 2.2,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4350323097666",
+    "title": "TV Addict",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_56ac9f0f-1793-44f0-bbb7-b63455fd6f7b_300x.jpg",
+    "price": 57,
+    "rating": 1.5,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "4304401367106",
+    "title": "OH JEEZ",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_9d4df5c1-a08d-40fe-903b-d301b7132f9c_300x.jpg",
+    "price": 56,
+    "rating": 3.5,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "7098099171394",
+    "title": "Three-Hour Tours",
+    "image": "https://teefury.com/cdn/shop/files/110647-art-file-color-crm_b295e330-dd2f-475e-ace0-0a32fbabb8f0_300x.jpg",
+    "price": 39,
+    "rating": 1.8,
+    "category": "tv-shows-sitcom"
+  },
+  {
+    "id": "6866524373058",
+    "title": "Radioactive Squad",
+    "image": "https://teefury.com/cdn/shop/products/58755-art-file-color-whi_7f0c67ed-6370-454c-b5ba-4cd9b0f391ad_300x.jpg",
+    "price": 46,
+    "rating": 2.9,
+    "category": "tv-shows-sitcom"
+  }
+]
