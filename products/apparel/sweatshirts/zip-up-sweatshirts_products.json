@@ -1,0 +1,650 @@
+[
+  {
+    "id": "4340071727170",
+    "title": "1 Punch!",
+    "image": "https://teefury.com/cdn/shop/products/collection-swe-uni-zip-color-red_5c116e6d-a8ac-4ca4-b775-79dae2c2194d_300x.jpg",
+    "price": 42,
+    "rating": 1.6,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "6933718368322",
+    "title": "1-800-SCREAM",
+    "image": "https://teefury.com/cdn/shop/products/101188-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 34,
+    "rating": 2.9,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "4340073889858",
+    "title": "100 Cups of Coffee",
+    "image": "https://teefury.com/cdn/shop/products/collection-swe-uni-zip-color-blk_05794090-5f57-431c-8f1a-aa218f09831e_300x.jpg",
+    "price": 29,
+    "rating": 4.2,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7461445402690",
+    "title": "100% Sigma",
+    "image": "https://teefury.com/cdn/shop/files/129258-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 20,
+    "rating": 3.3,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "4340076773442",
+    "title": "1000 Needles",
+    "image": "https://teefury.com/cdn/shop/products/collection-swe-uni-zip-color-blk_ee30dbea-500c-4cea-b41b-385febf5beb2_300x.jpg",
+    "price": 45,
+    "rating": 1.8,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "4770195275842",
+    "title": "1000 Needless Worries",
+    "image": "https://teefury.com/cdn/shop/products/51886-collection-swe-uni-zip-color-tur_300x.jpg",
+    "price": 28,
+    "rating": 3.7,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "6775773233218",
+    "title": "117 Emblem",
+    "image": "https://teefury.com/cdn/shop/products/56505-collection-swe-uni-zip-color-nav_300x.jpg",
+    "price": 27,
+    "rating": 1.4,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "6675577176130",
+    "title": "117 Helmet Mosaic",
+    "image": "https://teefury.com/cdn/shop/products/53969-collection-swe-uni-zip-color-nav_300x.jpg",
+    "price": 23,
+    "rating": 4.0,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "6705897603138",
+    "title": "117 Tattoo",
+    "image": "https://teefury.com/cdn/shop/products/54617-collection-swe-uni-zip-color-roy_300x.jpg",
+    "price": 54,
+    "rating": 1.9,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "6680989237314",
+    "title": "12 Days Of Catmas",
+    "image": "https://teefury.com/cdn/shop/products/54102-collection-swe-uni-zip-color-red_300x.jpg",
+    "price": 40,
+    "rating": 2.3,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "6860589400130",
+    "title": "12th Time Storm",
+    "image": "https://teefury.com/cdn/shop/products/58542-collection-swe-uni-zip-color-nav_300x.jpg",
+    "price": 46,
+    "rating": 3.6,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7311800500290",
+    "title": "13 Bits",
+    "image": "https://teefury.com/cdn/shop/files/120291-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 60,
+    "rating": 3.8,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "4340079067202",
+    "title": "13th Doctor",
+    "image": "https://teefury.com/cdn/shop/products/collection-swe-uni-zip-color-nav_910e63a3-21f7-4ac3-89b5-887c81ce41af_300x.jpg",
+    "price": 24,
+    "rating": 3.5,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "4340080214082",
+    "title": "150 Million Ki",
+    "image": "https://teefury.com/cdn/shop/products/collection-swe-uni-zip-color-blk_9726f442-ace1-44f1-b31d-4edeff65400d_300x.jpg",
+    "price": 49,
+    "rating": 2.7,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7010803318850",
+    "title": "1610 Miles",
+    "image": "https://teefury.com/cdn/shop/files/107042-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 30,
+    "rating": 2.5,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "4340065173570",
+    "title": "1701",
+    "image": "https://teefury.com/cdn/shop/products/collection-swe-uni-zip-color-blk_047d5396-4cf9-43dc-978c-6923b389ae53_300x.jpg",
+    "price": 33,
+    "rating": 2.7,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "4340066418754",
+    "title": "1757",
+    "image": "https://teefury.com/cdn/shop/products/collection-swe-uni-zip-color-crm_d4527a80-187d-4c73-b1e3-ad3c7985d757_300x.jpg",
+    "price": 37,
+    "rating": 1.1,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7338260103234",
+    "title": "1900s Edition",
+    "image": "https://teefury.com/cdn/shop/files/121833-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 20,
+    "rating": 1.7,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7511610884162",
+    "title": "1980s Rebel",
+    "image": "https://teefury.com/cdn/shop/files/132788-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 60,
+    "rating": 4.9,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "4340067336258",
+    "title": "1992",
+    "image": "https://teefury.com/cdn/shop/products/collection-swe-uni-zip-color-whi_71279ac3-1350-4718-a5cd-2119436cf6a1_300x.jpg",
+    "price": 55,
+    "rating": 2.9,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "4601442926658",
+    "title": "1998 Survivors",
+    "image": "https://teefury.com/cdn/shop/products/50661-collection-swe-uni-zip-color-nav_300x.jpg",
+    "price": 32,
+    "rating": 4.6,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "6660126277698",
+    "title": "1st Division Captain",
+    "image": "https://teefury.com/cdn/shop/products/53753-collection-swe-uni-zip-color-nav_300x.jpg",
+    "price": 24,
+    "rating": 3.7,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7389092020290",
+    "title": "2 Deers In Love",
+    "image": "https://teefury.com/cdn/shop/files/125001-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 45,
+    "rating": 4.2,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7031441817666",
+    "title": "2024 Is Gonna Be Lit",
+    "image": "https://teefury.com/cdn/shop/files/107910-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 34,
+    "rating": 1.7,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7033953681474",
+    "title": "2024 Lucky Dragon",
+    "image": "https://teefury.com/cdn/shop/files/108044-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 60,
+    "rating": 2.6,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7397313216578",
+    "title": "2025 Better Be Hisstoric",
+    "image": "https://teefury.com/cdn/shop/files/125534-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 57,
+    "rating": 4.0,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7257529647170",
+    "title": "2049",
+    "image": "https://teefury.com/cdn/shop/files/113570-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 53,
+    "rating": 4.8,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "4540222439490",
+    "title": "2077",
+    "image": "https://teefury.com/cdn/shop/products/50459-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 22,
+    "rating": 3.0,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "4340085129282",
+    "title": "2B Or Not 2B",
+    "image": "https://teefury.com/cdn/shop/products/collection-swe-uni-zip-color-cha_59b297ae-9d33-42dc-8d48-5340f25190d6_300x.jpg",
+    "price": 38,
+    "rating": 4.5,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "4678916112450",
+    "title": "3 2 1",
+    "image": "https://teefury.com/cdn/shop/products/51137-collection-swe-uni-zip-color-nav_300x.jpg",
+    "price": 29,
+    "rating": 2.5,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "6593111523394",
+    "title": "3, 2, 1. Let's Jam!",
+    "image": "https://teefury.com/cdn/shop/products/52865-collection-swe-uni-zip-color-whi_300x.jpg",
+    "price": 53,
+    "rating": 2.9,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7306103914562",
+    "title": "3000s Comics",
+    "image": "https://teefury.com/cdn/shop/files/120164-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 60,
+    "rating": 3.7,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7431574126658",
+    "title": "365 Days Left To Sleep",
+    "image": "https://teefury.com/cdn/shop/files/126658-collection-swe-uni-zip-color-blu_300x.jpg",
+    "price": 38,
+    "rating": 1.3,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "6610433474626",
+    "title": "3D Hedgehog",
+    "image": "https://teefury.com/cdn/shop/products/53102-collection-swe-uni-zip-color-blk_da7d18d1-96f5-449b-8012-c5972286f126_300x.jpg",
+    "price": 25,
+    "rating": 2.0,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7165325443138",
+    "title": "404 Decade Not Found",
+    "image": "https://teefury.com/cdn/shop/files/111548-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 57,
+    "rating": 1.6,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "4340063567938",
+    "title": "42",
+    "image": "https://teefury.com/cdn/shop/products/collection-swe-uni-zip-color-dch_f724728b-ef7a-4634-a1c8-7f1170652840_300x.jpg",
+    "price": 37,
+    "rating": 2.2,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "4340090503234",
+    "title": "4LB3RT",
+    "image": "https://teefury.com/cdn/shop/products/collection-swe-uni-zip-color-blk_7dc70a7e-0c86-41ed-9948-941cab23e161_300x.jpg",
+    "price": 32,
+    "rating": 1.3,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "6677345468482",
+    "title": "4th Gen",
+    "image": "https://teefury.com/cdn/shop/products/53927-collection-swe-uni-zip-color-blu_f7701761-a8ec-4139-b566-a447baa355d8_300x.jpg",
+    "price": 41,
+    "rating": 2.4,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "4340091748418",
+    "title": "50 Shades Of Grayskull",
+    "image": "https://teefury.com/cdn/shop/products/collection-swe-uni-zip-color-hgr_730806fd-d91a-4255-a238-030e4f8581dc_300x.jpg",
+    "price": 60,
+    "rating": 3.0,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "4340092567618",
+    "title": "50 Years of the Doctor",
+    "image": "https://teefury.com/cdn/shop/products/collection-swe-uni-zip-color-tur_84cdf01d-9242-4a6b-95cb-b28922320059_300x.jpg",
+    "price": 23,
+    "rating": 2.7,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "6555032977474",
+    "title": "6 Demon",
+    "image": "https://teefury.com/cdn/shop/products/52384-collection-swe-uni-zip-color-nav_300x.jpg",
+    "price": 23,
+    "rating": 3.8,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7243616747586",
+    "title": "70s VHS Horror Cult",
+    "image": "https://teefury.com/cdn/shop/files/113285-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 49,
+    "rating": 4.2,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7518567628866",
+    "title": "712 Racing",
+    "image": "https://teefury.com/cdn/shop/files/133202-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 22,
+    "rating": 4.5,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "4340099579970",
+    "title": "8 Bit Betrayal",
+    "image": "https://teefury.com/cdn/shop/products/collection-swe-uni-zip-color-blk_778da4dc-547a-4543-b2f3-4ebcc80456aa_300x.jpg",
+    "price": 29,
+    "rating": 2.2,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7470151794754",
+    "title": "8 Bit Dog",
+    "image": "https://teefury.com/cdn/shop/files/129706-collection-swe-uni-zip-color-whi_300x.jpg",
+    "price": 53,
+    "rating": 2.6,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "4340101316674",
+    "title": "80's BEST FRIENDS",
+    "image": "https://teefury.com/cdn/shop/products/collection-swe-uni-zip-color-blk_5dd1081a-b1cb-4745-acb9-e9fc57291f22_300x.jpg",
+    "price": 22,
+    "rating": 3.3,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "4340102791234",
+    "title": "80's Education",
+    "image": "https://teefury.com/cdn/shop/products/collection-swe-uni-zip-color-blk_938d1860-c5f9-457f-958b-ee16f828abca_300x.jpg",
+    "price": 22,
+    "rating": 1.7,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "6605728317506",
+    "title": "80's Future",
+    "image": "https://teefury.com/cdn/shop/products/53081-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 20,
+    "rating": 1.1,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7374127136834",
+    "title": "80s Arcade",
+    "image": "https://teefury.com/cdn/shop/files/124023-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 45,
+    "rating": 2.2,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "6939189084226",
+    "title": "80s Gamer Room",
+    "image": "https://teefury.com/cdn/shop/files/101561-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 52,
+    "rating": 4.3,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7483937914946",
+    "title": "80s Nostalgia",
+    "image": "https://teefury.com/cdn/shop/files/130830-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 41,
+    "rating": 3.7,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7449855787074",
+    "title": "80s Rock",
+    "image": "https://teefury.com/cdn/shop/files/128302-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 36,
+    "rating": 1.3,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7245391921218",
+    "title": "80s VHS Horror Cult",
+    "image": "https://teefury.com/cdn/shop/files/113445-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 59,
+    "rating": 2.8,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7403649663042",
+    "title": "80s Walk",
+    "image": "https://teefury.com/cdn/shop/files/125884-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 39,
+    "rating": 4.7,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "6638014234690",
+    "title": "84 Buster",
+    "image": "https://teefury.com/cdn/shop/products/53469-collection-swe-uni-zip-color-nav_300x.jpg",
+    "price": 29,
+    "rating": 3.7,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7389059383362",
+    "title": "88 MPH",
+    "image": "https://teefury.com/cdn/shop/files/125018-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 39,
+    "rating": 3.7,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7458471673922",
+    "title": "88 MPH Back In Time",
+    "image": "https://teefury.com/cdn/shop/files/128802-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 44,
+    "rating": 4.7,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "6626042970178",
+    "title": "88MPH Time Travel Club",
+    "image": "https://teefury.com/cdn/shop/products/53301-collection-swe-uni-zip-color-blk_2d274ca5-c3b3-45b9-8d0d-77d5e6c0335e_300x.jpg",
+    "price": 56,
+    "rating": 1.9,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7403630198850",
+    "title": "8Bits Stained Glass",
+    "image": "https://teefury.com/cdn/shop/files/125887-collection-swe-uni-zip-color-nav_300x.jpg",
+    "price": 52,
+    "rating": 1.7,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "6678334701634",
+    "title": "90's Anime Neko",
+    "image": "https://teefury.com/cdn/shop/products/53979-collection-swe-uni-zip-color-roy_cbc6fb4d-26a9-4243-abae-0a3be6ac6f2d_300x.jpg",
+    "price": 45,
+    "rating": 4.6,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7010689417282",
+    "title": "90s Cat Child",
+    "image": "https://teefury.com/cdn/shop/files/107089-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 27,
+    "rating": 2.0,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7478970449986",
+    "title": "90s Cereal",
+    "image": "https://teefury.com/cdn/shop/files/130359-collection-swe-uni-zip-color-nav_300x.jpg",
+    "price": 26,
+    "rating": 3.0,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7515215593538",
+    "title": "90s Cute Cat",
+    "image": "https://teefury.com/cdn/shop/files/133047-collection-swe-uni-zip-color-blu_300x.jpg",
+    "price": 36,
+    "rating": 2.8,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "6939190919234",
+    "title": "90s Gamer Room",
+    "image": "https://teefury.com/cdn/shop/files/101562-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 32,
+    "rating": 1.1,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7453370515522",
+    "title": "90s High Tech",
+    "image": "https://teefury.com/cdn/shop/files/128542-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 52,
+    "rating": 4.4,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7245393985602",
+    "title": "90s VHS Horror Cult",
+    "image": "https://teefury.com/cdn/shop/files/113444-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 32,
+    "rating": 1.9,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7165448552514",
+    "title": "92 Mutants",
+    "image": "https://teefury.com/cdn/shop/files/111593-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 48,
+    "rating": 1.8,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "4363337007170",
+    "title": "99 Holiday Problems",
+    "image": "https://teefury.com/cdn/shop/products/collection-swe-uni-zip-color-red_6853be61-5c38-4dcd-9e1a-7b269169e6c0_300x.jpg",
+    "price": 29,
+    "rating": 2.1,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "6743020994626",
+    "title": "99 Lives",
+    "image": "https://teefury.com/cdn/shop/products/55640-collection-swe-uni-zip-color-roy_300x.jpg",
+    "price": 54,
+    "rating": 3.8,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "6964030996546",
+    "title": "A Bag Of Tricks",
+    "image": "https://teefury.com/cdn/shop/files/105476-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 30,
+    "rating": 2.1,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7470285848642",
+    "title": "A Beagle In Wonderland",
+    "image": "https://teefury.com/cdn/shop/files/129642-collection-swe-uni-zip-color-nav_300x.jpg",
+    "price": 49,
+    "rating": 2.9,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7402701160514",
+    "title": "A Bear Winter Day",
+    "image": "https://teefury.com/cdn/shop/files/125738-collection-swe-uni-zip-color-whi_300x.jpg",
+    "price": 59,
+    "rating": 2.0,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "6886413566018",
+    "title": "A Beer A Day",
+    "image": "https://teefury.com/cdn/shop/products/59465-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 38,
+    "rating": 4.2,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7327446794306",
+    "title": "A Beer Story",
+    "image": "https://teefury.com/cdn/shop/files/121483-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 54,
+    "rating": 2.1,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "7165500391490",
+    "title": "A Bit Greedy",
+    "image": "https://teefury.com/cdn/shop/files/111574-collection-swe-uni-zip-color-gre_300x.jpg",
+    "price": 37,
+    "rating": 3.3,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "6570065231938",
+    "title": "A Book A Day",
+    "image": "https://teefury.com/cdn/shop/products/52558-art-file-color-cha_c2788861-6ff7-4b49-934f-87bb4d4763b0_300x.jpg",
+    "price": 52,
+    "rating": 1.2,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "6963948912706",
+    "title": "A Bowl Full Of Owls",
+    "image": "https://teefury.com/cdn/shop/files/105374-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 46,
+    "rating": 2.5,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "6958727528514",
+    "title": "A Box Full Of Pumpkins",
+    "image": "https://teefury.com/cdn/shop/files/104399-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 60,
+    "rating": 1.2,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "6964121272386",
+    "title": "A Boy And His Ghost Dog",
+    "image": "https://teefury.com/cdn/shop/files/105424-collection-swe-uni-zip-color-blk_300x.jpg",
+    "price": 53,
+    "rating": 3.3,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "4348938616898",
+    "title": "A Brand New Gaming Experience",
+    "image": "https://teefury.com/cdn/shop/products/collection-swe-uni-zip-color-red_d487b8dd-4545-46ef-b82a-e5dd4b465cdc_300x.jpg",
+    "price": 35,
+    "rating": 1.8,
+    "category": "zip-up-sweatshirts"
+  },
+  {
+    "id": "6752924696642",
+    "title": "A Break From Reality",
+    "image": "https://teefury.com/cdn/shop/products/55859-collection-swe-uni-zip-color-blk_558aa962-765a-4e39-9628-e66fe256f9d5_300x.jpg",
+    "price": 51,
+    "rating": 2.8,
+    "category": "zip-up-sweatshirts"
+  }
+]

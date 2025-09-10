@@ -1,0 +1,794 @@
+[
+  {
+    "id": "6650103857218",
+    "title": "Yin Yang Dice",
+    "image": "https://teefury.com/cdn/shop/products/52145-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 22,
+    "rating": 4.0,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6648352112706",
+    "title": "The Tardis in Japan",
+    "image": "https://teefury.com/cdn/shop/products/52426-collection-sho-non-pol-color-gre_300x.jpg",
+    "price": 22,
+    "rating": 2.2,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "7483939717186",
+    "title": "Kitten Galaxy",
+    "image": "https://teefury.com/cdn/shop/files/130829-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 41,
+    "rating": 2.6,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6765113802818",
+    "title": "Gojira In Japan",
+    "image": "https://teefury.com/cdn/shop/products/56148-collection-sho-non-pol-color-whi_eb9943c1-06ce-46a0-9669-b0b674cb73b3_300x.jpg",
+    "price": 37,
+    "rating": 3.9,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6664846835778",
+    "title": "Catana Shark",
+    "image": "https://teefury.com/cdn/shop/products/53801-collection-sho-non-pol-color-crm_300x.jpg",
+    "price": 52,
+    "rating": 2.2,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6647987765314",
+    "title": "Star Fleet",
+    "image": "https://teefury.com/cdn/shop/products/35051-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 57,
+    "rating": 3.9,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6641896915010",
+    "title": "Krampus Winter Ale",
+    "image": "https://teefury.com/cdn/shop/products/23212-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 20,
+    "rating": 1.3,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6641853890626",
+    "title": "KARP",
+    "image": "https://teefury.com/cdn/shop/products/23047-collection-sho-non-pol-color-whi_300x.jpg",
+    "price": 60,
+    "rating": 4.4,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "7475021545538",
+    "title": "Fortress Of The Valkyrie",
+    "image": "https://teefury.com/cdn/shop/files/130167-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 24,
+    "rating": 1.6,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "7434817306690",
+    "title": "Great Cthulhu In Japan Woodblock",
+    "image": "https://teefury.com/cdn/shop/files/126909-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 22,
+    "rating": 1.3,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "7314366365762",
+    "title": "Warm Up Time",
+    "image": "https://teefury.com/cdn/shop/files/120355-collection-sho-non-pol-color-tur_300x.jpg",
+    "price": 22,
+    "rating": 1.9,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "7306167746626",
+    "title": "Fright Night",
+    "image": "https://teefury.com/cdn/shop/files/119905-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 24,
+    "rating": 5.0,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "7306225025090",
+    "title": "Moogle Retro",
+    "image": "https://teefury.com/cdn/shop/files/119872-collection-sho-non-pol-color-dch_300x.jpg",
+    "price": 48,
+    "rating": 4.9,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "7095058169922",
+    "title": "Rebellion Patch",
+    "image": "https://teefury.com/cdn/shop/files/110465-collection-sho-non-pol-color-nav_300x.jpg",
+    "price": 58,
+    "rating": 1.4,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "7049934864450",
+    "title": "Ghibli Cuties",
+    "image": "https://teefury.com/cdn/shop/files/108814-collection-sho-non-pol-color-whi_300x.jpg",
+    "price": 40,
+    "rating": 1.6,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6983094304834",
+    "title": "Chocobo Since 1988",
+    "image": "https://teefury.com/cdn/shop/files/106514-collection-sho-non-pol-color-crm_300x.jpg",
+    "price": 33,
+    "rating": 3.3,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6961451270210",
+    "title": "Edgar Allan Paw",
+    "image": "https://teefury.com/cdn/shop/files/104534-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 22,
+    "rating": 3.5,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6953623158850",
+    "title": "Witchy Moon",
+    "image": "https://teefury.com/cdn/shop/files/103726-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 46,
+    "rating": 4.9,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6947698147394",
+    "title": "Stay Cool Funny Penguin",
+    "image": "https://teefury.com/cdn/shop/files/102739-collection-sho-non-pol-color-nav_300x.jpg",
+    "price": 32,
+    "rating": 1.4,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6917574590530",
+    "title": "Safe House",
+    "image": "https://teefury.com/cdn/shop/products/100550-collection-sho-non-pol-color-cha_300x.jpg",
+    "price": 26,
+    "rating": 2.9,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6913231519810",
+    "title": "Dragons Moon",
+    "image": "https://teefury.com/cdn/shop/products/100340-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 42,
+    "rating": 4.9,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6913214611522",
+    "title": "Catland",
+    "image": "https://teefury.com/cdn/shop/products/100331-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 42,
+    "rating": 4.8,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6906586300482",
+    "title": "Rangers In Japan Woodblock",
+    "image": "https://teefury.com/cdn/shop/products/60102-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 55,
+    "rating": 3.3,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6905115115586",
+    "title": "Every Bunny",
+    "image": "https://teefury.com/cdn/shop/products/60024-collection-sho-non-pol-color-crm_300x.jpg",
+    "price": 29,
+    "rating": 4.9,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6901979938882",
+    "title": "Time Broken",
+    "image": "https://teefury.com/cdn/shop/products/59874-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 37,
+    "rating": 3.7,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6898179604546",
+    "title": "Rolled A 20 Today",
+    "image": "https://teefury.com/cdn/shop/products/57772-collection-sho-non-pol-color-pur_300x.jpg",
+    "price": 26,
+    "rating": 1.1,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6878567727170",
+    "title": "Aliens In Japan",
+    "image": "https://teefury.com/cdn/shop/products/59081-collection-sho-non-pol-color-nav_9c3f1dba-a489-4f57-b043-63eecc676be0_300x.jpg",
+    "price": 29,
+    "rating": 3.5,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6860760809538",
+    "title": "Great Old One In Japan",
+    "image": "https://teefury.com/cdn/shop/products/58605-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 57,
+    "rating": 1.8,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6856969715778",
+    "title": "Christmas Witches",
+    "image": "https://teefury.com/cdn/shop/products/58483-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 52,
+    "rating": 1.4,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6845235265602",
+    "title": "Magical Beings",
+    "image": "https://teefury.com/cdn/shop/products/57860-collection-sho-non-pol-color-nav_cf22570b-3c6e-4f00-8955-5d1d390a9275_300x.jpg",
+    "price": 30,
+    "rating": 4.4,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6844287352898",
+    "title": "Mystery Solver",
+    "image": "https://teefury.com/cdn/shop/products/58110-collection-sho-non-pol-color-nav_300x.jpg",
+    "price": 44,
+    "rating": 1.4,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6795399626818",
+    "title": "Enjoy Slurm",
+    "image": "https://teefury.com/cdn/shop/products/56962-collection-sho-non-pol-color-roy_300x.jpg",
+    "price": 36,
+    "rating": 1.2,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6782388469826",
+    "title": "Press E To Enter",
+    "image": "https://teefury.com/cdn/shop/products/56680-collection-sho-non-pol-color-blk_fa440d2c-cd51-4c7d-8b01-7e02160914d3_300x.jpg",
+    "price": 52,
+    "rating": 4.9,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6772949516354",
+    "title": "Cute Alpaca",
+    "image": "https://teefury.com/cdn/shop/products/56475-collection-sho-non-pol-color-whi_300x.jpg",
+    "price": 57,
+    "rating": 2.8,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6760543584322",
+    "title": "Exia Battle Damage",
+    "image": "https://teefury.com/cdn/shop/products/56060-collection-sho-non-pol-color-pur_300x.jpg",
+    "price": 34,
+    "rating": 3.7,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6760467628098",
+    "title": "Kimetsu No Yaiba Nezuko",
+    "image": "https://teefury.com/cdn/shop/products/56012-collection-sho-non-pol-color-blk_28ad68fa-f2a2-4328-93e1-f979f84c528f_300x.jpg",
+    "price": 46,
+    "rating": 3.6,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6748846293058",
+    "title": "Ink Flower Rabbit",
+    "image": "https://teefury.com/cdn/shop/products/55748-collection-sho-non-pol-color-whi_300x.jpg",
+    "price": 53,
+    "rating": 3.2,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6748824338498",
+    "title": "Stay At The Bates",
+    "image": "https://teefury.com/cdn/shop/products/55733-collection-sho-non-pol-color-blk_158804c0-a83f-4a3a-b0f4-715c9a239107_300x.jpg",
+    "price": 52,
+    "rating": 4.3,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6746673119298",
+    "title": "Live Long",
+    "image": "https://teefury.com/cdn/shop/products/55676-collection-sho-non-pol-color-tur_1d5afb1b-d9a3-46c7-8d1a-3ea42fac7fd7_300x.jpg",
+    "price": 20,
+    "rating": 3.4,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6740846805058",
+    "title": "Eat Sleep Roll",
+    "image": "https://teefury.com/cdn/shop/products/55561-collection-sho-non-pol-color-roy_300x.jpg",
+    "price": 20,
+    "rating": 4.4,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6735769567298",
+    "title": "Adventure To The West",
+    "image": "https://teefury.com/cdn/shop/products/55431-collection-sho-non-pol-color-nav_300x.jpg",
+    "price": 29,
+    "rating": 4.9,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6724624810050",
+    "title": "The Shiniest Space Ship",
+    "image": "https://teefury.com/cdn/shop/products/55054-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 35,
+    "rating": 3.1,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6724621926466",
+    "title": "Sailor Cake",
+    "image": "https://teefury.com/cdn/shop/products/55052-collection-sho-non-pol-color-crm_300x.jpg",
+    "price": 20,
+    "rating": 2.7,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6703913599042",
+    "title": "Connecting With The Forest Animals",
+    "image": "https://teefury.com/cdn/shop/products/54574-collection-sho-non-pol-color-cha_300x.jpg",
+    "price": 22,
+    "rating": 2.4,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6686729601090",
+    "title": "Kind Christmas",
+    "image": "https://teefury.com/cdn/shop/products/54276-collection-sho-non-pol-color-dch_300x.jpg",
+    "price": 41,
+    "rating": 1.5,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6685026549826",
+    "title": "Watermelon Snack",
+    "image": "https://teefury.com/cdn/shop/products/54224-collection-sho-non-pol-color-red_300x.jpg",
+    "price": 32,
+    "rating": 1.1,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6684963635266",
+    "title": "Tardis Sumi-E",
+    "image": "https://teefury.com/cdn/shop/products/54182-collection-sho-non-pol-color-whi_3b342e4c-623a-4003-a743-a10d2701746e_300x.jpg",
+    "price": 27,
+    "rating": 1.9,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6675562364994",
+    "title": "Plants Are My Life",
+    "image": "https://teefury.com/cdn/shop/products/53959-collection-sho-non-pol-color-nav_300x.jpg",
+    "price": 57,
+    "rating": 2.9,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6664816296002",
+    "title": "I Need My Space",
+    "image": "https://teefury.com/cdn/shop/products/53781-collection-sho-non-pol-color-roy_2abc6484-f5b7-440e-931a-52f33015caf1_300x.jpg",
+    "price": 38,
+    "rating": 4.2,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6650110574658",
+    "title": "You Found Me",
+    "image": "https://teefury.com/cdn/shop/products/10077-collection-sho-non-pol-color-pur_300x.jpg",
+    "price": 49,
+    "rating": 2.3,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6650087702594",
+    "title": "Working From Home",
+    "image": "https://teefury.com/cdn/shop/products/53208-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 43,
+    "rating": 2.2,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6650084819010",
+    "title": "Wonderland Impressions",
+    "image": "https://teefury.com/cdn/shop/products/11348-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 35,
+    "rating": 4.8,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6649054494786",
+    "title": "UKIYO E DRAGON",
+    "image": "https://teefury.com/cdn/shop/products/35056-collection-sho-non-pol-color-crm_300x.jpg",
+    "price": 26,
+    "rating": 3.7,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6648240603202",
+    "title": "The Great Air Bison",
+    "image": "https://teefury.com/cdn/shop/products/52657-collection-sho-non-pol-color-cha_300x.jpg",
+    "price": 22,
+    "rating": 4.2,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6648221728834",
+    "title": "The Dude",
+    "image": "https://teefury.com/cdn/shop/products/14254-collection-sho-non-pol-color-dch_300x.jpg",
+    "price": 60,
+    "rating": 1.3,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6647737385026",
+    "title": "Splat!",
+    "image": "https://teefury.com/cdn/shop/products/15570-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 55,
+    "rating": 1.4,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6647734468674",
+    "title": "Spirited Ink",
+    "image": "https://teefury.com/cdn/shop/products/15556-collection-sho-non-pol-color-blu_300x.jpg",
+    "price": 50,
+    "rating": 2.8,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6647722049602",
+    "title": "Space Trap",
+    "image": "https://teefury.com/cdn/shop/products/15497-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 50,
+    "rating": 4.7,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6645311504450",
+    "title": "Purrfect Day",
+    "image": "https://teefury.com/cdn/shop/products/18387-collection-sho-non-pol-color-nav_300x.jpg",
+    "price": 59,
+    "rating": 2.3,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6645083045954",
+    "title": "Ohmu and Fox",
+    "image": "https://teefury.com/cdn/shop/products/19043-collection-sho-non-pol-color-dch_300x.jpg",
+    "price": 28,
+    "rating": 4.4,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6644920811586",
+    "title": "Ninjesus",
+    "image": "https://teefury.com/cdn/shop/products/20135-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 45,
+    "rating": 2.6,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6644895154242",
+    "title": "Neon Hat",
+    "image": "https://teefury.com/cdn/shop/products/51040-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 60,
+    "rating": 3.9,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6644253098050",
+    "title": "Morning Cat",
+    "image": "https://teefury.com/cdn/shop/products/21360-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 34,
+    "rating": 4.7,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6642261622850",
+    "title": "Little Big",
+    "image": "https://teefury.com/cdn/shop/products/22180-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 52,
+    "rating": 4.6,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6640893034562",
+    "title": "Forbidden Squad",
+    "image": "https://teefury.com/cdn/shop/products/52675-collection-sho-non-pol-color-pur_300x.jpg",
+    "price": 50,
+    "rating": 1.2,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6640844144706",
+    "title": "Fallen From Grace",
+    "image": "https://teefury.com/cdn/shop/products/28016-collection-sho-non-pol-color-whi_300x.jpg",
+    "price": 34,
+    "rating": 3.3,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6640810590274",
+    "title": "End Of Humanity",
+    "image": "https://teefury.com/cdn/shop/products/52634-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 39,
+    "rating": 2.0,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6640623026242",
+    "title": "Dr Deco",
+    "image": "https://teefury.com/cdn/shop/products/30307-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 38,
+    "rating": 3.4,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6640616341570",
+    "title": "Don't Panic",
+    "image": "https://teefury.com/cdn/shop/products/30281-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 50,
+    "rating": 1.7,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6640573218882",
+    "title": "Decorate",
+    "image": "https://teefury.com/cdn/shop/products/51558-collection-sho-non-pol-color-gre_300x.jpg",
+    "price": 21,
+    "rating": 1.1,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6640506306626",
+    "title": "Dark Guardian",
+    "image": "https://teefury.com/cdn/shop/products/30049-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 28,
+    "rating": 4.4,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6640496115778",
+    "title": "Dabbing Unicorn",
+    "image": "https://teefury.com/cdn/shop/products/30006-collection-sho-non-pol-color-roy_300x.jpg",
+    "price": 28,
+    "rating": 4.2,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6640489431106",
+    "title": "Cute Demon",
+    "image": "https://teefury.com/cdn/shop/products/53106-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 26,
+    "rating": 4.3,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6640484810818",
+    "title": "Cthuluau",
+    "image": "https://teefury.com/cdn/shop/products/31407-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 52,
+    "rating": 1.1,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6640427991106",
+    "title": "Christmas Nuts",
+    "image": "https://teefury.com/cdn/shop/products/35008-collection-sho-non-pol-color-red_300x.jpg",
+    "price": 46,
+    "rating": 1.5,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6639869526082",
+    "title": "Blood and Ice Cream",
+    "image": "https://teefury.com/cdn/shop/products/32225-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 24,
+    "rating": 4.2,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6639858221122",
+    "title": "Bite my Merry XmASS",
+    "image": "https://teefury.com/cdn/shop/products/51559-collection-sho-non-pol-color-red_300x.jpg",
+    "price": 22,
+    "rating": 1.6,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "6639019098178",
+    "title": "Adventure's End",
+    "image": "https://teefury.com/cdn/shop/products/33126-collection-sho-non-pol-color-whi_300x.jpg",
+    "price": 30,
+    "rating": 3.7,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "7525825904706",
+    "title": "Have You Seen Him Shred",
+    "image": "https://teefury.com/cdn/shop/files/133831-collection-sho-non-pol-color-whi_300x.jpg",
+    "price": 29,
+    "rating": 4.5,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "7525824757826",
+    "title": "Plant The Future",
+    "image": "https://teefury.com/cdn/shop/files/133833-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 30,
+    "rating": 2.8,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "7525823184962",
+    "title": "Caffeine And Mental Instability",
+    "image": "https://teefury.com/cdn/shop/files/133834-collection-sho-non-pol-color-crm_300x.jpg",
+    "price": 50,
+    "rating": 4.0,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "7525821939778",
+    "title": "Cowabunga Couch Party",
+    "image": "https://teefury.com/cdn/shop/files/133835-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 47,
+    "rating": 4.9,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "7525820301378",
+    "title": "Ghost Autumn",
+    "image": "https://teefury.com/cdn/shop/files/133836-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 20,
+    "rating": 1.6,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "7525505826882",
+    "title": "Gen X Fest",
+    "image": "https://teefury.com/cdn/shop/files/133604-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 39,
+    "rating": 3.4,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "7525493375042",
+    "title": "FantaztiCar",
+    "image": "https://teefury.com/cdn/shop/files/133608-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 44,
+    "rating": 2.6,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "7525839306818",
+    "title": "Zakum Coffee Emblem",
+    "image": "https://teefury.com/cdn/shop/files/133825-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 49,
+    "rating": 2.1,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "7525837537346",
+    "title": "Ramen-tic Soul",
+    "image": "https://teefury.com/cdn/shop/files/133826-collection-sho-non-pol-color-red_300x.jpg",
+    "price": 56,
+    "rating": 4.9,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "7525836062786",
+    "title": "Crit Or Fumble",
+    "image": "https://teefury.com/cdn/shop/files/133827-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 36,
+    "rating": 1.8,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "7525831180354",
+    "title": "Overthinking World Champion",
+    "image": "https://teefury.com/cdn/shop/files/133828-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 43,
+    "rating": 3.4,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "7525829181506",
+    "title": "Mad Tea Cup",
+    "image": "https://teefury.com/cdn/shop/files/133829-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 51,
+    "rating": 1.4,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "7525827870786",
+    "title": "My Cozy Place",
+    "image": "https://teefury.com/cdn/shop/files/133830-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 54,
+    "rating": 3.2,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "7525520506946",
+    "title": "Vikings And Dragons",
+    "image": "https://teefury.com/cdn/shop/files/133600-collection-sho-non-pol-color-red_300x.jpg",
+    "price": 22,
+    "rating": 2.3,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "7525499437122",
+    "title": "Do The Pew",
+    "image": "https://teefury.com/cdn/shop/files/133606-collection-sho-non-pol-color-gre_300x.jpg",
+    "price": 55,
+    "rating": 3.0,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "7525847629890",
+    "title": "Tend To Your Growth",
+    "image": "https://teefury.com/cdn/shop/files/133819-collection-sho-non-pol-color-whi_300x.jpg",
+    "price": 42,
+    "rating": 3.8,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "7525846253634",
+    "title": "Cyber Menace",
+    "image": "https://teefury.com/cdn/shop/files/133820-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 52,
+    "rating": 4.8,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "7525845106754",
+    "title": "We Are Humans",
+    "image": "https://teefury.com/cdn/shop/files/133821-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 27,
+    "rating": 1.7,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "7525843304514",
+    "title": "Strong Trooper",
+    "image": "https://teefury.com/cdn/shop/files/133822-collection-sho-non-pol-color-cha_300x.jpg",
+    "price": 52,
+    "rating": 2.4,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "7525842059330",
+    "title": "Count Of Darkness",
+    "image": "https://teefury.com/cdn/shop/files/133823-collection-sho-non-pol-color-nav_300x.jpg",
+    "price": 45,
+    "rating": 3.1,
+    "category": "shower-curtains"
+  },
+  {
+    "id": "7525840814146",
+    "title": "Sakamoto Convenience Store",
+    "image": "https://teefury.com/cdn/shop/files/133824-collection-sho-non-pol-color-blk_300x.jpg",
+    "price": 25,
+    "rating": 2.4,
+    "category": "shower-curtains"
+  }
+]

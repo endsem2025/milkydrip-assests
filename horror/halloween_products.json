@@ -1,0 +1,794 @@
+[
+  {
+    "id": "4350168170562",
+    "title": "There Is No Princess",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_f8794c21-02a0-4e55-9661-616ec74392e9_300x.jpg",
+    "price": 21,
+    "rating": 1.7,
+    "category": "halloween"
+  },
+  {
+    "id": "4344957861954",
+    "title": "Survivor 1984",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_2feb7dd1-6424-4216-8218-1c8366a03b7a_300x.jpg",
+    "price": 23,
+    "rating": 4.2,
+    "category": "halloween"
+  },
+  {
+    "id": "4321090404418",
+    "title": "What a Time to Be Alive",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_1a7b1f8e-07c8-4e23-bc29-b34a9518e220_300x.jpg",
+    "price": 51,
+    "rating": 2.3,
+    "category": "halloween"
+  },
+  {
+    "id": "7353230622786",
+    "title": "Dread Candy",
+    "image": "https://teefury.com/cdn/shop/files/122667-art-file-color-crm_639c45ee-bcf5-43cd-b6e1-bdb4e05cc5c5_300x.jpg",
+    "price": 31,
+    "rating": 3.2,
+    "category": "halloween"
+  },
+  {
+    "id": "6963525713986",
+    "title": "How To Deal With Your Fears",
+    "image": "https://teefury.com/cdn/shop/files/104832-art-file-color-cha_4fa14f96-eb21-4036-9675-7c757b2e4a2f_300x.jpg",
+    "price": 26,
+    "rating": 3.9,
+    "category": "halloween"
+  },
+  {
+    "id": "7356824911938",
+    "title": "True Believer Since 1966",
+    "image": "https://teefury.com/cdn/shop/files/122815-art-file-color-blk_46e4e70f-3a33-472e-8672-9f27ea57b646_300x.jpg",
+    "price": 59,
+    "rating": 2.1,
+    "category": "halloween"
+  },
+  {
+    "id": "6618177142850",
+    "title": "Ecto-1 Sumi-E",
+    "image": "https://teefury.com/cdn/shop/products/53248-art-file-color-whi_b04ef8d3-d11d-4b9d-8c2d-e5a5a2728c13_300x.jpg",
+    "price": 26,
+    "rating": 1.5,
+    "category": "halloween"
+  },
+  {
+    "id": "6563179626562",
+    "title": "Ghost Of Halloween",
+    "image": "https://teefury.com/cdn/shop/products/52491-art-file-color-blk_300x.jpg",
+    "price": 38,
+    "rating": 4.9,
+    "category": "halloween"
+  },
+  {
+    "id": "4589010321474",
+    "title": "Donkey Puft",
+    "image": "https://teefury.com/cdn/shop/products/17117-art-file-color-blk_300x.jpg",
+    "price": 51,
+    "rating": 1.1,
+    "category": "halloween"
+  },
+  {
+    "id": "6820461215810",
+    "title": "Evil Dead Before Christmas",
+    "image": "https://teefury.com/cdn/shop/products/57408-art-file-color-blk_300x.jpg",
+    "price": 51,
+    "rating": 4.7,
+    "category": "halloween"
+  },
+  {
+    "id": "6767139455042",
+    "title": "Death Metal Is Immortal",
+    "image": "https://teefury.com/cdn/shop/products/56220-art-file-color-blk_62eb92be-12ba-41bf-8320-85517ddff686_300x.jpg",
+    "price": 53,
+    "rating": 4.5,
+    "category": "halloween"
+  },
+  {
+    "id": "4330207412290",
+    "title": "Death Rides A Black Cat",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_58ff7b73-61eb-408c-ab4d-a8103e8e584e_300x.jpg",
+    "price": 28,
+    "rating": 3.5,
+    "category": "halloween"
+  },
+  {
+    "id": "7353229672514",
+    "title": "Movie Game Plant",
+    "image": "https://teefury.com/cdn/shop/files/122668-art-file-color-blk_c36a6495-6564-4547-9804-023da4589290_300x.jpg",
+    "price": 30,
+    "rating": 3.2,
+    "category": "halloween"
+  },
+  {
+    "id": "7511475912770",
+    "title": "Re-Animuppet",
+    "image": "https://teefury.com/cdn/shop/files/132732-art-file-color-blk_708b10c5-7ebc-4b41-8de4-013b1373af40_300x.jpg",
+    "price": 58,
+    "rating": 1.8,
+    "category": "halloween"
+  },
+  {
+    "id": "6964131299394",
+    "title": "Foolish Mortals Hitchhiking Guide",
+    "image": "https://teefury.com/cdn/shop/files/105418-art-file-color-blk_458e4bbd-19ef-4774-8c9b-b37e339bd166_300x.jpg",
+    "price": 30,
+    "rating": 1.6,
+    "category": "halloween"
+  },
+  {
+    "id": "6836339703874",
+    "title": "Christmas Losers",
+    "image": "https://teefury.com/cdn/shop/products/57943-art-file-color-blk_dbf75695-c715-473f-a518-53894a06fda3_300x.jpg",
+    "price": 26,
+    "rating": 1.9,
+    "category": "halloween"
+  },
+  {
+    "id": "6739142508610",
+    "title": "Nightmare In Moonlight",
+    "image": "https://teefury.com/cdn/shop/products/55537-art-file-color-blk_300x.jpg",
+    "price": 28,
+    "rating": 2.5,
+    "category": "halloween"
+  },
+  {
+    "id": "7341412876354",
+    "title": "Spooky Skeletons Dance",
+    "image": "https://teefury.com/cdn/shop/files/122039-art-file-color-blk_c7fbc6a5-b466-44dd-b48c-1fc53317c4a6_300x.jpg",
+    "price": 45,
+    "rating": 5.0,
+    "category": "halloween"
+  },
+  {
+    "id": "6963937869890",
+    "title": "Netherworld Gothic",
+    "image": "https://teefury.com/cdn/shop/files/105378-art-file-color-blk_a78fae1a-43b6-40a4-9228-c3ab870f76a5_300x.jpg",
+    "price": 39,
+    "rating": 3.7,
+    "category": "halloween"
+  },
+  {
+    "id": "6933854748738",
+    "title": "Axolotl Witching Hour",
+    "image": "https://teefury.com/cdn/shop/products/101208-art-file-color-blk_300x.jpg",
+    "price": 43,
+    "rating": 1.9,
+    "category": "halloween"
+  },
+  {
+    "id": "6795479547970",
+    "title": "We're Going Witchin",
+    "image": "https://teefury.com/cdn/shop/products/57010-art-file-color-blk_300x.jpg",
+    "price": 42,
+    "rating": 2.4,
+    "category": "halloween"
+  },
+  {
+    "id": "7481517736002",
+    "title": "The Universal Era",
+    "image": "https://teefury.com/cdn/shop/files/130577-art-file-color-blk_791774f0-b168-4917-bd3c-b61468610d24_300x.jpg",
+    "price": 24,
+    "rating": 4.4,
+    "category": "halloween"
+  },
+  {
+    "id": "6951918501954",
+    "title": "Twist The Bones",
+    "image": "https://teefury.com/cdn/shop/files/102835-art-file-color-blk_ad0117da-79b2-47e1-9e80-2f08456b73f4_300x.jpg",
+    "price": 40,
+    "rating": 1.9,
+    "category": "halloween"
+  },
+  {
+    "id": "4339025870914",
+    "title": "Bulb-O-Lantern",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_e8bfa581-26e8-48b5-b73b-23e1518d92e6_300x.jpg",
+    "price": 21,
+    "rating": 3.2,
+    "category": "halloween"
+  },
+  {
+    "id": "7356825927746",
+    "title": "Killer Bees",
+    "image": "https://teefury.com/cdn/shop/files/122814-art-file-color-blk_185c5037-d719-479e-8963-309f7b03bbe5_300x.jpg",
+    "price": 34,
+    "rating": 3.4,
+    "category": "halloween"
+  },
+  {
+    "id": "7338271047746",
+    "title": "Halloween Loading",
+    "image": "https://teefury.com/cdn/shop/files/121827-art-file-color-blk_e34dbf00-8497-4d1d-9109-d02f686eeef8_300x.jpg",
+    "price": 30,
+    "rating": 2.1,
+    "category": "halloween"
+  },
+  {
+    "id": "4350214406210",
+    "title": "Timmy Has A Visitor",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_84cdfd03-76f3-4800-bfb1-0051da984a41_300x.jpg",
+    "price": 37,
+    "rating": 4.6,
+    "category": "halloween"
+  },
+  {
+    "id": "7478819029058",
+    "title": "The Monsters BW",
+    "image": "https://teefury.com/cdn/shop/files/130342-art-file-color-blk_5a0ffdec-a0a7-4573-a250-ce10c259a22a_300x.jpg",
+    "price": 59,
+    "rating": 2.9,
+    "category": "halloween"
+  },
+  {
+    "id": "4350168531010",
+    "title": "There Is No Santa, Only Zuul!",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_c084896e-1810-4726-95ea-76ed7bf13be6_300x.jpg",
+    "price": 22,
+    "rating": 4.2,
+    "category": "halloween"
+  },
+  {
+    "id": "7356880552002",
+    "title": "Hex Girls",
+    "image": "https://teefury.com/cdn/shop/files/122882-art-file-color-blk_bf9e2f54-6a09-4ef1-b96c-3bd5d614dcba_300x.jpg",
+    "price": 39,
+    "rating": 1.9,
+    "category": "halloween"
+  },
+  {
+    "id": "6935143252034",
+    "title": "Zero Ghost Landscape",
+    "image": "https://teefury.com/cdn/shop/products/101325-art-file-color-blk_356a8250-bcc2-4328-9ade-c7bf0d0d30ac_300x.jpg",
+    "price": 57,
+    "rating": 1.7,
+    "category": "halloween"
+  },
+  {
+    "id": "6802891898946",
+    "title": "Halloween Duck",
+    "image": "https://teefury.com/cdn/shop/products/57069-art-file-color-cha_300x.jpg",
+    "price": 27,
+    "rating": 1.1,
+    "category": "halloween"
+  },
+  {
+    "id": "4332868501570",
+    "title": "GHOOOUL-AID",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_52702971-ff1e-47a8-9d95-cff62e71daad_300x.jpg",
+    "price": 54,
+    "rating": 2.8,
+    "category": "halloween"
+  },
+  {
+    "id": "6655384748098",
+    "title": "Celebrate Halloween In Haddonfield",
+    "image": "https://teefury.com/cdn/shop/products/53697-art-file-color-blk_300x.jpg",
+    "price": 25,
+    "rating": 4.3,
+    "category": "halloween"
+  },
+  {
+    "id": "4344321212482",
+    "title": "Save Point 2",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_ef2d3292-aa80-45c9-b02e-4052cf9ee276_300x.jpg",
+    "price": 50,
+    "rating": 3.3,
+    "category": "halloween"
+  },
+  {
+    "id": "6889935142978",
+    "title": "I Got A Rock",
+    "image": "https://teefury.com/cdn/shop/products/57640-art-file-color-blk_0898003e-f56f-4bb6-aac8-0fc15ea31231_300x.jpg",
+    "price": 47,
+    "rating": 3.0,
+    "category": "halloween"
+  },
+  {
+    "id": "4350237605954",
+    "title": "Toooty Frutti",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_897e9f37-d84b-407b-8741-c048bc996b01_300x.jpg",
+    "price": 25,
+    "rating": 3.2,
+    "category": "halloween"
+  },
+  {
+    "id": "7374065238082",
+    "title": "Cute Ghosts Making Spirits Bright",
+    "image": "https://teefury.com/cdn/shop/files/123961-art-file-color-blk_72d36e8a-db81-4b5c-aeba-b3d02ba441bc_300x.jpg",
+    "price": 34,
+    "rating": 3.5,
+    "category": "halloween"
+  },
+  {
+    "id": "6963522142274",
+    "title": "Strawberry Fiction",
+    "image": "https://teefury.com/cdn/shop/files/104834-art-file-color-blk_353ef9cb-627a-42c2-82de-b4159e7d022d_300x.jpg",
+    "price": 58,
+    "rating": 2.9,
+    "category": "halloween"
+  },
+  {
+    "id": "4616129183810",
+    "title": "Back Off Man",
+    "image": "https://teefury.com/cdn/shop/products/50741-art-file-color-nav_d0dfc8b1-6e62-49ba-90ea-ea422c55cf42_300x.jpg",
+    "price": 57,
+    "rating": 4.3,
+    "category": "halloween"
+  },
+  {
+    "id": "7007618269250",
+    "title": "Christmas Jack",
+    "image": "https://teefury.com/cdn/shop/files/107021-art-file-color-blk_53b7d8ff-2392-42b3-8f66-6aece590c352_300x.jpg",
+    "price": 39,
+    "rating": 4.4,
+    "category": "halloween"
+  },
+  {
+    "id": "6965725200450",
+    "title": "Support Your Local Cat Cult",
+    "image": "https://teefury.com/cdn/shop/files/105564-art-file-color-blk_ef623683-a8dc-461f-9aaa-d17710ed96f1_300x.jpg",
+    "price": 42,
+    "rating": 1.8,
+    "category": "halloween"
+  },
+  {
+    "id": "6963527778370",
+    "title": "Boogie Moon",
+    "image": "https://teefury.com/cdn/shop/files/104831-art-file-color-blk_63bf5dc0-2eeb-4cd4-9394-d6b9cd38c235_300x.jpg",
+    "price": 42,
+    "rating": 2.6,
+    "category": "halloween"
+  },
+  {
+    "id": "6642076811330",
+    "title": "Halloween Duo",
+    "image": "https://teefury.com/cdn/shop/products/53522-art-file-color-blk_300x.jpg",
+    "price": 58,
+    "rating": 3.7,
+    "category": "halloween"
+  },
+  {
+    "id": "7344773529666",
+    "title": "Reaper Halloween In My Soul",
+    "image": "https://teefury.com/cdn/shop/files/122246-art-file-color-blk_2cf9532c-9f09-4760-bf76-dedec53eb54d_300x.jpg",
+    "price": 43,
+    "rating": 2.3,
+    "category": "halloween"
+  },
+  {
+    "id": "6961429479490",
+    "title": "Spooky Kittens",
+    "image": "https://teefury.com/cdn/shop/files/104545-art-file-color-blk_e1a94b7a-bffd-42f0-ad57-cbda27b94f95_300x.jpg",
+    "price": 40,
+    "rating": 4.0,
+    "category": "halloween"
+  },
+  {
+    "id": "6957497712706",
+    "title": "Keep Your Treats",
+    "image": "https://teefury.com/cdn/shop/files/104169-art-file-color-blk_68d11fd2-9f6d-46ae-b9ac-5c47a154699a_300x.jpg",
+    "price": 43,
+    "rating": 3.4,
+    "category": "halloween"
+  },
+  {
+    "id": "6811232567362",
+    "title": "Greetings From The Sandersons",
+    "image": "https://teefury.com/cdn/shop/products/57242-art-file-color-blk_300x.jpg",
+    "price": 30,
+    "rating": 2.0,
+    "category": "halloween"
+  },
+  {
+    "id": "6664825667650",
+    "title": "Everybody Dies",
+    "image": "https://teefury.com/cdn/shop/products/53788-art-file-color-blk_93541136-a178-41df-a039-d95123de0056_300x.jpg",
+    "price": 35,
+    "rating": 1.3,
+    "category": "halloween"
+  },
+  {
+    "id": "6655348277314",
+    "title": "Dia De Los Meows",
+    "image": "https://teefury.com/cdn/shop/products/53675-art-file-color-blk_300x.jpg",
+    "price": 30,
+    "rating": 1.3,
+    "category": "halloween"
+  },
+  {
+    "id": "4350284070978",
+    "title": "Trick or Treaters",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_9dbc35d3-623d-4f82-8986-801ee3b103ce_300x.jpg",
+    "price": 42,
+    "rating": 1.3,
+    "category": "halloween"
+  },
+  {
+    "id": "7042744221762",
+    "title": "Iconic Ecto-1",
+    "image": "https://teefury.com/cdn/shop/files/108433-art-file-color-blk_4c92fe4e-93f2-4568-8dc6-94e028ab141b_300x.jpg",
+    "price": 35,
+    "rating": 1.9,
+    "category": "halloween"
+  },
+  {
+    "id": "6953596780610",
+    "title": "To Scare Or Not",
+    "image": "https://teefury.com/cdn/shop/files/103738-art-file-color-blk_c80458fd-e298-4af0-a32b-8e1a5eeffa4e_300x.jpg",
+    "price": 52,
+    "rating": 4.2,
+    "category": "halloween"
+  },
+  {
+    "id": "6853727223874",
+    "title": "We All Float Down Here Santa",
+    "image": "https://teefury.com/cdn/shop/products/58367-art-file-color-cha_300x.jpg",
+    "price": 55,
+    "rating": 2.4,
+    "category": "halloween"
+  },
+  {
+    "id": "6646622224450",
+    "title": "Salem Brooms",
+    "image": "https://teefury.com/cdn/shop/products/53562-art-file-color-blk_300x.jpg",
+    "price": 53,
+    "rating": 4.0,
+    "category": "halloween"
+  },
+  {
+    "id": "7356822618178",
+    "title": "Heads Will Roll",
+    "image": "https://teefury.com/cdn/shop/files/122817-art-file-color-blk_a6944796-6417-4b14-81f8-328a87acfc94_300x.jpg",
+    "price": 37,
+    "rating": 4.5,
+    "category": "halloween"
+  },
+  {
+    "id": "6955031691330",
+    "title": "All Hail Pumpkin Spice",
+    "image": "https://teefury.com/cdn/shop/files/103874-art-file-color-blk_ec0e2dab-993d-4165-84f7-4700b90f6710_300x.jpg",
+    "price": 55,
+    "rating": 1.6,
+    "category": "halloween"
+  },
+  {
+    "id": "6825164570690",
+    "title": "Pumpkins And Black Cats",
+    "image": "https://teefury.com/cdn/shop/products/57530-art-file-color-blk_164069d3-a918-44dd-b903-879ee01dcbbe_300x.jpg",
+    "price": 41,
+    "rating": 4.2,
+    "category": "halloween"
+  },
+  {
+    "id": "6769369186370",
+    "title": "Museum Of Monsters And Madmen",
+    "image": "https://teefury.com/cdn/shop/products/56350-art-file-color-blk_300x.jpg",
+    "price": 37,
+    "rating": 1.4,
+    "category": "halloween"
+  },
+  {
+    "id": "6540268470338",
+    "title": "The Death",
+    "image": "https://teefury.com/cdn/shop/products/52203-art-file-color-blk_201ec9da-1884-42bc-9462-0d5163a21653_300x.jpg",
+    "price": 23,
+    "rating": 1.6,
+    "category": "halloween"
+  },
+  {
+    "id": "4702203805762",
+    "title": "BOOty",
+    "image": "https://teefury.com/cdn/shop/products/51306-art-file-color-blk_509f132c-8e37-4054-a7df-a8ddf4eab844_300x.jpg",
+    "price": 36,
+    "rating": 3.4,
+    "category": "halloween"
+  },
+  {
+    "id": "4589143949378",
+    "title": "People are Strange",
+    "image": "https://teefury.com/cdn/shop/products/50611-art-file-color-blk_300x.jpg",
+    "price": 20,
+    "rating": 1.4,
+    "category": "halloween"
+  },
+  {
+    "id": "4350225514562",
+    "title": "Tobin's Spirit Guide",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_3534ff07-104b-4904-8b10-663a016837ad_300x.jpg",
+    "price": 42,
+    "rating": 1.5,
+    "category": "halloween"
+  },
+  {
+    "id": "4338608504898",
+    "title": "Le Passage des Morts Nouveaux",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_9847e4fe-b429-45a8-8ae9-55d64fb32451_300x.jpg",
+    "price": 23,
+    "rating": 2.7,
+    "category": "halloween"
+  },
+  {
+    "id": "7378374918210",
+    "title": "Wonderful Nightmare",
+    "image": "https://teefury.com/cdn/shop/files/124215-art-file-color-blk_300x.jpg",
+    "price": 59,
+    "rating": 1.3,
+    "category": "halloween"
+  },
+  {
+    "id": "7356803219522",
+    "title": "Spooky Moonlit Cat",
+    "image": "https://teefury.com/cdn/shop/files/122833-art-file-color-blk_300x.jpg",
+    "price": 26,
+    "rating": 3.3,
+    "category": "halloween"
+  },
+  {
+    "id": "7356801941570",
+    "title": "Jack Is Back",
+    "image": "https://teefury.com/cdn/shop/files/122834-art-file-color-blk_a079f959-6c31-43da-adde-30b913ec2abd_300x.jpg",
+    "price": 26,
+    "rating": 3.0,
+    "category": "halloween"
+  },
+  {
+    "id": "7353228361794",
+    "title": "Game Forest Ghosts",
+    "image": "https://teefury.com/cdn/shop/files/122669-art-file-color-blk_54be765b-5526-453b-b403-9408bde14fd2_300x.jpg",
+    "price": 25,
+    "rating": 3.8,
+    "category": "halloween"
+  },
+  {
+    "id": "7353226559554",
+    "title": "Stay Hydrated",
+    "image": "https://teefury.com/cdn/shop/files/122671-art-file-color-blk_4ba14979-5e43-4dc9-a8aa-4b514451cac0_300x.jpg",
+    "price": 47,
+    "rating": 3.9,
+    "category": "halloween"
+  },
+  {
+    "id": "7350023782466",
+    "title": "Cute Little Pumpkin",
+    "image": "https://teefury.com/cdn/shop/files/122454-art-file-color-blk_e88a9c63-4ed8-410f-aa53-c32a02cdd303_300x.jpg",
+    "price": 57,
+    "rating": 2.9,
+    "category": "halloween"
+  },
+  {
+    "id": "7341403963458",
+    "title": "Fall Jack",
+    "image": "https://teefury.com/cdn/shop/files/122044-art-file-color-blk_c830aa12-2156-44b0-8b24-4d4ebdd5561b_300x.jpg",
+    "price": 38,
+    "rating": 3.1,
+    "category": "halloween"
+  },
+  {
+    "id": "7097929203778",
+    "title": "Friendly Monsters Club",
+    "image": "https://teefury.com/cdn/shop/files/110725-art-file-color-blk_8e7a3477-886c-43d7-a36a-e281d0298b45_300x.jpg",
+    "price": 54,
+    "rating": 2.8,
+    "category": "halloween"
+  },
+  {
+    "id": "6964063305794",
+    "title": "Evil Reader",
+    "image": "https://teefury.com/cdn/shop/files/105457-art-file-color-blk_5d8923fa-284c-417c-b8c9-835992c43e3e_300x.jpg",
+    "price": 29,
+    "rating": 1.0,
+    "category": "halloween"
+  },
+  {
+    "id": "6961449730114",
+    "title": "Edgar Allan Paw",
+    "image": "https://teefury.com/cdn/shop/files/104534-art-file-color-blk_876de13d-1ae7-4e6c-8d75-5d830516674b_300x.jpg",
+    "price": 25,
+    "rating": 1.6,
+    "category": "halloween"
+  },
+  {
+    "id": "6953653993538",
+    "title": "Horror Family",
+    "image": "https://teefury.com/cdn/shop/files/103709-art-file-color-tur_92cb98d3-ffd7-4024-a7d4-fc4cebb69072_300x.jpg",
+    "price": 31,
+    "rating": 1.5,
+    "category": "halloween"
+  },
+  {
+    "id": "6825044738114",
+    "title": "Busted",
+    "image": "https://teefury.com/cdn/shop/products/57582-art-file-color-nav_02007bdf-0786-4e35-8133-47c41db2f0f1_300x.jpg",
+    "price": 28,
+    "rating": 2.2,
+    "category": "halloween"
+  },
+  {
+    "id": "4344976015426",
+    "title": "Sweety Hollow",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_2a632bbf-56ce-4ba7-8486-6cb3efde5bef_300x.jpg",
+    "price": 28,
+    "rating": 3.0,
+    "category": "halloween"
+  },
+  {
+    "id": "4335580708930",
+    "title": "Cat Dead, Details Later",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_7946dc3f-5632-46e4-9552-e12a43720ccd_300x.jpg",
+    "price": 26,
+    "rating": 1.9,
+    "category": "halloween"
+  },
+  {
+    "id": "4305022156866",
+    "title": "Never Trust the Living",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_2508ec1b-0269-4f87-ae7d-7bb526227362_300x.jpg",
+    "price": 50,
+    "rating": 4.8,
+    "category": "halloween"
+  },
+  {
+    "id": "7368440709186",
+    "title": "Visit The Cabin",
+    "image": "https://teefury.com/cdn/shop/files/123694-art-file-color-blk_ab6e9437-870a-4469-a23c-a274d611d62c_300x.jpg",
+    "price": 40,
+    "rating": 4.8,
+    "category": "halloween"
+  },
+  {
+    "id": "7368436187202",
+    "title": "But First Coffee",
+    "image": "https://teefury.com/cdn/shop/files/123698-art-file-color-blk_96775e87-7830-497a-859d-07057d174aac_300x.jpg",
+    "price": 28,
+    "rating": 3.4,
+    "category": "halloween"
+  },
+  {
+    "id": "7350032597058",
+    "title": "Spooky Beagle Car",
+    "image": "https://teefury.com/cdn/shop/files/122447-art-file-color-blk_5e5137bc-5dc3-463d-ad85-4d322e342ed3_300x.jpg",
+    "price": 26,
+    "rating": 3.6,
+    "category": "halloween"
+  },
+  {
+    "id": "7245257474114",
+    "title": "One More Page",
+    "image": "https://teefury.com/cdn/shop/files/113427-art-file-color-blk_f9a1b32c-f9f6-497b-9e1d-dae35c345eac_300x.jpg",
+    "price": 59,
+    "rating": 4.4,
+    "category": "halloween"
+  },
+  {
+    "id": "6973824204866",
+    "title": "Dawn Of The Troops",
+    "image": "https://teefury.com/cdn/shop/files/106164-art-file-color-blk_606d2cb8-db6e-4d9c-a346-b9c24ca7bff9_300x.jpg",
+    "price": 22,
+    "rating": 1.9,
+    "category": "halloween"
+  },
+  {
+    "id": "6966744809538",
+    "title": "Attack Of Michael Myers",
+    "image": "https://teefury.com/cdn/shop/files/105758-art-file-color-blk_759b9ad2-9cc7-4178-aaeb-155643eaf921_300x.jpg",
+    "price": 26,
+    "rating": 4.6,
+    "category": "halloween"
+  },
+  {
+    "id": "6937914867778",
+    "title": "Corpse Duo",
+    "image": "https://teefury.com/cdn/shop/files/101444-art-file-color-blk_74798864-14be-43ad-9727-a291cfae2750_300x.jpg",
+    "price": 31,
+    "rating": 4.9,
+    "category": "halloween"
+  },
+  {
+    "id": "6829208076354",
+    "title": "Pumpkin Ghosts",
+    "image": "https://teefury.com/cdn/shop/products/57675-art-file-color-blk_300x.jpg",
+    "price": 57,
+    "rating": 3.7,
+    "category": "halloween"
+  },
+  {
+    "id": "6655394512962",
+    "title": "My Neighbor Pumpkin",
+    "image": "https://teefury.com/cdn/shop/products/53703-art-file-color-blk_4eb4e4df-5605-4e8c-9062-2d97df0d53d8_300x.jpg",
+    "price": 46,
+    "rating": 1.2,
+    "category": "halloween"
+  },
+  {
+    "id": "4349829447746",
+    "title": "Thank You For Being Afraid",
+    "image": "https://teefury.com/cdn/shop/products/14112-art-file-color-hgr_80b80d04-6ba6-40f5-9f63-a74d4939274e_300x.jpg",
+    "price": 55,
+    "rating": 3.0,
+    "category": "halloween"
+  },
+  {
+    "id": "7388694904898",
+    "title": "Nightmare Christmas",
+    "image": "https://teefury.com/cdn/shop/files/124932-art-file-color-blk_0d536ff9-525a-43b9-8457-e9274639e481_300x.jpg",
+    "price": 42,
+    "rating": 2.9,
+    "category": "halloween"
+  },
+  {
+    "id": "7356821405762",
+    "title": "Always Check Your Candy Sam",
+    "image": "https://teefury.com/cdn/shop/files/122818-art-file-color-blk_fdaa3239-59d6-4df3-b87c-5d614a4cdaa5_300x.jpg",
+    "price": 44,
+    "rating": 3.0,
+    "category": "halloween"
+  },
+  {
+    "id": "7353221152834",
+    "title": "Skeleton Love",
+    "image": "https://teefury.com/cdn/shop/files/122675-art-file-color-blk_8b82d994-54ef-4fec-a477-a85f4e614741_300x.jpg",
+    "price": 43,
+    "rating": 4.9,
+    "category": "halloween"
+  },
+  {
+    "id": "6966740680770",
+    "title": "Attack Of Jason",
+    "image": "https://teefury.com/cdn/shop/files/105760-art-file-color-blk_1d3f2f56-d8a5-413a-85de-4de6fb74a430_300x.jpg",
+    "price": 47,
+    "rating": 3.4,
+    "category": "halloween"
+  },
+  {
+    "id": "6836471431234",
+    "title": "Survival Horror City",
+    "image": "https://teefury.com/cdn/shop/products/57997-art-file-color-blk_300x.jpg",
+    "price": 40,
+    "rating": 3.4,
+    "category": "halloween"
+  },
+  {
+    "id": "6829288489026",
+    "title": "Nightmare Neon",
+    "image": "https://teefury.com/cdn/shop/products/57707-art-file-color-blk_300x.jpg",
+    "price": 24,
+    "rating": 3.5,
+    "category": "halloween"
+  },
+  {
+    "id": "6684986474562",
+    "title": "Stay Puft All Star",
+    "image": "https://teefury.com/cdn/shop/products/54199-art-file-color-cha_300x.jpg",
+    "price": 31,
+    "rating": 4.0,
+    "category": "halloween"
+  },
+  {
+    "id": "4334760853570",
+    "title": "Halloween Is My Xmas",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_778f1277-6c78-4691-9ed3-93f5c0df09d1_300x.jpg",
+    "price": 58,
+    "rating": 3.6,
+    "category": "halloween"
+  },
+  {
+    "id": "6965723136066",
+    "title": "Bluey Haunted House",
+    "image": "https://teefury.com/cdn/shop/files/105565-art-file-color-cha_b4b6f0fe-7f25-4486-8213-5eed7f4015a9_300x.jpg",
+    "price": 46,
+    "rating": 1.3,
+    "category": "halloween"
+  },
+  {
+    "id": "6909991518274",
+    "title": "Death Beckons You To Get In",
+    "image": "https://teefury.com/cdn/shop/products/100144-art-file-color-hgr_300x.jpg",
+    "price": 41,
+    "rating": 2.4,
+    "category": "halloween"
+  }
+]

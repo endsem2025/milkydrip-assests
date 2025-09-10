@@ -1,0 +1,698 @@
+[
+  {
+    "id": "4330149806146",
+    "title": "Dancing Forces",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_ebbb002e-3f85-4467-8604-7625a87df7dd_300x.jpg",
+    "price": 21,
+    "rating": 3.5,
+    "category": "anime"
+  },
+  {
+    "id": "4350067179586",
+    "title": "The Neighbor's Attack",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_2b4b6b0c-a29c-4292-84c1-4bd1919df678_300x.jpg",
+    "price": 40,
+    "rating": 2.9,
+    "category": "anime"
+  },
+  {
+    "id": "4574247288898",
+    "title": "Pirate Hunter",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-crm_7bea9faf-3d8d-4007-bbc6-dd50197be28a_300x.jpg",
+    "price": 57,
+    "rating": 3.8,
+    "category": "anime"
+  },
+  {
+    "id": "4490924523586",
+    "title": "Breath of Water",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-nav_da1c3554-4347-4314-9087-63a6f4109823_300x.jpg",
+    "price": 24,
+    "rating": 1.6,
+    "category": "anime"
+  },
+  {
+    "id": "4723227000898",
+    "title": "Heroes",
+    "image": "https://teefury.com/cdn/shop/products/51480-art-file-color-nav_f865d9e6-12d8-46d1-a38d-5f640cd61719_300x.jpg",
+    "price": 29,
+    "rating": 2.3,
+    "category": "anime"
+  },
+  {
+    "id": "4305128783938",
+    "title": "Nu Mecha Ink",
+    "image": "https://teefury.com/cdn/shop/products/20235-art-file-color-whi_49459d1e-5592-429c-8a40-5a30a7f23e61_300x.jpg",
+    "price": 29,
+    "rating": 1.4,
+    "category": "anime"
+  },
+  {
+    "id": "4305108140098",
+    "title": "Noodle Swim",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-nav_9d95159a-ac7c-43a8-b581-bec5c1b8462b_300x.jpg",
+    "price": 55,
+    "rating": 1.5,
+    "category": "anime"
+  },
+  {
+    "id": "4589151223874",
+    "title": "Samurai Chillhop",
+    "image": "https://teefury.com/cdn/shop/products/50619-art-file-color-cha_300x.jpg",
+    "price": 53,
+    "rating": 3.8,
+    "category": "anime"
+  },
+  {
+    "id": "4344762892354",
+    "title": "Stray Dog Strut",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_87c7f4bf-806e-442f-a552-8ad21c325eb2_300x.jpg",
+    "price": 54,
+    "rating": 2.7,
+    "category": "anime"
+  },
+  {
+    "id": "4316716236866",
+    "title": "KARP",
+    "image": "https://teefury.com/cdn/shop/products/23047-art-file-color-whi_78820fa6-7d91-495a-9403-64379f67b354_300x.jpg",
+    "price": 55,
+    "rating": 4.9,
+    "category": "anime"
+  },
+  {
+    "id": "4412226502722",
+    "title": "Good Day to Sail",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_729a47eb-814c-46f1-8dfb-91eeabc734fa_300x.jpg",
+    "price": 47,
+    "rating": 2.0,
+    "category": "anime"
+  },
+  {
+    "id": "6834915770434",
+    "title": "ChainsawMan Sumi-E",
+    "image": "https://teefury.com/cdn/shop/products/57892-art-file-color-blk_8ad8cc8c-35a6-4018-8b02-791200e35f27_300x.jpg",
+    "price": 40,
+    "rating": 4.8,
+    "category": "anime"
+  },
+  {
+    "id": "6565417254978",
+    "title": "Sister Ink",
+    "image": "https://teefury.com/cdn/shop/products/52541-art-file-color-whi_e69c7804-adc3-4940-9d60-af15ba2fb85a_300x.jpg",
+    "price": 40,
+    "rating": 4.0,
+    "category": "anime"
+  },
+  {
+    "id": "6552387977282",
+    "title": "Neon Moon",
+    "image": "https://teefury.com/cdn/shop/products/52316-art-file-color-blk_1db0639b-2159-434e-987e-02410c71d8b4_300x.jpg",
+    "price": 32,
+    "rating": 1.2,
+    "category": "anime"
+  },
+  {
+    "id": "4344354963522",
+    "title": "See You Space Cowboy",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_29ba04ab-4571-4f32-ac27-ec100f4a0231_300x.jpg",
+    "price": 31,
+    "rating": 3.1,
+    "category": "anime"
+  },
+  {
+    "id": "6769341399106",
+    "title": "Demon Dog",
+    "image": "https://teefury.com/cdn/shop/products/56337-art-file-color-nav_300x.jpg",
+    "price": 58,
+    "rating": 1.9,
+    "category": "anime"
+  },
+  {
+    "id": "4445566238786",
+    "title": "Joestar",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_0b6f75ba-9607-4cf5-8b7a-7fca2f6415d3_300x.jpg",
+    "price": 33,
+    "rating": 4.7,
+    "category": "anime"
+  },
+  {
+    "id": "6598962774082",
+    "title": "Unlimited Void",
+    "image": "https://teefury.com/cdn/shop/products/52978-art-file-color-pur_300x.jpg",
+    "price": 52,
+    "rating": 4.9,
+    "category": "anime"
+  },
+  {
+    "id": "6779588083778",
+    "title": "Team Chainsaw",
+    "image": "https://teefury.com/cdn/shop/products/56607-art-file-color-crm_300x.jpg",
+    "price": 45,
+    "rating": 3.2,
+    "category": "anime"
+  },
+  {
+    "id": "4723227590722",
+    "title": "Heroes vs Villains",
+    "image": "https://teefury.com/cdn/shop/products/51481-art-file-color-blk_55091309-ab42-4daf-8247-5ae1faf17f83_300x.jpg",
+    "price": 23,
+    "rating": 1.6,
+    "category": "anime"
+  },
+  {
+    "id": "4349022535746",
+    "title": "Alchemist Brothers",
+    "image": "https://teefury.com/cdn/shop/products/33158-art-file-color-whi_5df8d249-cf98-42ba-a72f-33cd2c7e87da_300x.jpg",
+    "price": 35,
+    "rating": 4.4,
+    "category": "anime"
+  },
+  {
+    "id": "4344595447874",
+    "title": "Spirited Ink",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-hgr_5577f2ea-bb39-437c-8166-2c935812b71d_300x.jpg",
+    "price": 27,
+    "rating": 2.1,
+    "category": "anime"
+  },
+  {
+    "id": "6660102094914",
+    "title": "Tanjiro Mask",
+    "image": "https://teefury.com/cdn/shop/products/53739-art-file-color-blk_300x.jpg",
+    "price": 53,
+    "rating": 4.9,
+    "category": "anime"
+  },
+  {
+    "id": "6928997089346",
+    "title": "Black Swordsman Woodblock",
+    "image": "https://teefury.com/cdn/shop/products/100917-art-file-color-blk_300x.jpg",
+    "price": 57,
+    "rating": 2.9,
+    "category": "anime"
+  },
+  {
+    "id": "4338955616322",
+    "title": "Boheromian Rhapsody",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_c4b354bd-6344-419f-aa90-ffa3dc72bb9e_300x.jpg",
+    "price": 56,
+    "rating": 3.0,
+    "category": "anime"
+  },
+  {
+    "id": "4350002954306",
+    "title": "The Humanoid Typhoon",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_8740fcd4-fecf-4311-8560-3113a4c3d580_300x.jpg",
+    "price": 33,
+    "rating": 4.3,
+    "category": "anime"
+  },
+  {
+    "id": "4349015326786",
+    "title": "Air Saiyan",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_bcce773f-4da5-45ec-bb47-d3c7124c1e9d_300x.jpg",
+    "price": 36,
+    "rating": 3.5,
+    "category": "anime"
+  },
+  {
+    "id": "6618144473154",
+    "title": "Pirate Ramen",
+    "image": "https://teefury.com/cdn/shop/products/53219-art-file-color-roy_77c93646-db09-4202-b3f1-4a2d17d8bec3_300x.jpg",
+    "price": 50,
+    "rating": 3.7,
+    "category": "anime"
+  },
+  {
+    "id": "6563155116098",
+    "title": "Colorful Pirate",
+    "image": "https://teefury.com/cdn/shop/products/52454-art-file-color-blk_6f404619-0f4d-4cb7-af9b-fe215fd328e5_300x.jpg",
+    "price": 59,
+    "rating": 1.7,
+    "category": "anime"
+  },
+  {
+    "id": "6605707051074",
+    "title": "Ronin Saiyan",
+    "image": "https://teefury.com/cdn/shop/products/53060-art-file-color-gre_300x.jpg",
+    "price": 58,
+    "rating": 1.9,
+    "category": "anime"
+  },
+  {
+    "id": "4464175775810",
+    "title": "Neighbor's Ukiyo-E",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-cha_0da6b76a-fbb7-4114-ac42-def31f466e4e_300x.jpg",
+    "price": 31,
+    "rating": 4.9,
+    "category": "anime"
+  },
+  {
+    "id": "6953717792834",
+    "title": "Awakening Gear Five",
+    "image": "https://teefury.com/cdn/shop/files/103674-art-file-color-pur_f99ba99a-85fa-47df-9637-70a55c816a24_300x.jpg",
+    "price": 30,
+    "rating": 2.4,
+    "category": "anime"
+  },
+  {
+    "id": "4672725319746",
+    "title": "Bulbathulhu",
+    "image": "https://teefury.com/cdn/shop/products/51083-art-file-color-roy_300x.jpg",
+    "price": 23,
+    "rating": 2.2,
+    "category": "anime"
+  },
+  {
+    "id": "4344596496450",
+    "title": "Spirited Race",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_0a156f1f-22e9-44fd-b047-aa3a4fb1c455_300x.jpg",
+    "price": 31,
+    "rating": 1.5,
+    "category": "anime"
+  },
+  {
+    "id": "4325226872898",
+    "title": "FUSIONS",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_73e0ac93-3316-4d49-b058-68af9ac4b0e1_300x.jpg",
+    "price": 50,
+    "rating": 2.1,
+    "category": "anime"
+  },
+  {
+    "id": "6626043363394",
+    "title": "Sailor Scouts Vol. 2",
+    "image": "https://teefury.com/cdn/shop/products/53302-art-file-color-tur_07c6fcdd-6749-4837-90d9-537a06c8aece_300x.jpg",
+    "price": 57,
+    "rating": 4.7,
+    "category": "anime"
+  },
+  {
+    "id": "6689052033090",
+    "title": "See You Bebop",
+    "image": "https://teefury.com/cdn/shop/products/54285-art-file-color-blk_fca9ad7b-1b3b-4611-b1dd-9ea752a2f518_300x.jpg",
+    "price": 46,
+    "rating": 2.7,
+    "category": "anime"
+  },
+  {
+    "id": "4340066713666",
+    "title": "1992",
+    "image": "https://teefury.com/cdn/shop/products/34005-art-file-color-whi_1a041c50-22e7-4932-9dba-2ce1eaf2effa_300x.jpg",
+    "price": 40,
+    "rating": 1.4,
+    "category": "anime"
+  },
+  {
+    "id": "6740815970370",
+    "title": "Spirits In Moonlight",
+    "image": "https://teefury.com/cdn/shop/products/55541-art-file-color-blk_c9d1de4f-b3ee-4083-b0df-0691a2f10841_300x.jpg",
+    "price": 30,
+    "rating": 4.3,
+    "category": "anime"
+  },
+  {
+    "id": "4305072455746",
+    "title": "Ninja Under The Sun",
+    "image": "https://teefury.com/cdn/shop/products/20134-art-file-color-whi_3a98e07e-341f-42d6-854c-6e77ca4e44df_300x.jpg",
+    "price": 58,
+    "rating": 3.0,
+    "category": "anime"
+  },
+  {
+    "id": "4349830889538",
+    "title": "That Boy is an Homage!",
+    "image": "https://teefury.com/cdn/shop/products/14107-art-file-color-crm_c084dfb1-5f95-496a-bfa9-5e16363cb48a_300x.jpg",
+    "price": 21,
+    "rating": 4.5,
+    "category": "anime"
+  },
+  {
+    "id": "6866696601666",
+    "title": "The Fire Demon Ramen",
+    "image": "https://teefury.com/cdn/shop/products/58850-art-file-color-crm_ea0a8098-9a7f-46d3-9439-f48338b5f54a_300x.jpg",
+    "price": 29,
+    "rating": 4.5,
+    "category": "anime"
+  },
+  {
+    "id": "4338960367682",
+    "title": "Bonds",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-red_211efb2a-d188-43d7-8eae-bb6e85c2124a_300x.jpg",
+    "price": 38,
+    "rating": 1.4,
+    "category": "anime"
+  },
+  {
+    "id": "6820538646594",
+    "title": "Red Sun Chainsaw",
+    "image": "https://teefury.com/cdn/shop/products/57442-art-file-color-whi_b83ec82f-7e0c-4ffb-b908-cde43866a1c4_300x.jpg",
+    "price": 34,
+    "rating": 1.4,
+    "category": "anime"
+  },
+  {
+    "id": "4334748827714",
+    "title": "Hakuna Totoro",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_e6dd8c9e-44f2-44e5-bfb2-911846c0740f_300x.jpg",
+    "price": 55,
+    "rating": 2.5,
+    "category": "anime"
+  },
+  {
+    "id": "6598907527234",
+    "title": "Pillars",
+    "image": "https://teefury.com/cdn/shop/products/52942-art-file-color-whi_247e098e-de06-416b-b936-f3650a315211_300x.jpg",
+    "price": 38,
+    "rating": 3.6,
+    "category": "anime"
+  },
+  {
+    "id": "6547606044738",
+    "title": "Sailor Scouts",
+    "image": "https://teefury.com/cdn/shop/products/52294-art-file-color-tur_300x.jpg",
+    "price": 55,
+    "rating": 2.6,
+    "category": "anime"
+  },
+  {
+    "id": "6613290942530",
+    "title": "Rengoku Sunset",
+    "image": "https://teefury.com/cdn/shop/products/53186-art-file-color-nav_dd1e7aac-2297-48c9-b894-7c48abaeb108_300x.jpg",
+    "price": 46,
+    "rating": 2.8,
+    "category": "anime"
+  },
+  {
+    "id": "4344277401666",
+    "title": "Sailor Team",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_245eb7e5-1174-4e74-93c4-0298558352b8_300x.jpg",
+    "price": 21,
+    "rating": 4.5,
+    "category": "anime"
+  },
+  {
+    "id": "6955067539522",
+    "title": "Taking A Nap In Japan",
+    "image": "https://teefury.com/cdn/shop/files/103945-art-file-color-blk_2101d1b8-9268-4f36-b9b1-73909b1869af_300x.jpg",
+    "price": 43,
+    "rating": 3.6,
+    "category": "anime"
+  },
+  {
+    "id": "4363356602434",
+    "title": "Hero Eyes",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_752751d2-da3c-484a-9282-8a6030b3b61d_300x.jpg",
+    "price": 42,
+    "rating": 4.3,
+    "category": "anime"
+  },
+  {
+    "id": "4344659640386",
+    "title": "Starterkyus",
+    "image": "https://teefury.com/cdn/shop/products/15651-art-file-color-hgr_8146cba0-c307-40b8-ac70-a31ce7a314c5_300x.jpg",
+    "price": 47,
+    "rating": 4.0,
+    "category": "anime"
+  },
+  {
+    "id": "6677345075266",
+    "title": "4th Gen",
+    "image": "https://teefury.com/cdn/shop/products/53927-art-file-color-blu_5b4c36ee-278a-4521-b9e4-2ac9a50183eb_300x.jpg",
+    "price": 47,
+    "rating": 4.6,
+    "category": "anime"
+  },
+  {
+    "id": "6578768838722",
+    "title": "The Great Air Bison",
+    "image": "https://teefury.com/cdn/shop/products/52657-art-file-color-cha_9ec0539a-18b4-4fa2-8b53-5ab38c3e62e0_300x.jpg",
+    "price": 46,
+    "rating": 3.6,
+    "category": "anime"
+  },
+  {
+    "id": "4332002148418",
+    "title": "Ichiraku Ramen",
+    "image": "https://teefury.com/cdn/shop/products/25141-art-file-color-hgr_aa7036de-d99e-420e-b56f-117b86ab95b7_300x.jpg",
+    "price": 50,
+    "rating": 1.6,
+    "category": "anime"
+  },
+  {
+    "id": "4304999219266",
+    "title": "Neo-Tokyo Experiment",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_8f44fadb-9989-4332-bc9d-0df62ef78169_300x.jpg",
+    "price": 56,
+    "rating": 2.1,
+    "category": "anime"
+  },
+  {
+    "id": "6555683520578",
+    "title": "Strongest Sorcerer",
+    "image": "https://teefury.com/cdn/shop/products/52362-art-file-color-whi_75567ffb-423a-4f67-aff9-0a3484aa8f7e_300x.jpg",
+    "price": 36,
+    "rating": 3.4,
+    "category": "anime"
+  },
+  {
+    "id": "6885901926466",
+    "title": "The Moon Tarot",
+    "image": "https://teefury.com/cdn/shop/products/59421-art-file-color-blk_982d6a67-60e3-4a31-b8c6-e28e35a474a1_300x.jpg",
+    "price": 60,
+    "rating": 3.9,
+    "category": "anime"
+  },
+  {
+    "id": "6621922164802",
+    "title": "Winter Moon",
+    "image": "https://teefury.com/cdn/shop/products/53275-art-file-color-tur_300x.jpg",
+    "price": 43,
+    "rating": 1.4,
+    "category": "anime"
+  },
+  {
+    "id": "4349800480834",
+    "title": "Tea or Poison?",
+    "image": "https://teefury.com/cdn/shop/products/14056-art-file-color-crm_e7db4f4c-743c-4fa8-abbc-e727f1060448_300x.jpg",
+    "price": 36,
+    "rating": 3.7,
+    "category": "anime"
+  },
+  {
+    "id": "4339009192002",
+    "title": "Brotherhood Sumi-e",
+    "image": "https://teefury.com/cdn/shop/products/32344-art-file-color-whi_5f4a6081-b154-40de-895f-e544488e8403_300x.jpg",
+    "price": 25,
+    "rating": 4.6,
+    "category": "anime"
+  },
+  {
+    "id": "6660062052418",
+    "title": "Eye Of Mangekyo",
+    "image": "https://teefury.com/cdn/shop/products/53714-art-file-color-nav_427e6037-f6f8-4269-ad78-afefc90d61f6_300x.jpg",
+    "price": 22,
+    "rating": 2.3,
+    "category": "anime"
+  },
+  {
+    "id": "4321331413058",
+    "title": "Vintage Sailor Scout",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_dda0daaa-41b3-43cd-8029-b0c83116b480_300x.jpg",
+    "price": 26,
+    "rating": 4.9,
+    "category": "anime"
+  },
+  {
+    "id": "6651747172418",
+    "title": "A Fire Demon",
+    "image": "https://teefury.com/cdn/shop/products/53640-art-file-color-blk_300x.jpg",
+    "price": 42,
+    "rating": 4.3,
+    "category": "anime"
+  },
+  {
+    "id": "6951916830786",
+    "title": "Gear 5 Transformation",
+    "image": "https://teefury.com/cdn/shop/files/102836-art-file-color-blk_ddb9d306-2944-4a3b-b3f2-3f09bc0cbc54_300x.jpg",
+    "price": 38,
+    "rating": 3.7,
+    "category": "anime"
+  },
+  {
+    "id": "6618148667458",
+    "title": "Goku Transforms",
+    "image": "https://teefury.com/cdn/shop/products/53223-art-file-color-blk_2b87b9ff-823a-4588-bc37-f3d1c3ae0ed4_300x.jpg",
+    "price": 27,
+    "rating": 3.0,
+    "category": "anime"
+  },
+  {
+    "id": "4338914263106",
+    "title": "Bizarre Adventure Watercolor",
+    "image": "https://teefury.com/cdn/shop/products/32195-art-file-color-whi_7b70c54c-8a4b-4f20-968d-7d5693c0fee7_300x.jpg",
+    "price": 32,
+    "rating": 3.0,
+    "category": "anime"
+  },
+  {
+    "id": "4350286856258",
+    "title": "Trigun Fiction",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_4d16423f-4812-4ef3-93ef-7d4b52d9ce3b_300x.jpg",
+    "price": 23,
+    "rating": 3.5,
+    "category": "anime"
+  },
+  {
+    "id": "6844268150850",
+    "title": "A Normal Day In Japan",
+    "image": "https://teefury.com/cdn/shop/products/58102-art-file-color-nav_300x.jpg",
+    "price": 25,
+    "rating": 2.3,
+    "category": "anime"
+  },
+  {
+    "id": "6574323400770",
+    "title": "The Kamados",
+    "image": "https://teefury.com/cdn/shop/products/52592-art-file-color-blk_0b894510-32a1-4fb6-8ecc-84e40aa0e8c4_300x.jpg",
+    "price": 56,
+    "rating": 4.3,
+    "category": "anime"
+  },
+  {
+    "id": "4621460275266",
+    "title": "Psychic Chaos",
+    "image": "https://teefury.com/cdn/shop/products/50774-art-file-color-cha_b8f1fb86-6d0e-463e-9abe-442f139e2a31_300x.jpg",
+    "price": 27,
+    "rating": 4.5,
+    "category": "anime"
+  },
+  {
+    "id": "4409752944706",
+    "title": "Demon Sister Slayer Brother",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_cc21b5e8-6c82-4fce-bf95-f95385db2b3d_300x.jpg",
+    "price": 47,
+    "rating": 1.2,
+    "category": "anime"
+  },
+  {
+    "id": "6953661366338",
+    "title": "Gear Five Woodblock",
+    "image": "https://teefury.com/cdn/shop/files/103705-art-file-color-blk_58a7de62-08a3-4cf2-b649-024ef8bd3ca2_300x.jpg",
+    "price": 30,
+    "rating": 2.7,
+    "category": "anime"
+  },
+  {
+    "id": "6728606613570",
+    "title": "Gundam",
+    "image": "https://teefury.com/cdn/shop/products/55145-art-file-color-crm_300x.jpg",
+    "price": 45,
+    "rating": 1.8,
+    "category": "anime"
+  },
+  {
+    "id": "6664857059394",
+    "title": "Pirate King Ramen",
+    "image": "https://teefury.com/cdn/shop/products/53809-art-file-color-blu_300x.jpg",
+    "price": 23,
+    "rating": 1.4,
+    "category": "anime"
+  },
+  {
+    "id": "6866531975234",
+    "title": "First Gundam Series",
+    "image": "https://teefury.com/cdn/shop/products/58760-art-file-color-blk_e1647b21-6042-434a-be07-104108af9640_300x.jpg",
+    "price": 47,
+    "rating": 2.5,
+    "category": "anime"
+  },
+  {
+    "id": "4621467549762",
+    "title": "Walker Squad",
+    "image": "https://teefury.com/cdn/shop/products/50783-art-file-color-blk_300x.jpg",
+    "price": 32,
+    "rating": 1.1,
+    "category": "anime"
+  },
+  {
+    "id": "4335515336770",
+    "title": "Cactus Juice",
+    "image": "https://teefury.com/cdn/shop/products/31007-art-file-color-blu_300x.jpg",
+    "price": 51,
+    "rating": 4.7,
+    "category": "anime"
+  },
+  {
+    "id": "4325935611970",
+    "title": "MONO Racer Sumi-e",
+    "image": "https://teefury.com/cdn/shop/products/21313-art-file-color-whi_6cc437ee-cbac-4c92-8874-aa3c4421fab7_300x.jpg",
+    "price": 60,
+    "rating": 1.3,
+    "category": "anime"
+  },
+  {
+    "id": "4334944976962",
+    "title": "Hime",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_fe73d815-109e-4bdb-848d-a50fc4db6542_300x.jpg",
+    "price": 56,
+    "rating": 1.6,
+    "category": "anime"
+  },
+  {
+    "id": "6856936751170",
+    "title": "Lone Swordsman Sumi-e",
+    "image": "https://teefury.com/cdn/shop/products/58469-art-file-color-whi_300x.jpg",
+    "price": 33,
+    "rating": 4.0,
+    "category": "anime"
+  },
+  {
+    "id": "6782450499650",
+    "title": "Samurai Ichigo",
+    "image": "https://teefury.com/cdn/shop/products/56722-art-file-color-blk_300x.jpg",
+    "price": 33,
+    "rating": 4.2,
+    "category": "anime"
+  },
+  {
+    "id": "4498085412930",
+    "title": "Ukiyo-E Hunter",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-crm_cdace761-9c65-45ed-b7e8-6acef600fea7_300x.jpg",
+    "price": 45,
+    "rating": 4.8,
+    "category": "anime"
+  },
+  {
+    "id": "4615234650178",
+    "title": "Let's Fly",
+    "image": "https://teefury.com/cdn/shop/products/50716-art-file-color-blu_1c3c910c-8c65-4c4f-a0c3-bf99c3bf2e66_300x.jpg",
+    "price": 32,
+    "rating": 2.2,
+    "category": "anime"
+  },
+  {
+    "id": "4334748041282",
+    "title": "Hakuna Matata Kame",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_0d90bdc9-4e56-4096-acc0-b2f6148a3ebc_300x.jpg",
+    "price": 40,
+    "rating": 1.5,
+    "category": "anime"
+  },
+  {
+    "id": "6713795117122",
+    "title": "Tanjiro Landscape",
+    "image": "https://teefury.com/cdn/shop/products/54841-art-file-color-blk_300x.jpg",
+    "price": 53,
+    "rating": 3.7,
+    "category": "anime"
+  },
+  {
+    "id": "6613295628354",
+    "title": "Ghibli Totem",
+    "image": "https://teefury.com/cdn/shop/products/53190-art-file-color-whi_300x.jpg",
+    "price": 29,
+    "rating": 1.1,
+    "category": "anime"
+  }
+]

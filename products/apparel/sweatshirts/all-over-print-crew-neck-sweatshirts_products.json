@@ -1,0 +1,770 @@
+[
+  {
+    "id": "6954021814338",
+    "title": "Muffins And Flamingos",
+    "image": "https://teefury.com/cdn/shop/files/103756-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 30,
+    "rating": 4.8,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6954021257282",
+    "title": "Poor Little Bug On The Wall",
+    "image": "https://teefury.com/cdn/shop/files/103757-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 31,
+    "rating": 1.2,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6954020601922",
+    "title": "Kawaii Cat Family",
+    "image": "https://teefury.com/cdn/shop/files/103758-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 21,
+    "rating": 1.5,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6954019127362",
+    "title": "Pastel Alien",
+    "image": "https://teefury.com/cdn/shop/files/103760-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 26,
+    "rating": 4.9,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6954019094594",
+    "title": "Ramen Ramen Ramen",
+    "image": "https://teefury.com/cdn/shop/files/103762-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 26,
+    "rating": 2.0,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6954018930754",
+    "title": "Gojo Satoru Neko",
+    "image": "https://teefury.com/cdn/shop/files/103759-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 51,
+    "rating": 4.4,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6935548657730",
+    "title": "Leopard Geckos",
+    "image": "https://teefury.com/cdn/shop/products/101314-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 46,
+    "rating": 3.9,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6935548166210",
+    "title": "Capybara Family",
+    "image": "https://teefury.com/cdn/shop/products/101313-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 57,
+    "rating": 1.7,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6935547641922",
+    "title": "Black Widow",
+    "image": "https://teefury.com/cdn/shop/products/101312-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 50,
+    "rating": 4.9,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6935547150402",
+    "title": "Nat 20",
+    "image": "https://teefury.com/cdn/shop/products/101311-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 26,
+    "rating": 3.7,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6935546593346",
+    "title": "Cute Penguins",
+    "image": "https://teefury.com/cdn/shop/products/101310-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 33,
+    "rating": 2.8,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6935546396738",
+    "title": "Mango Parrots",
+    "image": "https://teefury.com/cdn/shop/products/101309-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 36,
+    "rating": 3.5,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6935546101826",
+    "title": "Chubby Unicorns",
+    "image": "https://teefury.com/cdn/shop/products/101307-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 49,
+    "rating": 3.2,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6935545512002",
+    "title": "Rain Frogs",
+    "image": "https://teefury.com/cdn/shop/products/101308-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 27,
+    "rating": 3.9,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6911469551682",
+    "title": "Hogwarts Items",
+    "image": "https://teefury.com/cdn/shop/products/60312-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 27,
+    "rating": 3.4,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6911469027394",
+    "title": "Dice Roll",
+    "image": "https://teefury.com/cdn/shop/products/60311-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 25,
+    "rating": 4.2,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6911468798018",
+    "title": "Pochita X Pochita",
+    "image": "https://teefury.com/cdn/shop/products/60310-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 47,
+    "rating": 4.0,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6911468732482",
+    "title": "Sweet Pink Skull",
+    "image": "https://teefury.com/cdn/shop/products/60308-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 57,
+    "rating": 4.4,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6911468372034",
+    "title": "Golden Constellation Map",
+    "image": "https://teefury.com/cdn/shop/products/60309-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 28,
+    "rating": 3.9,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6827104600130",
+    "title": "Dead And Alive Cat",
+    "image": "https://teefury.com/cdn/shop/products/57639-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 31,
+    "rating": 4.7,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6827104043074",
+    "title": "Creepy Skulls And Bones",
+    "image": "https://teefury.com/cdn/shop/products/57638-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 54,
+    "rating": 2.6,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6827103649858",
+    "title": "Studio Love",
+    "image": "https://teefury.com/cdn/shop/products/57637-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 36,
+    "rating": 3.2,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6827103060034",
+    "title": "Halloween Cat Heads",
+    "image": "https://teefury.com/cdn/shop/products/57636-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 52,
+    "rating": 3.5,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6827102699586",
+    "title": "Spooky Witch Vibes",
+    "image": "https://teefury.com/cdn/shop/products/57635-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 25,
+    "rating": 3.2,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6827102175298",
+    "title": "Spooky Bat Dudes",
+    "image": "https://teefury.com/cdn/shop/products/57634-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 50,
+    "rating": 2.6,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6819945545794",
+    "title": "Halloween Pumpkins",
+    "image": "https://teefury.com/cdn/shop/products/57390-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 48,
+    "rating": 4.0,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6819945087042",
+    "title": "Calaveras",
+    "image": "https://teefury.com/cdn/shop/products/57389-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 56,
+    "rating": 3.8,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6819944562754",
+    "title": "Spooky Pumpkin Dudes",
+    "image": "https://teefury.com/cdn/shop/products/57388-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 57,
+    "rating": 2.2,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6819944235074",
+    "title": "Spooky Dudes",
+    "image": "https://teefury.com/cdn/shop/products/57387-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 45,
+    "rating": 2.9,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6819943448642",
+    "title": "Autumn Pumpkins",
+    "image": "https://teefury.com/cdn/shop/products/57386-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 60,
+    "rating": 3.3,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6819942924354",
+    "title": "Sleeping Creatures",
+    "image": "https://teefury.com/cdn/shop/products/57385-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 42,
+    "rating": 1.3,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6819941908546",
+    "title": "Screaming Paisley",
+    "image": "https://teefury.com/cdn/shop/products/57383-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 21,
+    "rating": 3.5,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6819941417026",
+    "title": "Friday The 13th Paisley",
+    "image": "https://teefury.com/cdn/shop/products/57382-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 30,
+    "rating": 2.9,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6819941023810",
+    "title": "Bunny Love",
+    "image": "https://teefury.com/cdn/shop/products/57381-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 35,
+    "rating": 3.9,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6819940794434",
+    "title": "Lots Of Cats",
+    "image": "https://teefury.com/cdn/shop/products/57380-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 50,
+    "rating": 2.8,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6814665834562",
+    "title": "Turkey Time",
+    "image": "https://teefury.com/cdn/shop/products/57281-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 50,
+    "rating": 3.6,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6814665670722",
+    "title": "Thankful Nuts",
+    "image": "https://teefury.com/cdn/shop/products/57280-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 55,
+    "rating": 1.3,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6814665375810",
+    "title": "Peanuts Thanksgiving",
+    "image": "https://teefury.com/cdn/shop/products/57279-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 38,
+    "rating": 1.8,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6814665310274",
+    "title": "Falling Neighbor",
+    "image": "https://teefury.com/cdn/shop/products/57278-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 26,
+    "rating": 1.9,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6814665179202",
+    "title": "Autumn Feast",
+    "image": "https://teefury.com/cdn/shop/products/57277-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 36,
+    "rating": 3.5,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6804753252418",
+    "title": "Spooky Pumpkins",
+    "image": "https://teefury.com/cdn/shop/products/57103-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 56,
+    "rating": 3.7,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6804753088578",
+    "title": "Something's Brewing",
+    "image": "https://teefury.com/cdn/shop/products/57102-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 60,
+    "rating": 4.5,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6804752597058",
+    "title": "Vintage Fossils",
+    "image": "https://teefury.com/cdn/shop/products/57099-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 25,
+    "rating": 4.4,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6804751974466",
+    "title": "Corgi Dog Lover",
+    "image": "https://teefury.com/cdn/shop/products/57098-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 53,
+    "rating": 2.1,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6804752367682",
+    "title": "Rest in Peace",
+    "image": "https://teefury.com/cdn/shop/products/57101-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 38,
+    "rating": 4.0,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6804751777858",
+    "title": "Mermaids",
+    "image": "https://teefury.com/cdn/shop/products/57097-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 37,
+    "rating": 4.0,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6804752203842",
+    "title": "Deadly",
+    "image": "https://teefury.com/cdn/shop/products/57100-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 60,
+    "rating": 4.6,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6728982233154",
+    "title": "It's Raining Cats And Dogs",
+    "image": "https://teefury.com/cdn/shop/products/55187-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 59,
+    "rating": 2.8,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6728981872706",
+    "title": "Cats Diving In The Sea",
+    "image": "https://teefury.com/cdn/shop/products/55186-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 23,
+    "rating": 2.9,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6728981512258",
+    "title": "Crazy Cartoon Emotions",
+    "image": "https://teefury.com/cdn/shop/products/55185-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 40,
+    "rating": 2.5,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6728980693058",
+    "title": "Fast Food Cats In Space",
+    "image": "https://teefury.com/cdn/shop/products/55181-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 49,
+    "rating": 4.4,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6728981217346",
+    "title": "Zombies",
+    "image": "https://teefury.com/cdn/shop/products/55184-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 60,
+    "rating": 3.5,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6728981053506",
+    "title": "Corgi",
+    "image": "https://teefury.com/cdn/shop/products/55183-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 48,
+    "rating": 1.7,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6728980955202",
+    "title": "Orange Leopards",
+    "image": "https://teefury.com/cdn/shop/products/55182-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 52,
+    "rating": 1.6,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6701765820482",
+    "title": "Cat Heart Eyes",
+    "image": "https://teefury.com/cdn/shop/products/54547-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 53,
+    "rating": 4.9,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6701765460034",
+    "title": "Till Death",
+    "image": "https://teefury.com/cdn/shop/products/54549-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 33,
+    "rating": 2.4,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6701765361730",
+    "title": "A Sweet Match",
+    "image": "https://teefury.com/cdn/shop/products/54546-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 59,
+    "rating": 2.5,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6701765296194",
+    "title": "Sweetheart",
+    "image": "https://teefury.com/cdn/shop/products/54548-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 44,
+    "rating": 2.6,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6697926393922",
+    "title": "Bender On Repeat",
+    "image": "https://teefury.com/cdn/shop/products/54499-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 35,
+    "rating": 4.2,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6697925935170",
+    "title": "Magical Items",
+    "image": "https://teefury.com/cdn/shop/products/54498-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 51,
+    "rating": 3.5,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6697924984898",
+    "title": "I Love Gaming",
+    "image": "https://teefury.com/cdn/shop/products/54493-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 42,
+    "rating": 4.6,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6697924886594",
+    "title": "Holy Grail",
+    "image": "https://teefury.com/cdn/shop/products/54494-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 50,
+    "rating": 3.6,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6697925312578",
+    "title": "Everything Is Messed Up",
+    "image": "https://teefury.com/cdn/shop/products/54495-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 26,
+    "rating": 1.8,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6697924591682",
+    "title": "Dungeons And Patterns",
+    "image": "https://teefury.com/cdn/shop/products/54492-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 59,
+    "rating": 2.1,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6697924460610",
+    "title": "Choose Your Magical Outfit",
+    "image": "https://teefury.com/cdn/shop/products/54496-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 39,
+    "rating": 1.9,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6681038848066",
+    "title": "What's Your Sign",
+    "image": "https://teefury.com/cdn/shop/products/54073-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 57,
+    "rating": 3.8,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6681038454850",
+    "title": "Vintage Friend",
+    "image": "https://teefury.com/cdn/shop/products/54071-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 43,
+    "rating": 5.0,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6681038192706",
+    "title": "Topographical",
+    "image": "https://teefury.com/cdn/shop/products/54070-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 36,
+    "rating": 4.9,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6681037406274",
+    "title": "Sweet Tooth",
+    "image": "https://teefury.com/cdn/shop/products/54066-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 40,
+    "rating": 2.2,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6681037209666",
+    "title": "Sugary Sweet",
+    "image": "https://teefury.com/cdn/shop/products/54065-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 41,
+    "rating": 4.3,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6681037013058",
+    "title": "Succulents",
+    "image": "https://teefury.com/cdn/shop/products/54064-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 34,
+    "rating": 1.3,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6681036816450",
+    "title": "Springtime Spirits",
+    "image": "https://teefury.com/cdn/shop/products/54063-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 47,
+    "rating": 4.1,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6681036423234",
+    "title": "Shutterbug",
+    "image": "https://teefury.com/cdn/shop/products/54062-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 43,
+    "rating": 2.4,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6681036390466",
+    "title": "Shelled",
+    "image": "https://teefury.com/cdn/shop/products/54061-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 36,
+    "rating": 3.1,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6681035964482",
+    "title": "Radicool",
+    "image": "https://teefury.com/cdn/shop/products/54059-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 30,
+    "rating": 3.2,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6681035767874",
+    "title": "Pumpkin Patch",
+    "image": "https://teefury.com/cdn/shop/products/54058-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 44,
+    "rating": 4.8,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6681035571266",
+    "title": "Prehistoric",
+    "image": "https://teefury.com/cdn/shop/products/54057-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 23,
+    "rating": 3.1,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6681035145282",
+    "title": "Play the Roll",
+    "image": "https://teefury.com/cdn/shop/products/54055-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 30,
+    "rating": 3.7,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6681034850370",
+    "title": "Out of This World",
+    "image": "https://teefury.com/cdn/shop/products/54054-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 33,
+    "rating": 3.8,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6681034653762",
+    "title": "Nuclear Family",
+    "image": "https://teefury.com/cdn/shop/products/54053-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 39,
+    "rating": 2.8,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6681034326082",
+    "title": "Look Unto Your Future",
+    "image": "https://teefury.com/cdn/shop/products/54051-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 42,
+    "rating": 4.6,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6681034260546",
+    "title": "Lunar Spells",
+    "image": "https://teefury.com/cdn/shop/products/54052-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 24,
+    "rating": 1.4,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6681033572418",
+    "title": "I Love Questing",
+    "image": "https://teefury.com/cdn/shop/products/54048-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 57,
+    "rating": 1.4,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6681033375810",
+    "title": "Heroes in a Half Shell",
+    "image": "https://teefury.com/cdn/shop/products/54047-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 44,
+    "rating": 2.2,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6681033179202",
+    "title": "Heartstruck",
+    "image": "https://teefury.com/cdn/shop/products/54046-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 37,
+    "rating": 2.0,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6681032982594",
+    "title": "Heartstrike",
+    "image": "https://teefury.com/cdn/shop/products/54045-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 44,
+    "rating": 3.1,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6681032785986",
+    "title": "Heartbroken",
+    "image": "https://teefury.com/cdn/shop/products/54044-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 30,
+    "rating": 2.3,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6681032589378",
+    "title": "Heartattack",
+    "image": "https://teefury.com/cdn/shop/products/54043-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 53,
+    "rating": 2.9,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6681032327234",
+    "title": "For Science",
+    "image": "https://teefury.com/cdn/shop/products/54041-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 60,
+    "rating": 3.2,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6681032294466",
+    "title": "Geek Chic",
+    "image": "https://teefury.com/cdn/shop/products/54042-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 39,
+    "rating": 2.1,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6681031868482",
+    "title": "Crystal Gems",
+    "image": "https://teefury.com/cdn/shop/products/54039-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 36,
+    "rating": 3.7,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6681031639106",
+    "title": "Control Freak",
+    "image": "https://teefury.com/cdn/shop/products/54038-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 39,
+    "rating": 3.6,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6681031475266",
+    "title": "Brick Layer",
+    "image": "https://teefury.com/cdn/shop/products/54035-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 40,
+    "rating": 1.1,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6681031278658",
+    "title": "Chatter Bones",
+    "image": "https://teefury.com/cdn/shop/products/54037-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 25,
+    "rating": 3.3,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6681031114818",
+    "title": "Cats for Days",
+    "image": "https://teefury.com/cdn/shop/products/54036-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 32,
+    "rating": 3.3,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  },
+  {
+    "id": "6681030787138",
+    "title": "Book Nook",
+    "image": "https://teefury.com/cdn/shop/products/54034-collection-swe-uni-acr-color-pat_300x.jpg",
+    "price": 43,
+    "rating": 3.2,
+    "category": "all-over-print-crew-neck-sweatshirts"
+  }
+]

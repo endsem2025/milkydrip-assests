@@ -1,0 +1,794 @@
+[
+  {
+    "id": "6595596386370",
+    "title": "Mania Team",
+    "image": "https://teefury.com/cdn/shop/products/52912-art-file-color-blk_300x.jpg",
+    "price": 45,
+    "rating": 4.0,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "4334893498434",
+    "title": "Help a Brother Out",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-roy_50e76e91-1345-4cda-8178-0ecdd13615b9_300x.jpg",
+    "price": 46,
+    "rating": 3.4,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "4338962202690",
+    "title": "Boo Moon",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_15065142-7017-4e59-ac93-a8c0593350cc_300x.jpg",
+    "price": 27,
+    "rating": 4.1,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "4316849209410",
+    "title": "Koopa Kaiju",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_c922483d-8de4-44e1-9955-7d40f4f88186_300x.jpg",
+    "price": 60,
+    "rating": 4.9,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "4328441118786",
+    "title": "Error 404: Cake not found!",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_5795d1f4-3bef-4d34-996d-141c93a0db63_300x.jpg",
+    "price": 23,
+    "rating": 1.9,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "4328358707266",
+    "title": "Earthworm Ash",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_39de68dd-5bc8-4efc-87bc-c52a4197e356_300x.jpg",
+    "price": 50,
+    "rating": 4.7,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "4782291189826",
+    "title": "Ringz",
+    "image": "https://teefury.com/cdn/shop/products/52029-art-file-color-nav_fec53974-e865-43ff-b384-1004eb65d06a_300x.jpg",
+    "price": 20,
+    "rating": 4.5,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "4410715766850",
+    "title": "Old School Gaming",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_d03b7ad8-c99a-47ef-9421-84372e0441a1_300x.jpg",
+    "price": 51,
+    "rating": 3.1,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6930113658946",
+    "title": "Vintage Gamer",
+    "image": "https://teefury.com/cdn/shop/products/101105-art-file-color-blk_2cdb63c9-ba85-4748-a04e-28d960c399f5_300x.jpg",
+    "price": 34,
+    "rating": 1.5,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6613303492674",
+    "title": "Teamwork II",
+    "image": "https://teefury.com/cdn/shop/products/53197-art-file-color-blk_300x.jpg",
+    "price": 34,
+    "rating": 3.3,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "4349095936066",
+    "title": "Aperture Bakery",
+    "image": "https://teefury.com/cdn/shop/products/33294-art-file-color-blk_a64a616c-0c87-4c4b-a56b-d4e8d19e4fcd_300x.jpg",
+    "price": 21,
+    "rating": 2.0,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6928801431618",
+    "title": "There's No Escape",
+    "image": "https://teefury.com/cdn/shop/products/100969-art-file-color-nav_300x.jpg",
+    "price": 20,
+    "rating": 2.2,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6613279309890",
+    "title": "Retro Gaming Ace",
+    "image": "https://teefury.com/cdn/shop/products/53175-art-file-color-blu_b731ce60-dcdb-4187-9b7d-3ea025e8a489_300x.jpg",
+    "price": 46,
+    "rating": 1.4,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "4348981379138",
+    "title": "A Wrong Turn",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_f0a1158f-3b42-457f-8c20-9b9dca315ffd_300x.jpg",
+    "price": 20,
+    "rating": 4.1,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6730254811202",
+    "title": "I Can't Run From My Problems",
+    "image": "https://teefury.com/cdn/shop/products/55237-art-file-color-nav_7dfb2c96-a7a9-4d4e-be16-15788413cc21_300x.jpg",
+    "price": 39,
+    "rating": 3.0,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "4594986811458",
+    "title": "Super Blues Bros",
+    "image": "https://teefury.com/cdn/shop/products/15804-art-file-color-blk_300x.jpg",
+    "price": 56,
+    "rating": 1.7,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6933872967746",
+    "title": "Peaches Repeat",
+    "image": "https://teefury.com/cdn/shop/products/101218-art-file-color-gre_e8772e83-aca9-4d6e-8354-363002333ad8_300x.jpg",
+    "price": 27,
+    "rating": 2.7,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "4325839831106",
+    "title": "MEGA",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_2bb33848-7def-440e-88e9-db3bd0692842_300x.jpg",
+    "price": 49,
+    "rating": 4.8,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "7353229672514",
+    "title": "Movie Game Plant",
+    "image": "https://teefury.com/cdn/shop/files/122668-art-file-color-blk_c36a6495-6564-4547-9804-023da4589290_300x.jpg",
+    "price": 42,
+    "rating": 1.4,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6557249568834",
+    "title": "Smash Kaiju",
+    "image": "https://teefury.com/cdn/shop/products/52406-art-file-color-blk_55ef5b8f-7133-42f4-9fe5-03e73640d52f_300x.jpg",
+    "price": 56,
+    "rating": 1.6,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6555028095042",
+    "title": "Chaos Is Power",
+    "image": "https://teefury.com/cdn/shop/products/52378-art-file-color-blk_300x.jpg",
+    "price": 22,
+    "rating": 3.3,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "4338710609986",
+    "title": "LoFi Blue Bomber",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_3380e297-6169-49a1-bc17-4e5249fabad2_300x.jpg",
+    "price": 50,
+    "rating": 4.0,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "4616131870786",
+    "title": "White Guardian",
+    "image": "https://teefury.com/cdn/shop/products/50748-art-file-color-nav_300x.jpg",
+    "price": 41,
+    "rating": 1.8,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "4490923999298",
+    "title": "Plumber's Nightmare",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_7881b1e9-6e2e-4094-b5bd-3719bdc0ebb2_300x.jpg",
+    "price": 56,
+    "rating": 4.2,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "7483814117442",
+    "title": "Game Mushroom Choice",
+    "image": "https://teefury.com/cdn/shop/files/130917-art-file-color-blk_9cb9246e-8e26-42d3-b69c-db1c4c217e45_300x.jpg",
+    "price": 30,
+    "rating": 2.8,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "7049919430722",
+    "title": "Plumber Game",
+    "image": "https://teefury.com/cdn/shop/files/108820-art-file-color-blk_4984115c-1466-410d-8419-e22b376c2cb8_300x.jpg",
+    "price": 54,
+    "rating": 4.8,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6923406835778",
+    "title": "Out Of His Shell",
+    "image": "https://teefury.com/cdn/shop/products/100781-art-file-color-nav_300x.jpg",
+    "price": 23,
+    "rating": 2.5,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6748839346242",
+    "title": "Companion Cube",
+    "image": "https://teefury.com/cdn/shop/products/55744-art-file-color-blk_300x.jpg",
+    "price": 21,
+    "rating": 2.7,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6595599827010",
+    "title": "Retro Gang",
+    "image": "https://teefury.com/cdn/shop/products/52916-art-file-color-pur_300x.jpg",
+    "price": 42,
+    "rating": 4.1,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6958663893058",
+    "title": "Sonic And Mario",
+    "image": "https://teefury.com/cdn/shop/files/104349-art-file-color-cha_13c45d4a-e6fa-46e1-af59-b1d31f1c7876_300x.jpg",
+    "price": 36,
+    "rating": 4.6,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6925635059778",
+    "title": "Retro Villains",
+    "image": "https://teefury.com/cdn/shop/products/100871-art-file-color-blk_300x.jpg",
+    "price": 48,
+    "rating": 3.7,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6928823189570",
+    "title": "Mario Let's A Go",
+    "image": "https://teefury.com/cdn/shop/products/100976-art-file-color-nav_e86f56b7-d5a4-46ae-88b5-04361e77bfaa_300x.jpg",
+    "price": 59,
+    "rating": 4.0,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6925642367042",
+    "title": "Bowser The Hutt",
+    "image": "https://teefury.com/cdn/shop/products/100874-art-file-color-blk_fe5b178a-e9e9-4e0d-b694-f3a33fb8ad5e_300x.jpg",
+    "price": 56,
+    "rating": 1.8,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6610433015874",
+    "title": "3D Hedgehog",
+    "image": "https://teefury.com/cdn/shop/products/53102-art-file-color-blk_1312d06f-336e-4412-a7b8-77c1668b859c_300x.jpg",
+    "price": 40,
+    "rating": 4.3,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "4762666565698",
+    "title": "Sonic Speed",
+    "image": "https://teefury.com/cdn/shop/products/51823-art-file-color-roy_0a4e7459-670d-4781-b5fd-8837ac0f7cf3_300x.jpg",
+    "price": 42,
+    "rating": 1.0,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6946821406786",
+    "title": "Dragon Bros",
+    "image": "https://teefury.com/cdn/shop/files/102602-art-file-color-blk_30443e28-5e67-4f28-be46-d6fa63f024c6_300x.jpg",
+    "price": 26,
+    "rating": 4.0,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6928810410050",
+    "title": "Nostalgic Heroes",
+    "image": "https://teefury.com/cdn/shop/products/100972-art-file-color-blk_f9dd5b83-16db-412c-b159-e568658f7a6e_300x.jpg",
+    "price": 59,
+    "rating": 4.2,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "4344327405634",
+    "title": "Say Castle Again!",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_45d9fe17-7692-404f-8f74-f2e6edca05ed_300x.jpg",
+    "price": 53,
+    "rating": 1.8,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6955017437250",
+    "title": "Mad Kart",
+    "image": "https://teefury.com/cdn/shop/files/103882-art-file-color-blk_3298fb8d-c2f6-4f56-9e11-6b982fdae5a5_300x.jpg",
+    "price": 32,
+    "rating": 4.5,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6939188625474",
+    "title": "80s Gamer Room",
+    "image": "https://teefury.com/cdn/shop/files/101561-art-file-color-blk_750083ab-aa12-4c7c-994c-846829897c07_300x.jpg",
+    "price": 44,
+    "rating": 1.5,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6933710733378",
+    "title": "Classically Trained Dad",
+    "image": "https://teefury.com/cdn/shop/products/101184-art-file-color-crm_300x.jpg",
+    "price": 58,
+    "rating": 3.0,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6689096990786",
+    "title": "Race For The Future",
+    "image": "https://teefury.com/cdn/shop/products/54314-art-file-color-tur_a8102fc6-2186-462b-9a2c-5d956d80a373_300x.jpg",
+    "price": 22,
+    "rating": 3.6,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "7181231620162",
+    "title": "Luigi Japan",
+    "image": "https://teefury.com/cdn/shop/files/112274-art-file-color-whi_02eb3ccd-d1ce-4458-a474-ba27415d6a6d_300x.jpg",
+    "price": 32,
+    "rating": 4.8,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6933869199426",
+    "title": "Super Yummy Ramen",
+    "image": "https://teefury.com/cdn/shop/products/101216-art-file-color-blk_b31dd328-bd87-4ee5-8c77-a1c100f1a13a_300x.jpg",
+    "price": 59,
+    "rating": 1.4,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "7384533925954",
+    "title": "Dino Diner",
+    "image": "https://teefury.com/cdn/shop/files/124689-art-file-color-pur_66a3bac5-b689-4594-bff7-5c78002f6998_300x.jpg",
+    "price": 30,
+    "rating": 3.4,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "7015740997698",
+    "title": "The Mushroom Kingdom",
+    "image": "https://teefury.com/cdn/shop/files/107192-art-file-color-crm_baee78b9-16ee-4599-b9b8-f169460e76ac_300x.jpg",
+    "price": 47,
+    "rating": 4.7,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6684150136898",
+    "title": "The Blue Bomber",
+    "image": "https://teefury.com/cdn/shop/products/54167-art-file-color-nav_300x.jpg",
+    "price": 25,
+    "rating": 1.8,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "4344686182466",
+    "title": "Storybook Friends",
+    "image": "https://teefury.com/cdn/shop/products/15692-art-file-color-hgr_9eb6e725-ac75-4f23-b4ca-a8f35008bc20_300x.jpg",
+    "price": 57,
+    "rating": 1.8,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "4321220362306",
+    "title": "World's Best Boss",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_dc4d7125-f475-4f96-8e79-42f4d878f806_300x.jpg",
+    "price": 35,
+    "rating": 3.6,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "7245234012226",
+    "title": "I Run On Coffee And Anxiety",
+    "image": "https://teefury.com/cdn/shop/files/113436-art-file-color-blk_300x.jpg",
+    "price": 41,
+    "rating": 4.1,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "7095067344962",
+    "title": "Sonic Wars",
+    "image": "https://teefury.com/cdn/shop/files/110462-art-file-color-blk_6c8bb73c-152a-42eb-ac9b-21896c873548_300x.jpg",
+    "price": 31,
+    "rating": 1.7,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6951925776450",
+    "title": "Nostalgic Gamer",
+    "image": "https://teefury.com/cdn/shop/files/102831-art-file-color-whi_45141af7-66b4-4288-99c9-253aca7ba07b_300x.jpg",
+    "price": 27,
+    "rating": 3.7,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6853711757378",
+    "title": "Sonic Squad Splash",
+    "image": "https://teefury.com/cdn/shop/products/58359-art-file-color-blk_300x.jpg",
+    "price": 34,
+    "rating": 3.2,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "4328071921730",
+    "title": "Red Streak",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-red_dd07e21c-3113-430d-bb06-1f80b6f7baf8_300x.jpg",
+    "price": 30,
+    "rating": 1.8,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "7306084614210",
+    "title": "Dragon Warrior",
+    "image": "https://teefury.com/cdn/shop/files/120140-art-file-color-blk_0a5295ed-f6b4-43a4-abcd-b9c271055187_300x.jpg",
+    "price": 29,
+    "rating": 5.0,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6953594781762",
+    "title": "The Sex Pixels",
+    "image": "https://teefury.com/cdn/shop/files/103739-art-file-color-blk_8bdcc9dd-42f7-4ae9-93a4-9120ce45065f_300x.jpg",
+    "price": 32,
+    "rating": 4.3,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6748926640194",
+    "title": "A Mega Robot",
+    "image": "https://teefury.com/cdn/shop/products/55763-art-file-color-blk_f62c2223-3b74-485c-a242-081075cd91aa_300x.jpg",
+    "price": 48,
+    "rating": 3.9,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6621929373762",
+    "title": "Hunter X",
+    "image": "https://teefury.com/cdn/shop/products/53282-art-file-color-blk_300x.jpg",
+    "price": 20,
+    "rating": 4.6,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "4773035704386",
+    "title": "Gotta Go Fast & Furious",
+    "image": "https://teefury.com/cdn/shop/products/51941-art-file-color-blk_300x.jpg",
+    "price": 38,
+    "rating": 4.8,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "4349841834050",
+    "title": "The 80s Bunch",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_3f2e91ce-3fd2-4ec7-860f-4ab300f9ea77_300x.jpg",
+    "price": 25,
+    "rating": 2.6,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "4325797363778",
+    "title": "Many Bubbles",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blu_67b6053c-8881-4e73-b8c6-848977956b38_300x.jpg",
+    "price": 57,
+    "rating": 1.4,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "7314314461250",
+    "title": "My Unrequited Romance",
+    "image": "https://teefury.com/cdn/shop/files/120384-art-file-color-blk_bc05a61d-e442-4307-8f8a-b7cfef5c369a_300x.jpg",
+    "price": 38,
+    "rating": 1.7,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6913223458882",
+    "title": "My Robot Family",
+    "image": "https://teefury.com/cdn/shop/products/100337-art-file-color-nav_300x.jpg",
+    "price": 27,
+    "rating": 3.7,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "4587570331714",
+    "title": "Combustible Lemonade",
+    "image": "https://teefury.com/cdn/shop/products/17081-art-file-color-blk_fe0569ea-edba-4be3-96b7-aed008b521e9_300x.jpg",
+    "price": 25,
+    "rating": 1.2,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "4344487772226",
+    "title": "Smash N Grab",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-nav_d6cb0b9a-e305-43db-84e3-b2a9cad43d09_300x.jpg",
+    "price": 57,
+    "rating": 3.4,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "4325843009602",
+    "title": "Mega Munch",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-nav_b16f43c2-beca-49f9-b4b1-1b5be3672234_300x.jpg",
+    "price": 21,
+    "rating": 4.6,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "7311757017154",
+    "title": "Green Dinosaur Island",
+    "image": "https://teefury.com/cdn/shop/files/120214-art-file-color-blk_8420fcb1-6ef7-4204-8108-53b2df588ac2_300x.jpg",
+    "price": 28,
+    "rating": 4.4,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "7015739195458",
+    "title": "Sweet Rainbow",
+    "image": "https://teefury.com/cdn/shop/files/107193-art-file-color-roy_a92bbe52-4f04-4454-843b-994c53fd0fc6_300x.jpg",
+    "price": 47,
+    "rating": 3.7,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6940525232194",
+    "title": "Game Heroes",
+    "image": "https://teefury.com/cdn/shop/files/102055-art-file-color-blk_232ec387-f475-4cc4-a82a-7f195b2aa019_300x.jpg",
+    "price": 37,
+    "rating": 3.8,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6930107531330",
+    "title": "Plumbers Under The Sun",
+    "image": "https://teefury.com/cdn/shop/products/101101-art-file-color-whi_42987e1a-efc0-42c7-a23e-62f82083c12f_300x.jpg",
+    "price": 50,
+    "rating": 3.6,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "4328359395394",
+    "title": "Earthworm Gym",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_83771475-ee24-4266-bb96-842550d1d8f2_300x.jpg",
+    "price": 53,
+    "rating": 1.7,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "7423347785794",
+    "title": "Green Hill Fighters",
+    "image": "https://teefury.com/cdn/shop/files/125984-art-file-color-blk_11fd62b7-f753-466f-92bc-1bf8f0bce275_300x.jpg",
+    "price": 48,
+    "rating": 2.2,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6923399626818",
+    "title": "Quick Hedgehog",
+    "image": "https://teefury.com/cdn/shop/products/100777-art-file-color-blk_c4947758-39d9-4f4b-b61a-5e9c36170315_300x.jpg",
+    "price": 29,
+    "rating": 4.9,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "7427451617346",
+    "title": "Blue Moon",
+    "image": "https://teefury.com/cdn/shop/files/126373-art-file-color-blk_a323d486-0cdc-4140-90e5-6a0ee70b6986_300x.jpg",
+    "price": 55,
+    "rating": 1.6,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "7423381143618",
+    "title": "Easily Distracted By Italian Food",
+    "image": "https://teefury.com/cdn/shop/files/125975-art-file-color-crm_0de14f68-2058-43dc-8a91-6c9fdf0882c0_300x.jpg",
+    "price": 38,
+    "rating": 3.3,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "7314352209986",
+    "title": "Smash Them",
+    "image": "https://teefury.com/cdn/shop/files/120362-art-file-color-nav_234fcb11-24dd-4590-bfb8-49044d39be9e_300x.jpg",
+    "price": 29,
+    "rating": 1.1,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "7239159971906",
+    "title": "Dark Side Of The Rainbow",
+    "image": "https://teefury.com/cdn/shop/files/113035-art-file-color-blk_f7479043-75b1-44f0-8a05-0650f35c9ac2_300x.jpg",
+    "price": 51,
+    "rating": 1.2,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "7078361759810",
+    "title": "Gaming World",
+    "image": "https://teefury.com/cdn/shop/files/110020-art-file-color-tur_d5c79851-e32c-409f-83fd-5229084ca012_300x.jpg",
+    "price": 32,
+    "rating": 3.7,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "7078371360834",
+    "title": "Game Finds A Way",
+    "image": "https://teefury.com/cdn/shop/files/110015-art-file-color-blk_8073cc33-0e7e-403d-a933-8c7afa44cde4_300x.jpg",
+    "price": 55,
+    "rating": 1.6,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "7071885885506",
+    "title": "Koopa Vs Kong",
+    "image": "https://teefury.com/cdn/shop/files/109773-art-file-color-blk_a240fc1a-b935-475c-a83f-27965b3ec580_300x.jpg",
+    "price": 29,
+    "rating": 1.6,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6983103774786",
+    "title": "Super Dino Fossil",
+    "image": "https://teefury.com/cdn/shop/files/106508-art-file-color-blk_cead39bc-93b2-41c4-8cdb-208f1ae70232_300x.jpg",
+    "price": 31,
+    "rating": 2.3,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6940519956546",
+    "title": "Two Faces Speed",
+    "image": "https://teefury.com/cdn/shop/files/102069-art-file-color-blk_69576efe-094a-43d9-bdc2-70260c782b60_300x.jpg",
+    "price": 38,
+    "rating": 4.7,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6939190427714",
+    "title": "90s Gamer Room",
+    "image": "https://teefury.com/cdn/shop/files/101562-art-file-color-blk_300x.jpg",
+    "price": 51,
+    "rating": 4.0,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6937924206658",
+    "title": "The Incredible Donk",
+    "image": "https://teefury.com/cdn/shop/files/101449-art-file-color-blk_7351401e-e4d7-4aa5-9f9f-9e8c6f524fe7_300x.jpg",
+    "price": 59,
+    "rating": 2.6,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6928813883458",
+    "title": "Speed Jump",
+    "image": "https://teefury.com/cdn/shop/products/100973-art-file-color-blk_abab03ec-fb89-4f35-b16b-c5bfbf414a34_300x.jpg",
+    "price": 33,
+    "rating": 1.6,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6891688296514",
+    "title": "Superior Machine",
+    "image": "https://teefury.com/cdn/shop/products/59608-art-file-color-blk_f163b362-432f-4fcd-ac4c-beac69b7fdca_300x.jpg",
+    "price": 57,
+    "rating": 1.1,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6739132710978",
+    "title": "My Precious Rings",
+    "image": "https://teefury.com/cdn/shop/products/55530-art-file-color-nav_300x.jpg",
+    "price": 55,
+    "rating": 4.4,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6626075279426",
+    "title": "Mega Robot Extermination Services",
+    "image": "https://teefury.com/cdn/shop/products/53332-art-file-color-whi_802df4f7-c59f-423b-9384-10989fa2d21d_300x.jpg",
+    "price": 49,
+    "rating": 3.1,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "4672702054466",
+    "title": "Super Fall Creatures",
+    "image": "https://teefury.com/cdn/shop/products/51056-art-file-color-roy_355b83c3-909f-4dce-9ed5-c3281ad49e1e_300x.jpg",
+    "price": 44,
+    "rating": 4.7,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "4589069008962",
+    "title": "It Wasn't Me",
+    "image": "https://teefury.com/cdn/shop/products/17240-art-file-color-nav_300x.jpg",
+    "price": 56,
+    "rating": 4.5,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "7311759212610",
+    "title": "Kart Racing",
+    "image": "https://teefury.com/cdn/shop/files/120213-art-file-color-blk_f3f8768e-a2e1-4f07-91f7-bdcabbd92224_300x.jpg",
+    "price": 52,
+    "rating": 2.4,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "7033949716546",
+    "title": "The Fellowship Of The Plumbers",
+    "image": "https://teefury.com/cdn/shop/files/108046-art-file-color-blk_3fbe9f6c-17b6-45bc-89d1-2648f63cd94d_300x.jpg",
+    "price": 59,
+    "rating": 2.6,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6963940556866",
+    "title": "Horrific Kart",
+    "image": "https://teefury.com/cdn/shop/files/105377-art-file-color-blk_d609a52e-ab7c-49aa-98e7-3175664ec2e0_300x.jpg",
+    "price": 38,
+    "rating": 4.7,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6928837771330",
+    "title": "Out To Save The Princess",
+    "image": "https://teefury.com/cdn/shop/products/100981-art-file-color-roy_300x.jpg",
+    "price": 26,
+    "rating": 3.4,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6908878422082",
+    "title": "Bubble Games",
+    "image": "https://teefury.com/cdn/shop/products/60195-art-file-color-blu_300x.jpg",
+    "price": 53,
+    "rating": 1.3,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6769266655298",
+    "title": "Fast Matata",
+    "image": "https://teefury.com/cdn/shop/products/56297-art-file-color-blk_68fb7903-e635-4d37-baa6-b56fa60737a4_300x.jpg",
+    "price": 51,
+    "rating": 2.4,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6605738868802",
+    "title": "Bosses",
+    "image": "https://teefury.com/cdn/shop/products/53092-art-file-color-nav_300x.jpg",
+    "price": 24,
+    "rating": 2.1,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "6603039637570",
+    "title": "Earthworm Groovy!",
+    "image": "https://teefury.com/cdn/shop/products/53011-art-file-color-blk_300x.jpg",
+    "price": 41,
+    "rating": 4.1,
+    "category": "gaming-platform"
+  },
+  {
+    "id": "4349842391106",
+    "title": "The 90s Bunch",
+    "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_b9aee947-71b8-406e-ba71-ceb8918c7cf3_300x.jpg",
+    "price": 42,
+    "rating": 3.8,
+    "category": "gaming-platform"
+  }
+]
