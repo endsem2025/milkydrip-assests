@@ -5,7 +5,9 @@
     "image": "https://teefury.com/cdn/shop/products/art-file-color-nav_3d2d71ae-8f43-4a4a-8c6c-7ad11eb882f6_300x.jpg",
     "price": 50,
     "rating": 2.8,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1196,
+    "artist": "DrMonekers"
   },
   {
     "id": "4451405627458",
@@ -13,7 +15,9 @@
     "image": "https://teefury.com/cdn/shop/products/art-file-color-roy_55b2edfb-e106-4715-a83e-4ce6cef4e25f_300x.jpg",
     "price": 39,
     "rating": 1.8,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2456,
+    "artist": "NemiMakeit"
   },
   {
     "id": "4508749168706",
@@ -21,7 +25,9 @@
     "image": "https://teefury.com/cdn/shop/products/50298-art-file-color-blk_300x.jpg",
     "price": 20,
     "rating": 4.2,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1180,
+    "artist": "palmstreet"
   },
   {
     "id": "4498073026626",
@@ -29,7 +35,9 @@
     "image": "https://teefury.com/cdn/shop/products/art-file-color-nav_71c46701-cdfd-44f8-ba25-24b5914d3228_300x.jpg",
     "price": 33,
     "rating": 3.6,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2013,
+    "artist": "AlemaArt"
   },
   {
     "id": "4335664365634",
@@ -37,7 +45,9 @@
     "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_97fa3b93-9d75-4837-bb65-259cebbb8bb5_300x.jpg",
     "price": 48,
     "rating": 1.7,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 973,
+    "artist": "turborat14"
   },
   {
     "id": "4304435478594",
@@ -45,7 +55,9 @@
     "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_b3a3dc03-f74f-4a76-b217-c120cb3d1445_300x.jpg",
     "price": 45,
     "rating": 3.1,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1646,
+    "artist": "NemiMakeit"
   },
   {
     "id": "6610474631234",
@@ -53,7 +65,9 @@
     "image": "https://teefury.com/cdn/shop/products/53118-art-file-color-nav_3f7c17b9-d198-41f1-a194-986858cbdaa8_300x.jpg",
     "price": 33,
     "rating": 1.9,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1990,
+    "artist": "DrMonekers"
   },
   {
     "id": "6983092633666",
@@ -61,7 +75,9 @@
     "image": "https://teefury.com/cdn/shop/files/106514-art-file-color-crm_6faa9f08-3102-4a9c-8d7f-214a808b1ed6_300x.jpg",
     "price": 59,
     "rating": 3.4,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1516,
+    "artist": "DrMonekers"
   },
   {
     "id": "4702204362818",
@@ -69,7 +85,9 @@
     "image": "https://teefury.com/cdn/shop/products/51307-art-file-color-pur_b1a8441a-57e2-4e03-a285-548785424a27_300x.jpg",
     "price": 36,
     "rating": 2.7,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 783,
+    "artist": "palmstreet"
   },
   {
     "id": "4349781803074",
@@ -77,7 +95,9 @@
     "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_202353d5-3cb2-44b7-ac18-588b3060bd9b_300x.jpg",
     "price": 31,
     "rating": 4.3,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2083,
+    "artist": "turborat14"
   },
   {
     "id": "7047688519746",
@@ -85,7 +105,9 @@
     "image": "https://teefury.com/cdn/shop/files/108692-art-file-color-nav_be366142-af78-4991-9a24-866a27897c9f_300x.jpg",
     "price": 56,
     "rating": 3.4,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2039,
+    "artist": "AlemaArt"
   },
   {
     "id": "4304490528834",
@@ -93,7 +115,9 @@
     "image": "https://teefury.com/cdn/shop/products/19162-art-file-color-whi_b48f6bd9-d91b-450d-9a57-f0cd76c3a994_300x.jpg",
     "price": 37,
     "rating": 1.1,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2364,
+    "artist": "AlemaArt"
   },
   {
     "id": "6728633581634",
@@ -101,7 +125,9 @@
     "image": "https://teefury.com/cdn/shop/products/55163-art-file-color-blk_300x.jpg",
     "price": 22,
     "rating": 3.8,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1178,
+    "artist": "NemiMakeit"
   },
   {
     "id": "6938010812482",
@@ -109,7 +135,9 @@
     "image": "https://teefury.com/cdn/shop/files/101506-art-file-color-blk_1a24e653-76c0-4171-82f6-8450259112e3_300x.jpg",
     "price": 33,
     "rating": 1.2,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2315,
+    "artist": "turborat14"
   },
   {
     "id": "4349891641410",
@@ -117,7 +145,9 @@
     "image": "https://teefury.com/cdn/shop/products/14199-art-file-color-whi_7ec9cd5c-88e9-4735-9e1d-e148ade5b7bb_300x.jpg",
     "price": 60,
     "rating": 3.1,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2402,
+    "artist": "DrMonekers"
   },
   {
     "id": "4344646271042",
@@ -125,7 +155,9 @@
     "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_e2cdaf13-a7b8-460c-a545-bcf410b9b42f_300x.jpg",
     "price": 53,
     "rating": 2.2,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1523,
+    "artist": "turborat14"
   },
   {
     "id": "6911980798018",
@@ -133,7 +165,9 @@
     "image": "https://teefury.com/cdn/shop/products/100225-art-file-color-blk_300x.jpg",
     "price": 21,
     "rating": 3.0,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2002,
+    "artist": "AlemaArt"
   },
   {
     "id": "4344648630338",
@@ -141,7 +175,9 @@
     "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_1aea5871-45d9-4b6f-a12b-e8accbb5b252_300x.jpg",
     "price": 29,
     "rating": 1.2,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2595,
+    "artist": "AlemaArt"
   },
   {
     "id": "7368430288962",
@@ -149,7 +185,9 @@
     "image": "https://teefury.com/cdn/shop/files/123704-art-file-color-blk_81428584-5a33-40cc-82e8-d7f88409c5ce_300x.jpg",
     "price": 48,
     "rating": 3.3,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2571,
+    "artist": "palmstreet"
   },
   {
     "id": "6867162562626",
@@ -157,7 +195,9 @@
     "image": "https://teefury.com/cdn/shop/products/58915-art-file-color-blk_300x.jpg",
     "price": 45,
     "rating": 4.8,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2815,
+    "artist": "turborat14"
   },
   {
     "id": "4702216388674",
@@ -165,7 +205,9 @@
     "image": "https://teefury.com/cdn/shop/products/51318-art-file-color-nav_030eaa3a-42ef-4bc4-a11e-ea767214c878_300x.jpg",
     "price": 29,
     "rating": 4.2,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2186,
+    "artist": "DrMonekers"
   },
   {
     "id": "4323211935810",
@@ -173,7 +215,9 @@
     "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_bcfc0a72-f32f-4251-b52c-adfa258c7385_300x.jpg",
     "price": 41,
     "rating": 1.3,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2305,
+    "artist": "DrMonekers"
   },
   {
     "id": "4601450102850",
@@ -181,7 +225,9 @@
     "image": "https://teefury.com/cdn/shop/products/50675-art-file-color-blk_300x.jpg",
     "price": 21,
     "rating": 3.6,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2660,
+    "artist": "AlemaArt"
   },
   {
     "id": "6693907103810",
@@ -189,7 +235,9 @@
     "image": "https://teefury.com/cdn/shop/products/54422-art-file-color-cha_300x.jpg",
     "price": 51,
     "rating": 4.5,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2042,
+    "artist": "palmstreet"
   },
   {
     "id": "4325778620482",
@@ -197,7 +245,9 @@
     "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_200c844e-36e1-4478-87ea-88c1842c7588_300x.jpg",
     "price": 46,
     "rating": 1.1,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1361,
+    "artist": "AlemaArt"
   },
   {
     "id": "6963541246018",
@@ -205,7 +255,9 @@
     "image": "https://teefury.com/cdn/shop/files/104825-art-file-color-blk_74e41db1-d955-401b-a650-77eb93233002_300x.jpg",
     "price": 49,
     "rating": 1.8,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2767,
+    "artist": "turborat14"
   },
   {
     "id": "6728559591490",
@@ -213,7 +265,9 @@
     "image": "https://teefury.com/cdn/shop/products/55113-art-file-color-crm_300x.jpg",
     "price": 57,
     "rating": 3.4,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2729,
+    "artist": "DrMonekers"
   },
   {
     "id": "6700815319106",
@@ -221,7 +275,9 @@
     "image": "https://teefury.com/cdn/shop/products/54532-art-file-color-cha_ed0ee2c2-4afc-431b-b4bc-ac3877bc676a_300x.jpg",
     "price": 52,
     "rating": 3.0,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1262,
+    "artist": "turborat14"
   },
   {
     "id": "4304989716546",
@@ -229,7 +285,9 @@
     "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_f054fdda-8479-47ae-8a59-1711b55ad012_300x.jpg",
     "price": 50,
     "rating": 4.5,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1862,
+    "artist": "turborat14"
   },
   {
     "id": "6703931457602",
@@ -237,7 +295,9 @@
     "image": "https://teefury.com/cdn/shop/products/54586-art-file-color-cha_300x.jpg",
     "price": 45,
     "rating": 4.9,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 567,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7149754220610",
@@ -245,7 +305,9 @@
     "image": "https://teefury.com/cdn/shop/files/111423-art-file-color-blk_d16aea57-74b1-49ef-80b5-8dba2c74eafa_300x.jpg",
     "price": 38,
     "rating": 3.0,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1484,
+    "artist": "turborat14"
   },
   {
     "id": "4321186250818",
@@ -253,7 +315,9 @@
     "image": "https://teefury.com/cdn/shop/products/art-file-color-nav_a081f717-8f8c-4e81-a346-ad876ccd2663_300x.jpg",
     "price": 47,
     "rating": 4.9,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2807,
+    "artist": "turborat14"
   },
   {
     "id": "4678912770114",
@@ -261,7 +325,9 @@
     "image": "https://teefury.com/cdn/shop/products/51134-art-file-color-nav_300x.jpg",
     "price": 43,
     "rating": 1.0,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1089,
+    "artist": "turborat14"
   },
   {
     "id": "4350162370626",
@@ -269,7 +335,9 @@
     "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_ad0759e8-9e63-4b0f-82b9-92283393095b_300x.jpg",
     "price": 59,
     "rating": 1.0,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1180,
+    "artist": "DrMonekers"
   },
   {
     "id": "4319270273090",
@@ -277,7 +345,9 @@
     "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_67d4df61-3066-4c26-8f0e-4f19c04ea4fe_300x.jpg",
     "price": 20,
     "rating": 3.4,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2565,
+    "artist": "turborat14"
   },
   {
     "id": "6655293718594",
@@ -285,7 +355,9 @@
     "image": "https://teefury.com/cdn/shop/products/53648-art-file-color-roy_ff006749-a5a5-475b-ab3a-aa045842f8fc_300x.jpg",
     "price": 42,
     "rating": 5.0,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2684,
+    "artist": "AlemaArt"
   },
   {
     "id": "6933854748738",
@@ -293,7 +365,9 @@
     "image": "https://teefury.com/cdn/shop/products/101208-art-file-color-blk_300x.jpg",
     "price": 50,
     "rating": 2.2,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1982,
+    "artist": "DrMonekers"
   },
   {
     "id": "4335697526850",
@@ -301,7 +375,9 @@
     "image": "https://teefury.com/cdn/shop/products/art-file-color-red_32459ec3-6cd8-4880-baa1-0243bb1639d0_300x.jpg",
     "price": 51,
     "rating": 3.7,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 699,
+    "artist": "palmstreet"
   },
   {
     "id": "7284322566210",
@@ -309,7 +385,9 @@
     "image": "https://teefury.com/cdn/shop/files/119459-art-file-color-blk_b5a19d83-9493-47b5-a50d-ed707859b586_300x.jpg",
     "price": 34,
     "rating": 3.3,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2477,
+    "artist": "DrMonekers"
   },
   {
     "id": "4328474214466",
@@ -317,7 +395,9 @@
     "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_eed61082-7848-4970-b881-d2652d0193b2_300x.jpg",
     "price": 30,
     "rating": 1.4,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1451,
+    "artist": "DrMonekers"
   },
   {
     "id": "4326094209090",
@@ -325,7 +405,9 @@
     "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_5e24c3c8-5ee3-4400-b3bf-05c8602ef55c_300x.jpg",
     "price": 47,
     "rating": 2.2,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1208,
+    "artist": "DrMonekers"
   },
   {
     "id": "6951918501954",
@@ -333,7 +415,9 @@
     "image": "https://teefury.com/cdn/shop/files/102835-art-file-color-blk_ad0117da-79b2-47e1-9e80-2f08456b73f4_300x.jpg",
     "price": 36,
     "rating": 3.0,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1922,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7037022306370",
@@ -341,7 +425,9 @@
     "image": "https://teefury.com/cdn/shop/files/108179-art-file-color-blk_300x.jpg",
     "price": 48,
     "rating": 2.8,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2410,
+    "artist": "AlemaArt"
   },
   {
     "id": "6557279944770",
@@ -349,7 +435,9 @@
     "image": "https://teefury.com/cdn/shop/products/52449-art-file-color-gre_300x.jpg",
     "price": 47,
     "rating": 2.6,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 991,
+    "artist": "DrMonekers"
   },
   {
     "id": "4340076380226",
@@ -357,7 +445,9 @@
     "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_f2e67f0f-5cf9-43fb-a4a3-0e4dc614bef6_300x.jpg",
     "price": 33,
     "rating": 4.4,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1341,
+    "artist": "turborat14"
   },
   {
     "id": "4350179672130",
@@ -365,7 +455,9 @@
     "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_745f9c08-6ff3-49ad-b30f-c3608e6fe708_300x.jpg",
     "price": 34,
     "rating": 3.0,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2396,
+    "artist": "palmstreet"
   },
   {
     "id": "4350097260610",
@@ -373,7 +465,9 @@
     "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_af0307b0-473f-4378-b343-c643efef4d26_300x.jpg",
     "price": 29,
     "rating": 1.6,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2642,
+    "artist": "DrMonekers"
   },
   {
     "id": "4344805457986",
@@ -381,7 +475,9 @@
     "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_e4b9c60d-8ef8-474e-bc34-a23062660e1e_300x.jpg",
     "price": 37,
     "rating": 4.7,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1842,
+    "artist": "NemiMakeit"
   },
   {
     "id": "6779541553218",
@@ -389,7 +485,9 @@
     "image": "https://teefury.com/cdn/shop/products/56576-art-file-color-blk_de91489a-d19f-40d7-857d-d1b1b3af780e_300x.jpg",
     "price": 28,
     "rating": 4.0,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2040,
+    "artist": "NemiMakeit"
   },
   {
     "id": "4349017555010",
@@ -397,7 +495,9 @@
     "image": "https://teefury.com/cdn/shop/products/art-file-color-cha_12485872-8f6c-49d6-8851-9922c3b922f0_300x.jpg",
     "price": 40,
     "rating": 2.6,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1764,
+    "artist": "NemiMakeit"
   },
   {
     "id": "6558657085506",
@@ -405,7 +505,9 @@
     "image": "https://teefury.com/cdn/shop/products/52441-art-file-color-blk_6f5b9517-1c38-4fd7-b085-d17be9da5e43_300x.jpg",
     "price": 37,
     "rating": 4.0,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2817,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7449842974786",
@@ -413,7 +515,9 @@
     "image": "https://teefury.com/cdn/shop/files/128310-art-file-color-blk_0df4f09d-8b9b-4c74-90e2-cc6adff06a3a_300x.jpg",
     "price": 55,
     "rating": 1.2,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1788,
+    "artist": "DrMonekers"
   },
   {
     "id": "6603034460226",
@@ -421,7 +525,9 @@
     "image": "https://teefury.com/cdn/shop/products/53004-art-file-color-tur_e3ae7f16-9487-45d2-94d9-d782cd9268ad_300x.jpg",
     "price": 48,
     "rating": 1.6,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2655,
+    "artist": "palmstreet"
   },
   {
     "id": "6547595460674",
@@ -429,7 +535,9 @@
     "image": "https://teefury.com/cdn/shop/products/52280-art-file-color-blk_1fce5317-22de-486d-a61d-eccf5a0abce1_300x.jpg",
     "price": 37,
     "rating": 4.9,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 828,
+    "artist": "turborat14"
   },
   {
     "id": "4335850127426",
@@ -437,7 +545,9 @@
     "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_c7abff2c-2c28-43e5-9f0a-2f63288935fd_300x.jpg",
     "price": 26,
     "rating": 4.7,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1323,
+    "artist": "DrMonekers"
   },
   {
     "id": "4305120395330",
@@ -445,7 +555,9 @@
     "image": "https://teefury.com/cdn/shop/products/art-file-color-red_3cb277b7-74cc-43d5-9fbe-65128e44f8dd_300x.jpg",
     "price": 33,
     "rating": 3.9,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 986,
+    "artist": "palmstreet"
   },
   {
     "id": "4540217327682",
@@ -453,7 +565,9 @@
     "image": "https://teefury.com/cdn/shop/products/50450-art-file-color-blk_300x.jpg",
     "price": 43,
     "rating": 2.8,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1538,
+    "artist": "turborat14"
   },
   {
     "id": "4456117993538",
@@ -461,7 +575,9 @@
     "image": "https://teefury.com/cdn/shop/products/art-file-color-nav_ecc6483f-d044-465d-b298-5c3f61d94510_300x.jpg",
     "price": 41,
     "rating": 2.7,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1313,
+    "artist": "DrMonekers"
   },
   {
     "id": "6944303775810",
@@ -469,7 +585,9 @@
     "image": "https://teefury.com/cdn/shop/files/102362-art-file-color-blk_82bba5e1-536c-4aaa-9080-cc414b117b77_300x.jpg",
     "price": 42,
     "rating": 1.9,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2946,
+    "artist": "turborat14"
   },
   {
     "id": "7356880552002",
@@ -477,7 +595,9 @@
     "image": "https://teefury.com/cdn/shop/files/122882-art-file-color-blk_bf9e2f54-6a09-4ef1-b96c-3bd5d614dcba_300x.jpg",
     "price": 54,
     "rating": 2.5,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2220,
+    "artist": "DrMonekers"
   },
   {
     "id": "7015635779650",
@@ -485,7 +605,9 @@
     "image": "https://teefury.com/cdn/shop/files/107175-art-file-color-blk_30a3ce2d-53d3-4cb7-a281-b23715e3842b_300x.jpg",
     "price": 38,
     "rating": 2.9,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2375,
+    "artist": "palmstreet"
   },
   {
     "id": "6895987785794",
@@ -493,7 +615,9 @@
     "image": "https://teefury.com/cdn/shop/products/59719-art-file-color-crm_300x.jpg",
     "price": 25,
     "rating": 2.3,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1703,
+    "artist": "turborat14"
   },
   {
     "id": "6664866398274",
@@ -501,7 +625,9 @@
     "image": "https://teefury.com/cdn/shop/products/53815-art-file-color-pur_300x.jpg",
     "price": 24,
     "rating": 4.8,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2344,
+    "artist": "AlemaArt"
   },
   {
     "id": "6630695698498",
@@ -509,7 +635,9 @@
     "image": "https://teefury.com/cdn/shop/products/53352-art-file-color-blk_bdfcb005-a071-4f92-83f1-2df484463fc1_300x.jpg",
     "price": 29,
     "rating": 3.6,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2661,
+    "artist": "NemiMakeit"
   },
   {
     "id": "4348957294658",
@@ -517,7 +645,9 @@
     "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_38a94ed3-b5c3-40f7-bae5-87e8350a9925_300x.jpg",
     "price": 27,
     "rating": 2.6,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2797,
+    "artist": "AlemaArt"
   },
   {
     "id": "7472652943426",
@@ -525,7 +655,9 @@
     "image": "https://teefury.com/cdn/shop/files/129857-art-file-color-blk_9894fb71-1408-42dd-ba9d-980d41a3be60_300x.jpg",
     "price": 27,
     "rating": 1.9,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2572,
+    "artist": "palmstreet"
   },
   {
     "id": "6934285058114",
@@ -533,7 +665,9 @@
     "image": "https://teefury.com/cdn/shop/products/101265-art-file-color-blk_300x.jpg",
     "price": 22,
     "rating": 2.9,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1234,
+    "artist": "NemiMakeit"
   },
   {
     "id": "6909982965826",
@@ -541,7 +675,9 @@
     "image": "https://teefury.com/cdn/shop/products/100141-art-file-color-blk_300x.jpg",
     "price": 41,
     "rating": 3.2,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2775,
+    "artist": "DrMonekers"
   },
   {
     "id": "4735804342338",
@@ -549,7 +685,9 @@
     "image": "https://teefury.com/cdn/shop/products/51591-art-file-color-pur_300x.jpg",
     "price": 40,
     "rating": 1.3,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 618,
+    "artist": "palmstreet"
   },
   {
     "id": "4616128593986",
@@ -557,7 +695,9 @@
     "image": "https://teefury.com/cdn/shop/products/50740-art-file-color-blk_8055bb87-3365-45e1-9429-e5d4c84b3842_300x.jpg",
     "price": 45,
     "rating": 2.5,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1321,
+    "artist": "AlemaArt"
   },
   {
     "id": "7374096990274",
@@ -565,7 +705,9 @@
     "image": "https://teefury.com/cdn/shop/files/124049-art-file-color-dch_ff811aee-09d8-4660-8b3d-37939f1238f3_300x.jpg",
     "price": 45,
     "rating": 1.5,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2959,
+    "artist": "turborat14"
   },
   {
     "id": "6969347309634",
@@ -573,7 +715,9 @@
     "image": "https://teefury.com/cdn/shop/files/105942-art-file-color-blk_300x.jpg",
     "price": 29,
     "rating": 1.2,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 699,
+    "artist": "AlemaArt"
   },
   {
     "id": "6958678081602",
@@ -581,7 +725,9 @@
     "image": "https://teefury.com/cdn/shop/files/104341-art-file-color-blk_8cae14ff-c1d9-4c4d-84f7-b0f4fdb9f66f_300x.jpg",
     "price": 21,
     "rating": 2.4,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1073,
+    "artist": "NemiMakeit"
   },
   {
     "id": "6935125622850",
@@ -589,7 +735,9 @@
     "image": "https://teefury.com/cdn/shop/products/101315-art-file-color-blk_0e00aa4f-31f9-4b7e-af1e-728576132e0b_300x.jpg",
     "price": 34,
     "rating": 4.6,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2291,
+    "artist": "DrMonekers"
   },
   {
     "id": "6748840919106",
@@ -597,7 +745,9 @@
     "image": "https://teefury.com/cdn/shop/products/55745-art-file-color-crm_300x.jpg",
     "price": 30,
     "rating": 3.2,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2902,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7344774512706",
@@ -605,7 +755,9 @@
     "image": "https://teefury.com/cdn/shop/files/122245-art-file-color-nav_a2d5747e-fe0f-4321-bd31-ae085c09eba9_300x.jpg",
     "price": 46,
     "rating": 4.8,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 950,
+    "artist": "turborat14"
   },
   {
     "id": "6695840874562",
@@ -613,7 +765,9 @@
     "image": "https://teefury.com/cdn/shop/products/54467-art-file-color-whi_300x.jpg",
     "price": 58,
     "rating": 4.3,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1520,
+    "artist": "NemiMakeit"
   },
   {
     "id": "6613255028802",
@@ -621,7 +775,9 @@
     "image": "https://teefury.com/cdn/shop/products/53155-art-file-color-blk_61438288-e9f6-4ee8-9f5e-ba1fcecee6fb_300x.jpg",
     "price": 23,
     "rating": 2.6,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2594,
+    "artist": "DrMonekers"
   },
   {
     "id": "4790666100802",
@@ -629,7 +785,9 @@
     "image": "https://teefury.com/cdn/shop/products/52086-art-file-color-blk_552a3872-e498-49f5-86e4-5f2efe286648_300x.jpg",
     "price": 48,
     "rating": 3.6,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1376,
+    "artist": "NemiMakeit"
   },
   {
     "id": "4538942062658",
@@ -637,7 +795,9 @@
     "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_44c2c726-9862-4352-8d8e-2bb6c97e907a_300x.jpg",
     "price": 53,
     "rating": 3.4,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1330,
+    "artist": "NemiMakeit"
   },
   {
     "id": "4321007534146",
@@ -645,7 +805,9 @@
     "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_06251ac1-3e7d-4f84-87e1-8ca9f17448b2_300x.jpg",
     "price": 32,
     "rating": 1.6,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1609,
+    "artist": "NemiMakeit"
   },
   {
     "id": "4464174661698",
@@ -653,7 +815,9 @@
     "image": "https://teefury.com/cdn/shop/products/art-file-color-nav_5e641ff9-3e87-495c-a341-29ee3bf7c101_300x.jpg",
     "price": 59,
     "rating": 1.7,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1831,
+    "artist": "turborat14"
   },
   {
     "id": "4328327970882",
@@ -661,7 +825,9 @@
     "image": "https://teefury.com/cdn/shop/products/24083-art-file-color-blk_4c45e302-ace5-44b9-af03-a605ea1aa5bd_300x.jpg",
     "price": 35,
     "rating": 4.5,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1662,
+    "artist": "AlemaArt"
   },
   {
     "id": "6710476931138",
@@ -669,7 +835,9 @@
     "image": "https://teefury.com/cdn/shop/products/54724-art-file-color-nav_300x.jpg",
     "price": 50,
     "rating": 2.8,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2046,
+    "artist": "AlemaArt"
   },
   {
     "id": "6693866963010",
@@ -677,7 +845,9 @@
     "image": "https://teefury.com/cdn/shop/products/54393-art-file-color-blk_3069f31d-ca30-4f90-a246-78f4049b6f18_300x.jpg",
     "price": 55,
     "rating": 3.4,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2285,
+    "artist": "NemiMakeit"
   },
   {
     "id": "4784255696962",
@@ -685,7 +855,9 @@
     "image": "https://teefury.com/cdn/shop/products/52041-art-file-color-blk_7dfa838d-e5e9-4584-95cc-31c11717b945_300x.jpg",
     "price": 29,
     "rating": 3.8,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 865,
+    "artist": "turborat14"
   },
   {
     "id": "4344650104898",
@@ -693,7 +865,9 @@
     "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_f5774f33-52ee-4ca7-b590-6622a759a5bc_300x.jpg",
     "price": 47,
     "rating": 5.0,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 823,
+    "artist": "turborat14"
   },
   {
     "id": "7515218509890",
@@ -701,7 +875,9 @@
     "image": "https://teefury.com/cdn/shop/files/132962-art-file-color-blk_2ecf48b8-c276-4ff6-b7ad-bc614ca3175e_300x.jpg",
     "price": 38,
     "rating": 3.9,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1340,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7311763144770",
@@ -709,7 +885,9 @@
     "image": "https://teefury.com/cdn/shop/files/120211-art-file-color-blk_300x.jpg",
     "price": 40,
     "rating": 2.1,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 509,
+    "artist": "palmstreet"
   },
   {
     "id": "7165468606530",
@@ -717,7 +895,9 @@
     "image": "https://teefury.com/cdn/shop/files/111585-art-file-color-blk_2c306f23-b449-4209-9abc-ef791df61fba_300x.jpg",
     "price": 47,
     "rating": 3.1,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 733,
+    "artist": "turborat14"
   },
   {
     "id": "6677354938434",
@@ -725,7 +905,9 @@
     "image": "https://teefury.com/cdn/shop/products/53933-art-file-color-nav_ef3701e7-5d01-47e0-a739-4939138b915c_300x.jpg",
     "price": 43,
     "rating": 3.1,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1153,
+    "artist": "AlemaArt"
   },
   {
     "id": "4745255419970",
@@ -733,7 +915,9 @@
     "image": "https://teefury.com/cdn/shop/products/51647-art-file-color-blk_85f5d182-33ff-4dc7-929f-5f4b85f2fedc_300x.jpg",
     "price": 32,
     "rating": 2.7,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 691,
+    "artist": "AlemaArt"
   },
   {
     "id": "4350284070978",
@@ -741,7 +925,9 @@
     "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_9dbc35d3-623d-4f82-8986-801ee3b103ce_300x.jpg",
     "price": 53,
     "rating": 3.3,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1418,
+    "artist": "AlemaArt"
   },
   {
     "id": "7487475449922",
@@ -749,7 +935,9 @@
     "image": "https://teefury.com/cdn/shop/files/131120-art-file-color-whi_b924478c-f571-4174-96b4-ae71b985919a_300x.jpg",
     "price": 50,
     "rating": 1.4,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2889,
+    "artist": "turborat14"
   },
   {
     "id": "7436403441730",
@@ -757,7 +945,9 @@
     "image": "https://teefury.com/cdn/shop/files/127121-art-file-color-blk_5238c168-ca6e-4787-b66f-324810d0ca6d_300x.jpg",
     "price": 44,
     "rating": 4.2,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 2713,
+    "artist": "turborat14"
   },
   {
     "id": "7238885146690",
@@ -765,7 +955,9 @@
     "image": "https://teefury.com/cdn/shop/files/112960-art-file-color-whi_25e3ca86-e942-4732-9cac-50a8e1281f86_300x.jpg",
     "price": 37,
     "rating": 2.7,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1948,
+    "artist": "AlemaArt"
   },
   {
     "id": "6655299289154",
@@ -773,7 +965,9 @@
     "image": "https://teefury.com/cdn/shop/products/53651-art-file-color-blk_61515886-1a35-4156-bff5-56be0f8dc5a3_300x.jpg",
     "price": 40,
     "rating": 5.0,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1720,
+    "artist": "NemiMakeit"
   },
   {
     "id": "6540276105282",
@@ -781,7 +975,9 @@
     "image": "https://teefury.com/cdn/shop/products/52213-art-file-color-blk_300x.jpg",
     "price": 23,
     "rating": 4.7,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1180,
+    "artist": "palmstreet"
   },
   {
     "id": "4325887410242",
@@ -789,6 +985,8 @@
     "image": "https://teefury.com/cdn/shop/products/art-file-color-blk_61e864f3-8cf0-47b3-85d1-a87103c3008b_300x.jpg",
     "price": 39,
     "rating": 1.9,
-    "category": "magical"
+    "category": "magical",
+    "usercount": 1405,
+    "artist": "NemiMakeit"
   }
 ]

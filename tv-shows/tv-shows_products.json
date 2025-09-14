@@ -5,7 +5,9 @@
     "image": "https://teefury.com/cdn/shop/files/133821-art-file-color-blk_e2b00fe5-fabc-4f33-8af8-a724addd12ec_300x.jpg",
     "price": 56,
     "rating": 2.2,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 1908,
+    "artist": "palmstreet"
   },
   {
     "id": "7525840879682",
@@ -13,7 +15,9 @@
     "image": "https://teefury.com/cdn/shop/files/133823-art-file-color-nav_bef82c3d-1457-49e6-a001-6ca349d02888_300x.jpg",
     "price": 28,
     "rating": 4.9,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 1700,
+    "artist": "DrMonekers"
   },
   {
     "id": "7525839339586",
@@ -21,7 +25,9 @@
     "image": "https://teefury.com/cdn/shop/files/133824-art-file-color-blk_90853e50-1dad-4c66-a98c-1b4767883398_300x.jpg",
     "price": 24,
     "rating": 4.0,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 1401,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7525505925186",
@@ -29,7 +35,9 @@
     "image": "https://teefury.com/cdn/shop/files/133603-art-file-color-blk_14a764c9-3167-46da-a73c-2e46aef98ccb_300x.jpg",
     "price": 46,
     "rating": 4.5,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2327,
+    "artist": "turborat14"
   },
   {
     "id": "7523097968706",
@@ -37,7 +45,9 @@
     "image": "https://teefury.com/cdn/shop/files/133369-art-file-color-blk_0128e94c-56cf-45e1-8f86-4067ca0debbf_300x.jpg",
     "price": 53,
     "rating": 4.7,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2972,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7523069853762",
@@ -45,7 +55,9 @@
     "image": "https://teefury.com/cdn/shop/files/133378-art-file-color-blk_d23f378d-f828-4963-9e3b-94b920e9793f_300x.jpg",
     "price": 29,
     "rating": 3.6,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 571,
+    "artist": "AlemaArt"
   },
   {
     "id": "7523019522114",
@@ -53,7 +65,9 @@
     "image": "https://teefury.com/cdn/shop/files/133401-art-file-color-blk_aae019a1-7109-4762-984a-7a2496b6be7e_300x.jpg",
     "price": 42,
     "rating": 2.2,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2391,
+    "artist": "palmstreet"
   },
   {
     "id": "7522956443714",
@@ -61,7 +75,9 @@
     "image": "https://teefury.com/cdn/shop/files/133419-art-file-color-blk_aa77aa82-94de-49e0-b41c-f5b0303145ee_300x.jpg",
     "price": 58,
     "rating": 3.6,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2944,
+    "artist": "turborat14"
   },
   {
     "id": "7522950152258",
@@ -69,7 +85,9 @@
     "image": "https://teefury.com/cdn/shop/files/133422-art-file-color-whi_50c8a6ed-20c6-4eb4-85b7-7a30b116d5f1_300x.jpg",
     "price": 49,
     "rating": 4.0,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 1334,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7522947924034",
@@ -77,7 +95,9 @@
     "image": "https://teefury.com/cdn/shop/files/133423-art-file-color-whi_a8da5b89-e270-43da-8080-87423bbecff1_300x.jpg",
     "price": 52,
     "rating": 4.2,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 1720,
+    "artist": "DrMonekers"
   },
   {
     "id": "7522937307202",
@@ -85,7 +105,9 @@
     "image": "https://teefury.com/cdn/shop/files/133425-art-file-color-gre_29c7bb8c-ce3f-425f-81a0-f7247cb67993_300x.jpg",
     "price": 46,
     "rating": 1.4,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 1807,
+    "artist": "AlemaArt"
   },
   {
     "id": "7522907455554",
@@ -93,7 +115,9 @@
     "image": "https://teefury.com/cdn/shop/files/133430-art-file-color-blk_1942a936-49f5-4e0a-9039-c048a7de1cee_300x.jpg",
     "price": 49,
     "rating": 3.9,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 1610,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7522905325634",
@@ -101,7 +125,9 @@
     "image": "https://teefury.com/cdn/shop/files/133431-art-file-color-blk_57cef5c3-7da9-4632-b27b-2dec5dfa007f_300x.jpg",
     "price": 59,
     "rating": 5.0,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 833,
+    "artist": "palmstreet"
   },
   {
     "id": "7522901557314",
@@ -109,7 +135,9 @@
     "image": "https://teefury.com/cdn/shop/files/133432-art-file-color-gre_57281803-7842-4a45-ba41-e511a15f3171_300x.jpg",
     "price": 60,
     "rating": 1.7,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 1868,
+    "artist": "palmstreet"
   },
   {
     "id": "7522901393474",
@@ -117,7 +145,9 @@
     "image": "https://teefury.com/cdn/shop/files/133435-art-file-color-whi_bdbe869e-d5b0-4ece-aa82-d133f655eb44_300x.jpg",
     "price": 59,
     "rating": 2.5,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 549,
+    "artist": "AlemaArt"
   },
   {
     "id": "7521198276674",
@@ -125,7 +155,9 @@
     "image": "https://teefury.com/cdn/shop/files/133451-art-file-color-blk_8ae34744-17b3-40b8-ab45-26afeea89e74_300x.jpg",
     "price": 50,
     "rating": 2.2,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 706,
+    "artist": "AlemaArt"
   },
   {
     "id": "7521158168642",
@@ -133,7 +165,9 @@
     "image": "https://teefury.com/cdn/shop/files/133352-art-file-color-blk_e13d2a82-4be1-42ca-8b38-665119554aa9_300x.jpg",
     "price": 33,
     "rating": 4.7,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 1213,
+    "artist": "palmstreet"
   },
   {
     "id": "7518624841794",
@@ -141,7 +175,9 @@
     "image": "https://teefury.com/cdn/shop/files/133169-art-file-color-nav_d56ec4a5-2b6b-4eea-8b5e-67b73f68752e_300x.jpg",
     "price": 32,
     "rating": 4.9,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2111,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7518567104578",
@@ -149,7 +185,9 @@
     "image": "https://teefury.com/cdn/shop/files/133202-art-file-color-blk_8a4aefac-a9e2-4ce3-aafe-a0a02455f007_300x.jpg",
     "price": 29,
     "rating": 2.0,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 1744,
+    "artist": "turborat14"
   },
   {
     "id": "7518565662786",
@@ -157,7 +195,9 @@
     "image": "https://teefury.com/cdn/shop/files/133203-art-file-color-blk_8d671531-1d9f-49fa-b2da-90190992a52c_300x.jpg",
     "price": 50,
     "rating": 1.2,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2102,
+    "artist": "palmstreet"
   },
   {
     "id": "7518560976962",
@@ -165,7 +205,9 @@
     "image": "https://teefury.com/cdn/shop/files/133207-art-file-color-blk_cbc15a60-bfd6-47b5-a290-251295de5f13_300x.jpg",
     "price": 60,
     "rating": 1.0,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 1419,
+    "artist": "DrMonekers"
   },
   {
     "id": "7518559535170",
@@ -173,7 +215,9 @@
     "image": "https://teefury.com/cdn/shop/files/133208-art-file-color-blk_47643e43-ff1e-401d-89aa-6902b8289c88_300x.jpg",
     "price": 42,
     "rating": 1.4,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 960,
+    "artist": "turborat14"
   },
   {
     "id": "7518541742146",
@@ -181,7 +225,9 @@
     "image": "https://teefury.com/cdn/shop/files/133218-art-file-color-blk_42ad3509-40bb-4bc9-8173-36c8f924379f_300x.jpg",
     "price": 39,
     "rating": 2.6,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2857,
+    "artist": "DrMonekers"
   },
   {
     "id": "7518529159234",
@@ -189,7 +235,9 @@
     "image": "https://teefury.com/cdn/shop/files/133227-art-file-color-blk_1cec0a04-5079-4e5f-8278-d5a7ee19050d_300x.jpg",
     "price": 59,
     "rating": 1.7,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 1171,
+    "artist": "palmstreet"
   },
   {
     "id": "7518522179650",
@@ -197,7 +245,9 @@
     "image": "https://teefury.com/cdn/shop/files/133231-art-file-color-blk_23f92058-e825-4049-9085-82fee17431f2_300x.jpg",
     "price": 33,
     "rating": 3.7,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 817,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7518502322242",
@@ -205,7 +255,9 @@
     "image": "https://teefury.com/cdn/shop/files/133156-art-file-color-whi_44690b2f-da5e-402b-9af0-a189f226bb94_300x.jpg",
     "price": 51,
     "rating": 2.9,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2397,
+    "artist": "DrMonekers"
   },
   {
     "id": "7518496686146",
@@ -213,7 +265,9 @@
     "image": "https://teefury.com/cdn/shop/files/133157-art-file-color-blk_7c21d164-d719-4528-b792-7465a9ea743e_300x.jpg",
     "price": 56,
     "rating": 4.8,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2209,
+    "artist": "palmstreet"
   },
   {
     "id": "7515335458882",
@@ -221,7 +275,9 @@
     "image": "https://teefury.com/cdn/shop/files/132976-art-file-color-blk_6fec6964-982a-4694-9571-0593fee9e15b_300x.jpg",
     "price": 45,
     "rating": 2.5,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2186,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7515325825090",
@@ -229,7 +285,9 @@
     "image": "https://teefury.com/cdn/shop/files/132982-art-file-color-whi_c4e46fa0-78d7-459e-9988-cdf340eab90f_300x.jpg",
     "price": 22,
     "rating": 4.1,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2570,
+    "artist": "palmstreet"
   },
   {
     "id": "7515304788034",
@@ -237,7 +295,9 @@
     "image": "https://teefury.com/cdn/shop/files/132992-art-file-color-red_2f54e32b-b2ce-4b36-98d1-d10c071a67c0_300x.jpg",
     "price": 41,
     "rating": 1.4,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2989,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7515280244802",
@@ -245,7 +305,9 @@
     "image": "https://teefury.com/cdn/shop/files/133010-art-file-color-blk_c8be1b39-f583-4276-af6f-5d56854141c1_300x.jpg",
     "price": 52,
     "rating": 4.0,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 1023,
+    "artist": "palmstreet"
   },
   {
     "id": "7515270021186",
@@ -253,7 +315,9 @@
     "image": "https://teefury.com/cdn/shop/files/133017-art-file-color-blk_3d355876-0c36-449b-a386-913ce6d9135d_300x.jpg",
     "price": 25,
     "rating": 1.0,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2343,
+    "artist": "AlemaArt"
   },
   {
     "id": "7515266482242",
@@ -261,7 +325,9 @@
     "image": "https://teefury.com/cdn/shop/files/133020-art-file-color-blk_6e160fc4-b906-4513-9bd3-41f0a750a2b9_300x.jpg",
     "price": 34,
     "rating": 3.9,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 786,
+    "artist": "palmstreet"
   },
   {
     "id": "7515258781762",
@@ -269,7 +335,9 @@
     "image": "https://teefury.com/cdn/shop/files/133026-art-file-color-blk_e873e5e3-736d-4fd3-926f-e36820ee53c0_300x.jpg",
     "price": 52,
     "rating": 1.3,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2674,
+    "artist": "turborat14"
   },
   {
     "id": "7515257602114",
@@ -277,7 +345,9 @@
     "image": "https://teefury.com/cdn/shop/files/133027-art-file-color-blk_09a06e5c-7551-4979-8bae-15b6bf38de41_300x.jpg",
     "price": 44,
     "rating": 2.3,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 1374,
+    "artist": "DrMonekers"
   },
   {
     "id": "7515253997634",
@@ -285,7 +355,9 @@
     "image": "https://teefury.com/cdn/shop/files/133030-art-file-color-whi_15d76f0b-18d4-43ca-a095-6fb2612d77be_300x.jpg",
     "price": 33,
     "rating": 3.0,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 1871,
+    "artist": "turborat14"
   },
   {
     "id": "7515250950210",
@@ -293,7 +365,9 @@
     "image": "https://teefury.com/cdn/shop/files/133031-art-file-color-blk_e85d92a0-ebc6-41ea-be9f-9c9824b1fcc3_300x.jpg",
     "price": 26,
     "rating": 1.6,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 1287,
+    "artist": "DrMonekers"
   },
   {
     "id": "7515243905090",
@@ -301,7 +375,9 @@
     "image": "https://teefury.com/cdn/shop/files/133035-art-file-color-blk_e5de6515-0bd5-4a79-bbc9-03cdcc2ddcde_300x.jpg",
     "price": 60,
     "rating": 1.7,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 1990,
+    "artist": "palmstreet"
   },
   {
     "id": "7515229192258",
@@ -309,7 +385,9 @@
     "image": "https://teefury.com/cdn/shop/files/133041-art-file-color-blk_d0ad4534-a343-4539-b869-4b20fb8460fb_300x.jpg",
     "price": 39,
     "rating": 2.1,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2244,
+    "artist": "DrMonekers"
   },
   {
     "id": "7515213365314",
@@ -317,7 +395,9 @@
     "image": "https://teefury.com/cdn/shop/files/133048-art-file-color-nav_89c74ad9-934c-408b-b72a-2fb8c3f9c391_300x.jpg",
     "price": 37,
     "rating": 4.7,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 737,
+    "artist": "palmstreet"
   },
   {
     "id": "7511737696322",
@@ -325,7 +405,9 @@
     "image": "https://teefury.com/cdn/shop/files/132737-art-file-color-whi_8a1655ce-a796-401d-b96a-4ddf20cf113f_300x.jpg",
     "price": 37,
     "rating": 3.4,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 1073,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7511731896386",
@@ -333,7 +415,9 @@
     "image": "https://teefury.com/cdn/shop/files/132739-art-file-color-blk_f2d69e6b-b4ea-4624-bd29-b69b0534475b_300x.jpg",
     "price": 51,
     "rating": 3.1,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2304,
+    "artist": "palmstreet"
   },
   {
     "id": "7511728422978",
@@ -341,7 +425,9 @@
     "image": "https://teefury.com/cdn/shop/files/132741-art-file-color-blk_a6e07d1d-fddd-41e1-9d33-0e2e2ad01df7_300x.jpg",
     "price": 55,
     "rating": 3.8,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 908,
+    "artist": "turborat14"
   },
   {
     "id": "7511698997314",
@@ -349,7 +435,9 @@
     "image": "https://teefury.com/cdn/shop/files/132752-art-file-color-red_921a8ab2-3268-4260-b8e1-506c6e594cc4_300x.jpg",
     "price": 41,
     "rating": 5.0,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 647,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7511681138754",
@@ -357,7 +445,9 @@
     "image": "https://teefury.com/cdn/shop/files/132757-art-file-color-blk_efc760d4-be63-42ea-93d0-aad64ababb80_300x.jpg",
     "price": 43,
     "rating": 1.8,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 1291,
+    "artist": "DrMonekers"
   },
   {
     "id": "7511677632578",
@@ -365,7 +455,9 @@
     "image": "https://teefury.com/cdn/shop/files/132758-art-file-color-crm_807b3cf5-5c9a-41d0-b2c3-3b310efe5c0a_300x.jpg",
     "price": 28,
     "rating": 3.1,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 1334,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7511650631746",
@@ -373,7 +465,9 @@
     "image": "https://teefury.com/cdn/shop/files/132770-art-file-color-blk_066a0de4-6ddd-4e97-8dc1-94416712544c_300x.jpg",
     "price": 55,
     "rating": 4.6,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2606,
+    "artist": "turborat14"
   },
   {
     "id": "7511623565378",
@@ -381,7 +475,9 @@
     "image": "https://teefury.com/cdn/shop/files/132781-art-file-color-red_dd1231eb-ff7d-473e-acbd-9748c6307df6_300x.jpg",
     "price": 31,
     "rating": 1.6,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2921,
+    "artist": "AlemaArt"
   },
   {
     "id": "7511621730370",
@@ -389,7 +485,9 @@
     "image": "https://teefury.com/cdn/shop/files/132782-art-file-color-blk_c9ebb8e8-0a7b-4a2b-ac81-79833b262a04_300x.jpg",
     "price": 24,
     "rating": 3.4,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2133,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7511611506754",
@@ -397,7 +495,9 @@
     "image": "https://teefury.com/cdn/shop/files/132787-art-file-color-crm_bb7509c7-c9ca-4839-9e01-f8aeec43d329_300x.jpg",
     "price": 40,
     "rating": 3.6,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 921,
+    "artist": "turborat14"
   },
   {
     "id": "7511588962370",
@@ -405,7 +505,9 @@
     "image": "https://teefury.com/cdn/shop/files/132795-art-file-color-blk_49f42ba2-f71a-4a7e-bf30-ade3f1e41d93_300x.jpg",
     "price": 60,
     "rating": 2.2,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2358,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7511585456194",
@@ -413,7 +515,9 @@
     "image": "https://teefury.com/cdn/shop/files/132796-art-file-color-blk_34fc9637-30fd-4b5e-ace1-03a49592ada8_300x.jpg",
     "price": 26,
     "rating": 3.4,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 1210,
+    "artist": "palmstreet"
   },
   {
     "id": "7511582343234",
@@ -421,7 +525,9 @@
     "image": "https://teefury.com/cdn/shop/files/132797-art-file-color-blk_e70f725a-1055-4192-ba91-1a388bbf9465_300x.jpg",
     "price": 58,
     "rating": 1.6,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 504,
+    "artist": "palmstreet"
   },
   {
     "id": "7511543414850",
@@ -429,7 +535,9 @@
     "image": "https://teefury.com/cdn/shop/files/132814-art-file-color-nav_0acfe758-4d08-46aa-ace3-71e200be2007_300x.jpg",
     "price": 56,
     "rating": 4.9,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2341,
+    "artist": "AlemaArt"
   },
   {
     "id": "7511535779906",
@@ -437,7 +545,9 @@
     "image": "https://teefury.com/cdn/shop/files/132816-art-file-color-blk_0d6c0c79-d67a-4bd4-b72d-04ca019e36b8_300x.jpg",
     "price": 20,
     "rating": 4.4,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2439,
+    "artist": "DrMonekers"
   },
   {
     "id": "7511499276354",
@@ -445,7 +555,9 @@
     "image": "https://teefury.com/cdn/shop/files/132723-art-file-color-blk_144207c0-f092-464a-9451-bb4fa82fb8b1_300x.jpg",
     "price": 40,
     "rating": 3.5,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2355,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7511498850370",
@@ -453,7 +565,9 @@
     "image": "https://teefury.com/cdn/shop/files/132831-art-file-color-tur_fdbe81b7-9e40-4a07-8c1a-6e561a2bd218_300x.jpg",
     "price": 41,
     "rating": 3.9,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 565,
+    "artist": "DrMonekers"
   },
   {
     "id": "7511488462914",
@@ -461,7 +575,9 @@
     "image": "https://teefury.com/cdn/shop/files/132727-art-file-color-whi_e86a447f-fe61-4e6a-a49d-ab98daae5a88_300x.jpg",
     "price": 55,
     "rating": 1.9,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 1838,
+    "artist": "turborat14"
   },
   {
     "id": "7511486595138",
@@ -469,7 +585,9 @@
     "image": "https://teefury.com/cdn/shop/files/132728-art-file-color-crm_52c75949-95c8-495e-b466-005a7b1c5fca_300x.jpg",
     "price": 24,
     "rating": 2.8,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2205,
+    "artist": "DrMonekers"
   },
   {
     "id": "7511484694594",
@@ -477,7 +595,9 @@
     "image": "https://teefury.com/cdn/shop/files/132836-art-file-color-blk_9814ad6c-bc79-4e6f-817f-435b31a47cda_300x.jpg",
     "price": 20,
     "rating": 3.0,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 949,
+    "artist": "AlemaArt"
   },
   {
     "id": "7511470997570",
@@ -485,7 +605,9 @@
     "image": "https://teefury.com/cdn/shop/files/132842-art-file-color-blk_55b62e09-b125-49fc-8654-c68c8dbbcffe_300x.jpg",
     "price": 25,
     "rating": 2.2,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2232,
+    "artist": "AlemaArt"
   },
   {
     "id": "7507171803202",
@@ -493,7 +615,9 @@
     "image": "https://teefury.com/cdn/shop/files/132534-art-file-color-blk_b408e94b-c2b7-4845-aa77-bb67da65c5db_300x.jpg",
     "price": 47,
     "rating": 3.8,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2550,
+    "artist": "palmstreet"
   },
   {
     "id": "7507170132034",
@@ -501,7 +625,9 @@
     "image": "https://teefury.com/cdn/shop/files/132535-art-file-color-blk_0e503ea3-ddea-4764-8c3a-3a270a3fd758_300x.jpg",
     "price": 35,
     "rating": 1.9,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2894,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7507168559170",
@@ -509,7 +635,9 @@
     "image": "https://teefury.com/cdn/shop/files/132536-art-file-color-blk_f60eddec-e193-45a9-9e5d-d38ef37b6d18_300x.jpg",
     "price": 37,
     "rating": 1.6,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 1875,
+    "artist": "turborat14"
   },
   {
     "id": "7507165347906",
@@ -517,7 +645,9 @@
     "image": "https://teefury.com/cdn/shop/files/132538-art-file-color-blk_e7e0eefd-511b-40e0-a99c-059b477cda15_300x.jpg",
     "price": 56,
     "rating": 1.9,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2045,
+    "artist": "AlemaArt"
   },
   {
     "id": "7507161350210",
@@ -525,7 +655,9 @@
     "image": "https://teefury.com/cdn/shop/files/132541-art-file-color-blk_5fb5b14e-f889-4fc6-bd3d-461d3075b99a_300x.jpg",
     "price": 24,
     "rating": 4.2,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 1547,
+    "artist": "palmstreet"
   },
   {
     "id": "7507160072258",
@@ -533,7 +665,9 @@
     "image": "https://teefury.com/cdn/shop/files/132542-art-file-color-blk_8d339ba7-ebed-4595-841f-bd353f4406e4_300x.jpg",
     "price": 23,
     "rating": 3.0,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2824,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7507145949250",
@@ -541,7 +675,9 @@
     "image": "https://teefury.com/cdn/shop/files/132549-art-file-color-blk_63cd7a22-a6f0-463d-80c8-a5ec744ef013_300x.jpg",
     "price": 25,
     "rating": 3.6,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 798,
+    "artist": "DrMonekers"
   },
   {
     "id": "7507142934594",
@@ -549,7 +685,9 @@
     "image": "https://teefury.com/cdn/shop/files/132551-art-file-color-blk_3c8ead4a-29cf-4fda-ae79-611692eafde7_300x.jpg",
     "price": 29,
     "rating": 4.8,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2991,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7507140313154",
@@ -557,7 +695,9 @@
     "image": "https://teefury.com/cdn/shop/files/132553-art-file-color-blk_54079be0-20a8-4e9f-b6b0-853ec5818c7e_300x.jpg",
     "price": 60,
     "rating": 1.4,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2268,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7507132973122",
@@ -565,7 +705,9 @@
     "image": "https://teefury.com/cdn/shop/files/132558-art-file-color-blk_2c779734-8565-493f-ab44-4b9cb3a88e7f_300x.jpg",
     "price": 31,
     "rating": 2.4,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 988,
+    "artist": "AlemaArt"
   },
   {
     "id": "7507131531330",
@@ -573,7 +715,9 @@
     "image": "https://teefury.com/cdn/shop/files/132559-art-file-color-blu_578316cf-96df-4ae4-9b52-4529786d82e8_300x.jpg",
     "price": 35,
     "rating": 3.5,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2565,
+    "artist": "DrMonekers"
   },
   {
     "id": "7507102793794",
@@ -581,7 +725,9 @@
     "image": "https://teefury.com/cdn/shop/files/132578-art-file-color-blk_430bf0ec-76f9-453b-9d27-7a35afca3d2a_300x.jpg",
     "price": 49,
     "rating": 2.5,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 912,
+    "artist": "turborat14"
   },
   {
     "id": "7507091783746",
@@ -589,7 +735,9 @@
     "image": "https://teefury.com/cdn/shop/files/132583-art-file-color-blk_6698163d-9941-45c5-9cee-c71b6f43ce12_300x.jpg",
     "price": 38,
     "rating": 3.1,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 686,
+    "artist": "turborat14"
   },
   {
     "id": "7507083165762",
@@ -597,7 +745,9 @@
     "image": "https://teefury.com/cdn/shop/files/132584-art-file-color-blk_ff68f0e1-ce21-4f1e-99c8-c39ee71ce61e_300x.jpg",
     "price": 43,
     "rating": 1.9,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2094,
+    "artist": "AlemaArt"
   },
   {
     "id": "7507046006850",
@@ -605,7 +755,9 @@
     "image": "https://teefury.com/cdn/shop/files/132509-art-file-color-blk_ed5b0a72-9561-4c28-8143-bfbb9099410f_300x.jpg",
     "price": 54,
     "rating": 2.7,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 1875,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7507024445506",
@@ -613,7 +765,9 @@
     "image": "https://teefury.com/cdn/shop/files/132594-art-file-color-roy_ebafa82f-bc9f-4713-a09d-ca2a0f26560b_300x.jpg",
     "price": 30,
     "rating": 1.4,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 1558,
+    "artist": "DrMonekers"
   },
   {
     "id": "7507014877250",
@@ -621,7 +775,9 @@
     "image": "https://teefury.com/cdn/shop/files/132518-art-file-color-blk_427a8cea-caa4-44be-9e93-b76b43b22491_300x.jpg",
     "price": 25,
     "rating": 4.8,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 597,
+    "artist": "AlemaArt"
   },
   {
     "id": "7504826990658",
@@ -629,7 +785,9 @@
     "image": "https://teefury.com/cdn/shop/files/132276-art-file-color-blk_c0718c22-ec99-4330-a7da-44a06d93a4ab_300x.jpg",
     "price": 57,
     "rating": 1.2,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2183,
+    "artist": "turborat14"
   },
   {
     "id": "7504815980610",
@@ -637,7 +795,9 @@
     "image": "https://teefury.com/cdn/shop/files/132283-art-file-color-nav_6311f873-b1dd-46da-beca-180c583fb175_300x.jpg",
     "price": 52,
     "rating": 3.5,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 1213,
+    "artist": "DrMonekers"
   },
   {
     "id": "7504809918530",
@@ -645,7 +805,9 @@
     "image": "https://teefury.com/cdn/shop/files/132287-art-file-color-blk_dcc67aa1-7739-4287-b025-a897d99ae640_300x.jpg",
     "price": 31,
     "rating": 2.9,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2742,
+    "artist": "turborat14"
   },
   {
     "id": "7504805724226",
@@ -653,7 +815,9 @@
     "image": "https://teefury.com/cdn/shop/files/132290-art-file-color-blk_13ec2805-f3cb-43dd-9a5e-42df1af574d8_300x.jpg",
     "price": 38,
     "rating": 1.8,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 740,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7504795271234",
@@ -661,7 +825,9 @@
     "image": "https://teefury.com/cdn/shop/files/132297-art-file-color-blk_ddea56bf-4bd4-4497-8189-12001ffff7a4_300x.jpg",
     "price": 56,
     "rating": 3.9,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 1354,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7504792158274",
@@ -669,7 +835,9 @@
     "image": "https://teefury.com/cdn/shop/files/132299-art-file-color-blk_8ef542f1-17d9-4588-b8a0-1b0720389c32_300x.jpg",
     "price": 59,
     "rating": 3.9,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 861,
+    "artist": "turborat14"
   },
   {
     "id": "7504789569602",
@@ -677,7 +845,9 @@
     "image": "https://teefury.com/cdn/shop/files/132300-art-file-color-blk_23cc814c-4b7b-4a82-8563-e9a49edf7266_300x.jpg",
     "price": 47,
     "rating": 4.7,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 1481,
+    "artist": "DrMonekers"
   },
   {
     "id": "7504773251138",
@@ -685,7 +855,9 @@
     "image": "https://teefury.com/cdn/shop/files/132308-art-file-color-blk_1b146a68-30ee-472b-ad6e-5e6b45e54ff3_300x.jpg",
     "price": 53,
     "rating": 3.4,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 776,
+    "artist": "DrMonekers"
   },
   {
     "id": "7504760635458",
@@ -693,7 +865,9 @@
     "image": "https://teefury.com/cdn/shop/files/132316-art-file-color-blk_df28555b-6676-49b9-885b-ed841179024e_300x.jpg",
     "price": 59,
     "rating": 3.9,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2152,
+    "artist": "palmstreet"
   },
   {
     "id": "7504752705602",
@@ -701,7 +875,9 @@
     "image": "https://teefury.com/cdn/shop/files/132321-art-file-color-blk_2f6b2a59-ef80-4849-a10a-fec5e9c09cc5_300x.jpg",
     "price": 35,
     "rating": 3.1,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2271,
+    "artist": "palmstreet"
   },
   {
     "id": "7504691462210",
@@ -709,7 +885,9 @@
     "image": "https://teefury.com/cdn/shop/files/132355-art-file-color-blk_a0749d0a-cc69-4e7e-bf20-2b2e09e6bf16_300x.jpg",
     "price": 49,
     "rating": 2.5,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 1204,
+    "artist": "turborat14"
   },
   {
     "id": "7504682876994",
@@ -717,7 +895,9 @@
     "image": "https://teefury.com/cdn/shop/files/132358-art-file-color-blk_dcb6c1cd-720b-4593-83c7-fb23ceb49b10_300x.jpg",
     "price": 33,
     "rating": 3.8,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 914,
+    "artist": "palmstreet"
   },
   {
     "id": "7504681500738",
@@ -725,7 +905,9 @@
     "image": "https://teefury.com/cdn/shop/files/132359-art-file-color-blk_13240fa3-a1b1-4536-bf9d-8664c53ad8b2_300x.jpg",
     "price": 47,
     "rating": 3.6,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 843,
+    "artist": "palmstreet"
   },
   {
     "id": "7504679960642",
@@ -733,7 +915,9 @@
     "image": "https://teefury.com/cdn/shop/files/132360-art-file-color-blk_eb4d43b5-c771-43b2-9b0d-5a16358bac0e_300x.jpg",
     "price": 33,
     "rating": 3.2,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 670,
+    "artist": "AlemaArt"
   },
   {
     "id": "7504678518850",
@@ -741,7 +925,9 @@
     "image": "https://teefury.com/cdn/shop/files/132361-art-file-color-blk_6669cfe3-2a27-4f8d-8e46-316ada39acc4_300x.jpg",
     "price": 28,
     "rating": 4.9,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2164,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7504676192322",
@@ -749,7 +935,9 @@
     "image": "https://teefury.com/cdn/shop/files/132362-art-file-color-blk_8fb512bd-6cfe-425d-865f-c8e28451f97a_300x.jpg",
     "price": 28,
     "rating": 2.3,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2039,
+    "artist": "AlemaArt"
   },
   {
     "id": "7504643096642",
@@ -757,7 +945,9 @@
     "image": "https://teefury.com/cdn/shop/files/132399-art-file-color-blk_d34a2c83-4a0c-40c3-aac8-6a70e8eeb702_300x.jpg",
     "price": 36,
     "rating": 4.3,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 577,
+    "artist": "palmstreet"
   },
   {
     "id": "7504635166786",
@@ -765,7 +955,9 @@
     "image": "https://teefury.com/cdn/shop/files/132401-art-file-color-blk_5b124c45-83b1-4241-878e-74fbccd681f9_300x.jpg",
     "price": 23,
     "rating": 4.4,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 733,
+    "artist": "DrMonekers"
   },
   {
     "id": "7504629497922",
@@ -773,7 +965,9 @@
     "image": "https://teefury.com/cdn/shop/files/132402-art-file-color-whi_d753bc99-9550-4662-b622-7afdd26c80a8_300x.jpg",
     "price": 47,
     "rating": 4.6,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2391,
+    "artist": "turborat14"
   },
   {
     "id": "7504617603138",
@@ -781,7 +975,9 @@
     "image": "https://teefury.com/cdn/shop/files/132384-art-file-color-nav_4a6218e7-3570-4691-a4d8-4017742b972e_300x.jpg",
     "price": 22,
     "rating": 1.9,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 563,
+    "artist": "DrMonekers"
   },
   {
     "id": "7504616849474",
@@ -789,6 +985,8 @@
     "image": "https://teefury.com/cdn/shop/files/132385-art-file-color-blk_e93a7f95-5523-4ba8-bba5-358dbc4f6bec_300x.jpg",
     "price": 50,
     "rating": 4.9,
-    "category": "tv-shows"
+    "category": "tv-shows",
+    "usercount": 2744,
+    "artist": "NemiMakeit"
   }
 ]

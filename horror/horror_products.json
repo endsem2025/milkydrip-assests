@@ -5,7 +5,9 @@
     "image": "https://teefury.com/cdn/shop/files/133368-art-file-color-whi_7916171b-8c46-49af-8596-5e19538b22fc_300x.jpg",
     "price": 24,
     "rating": 2.3,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 783,
+    "artist": "DrMonekers"
   },
   {
     "id": "7523036659778",
@@ -13,7 +15,9 @@
     "image": "https://teefury.com/cdn/shop/files/133393-art-file-color-blk_98360b7e-0ca3-4591-af55-1bf6694ba37c_300x.jpg",
     "price": 28,
     "rating": 3.3,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2646,
+    "artist": "DrMonekers"
   },
   {
     "id": "7523014639682",
@@ -21,7 +25,9 @@
     "image": "https://teefury.com/cdn/shop/files/133403-art-file-color-blk_80415db5-1b7e-4dc0-b1bb-afdf84ce5d4a_300x.jpg",
     "price": 59,
     "rating": 4.6,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2751,
+    "artist": "palmstreet"
   },
   {
     "id": "7523012411458",
@@ -29,7 +35,9 @@
     "image": "https://teefury.com/cdn/shop/files/133404-art-file-color-blk_39f4d9bc-7a20-4061-bc95-83e39ea6b9fe_300x.jpg",
     "price": 59,
     "rating": 4.7,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2555,
+    "artist": "palmstreet"
   },
   {
     "id": "7522988916802",
@@ -37,7 +45,9 @@
     "image": "https://teefury.com/cdn/shop/files/133415-art-file-color-crm_27be4ceb-42f7-4a59-9947-16f5de167f46_300x.jpg",
     "price": 31,
     "rating": 4.9,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1619,
+    "artist": "AlemaArt"
   },
   {
     "id": "7521218822210",
@@ -45,7 +55,9 @@
     "image": "https://teefury.com/cdn/shop/files/133444-art-file-color-blk_3015cb4d-e3b6-4df5-87d3-0e8c8a65738a_300x.jpg",
     "price": 20,
     "rating": 5.0,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2412,
+    "artist": "turborat14"
   },
   {
     "id": "7521208664130",
@@ -53,7 +65,9 @@
     "image": "https://teefury.com/cdn/shop/files/133447-art-file-color-whi_bb38f965-b578-4b10-a95c-6b33b517c86d_300x.jpg",
     "price": 29,
     "rating": 4.3,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2220,
+    "artist": "turborat14"
   },
   {
     "id": "7521200373826",
@@ -61,7 +75,9 @@
     "image": "https://teefury.com/cdn/shop/files/133449-art-file-color-blk_cbde4d81-ce83-4715-b26e-b463a1d01174_300x.jpg",
     "price": 22,
     "rating": 1.6,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 693,
+    "artist": "AlemaArt"
   },
   {
     "id": "7521168752706",
@@ -69,7 +85,9 @@
     "image": "https://teefury.com/cdn/shop/files/133350-art-file-color-nav_28891f24-fa29-4959-8ec3-674ea306ce5f_300x.jpg",
     "price": 35,
     "rating": 1.8,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1001,
+    "artist": "DrMonekers"
   },
   {
     "id": "7521165934658",
@@ -77,7 +95,9 @@
     "image": "https://teefury.com/cdn/shop/files/133351-art-file-color-blk_2cee44e9-5c46-4922-a7d6-aa6c55c63c49_300x.jpg",
     "price": 26,
     "rating": 3.0,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2078,
+    "artist": "DrMonekers"
   },
   {
     "id": "7518590632002",
@@ -85,7 +105,9 @@
     "image": "https://teefury.com/cdn/shop/files/133186-art-file-color-blk_885add17-7c26-4c45-b0a8-1c413309b881_300x.jpg",
     "price": 33,
     "rating": 1.4,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2252,
+    "artist": "turborat14"
   },
   {
     "id": "7518589419586",
@@ -93,7 +115,9 @@
     "image": "https://teefury.com/cdn/shop/files/133187-art-file-color-blk_13a7da6e-5626-454b-87cf-768fecba1d66_300x.jpg",
     "price": 37,
     "rating": 1.0,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2046,
+    "artist": "AlemaArt"
   },
   {
     "id": "7518558257218",
@@ -101,7 +125,9 @@
     "image": "https://teefury.com/cdn/shop/files/133209-art-file-color-blk_76ac0a14-8be2-4681-86a7-b06e044b7630_300x.jpg",
     "price": 27,
     "rating": 4.0,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1763,
+    "artist": "turborat14"
   },
   {
     "id": "7518548590658",
@@ -109,7 +135,9 @@
     "image": "https://teefury.com/cdn/shop/files/133245-art-file-color-whi_c5c0d766-36d1-4371-a82e-718f61f9fff3_300x.jpg",
     "price": 30,
     "rating": 1.6,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1527,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7518495277122",
@@ -117,7 +145,9 @@
     "image": "https://teefury.com/cdn/shop/files/133158-art-file-color-blk_1a086867-f486-458c-aece-f8c9d196a09c_300x.jpg",
     "price": 57,
     "rating": 3.2,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1887,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7515245740098",
@@ -125,7 +155,9 @@
     "image": "https://teefury.com/cdn/shop/files/133034-art-file-color-blk_5a870f12-7fb5-4c67-bd84-5567a48e39d1_300x.jpg",
     "price": 20,
     "rating": 4.5,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2170,
+    "artist": "palmstreet"
   },
   {
     "id": "7515206778946",
@@ -133,7 +165,9 @@
     "image": "https://teefury.com/cdn/shop/files/132964-art-file-color-blk_c91a0fe0-7448-40c5-9bb8-0a4fe1a294e3_300x.jpg",
     "price": 41,
     "rating": 4.5,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2427,
+    "artist": "turborat14"
   },
   {
     "id": "7511524769858",
@@ -141,7 +175,9 @@
     "image": "https://teefury.com/cdn/shop/files/132855-art-file-color-blk_9818ea5a-4414-4608-8bc7-5c346638fc62_300x.jpg",
     "price": 57,
     "rating": 4.4,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2644,
+    "artist": "turborat14"
   },
   {
     "id": "7511518216258",
@@ -149,7 +185,9 @@
     "image": "https://teefury.com/cdn/shop/files/132821-art-file-color-blk_976f7a80-b244-4187-ab44-059414fff2c8_300x.jpg",
     "price": 42,
     "rating": 3.9,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 650,
+    "artist": "DrMonekers"
   },
   {
     "id": "7507111903298",
@@ -157,7 +195,9 @@
     "image": "https://teefury.com/cdn/shop/files/132572-art-file-color-blk_77bf6861-af08-41b8-b66e-83027c16274a_300x.jpg",
     "price": 50,
     "rating": 2.4,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2939,
+    "artist": "AlemaArt"
   },
   {
     "id": "7504814440514",
@@ -165,7 +205,9 @@
     "image": "https://teefury.com/cdn/shop/files/132284-art-file-color-blk_380f6e2a-3051-421d-8a12-f5d8bf30c03b_300x.jpg",
     "price": 36,
     "rating": 2.5,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2883,
+    "artist": "turborat14"
   },
   {
     "id": "7504774725698",
@@ -173,7 +215,9 @@
     "image": "https://teefury.com/cdn/shop/files/132307-art-file-color-blk_da72e836-16fe-4439-9b5f-f9e8650774ca_300x.jpg",
     "price": 36,
     "rating": 4.0,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2687,
+    "artist": "turborat14"
   },
   {
     "id": "7504771416130",
@@ -181,7 +225,9 @@
     "image": "https://teefury.com/cdn/shop/files/132309-art-file-color-blk_ccf84b4c-7a51-4ae2-ac6a-3f461d28a2e9_300x.jpg",
     "price": 35,
     "rating": 3.0,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1798,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7504755687490",
@@ -189,7 +235,9 @@
     "image": "https://teefury.com/cdn/shop/files/132319-art-file-color-crm_c3dd0801-131e-4570-99bb-ad561df3e6f9_300x.jpg",
     "price": 29,
     "rating": 3.7,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2266,
+    "artist": "palmstreet"
   },
   {
     "id": "7504684122178",
@@ -197,7 +245,9 @@
     "image": "https://teefury.com/cdn/shop/files/132357-art-file-color-blk_86592e32-f7e9-4cd4-b347-4bdf02724aab_300x.jpg",
     "price": 36,
     "rating": 1.7,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1950,
+    "artist": "AlemaArt"
   },
   {
     "id": "7504659349570",
@@ -205,7 +255,9 @@
     "image": "https://teefury.com/cdn/shop/files/132371-art-file-color-blk_157352f6-8aea-4ad6-a214-99e1fa95b8aa_300x.jpg",
     "price": 27,
     "rating": 1.1,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1693,
+    "artist": "turborat14"
   },
   {
     "id": "7500856950850",
@@ -213,7 +265,9 @@
     "image": "https://teefury.com/cdn/shop/files/132078-art-file-color-blk_aee3a7ca-be48-4003-b28d-0d1ef8a5102e_300x.jpg",
     "price": 37,
     "rating": 4.0,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2733,
+    "artist": "DrMonekers"
   },
   {
     "id": "7500855607362",
@@ -221,7 +275,9 @@
     "image": "https://teefury.com/cdn/shop/files/132079-art-file-color-blk_0f26080a-1007-4bb7-8a85-8fc6c140df98_300x.jpg",
     "price": 32,
     "rating": 1.1,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 501,
+    "artist": "DrMonekers"
   },
   {
     "id": "7500835356738",
@@ -229,7 +285,9 @@
     "image": "https://teefury.com/cdn/shop/files/132127-art-file-color-blk_ba41f916-34a0-4682-a6d2-b1b5066e0a42_300x.jpg",
     "price": 49,
     "rating": 2.3,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2897,
+    "artist": "AlemaArt"
   },
   {
     "id": "7500830343234",
@@ -237,7 +295,9 @@
     "image": "https://teefury.com/cdn/shop/files/132090-art-file-color-blk_74a4a213-6608-4e49-8462-ca8ba494536c_300x.jpg",
     "price": 31,
     "rating": 3.8,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2079,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7500821528642",
@@ -245,7 +305,9 @@
     "image": "https://teefury.com/cdn/shop/files/132097-art-file-color-blk_37ebe7c6-8831-42f8-81ea-7f47aacdad52_300x.jpg",
     "price": 56,
     "rating": 3.4,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1600,
+    "artist": "palmstreet"
   },
   {
     "id": "7500810584130",
@@ -253,7 +315,9 @@
     "image": "https://teefury.com/cdn/shop/files/132033-art-file-color-blk_afc5db5d-154a-460a-b621-16bde04d025f_300x.jpg",
     "price": 57,
     "rating": 3.2,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1050,
+    "artist": "turborat14"
   },
   {
     "id": "7500806783042",
@@ -261,7 +325,9 @@
     "image": "https://teefury.com/cdn/shop/files/132102-art-file-color-blk_6c477eab-eb99-4ff2-8f4d-3f9cc276d593_300x.jpg",
     "price": 38,
     "rating": 4.7,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2955,
+    "artist": "DrMonekers"
   },
   {
     "id": "7500783026242",
@@ -269,7 +335,9 @@
     "image": "https://teefury.com/cdn/shop/files/132042-art-file-color-crm_cb841b24-aece-4cf6-9fa0-7c0034fb958c_300x.jpg",
     "price": 41,
     "rating": 2.9,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2148,
+    "artist": "AlemaArt"
   },
   {
     "id": "7497175236674",
@@ -277,7 +345,9 @@
     "image": "https://teefury.com/cdn/shop/files/131529-art-file-color-blk_cf1df29c-19c1-4dc8-938b-1d87ed7ae7a9_300x.jpg",
     "price": 38,
     "rating": 4.1,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1988,
+    "artist": "palmstreet"
   },
   {
     "id": "7497079095362",
@@ -285,7 +355,9 @@
     "image": "https://teefury.com/cdn/shop/files/131576-art-file-color-blk_3496e4df-cd36-4b37-a14c-200313d00a23_300x.jpg",
     "price": 28,
     "rating": 1.6,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2815,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7493811601474",
@@ -293,7 +365,9 @@
     "image": "https://teefury.com/cdn/shop/files/131336-art-file-color-blk_58ef1c45-846a-411e-8b71-78f1a160fc3c_300x.jpg",
     "price": 29,
     "rating": 1.4,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1196,
+    "artist": "DrMonekers"
   },
   {
     "id": "7493802852418",
@@ -301,7 +375,9 @@
     "image": "https://teefury.com/cdn/shop/files/131342-art-file-color-blk_c2feb936-3398-44f2-a8ac-8bc643690ed5_300x.jpg",
     "price": 47,
     "rating": 3.4,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 865,
+    "artist": "AlemaArt"
   },
   {
     "id": "7493781946434",
@@ -309,7 +385,9 @@
     "image": "https://teefury.com/cdn/shop/files/131358-art-file-color-blk_d0ebe499-2ef3-4711-80cc-8b8a248cfe42_300x.jpg",
     "price": 38,
     "rating": 1.5,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2200,
+    "artist": "turborat14"
   },
   {
     "id": "7493759598658",
@@ -317,7 +395,9 @@
     "image": "https://teefury.com/cdn/shop/files/131372-art-file-color-blk_7f5f0a26-4149-4cee-a21d-6c61d66841d4_300x.jpg",
     "price": 42,
     "rating": 2.1,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2920,
+    "artist": "turborat14"
   },
   {
     "id": "7487541215298",
@@ -325,7 +405,9 @@
     "image": "https://teefury.com/cdn/shop/files/131078-art-file-color-blk_57eafe35-b667-47bc-939b-6d88fda9aa12_300x.jpg",
     "price": 36,
     "rating": 2.5,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2056,
+    "artist": "turborat14"
   },
   {
     "id": "7487498911810",
@@ -333,7 +415,9 @@
     "image": "https://teefury.com/cdn/shop/files/131115-art-file-color-blk_b578c213-b94e-4bbc-bac5-2cf79cf7dd43_300x.jpg",
     "price": 52,
     "rating": 3.9,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1446,
+    "artist": "AlemaArt"
   },
   {
     "id": "7483856191554",
@@ -341,7 +425,9 @@
     "image": "https://teefury.com/cdn/shop/files/130933-art-file-color-blk_cffa8660-2fa4-4f2a-b2ae-bb8698609572_300x.jpg",
     "price": 48,
     "rating": 3.6,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2994,
+    "artist": "palmstreet"
   },
   {
     "id": "7483849080898",
@@ -349,7 +435,9 @@
     "image": "https://teefury.com/cdn/shop/files/130937-art-file-color-blk_74a3d19b-8d42-4252-9116-400ee02bb4fe_300x.jpg",
     "price": 53,
     "rating": 2.6,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2075,
+    "artist": "palmstreet"
   },
   {
     "id": "7481536315458",
@@ -357,7 +445,9 @@
     "image": "https://teefury.com/cdn/shop/files/130680-art-file-color-blk_b7a0b870-eaa8-4702-af49-d5ebe6bba9be_300x.jpg",
     "price": 31,
     "rating": 4.5,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 753,
+    "artist": "palmstreet"
   },
   {
     "id": "7481534120002",
@@ -365,7 +455,9 @@
     "image": "https://teefury.com/cdn/shop/files/130570-art-file-color-blk_fd2a7698-31d2-4222-a71a-51e1aa8293cd_300x.jpg",
     "price": 34,
     "rating": 4.2,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1385,
+    "artist": "DrMonekers"
   },
   {
     "id": "7481517736002",
@@ -373,7 +465,9 @@
     "image": "https://teefury.com/cdn/shop/files/130577-art-file-color-blk_791774f0-b168-4917-bd3c-b61468610d24_300x.jpg",
     "price": 57,
     "rating": 1.2,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2041,
+    "artist": "palmstreet"
   },
   {
     "id": "7481512591426",
@@ -381,7 +475,9 @@
     "image": "https://teefury.com/cdn/shop/files/130688-art-file-color-blk_b865dcc7-b37d-4185-b76e-dcc4cb2f1efc_300x.jpg",
     "price": 51,
     "rating": 4.5,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 872,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7478886367298",
@@ -389,7 +485,9 @@
     "image": "https://teefury.com/cdn/shop/files/130407-art-file-color-blk_65524ba9-03af-445b-a5c5-e054432d4398_300x.jpg",
     "price": 30,
     "rating": 4.6,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1806,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7478819029058",
@@ -397,7 +495,9 @@
     "image": "https://teefury.com/cdn/shop/files/130342-art-file-color-blk_5a0ffdec-a0a7-4573-a250-ce10c259a22a_300x.jpg",
     "price": 45,
     "rating": 3.5,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1082,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7472785915970",
@@ -405,7 +505,9 @@
     "image": "https://teefury.com/cdn/shop/files/129863-art-file-color-nav_16c04474-368b-48dc-a7ce-5af50ded7ad3_300x.jpg",
     "price": 37,
     "rating": 3.6,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1157,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7470273691714",
@@ -413,7 +515,9 @@
     "image": "https://teefury.com/cdn/shop/files/129645-art-file-color-blk_453080bf-3155-456a-98cc-f3e19ba5c00e_300x.jpg",
     "price": 26,
     "rating": 2.0,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2492,
+    "artist": "turborat14"
   },
   {
     "id": "7470185250882",
@@ -421,7 +525,9 @@
     "image": "https://teefury.com/cdn/shop/files/129736-art-file-color-blk_0f0156f6-eeb5-419c-b756-8d10fa48c068_300x.jpg",
     "price": 49,
     "rating": 4.4,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1410,
+    "artist": "turborat14"
   },
   {
     "id": "7465792438338",
@@ -429,7 +535,9 @@
     "image": "https://teefury.com/cdn/shop/files/129433-art-file-color-blk_7a9cf22f-0298-4eec-9f11-cd83a515a6ca_300x.jpg",
     "price": 26,
     "rating": 3.8,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1691,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7465718153282",
@@ -437,7 +545,9 @@
     "image": "https://teefury.com/cdn/shop/files/129464-art-file-color-blk_dbbc2cd8-0f36-4d59-9805-3ebb1291fd44_300x.jpg",
     "price": 37,
     "rating": 2.4,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2328,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7465686040642",
@@ -445,7 +555,9 @@
     "image": "https://teefury.com/cdn/shop/files/129522-art-file-color-blk_0290aa39-f4f1-4e22-8fb8-4418e3c2e719_300x.jpg",
     "price": 28,
     "rating": 4.5,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1692,
+    "artist": "turborat14"
   },
   {
     "id": "7461454676034",
@@ -453,7 +565,9 @@
     "image": "https://teefury.com/cdn/shop/files/129254-art-file-color-blk_40b34d9b-d7f6-4519-bcfd-f31fe8c87eab_300x.jpg",
     "price": 31,
     "rating": 4.5,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2189,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7458531639362",
@@ -461,7 +575,9 @@
     "image": "https://teefury.com/cdn/shop/files/128765-art-file-color-blk_b799af37-ea27-4caa-9975-c47d295746eb_300x.jpg",
     "price": 42,
     "rating": 1.7,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1111,
+    "artist": "palmstreet"
   },
   {
     "id": "7458502410306",
@@ -469,7 +585,9 @@
     "image": "https://teefury.com/cdn/shop/files/128781-art-file-color-blk_ca51e3fb-de61-4d41-b886-6423dbbd7c9e_300x.jpg",
     "price": 24,
     "rating": 4.2,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2078,
+    "artist": "DrMonekers"
   },
   {
     "id": "7458359771202",
@@ -477,7 +595,9 @@
     "image": "https://teefury.com/cdn/shop/files/128861-art-file-color-blk_ce51dcd0-17f9-48fa-9912-04654d8ed6e7_300x.jpg",
     "price": 34,
     "rating": 3.9,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2094,
+    "artist": "AlemaArt"
   },
   {
     "id": "7458357641282",
@@ -485,7 +605,9 @@
     "image": "https://teefury.com/cdn/shop/files/128862-art-file-color-blk_221a87df-990f-426b-bf76-39938d4135d0_300x.jpg",
     "price": 37,
     "rating": 2.9,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1271,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7458322088002",
@@ -493,7 +615,9 @@
     "image": "https://teefury.com/cdn/shop/files/128744-art-file-color-blk_44a525f4-59e7-4368-addc-33c30db3fbae_300x.jpg",
     "price": 49,
     "rating": 4.7,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1703,
+    "artist": "turborat14"
   },
   {
     "id": "7453471735874",
@@ -501,7 +625,9 @@
     "image": "https://teefury.com/cdn/shop/files/128486-art-file-color-blk_912653e0-f6ca-43e6-80ef-ddf87061108f_300x.jpg",
     "price": 53,
     "rating": 3.7,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1065,
+    "artist": "AlemaArt"
   },
   {
     "id": "7453470392386",
@@ -509,7 +635,9 @@
     "image": "https://teefury.com/cdn/shop/files/128487-art-file-color-blk_1bd11700-5136-46a6-8493-0aac2338d2b8_300x.jpg",
     "price": 30,
     "rating": 2.9,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2937,
+    "artist": "AlemaArt"
   },
   {
     "id": "7453452533826",
@@ -517,7 +645,9 @@
     "image": "https://teefury.com/cdn/shop/files/128498-art-file-color-whi_1601cf40-806b-4893-8a93-7ea326299d15_300x.jpg",
     "price": 38,
     "rating": 2.0,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1242,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7453384769602",
@@ -525,7 +655,9 @@
     "image": "https://teefury.com/cdn/shop/files/128568-art-file-color-blk_a6e52c9b-37dd-4b4d-8ecc-ac57a908219d_300x.jpg",
     "price": 50,
     "rating": 3.7,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2524,
+    "artist": "DrMonekers"
   },
   {
     "id": "7453348528194",
@@ -533,7 +665,9 @@
     "image": "https://teefury.com/cdn/shop/files/128552-art-file-color-blk_e71834ef-048b-4b1d-a0fe-b8df3f1c8b25_300x.jpg",
     "price": 55,
     "rating": 4.4,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 908,
+    "artist": "DrMonekers"
   },
   {
     "id": "7449793298498",
@@ -541,7 +675,9 @@
     "image": "https://teefury.com/cdn/shop/files/128193-art-file-color-blk_f5bcfbf5-5aef-427e-b7ef-db69c97f71de_300x.jpg",
     "price": 35,
     "rating": 1.9,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1379,
+    "artist": "AlemaArt"
   },
   {
     "id": "7449748996162",
@@ -549,7 +685,9 @@
     "image": "https://teefury.com/cdn/shop/files/128363-art-file-color-crm_da0dce57-9285-446b-ad15-4c59cd5862bb_300x.jpg",
     "price": 22,
     "rating": 3.5,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1617,
+    "artist": "palmstreet"
   },
   {
     "id": "7449734152258",
@@ -557,7 +695,9 @@
     "image": "https://teefury.com/cdn/shop/files/128166-art-file-color-red_0845682e-d60a-43f2-ba3f-bbf08ccb483f_300x.jpg",
     "price": 24,
     "rating": 1.1,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1023,
+    "artist": "AlemaArt"
   },
   {
     "id": "7449708625986",
@@ -565,7 +705,9 @@
     "image": "https://teefury.com/cdn/shop/files/128226-art-file-color-blk_a76157f4-acee-44c2-a0f7-772a68b1f944_300x.jpg",
     "price": 28,
     "rating": 1.5,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2452,
+    "artist": "DrMonekers"
   },
   {
     "id": "7449686409282",
@@ -573,7 +715,9 @@
     "image": "https://teefury.com/cdn/shop/files/128236-art-file-color-blk_11455b73-eeec-4699-9342-2a8537991204_300x.jpg",
     "price": 33,
     "rating": 1.0,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 630,
+    "artist": "palmstreet"
   },
   {
     "id": "7449670451266",
@@ -581,7 +725,9 @@
     "image": "https://teefury.com/cdn/shop/files/128190-art-file-color-whi_3da8b257-cd11-4945-b549-407c8c008321_300x.jpg",
     "price": 54,
     "rating": 4.4,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2334,
+    "artist": "palmstreet"
   },
   {
     "id": "7445946466370",
@@ -589,7 +735,9 @@
     "image": "https://teefury.com/cdn/shop/files/127990-art-file-color-blk_feb952ba-f349-49dd-b4eb-0b3e1a38fad0_300x.jpg",
     "price": 21,
     "rating": 2.0,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1408,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7442184929346",
@@ -597,7 +745,9 @@
     "image": "https://teefury.com/cdn/shop/files/127657-art-file-color-nav_26d5c246-4b4b-47c9-a88a-6e94be63c7a8_300x.jpg",
     "price": 36,
     "rating": 1.9,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 942,
+    "artist": "turborat14"
   },
   {
     "id": "7438695530562",
@@ -605,7 +755,9 @@
     "image": "https://teefury.com/cdn/shop/files/127370-art-file-color-blk_4fe15bb0-9ef7-4b5c-8820-d1694d74333c_300x.jpg",
     "price": 43,
     "rating": 4.2,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2726,
+    "artist": "DrMonekers"
   },
   {
     "id": "7438672822338",
@@ -613,7 +765,9 @@
     "image": "https://teefury.com/cdn/shop/files/127383-art-file-color-blk_1f12561b-0ad8-4793-8831-2fe816047ee2_300x.jpg",
     "price": 34,
     "rating": 1.5,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2075,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7438607712322",
@@ -621,7 +775,9 @@
     "image": "https://teefury.com/cdn/shop/files/127417-art-file-color-blk_05e4483f-79af-48b2-a1b4-4636bcbbe987_300x.jpg",
     "price": 22,
     "rating": 4.0,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2594,
+    "artist": "AlemaArt"
   },
   {
     "id": "7436578160706",
@@ -629,7 +785,9 @@
     "image": "https://teefury.com/cdn/shop/files/127228-art-file-color-blk_753f1fd1-f349-47c2-81a1-67e8d0ae7d43_300x.jpg",
     "price": 35,
     "rating": 3.4,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 525,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7436520226882",
@@ -637,7 +795,9 @@
     "image": "https://teefury.com/cdn/shop/files/127155-art-file-color-blk_43462a7d-6146-4400-9223-89ba2737aece_300x.jpg",
     "price": 20,
     "rating": 4.8,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2137,
+    "artist": "DrMonekers"
   },
   {
     "id": "7436500172866",
@@ -645,7 +805,9 @@
     "image": "https://teefury.com/cdn/shop/files/127163-art-file-color-red_6b8eb60c-f3c6-4b78-82a9-56e39cb2d258_300x.jpg",
     "price": 33,
     "rating": 2.6,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 685,
+    "artist": "palmstreet"
   },
   {
     "id": "7436491456578",
@@ -653,7 +815,9 @@
     "image": "https://teefury.com/cdn/shop/files/127167-art-file-color-blk_b0df9567-881a-47e3-820b-848aab346ca9_300x.jpg",
     "price": 52,
     "rating": 3.0,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1717,
+    "artist": "palmstreet"
   },
   {
     "id": "7436417531970",
@@ -661,7 +825,9 @@
     "image": "https://teefury.com/cdn/shop/files/127109-art-file-color-blk_690204f3-50cd-4626-9486-dc3ba78fd932_300x.jpg",
     "price": 42,
     "rating": 2.3,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1377,
+    "artist": "AlemaArt"
   },
   {
     "id": "7434831396930",
@@ -669,7 +835,9 @@
     "image": "https://teefury.com/cdn/shop/files/126895-art-file-color-blk_699b2370-4ac8-4f87-ad7a-073b9ff6de8a_300x.jpg",
     "price": 46,
     "rating": 3.3,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1938,
+    "artist": "DrMonekers"
   },
   {
     "id": "7434784505922",
@@ -677,7 +845,9 @@
     "image": "https://teefury.com/cdn/shop/files/126939-art-file-color-blk_0532070c-df1a-4399-a177-5021631b08a4_300x.jpg",
     "price": 26,
     "rating": 3.9,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 618,
+    "artist": "DrMonekers"
   },
   {
     "id": "7434740662338",
@@ -685,7 +855,9 @@
     "image": "https://teefury.com/cdn/shop/files/126975-art-file-color-crm_f507afb9-bc0b-41a6-b98a-fb81c113689d_300x.jpg",
     "price": 57,
     "rating": 4.0,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1961,
+    "artist": "AlemaArt"
   },
   {
     "id": "7434718576706",
@@ -693,7 +865,9 @@
     "image": "https://teefury.com/cdn/shop/files/126876-art-file-color-whi_b456db5a-5b7a-4115-949a-2c4f0b0d2914_300x.jpg",
     "price": 53,
     "rating": 2.3,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2353,
+    "artist": "DrMonekers"
   },
   {
     "id": "7431571439682",
@@ -701,7 +875,9 @@
     "image": "https://teefury.com/cdn/shop/files/126660-art-file-color-blu_161c3a62-22bf-42c3-b706-e67bb5541cc0_300x.jpg",
     "price": 39,
     "rating": 2.0,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1938,
+    "artist": "DrMonekers"
   },
   {
     "id": "7427494969410",
@@ -709,7 +885,9 @@
     "image": "https://teefury.com/cdn/shop/files/126363-art-file-color-blk_abe49526-2d9c-4cf4-9d03-792539e9e068_300x.jpg",
     "price": 40,
     "rating": 4.9,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 890,
+    "artist": "DrMonekers"
   },
   {
     "id": "7425323597890",
@@ -717,7 +895,9 @@
     "image": "https://teefury.com/cdn/shop/files/126265-art-file-color-blu_f7a74779-84c3-4042-86c0-b3095a280d88_300x.jpg",
     "price": 42,
     "rating": 1.9,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2918,
+    "artist": "palmstreet"
   },
   {
     "id": "7424997883970",
@@ -725,7 +905,9 @@
     "image": "https://teefury.com/cdn/shop/files/126171-art-file-color-blk_33a7e732-ddb5-407a-a0c8-9cc0c6f3e565_300x.jpg",
     "price": 43,
     "rating": 3.5,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 1136,
+    "artist": "palmstreet"
   },
   {
     "id": "7424901808194",
@@ -733,7 +915,9 @@
     "image": "https://teefury.com/cdn/shop/files/126208-art-file-color-blk_121dcfeb-a224-488c-b8bb-c1797f4b6a6b_300x.jpg",
     "price": 49,
     "rating": 3.4,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 742,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7423401295938",
@@ -741,7 +925,9 @@
     "image": "https://teefury.com/cdn/shop/files/125973-art-file-color-blk_7b7dd785-0374-45b4-992b-eabbe9600a56_300x.jpg",
     "price": 21,
     "rating": 4.1,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2455,
+    "artist": "palmstreet"
   },
   {
     "id": "7423360434242",
@@ -749,7 +935,9 @@
     "image": "https://teefury.com/cdn/shop/files/125977-art-file-color-blk_0bcac6bf-6423-4275-9806-058c4557587f_300x.jpg",
     "price": 28,
     "rating": 4.0,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2916,
+    "artist": "turborat14"
   },
   {
     "id": "7403634196546",
@@ -757,7 +945,9 @@
     "image": "https://teefury.com/cdn/shop/files/125885-art-file-color-blk_013fcc0a-092a-4d68-82e6-0f438f939958_300x.jpg",
     "price": 23,
     "rating": 4.4,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2882,
+    "artist": "AlemaArt"
   },
   {
     "id": "7397217239106",
@@ -765,7 +955,9 @@
     "image": "https://teefury.com/cdn/shop/files/125575-art-file-color-blk_90ff16d1-55c6-4fe1-b2e4-1b9e2ea0e7a2_300x.jpg",
     "price": 30,
     "rating": 4.6,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2809,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7389157064770",
@@ -773,7 +965,9 @@
     "image": "https://teefury.com/cdn/shop/files/124958-art-file-color-blk_6b5a3fcd-363d-4ae0-a416-5a5bac8f62bb_300x.jpg",
     "price": 20,
     "rating": 2.4,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 2255,
+    "artist": "palmstreet"
   },
   {
     "id": "7389147758658",
@@ -781,7 +975,9 @@
     "image": "https://teefury.com/cdn/shop/files/124964-art-file-color-blk_769ccb59-3372-4429-9d7a-03d4fad1d7a7_300x.jpg",
     "price": 28,
     "rating": 3.5,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 797,
+    "artist": "palmstreet"
   },
   {
     "id": "7384636358722",
@@ -789,6 +985,8 @@
     "image": "https://teefury.com/cdn/shop/files/124753-art-file-color-blk_255a352e-78a4-40fc-8656-c986274ae55c_300x.jpg",
     "price": 28,
     "rating": 4.6,
-    "category": "horror"
+    "category": "horror",
+    "usercount": 563,
+    "artist": "DrMonekers"
   }
 ]
