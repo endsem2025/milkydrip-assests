@@ -3,120 +3,40 @@
     "id": "7525817614402",
     "title": "Orpheus Song",
     "image": "https://teefury.com/cdn/shop/files/133837-art-file-color-nav_998abea8-32e0-41ab-a60a-ca7fd8179341_300x.jpg",
-    "price": 60,
+    "price": 18,
     "rating": 2.3,
-    "category": "weeklies"
+    "category": "weeklies",
+    "usercount": 1299,
+    "artist": "turborat14"
   },
   {
     "id": "7525815877698",
     "title": "Tasteless And Fatal",
     "image": "https://teefury.com/cdn/shop/files/133838-art-file-color-cha_d469186c-a7ef-4484-921f-a77ef0a1526b_300x.jpg",
-    "price": 22,
+    "price": 18,
     "rating": 3.5,
-    "category": "weeklies"
+    "category": "weeklies",
+    "usercount": 2572,
+    "artist": "NemiMakeit"
   },
   {
     "id": "7525814009922",
     "title": "Professional Snackers",
     "image": "https://teefury.com/cdn/shop/files/133839-art-file-color-nav_6730ddf2-fce4-4c0c-a0f2-ff8bf1e6a5e0_300x.jpg",
-    "price": 22,
+    "price": 18,
     "rating": 4.1,
-    "category": "weeklies"
+    "category": "weeklies",
+    "usercount": 1458,
+    "artist": "palmstreet"
   },
   {
     "id": "7525812535362",
     "title": "Hell Splash",
     "image": "https://teefury.com/cdn/shop/files/133840-art-file-color-whi_1ea0405f-1a70-475f-95d8-9a5e75b44987_300x.jpg",
-    "price": 34,
+    "price": 18,
     "rating": 1.6,
-    "category": "weeklies"
-  },
-  {
-    "id": "7525811028034",
-    "title": "Legendary Gestral",
-    "image": "https://teefury.com/cdn/shop/files/133841-art-file-color-blk_1b927af7-6bf0-469a-bd7c-7168a52b3899_300x.jpg",
-    "price": 28,
-    "rating": 4.1,
-    "category": "weeklies"
-  },
-  {
-    "id": "7525808832578",
-    "title": "The Stranger Expeditioner",
-    "image": "https://teefury.com/cdn/shop/files/133842-art-file-color-blk_226be61e-c2af-42dc-b2ec-c952c25381f5_300x.jpg",
-    "price": 47,
-    "rating": 1.9,
-    "category": "weeklies"
-  },
-  {
-    "id": "7525807226946",
-    "title": "Scholar And Mage Expeditioner",
-    "image": "https://teefury.com/cdn/shop/files/133843-art-file-color-blk_3ae40421-6c9e-4e5f-9b51-8384cc338960_300x.jpg",
-    "price": 30,
-    "rating": 2.6,
-    "category": "weeklies"
-  },
-  {
-    "id": "7525806047298",
-    "title": "Nap Warrior",
-    "image": "https://teefury.com/cdn/shop/files/133844-art-file-color-blu_acb6b488-05f1-4faa-a9a3-b3300d4bccc6_300x.jpg",
-    "price": 23,
-    "rating": 1.0,
-    "category": "weeklies"
-  },
-  {
-    "id": "7525804572738",
-    "title": "Button Puzzle",
-    "image": "https://teefury.com/cdn/shop/files/133845-art-file-color-whi_1678f329-7a1b-4686-922a-9b8b291fe940_300x.jpg",
-    "price": 52,
-    "rating": 4.7,
-    "category": "weeklies"
-  },
-  {
-    "id": "7525802868802",
-    "title": "Butterfly Slayer",
-    "image": "https://teefury.com/cdn/shop/files/133846-art-file-color-blk_32371c49-7c93-4ed9-afe4-64f86bb04648_300x.jpg",
-    "price": 48,
-    "rating": 2.8,
-    "category": "weeklies"
-  },
-  {
-    "id": "7525800804418",
-    "title": "Paw Beats",
-    "image": "https://teefury.com/cdn/shop/files/133847-art-file-color-nav_8f18dd22-844b-45e8-b2dc-3637cc11e8b9_300x.jpg",
-    "price": 34,
-    "rating": 1.5,
-    "category": "weeklies"
-  },
-  {
-    "id": "7525799592002",
-    "title": "Retro Spaceship",
-    "image": "https://teefury.com/cdn/shop/files/133848-art-file-color-nav_014db4d1-0ae7-4a9a-83aa-0f593ea7f9df_300x.jpg",
-    "price": 40,
-    "rating": 1.2,
-    "category": "weeklies"
-  },
-  {
-    "id": "7525797986370",
-    "title": "Hunter And Alien Baby Sumi-e",
-    "image": "https://teefury.com/cdn/shop/files/133849-art-file-color-whi_411bb419-1765-4e05-bdc9-365a1d4a6b3d_300x.jpg",
-    "price": 38,
-    "rating": 4.8,
-    "category": "weeklies"
-  },
-  {
-    "id": "7525795627074",
-    "title": "Capybara Bus Stop",
-    "image": "https://teefury.com/cdn/shop/files/133850-art-file-color-blk_34075afa-c801-4a21-a80b-f1e22dc9a455_300x.jpg",
-    "price": 35,
-    "rating": 4.3,
-    "category": "weeklies"
-  },
-  {
-    "id": "7525793955906",
-    "title": "Horrible Things",
-    "image": "https://teefury.com/cdn/shop/files/133851-art-file-color-blk_842d347c-34e2-4e29-89a8-2a7d9dd7ad8f_300x.jpg",
-    "price": 27,
-    "rating": 2.0,
-    "category": "weeklies"
+    "category": "weeklies",
+    "usercount": 2668,
+    "artist": "NemiMakeit"
   }
 ]
